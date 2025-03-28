@@ -18,6 +18,8 @@ jobs:
     steps:
       - name: リポジトリをチェックアウト
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0 
 
       - name: Pythonをセットアップ
         uses: actions/setup-python@v4
@@ -30,11 +32,6 @@ jobs:
 
       - name: スケジューラを実行
         run: python kinzoku_fany.py  # ←ここを本体スクリプトの名前にする
-      
-      - name: リポジトリをチェックアウト
-        uses: actions/checkout@v3
-        with:
-          fetch-depth: 0  # 👈 これを追加！
 
       - name: 最新を取得してから push する
         run: |
