@@ -38,3 +38,23 @@ jobs:
           git add kinzoku_bat_events.html
           git commit -m "✅ HTML更新（$(date '+%Y-%m-%d %H:%M')）" || echo "No changes to commit"
           git push
+
+
+      - name: LINEに通知を送信
+        env:
+          LINE_TOKEN: ${{ secrets.LINE_ACCESS_TOKEN }}
+          LINE_TO: ${{ secrets.LINE_USER_ID }}
+        run: |
+          MESSAGE="✅ 金属バット公演一覧が更新されました！\nhttps://rockn-git-hub.github.io/fany-scheduler/kinzoku_bat_events.html"
+          curl -X POST https://api.line.me/v2/bot/message/push \
+            -H "Authorization: Bearer $LINE_TOKEN" \
+            -H 'Content-Type: application/json' \
+            -d '{
+              "to": "'"$LINE_TO"'",
+              "messages":[
+                  {
+                      "type":"text",
+                      "text":"'"$MESSAGE"'"
+                  }
+              ]
+          }'
