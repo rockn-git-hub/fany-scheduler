@@ -193,7 +193,7 @@ for e in events_list:
                         🎫 <strong>販売状況：</strong>{e['sale_status']}<br>
                         💴 <strong>価格：</strong>{price_line}
                     </p>
-                    <a href="{e['detail_link']}" target="_blank" class="btn btn-primary w-100">詳細を見る</a>
+                    <a href="{e['detail_link']}" target="_blank" rel="noopener noreferrer" class="btn btn-primary w-100">詳細を見る</a>
                 </div>
             </div>
         </div>
