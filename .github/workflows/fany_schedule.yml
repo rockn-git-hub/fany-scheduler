@@ -31,14 +31,14 @@ jobs:
       - name: スケジューラを実行
         run: python kinzoku_fany.py  # ←ここを本体スクリプトの名前にする
 
-      - name: HTMLファイルをコミット
+      - name: 最新を取得してから push する
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main  # ← これ追加！
           git add kinzoku_bat_events.html
           git commit -m "✅ HTML更新（$(date '+%Y-%m-%d %H:%M')）" || echo "No changes to commit"
           git push
-
 
       - name: LINEに通知を送信
         env:
