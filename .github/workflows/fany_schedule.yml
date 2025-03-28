@@ -38,9 +38,9 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git fetch origin
-          git rebase origin/main  # ← こっちが安全
+          git pull --rebase origin main  # ← こっちを追加！
           git add kinzoku_bat_events.html
-          git commit -m "✅ HTML更新（$(date '+%Y-%m-%d %H:%M')）" || echo "No changes to commit"
+          git commit -m "✅ HTML更新（$(TZ=Asia/Tokyo date '+%Y-%m-%d %H:%M')）" || echo "No changes to commit"
           git push
 
       - name: LINEに通知を送信
