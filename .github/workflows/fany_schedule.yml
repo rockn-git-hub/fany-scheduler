@@ -30,15 +30,17 @@ jobs:
         run: |
           pip install -r requirements.txt
 
-      - name: スケジューラを実行
-        run: python kinzoku_fany.py  # ←ここを本体スクリプトの名前にする
-
-      - name: 最新を取得してから push する
+      - name: Git設定 & 最新取得
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git fetch origin
-          git pull --rebase origin main  # ← こっちを追加！
+          git pull origin main  # ← ここで最新取得！
+      
+      - name: スケジューラを実行
+        run: python kinzoku_fany.py
+      
+      - name: 変更をコミット & Push
+        run: |
           git add kinzoku_bat_events.html
           git commit -m "✅ HTML更新（$(TZ=Asia/Tokyo date '+%Y-%m-%d %H:%M')）" || echo "No changes to commit"
           git push
