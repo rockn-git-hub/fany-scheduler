@@ -2,7 +2,8 @@ name: FANYスケジューラ
 
 on:
   schedule:
-    - cron: '0 15 * * *'  # 毎日24:00 JST（15:00 UTC）
+    - cron: '30 23 * * *'  # JST 08:30
+    - cron: '30 11 * * *'  # JST 20:30
   workflow_dispatch:
 
 jobs:
