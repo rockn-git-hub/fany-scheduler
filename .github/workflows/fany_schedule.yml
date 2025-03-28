@@ -1,0 +1,26 @@
+name: FANYスケジューラ
+
+on:
+  schedule:
+    - cron: '0 15 * * *'  # 毎日24:00 JST（15:00 UTC）
+  workflow_dispatch:
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: リポジトリをチェックアウト
+        uses: actions/checkout@v3
+
+      - name: Pythonをセットアップ
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.10
+
+      - name: 必要なライブラリをインストール
+        run: |
+          pip install -r requirements.txt
+
+      - name: スケジューラを実行
+        run: python kinzoku_fany.py  # ←ここを本体スクリプトの名前にする
