@@ -6,11 +6,9 @@ on:
     - cron: '30 11 * * *'  # JST 20:30
   workflow_dispatch:
 
-
 permissions:
-  contents: write  # ⬅️ リポジトリへの書き込み許可を追加
+  contents: write
 
-  
 jobs:
   run-script:
     runs-on: ubuntu-latest
@@ -19,7 +17,7 @@ jobs:
       - name: リポジトリをチェックアウト
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0 
+          fetch-depth: 0
 
       - name: Pythonをセットアップ
         uses: actions/setup-python@v4
@@ -34,32 +32,35 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git pull origin main  # ← ここで最新取得！
-      
+          git pull origin main
+
       - name: スケジューラを実行
         run: python kinzoku_fany.py
-      
+
       - name: 変更をコミット & Push
         run: |
-          git add kinzoku_bat_events.html
-          git commit -m "✅ HTML更新（$(TZ=Asia/Tokyo date '+%Y-%m-%d %H:%M')）" || echo "No changes to commit"
+          git add kinzoku_bat_events.html last_kinzoku_bat_events.json
+          git commit -m "✅ HTML/JSON更新（$(TZ=Asia/Tokyo date '+%Y-%m-%d %H:%M')）" || echo "No changes to commit"
           git push
 
-      - name: LINEに通知を送信
+      - name: LINEに通知を送信（変更があったときのみ）
+        if: success()
         env:
           LINE_TOKEN: ${{ secrets.LINE_ACCESS_TOKEN }}
           LINE_TO: ${{ secrets.LINE_USER_ID }}
         run: |
-          MESSAGE="✅ 金属バット公演一覧が更新されました！\nhttps://rockn-git-hub.github.io/fany-scheduler/kinzoku_bat_events.html"
-          curl -X POST https://api.line.me/v2/bot/message/push \
-            -H "Authorization: Bearer $LINE_TOKEN" \
-            -H 'Content-Type: application/json' \
-            -d '{
-              "to": "'"$LINE_TO"'",
-              "messages":[
-                  {
-                      "type":"text",
-                      "text":"'"$MESSAGE"'"
-                  }
-              ]
-          }'
+          if git diff --name-only HEAD^ HEAD | grep -q 'kinzoku_bat_events.html'; then
+            MESSAGE="✅ 金属バット公演一覧が更新されました！\nhttps://rockn-git-hub.github.io/fany-scheduler/kinzoku_bat_events.html"
+            curl -X POST https://api.line.me/v2/bot/message/push \
+              -H "Authorization: Bearer $LINE_TOKEN" \
+              -H 'Content-Type: application/json' \
+              -d '{
+                "to": "'"$LINE_TO"'",
+                "messages":[
+                    {
+                        "type":"text",
+                        "text":"'"$MESSAGE"'"
+                    }
+                ]
+            }'
+          fi
