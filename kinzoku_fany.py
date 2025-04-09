@@ -1,10 +1,23 @@
-import time  # 遷移後の待機用
+import os
+import json
+import time
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import datetime
+import hashlib
+
+# JSONファイルのパス
+json_file_path = "last_kinzoku_bat_events.json"
+
+# 前回の公演情報を読み込む
+if os.path.exists(json_file_path):
+    with open(json_file_path, "r", encoding="utf-8") as f:
+        previous_events = json.load(f)
+else:
+    previous_events = []
 
 # セットアップ
 options = Options()
@@ -14,7 +27,7 @@ driver.get("https://ticket.fany.lol/search/event?keywords=金属バット")
 
 wait = WebDriverWait(driver, 10)
 
-# 「もっと見る」押し続ける
+# 「もっと見る」を押し続ける
 while True:
     try:
         old_count = len(driver.find_elements(By.CLASS_NAME, "fany_performanceListBox__headerTitle"))
@@ -26,7 +39,6 @@ while True:
     except:
         break
 
-
 # 公演リストを取得
 performances = driver.find_elements(By.CLASS_NAME, "fany_performanceListBox__outline")[0].find_elements(By.XPATH, "./div")
 
@@ -36,14 +48,14 @@ for perf in performances:
     try:
         title = perf.find_element(By.CLASS_NAME, "fany_performanceListBox__headerTitle").text.strip()
 
-        # ✅ 公演日を確実に取得
+        # 公演日を取得
         date_text = perf.find_element(By.CLASS_NAME, "fany_performanceListBox__headerPerformanceDate").text.strip()
         date_str = date_text.split("(")[0].strip()
         event_date = datetime.datetime.strptime(date_str, "%Y/%m/%d").date()
 
         venue = perf.find_element(By.CLASS_NAME, "fany_performanceListBox__headerVenue").text.strip()
 
-        # 販売ステータス（複数パターン対応）
+        # 販売ステータスを取得
         sale_status = "不明"
         for cls in ["fany_icon__sold", "fany_icon__soldout", "fany_icon__coming"]:
             found = perf.find_elements(By.CLASS_NAME, cls)
@@ -51,7 +63,7 @@ for perf in performances:
                 sale_status = found[0].text.strip()
                 break
 
-        # 詳細リンク取得
+        # 詳細リンクを取得
         link_elem = perf.find_element(By.CSS_SELECTOR, ".fany_g-ticketInfo a")
         detail_link = link_elem.get_attribute("href") if link_elem else None
 
@@ -65,7 +77,7 @@ for perf in performances:
 
         events_list.append({
             "title": title,
-            "date": event_date,
+            "date": event_date.isoformat(),
             "date_text": date_text,
             "venue": venue,
             "sale_status": sale_status,
@@ -76,7 +88,7 @@ for perf in performances:
         print(f"⚠️ スキップ（理由: {e}）")
         continue
 
-# ✅ 各イベントの価格情報を取得（後から別途アクセス）
+# 各イベントの価格情報を取得
 for event in events_list:
     prices = []
     open_start_time = ""
@@ -111,8 +123,7 @@ for event in events_list:
                             ticket_type_el = ticket_div.find_element(By.CLASS_NAME, "g-sellItems_type")
                             price_el = ticket_div.find_element(By.CLASS_NAME, "g-sellItems_price")
 
-                            ticket_type = driver.execute_script("return arguments[0].textContent;",
-                                                                ticket_type_el).strip()
+                            ticket_type = driver.execute_script("return arguments[0].textContent;", ticket_type_el).strip()
                             price = driver.execute_script("return arguments[0].textContent;", price_el).strip()
 
                             if seat_type == "":
@@ -134,80 +145,12 @@ for event in events_list:
 
 driver.quit()
 
-# 昇順
-events_list.sort(key=lambda x: x["date"] if x["date"] else datetime.date.max)
+# 前回のイベント情報と比較
+def get_event_id(event):
+    return hashlib.md5((event["title"] + event["date"] + event["venue"]).encode()).hexdigest()
 
-# 降順
-events_list.sort(key=lambda x: x["date"] if x["date"] else datetime.date.min, reverse=True)
+previous_event_dict = {get_event_id(e): e for e in previous_events}
 
-
-print("\n🎭 **金属バット公演一覧（日時昇順）** 🎭\n" + "=" * 50)
-for e in events_list:
-    if '本公演' in e['title']:
-        continue
-    print(f"📅 【日程】{e['date_text']}")
-    print(f"🎭 【公演名】{e['title']}")
-    print(f"📍 【会場】{e['venue']}")
-    print(f"🎫 【販売状況】{e['sale_status']}")
-    print(f"🕒 【開場/開演】{e['open_start_time']}")
-    print(f"💴 【チケット価格】")
-    for p in e["prices"]:
-        print(f"　- {p}")
-        break # 先頭の1つだけ出力
-    print(f"🔗 【詳細リンク】{e['detail_link']}")
-    print("-" * 50)
-
-
-
-html_output_path = "kinzoku_bat_events.html"
-
-html_content = '''
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-    <meta charset="UTF-8">
-    <title>金属バット公演一覧</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
-</head>
-<body class="bg-light">
-<div class="container py-4">
-    <h1 class="mb-4 text-center">金属バット公演一覧</h1>
-    <div class="row g-4">
-'''
-
-for e in events_list:
-    if '本公演' in e['title']:
-        continue
-
-    price_line = e['prices'][0] if e['prices'] else "情報なし"
-    html_content += f'''
-        <div class="col-md-6 col-lg-4">
-            <div class="card shadow-sm h-100">
-                <div class="card-body">
-                    <h5 class="card-title">{e['title']}</h5>
-                    <p class="card-text">
-                        📅 <strong>日程：</strong>{e['date_text']}<br>
-                        📍 <strong>会場：</strong>{e['venue']}<br>
-                        🕒 <strong>開場/開演：</strong>{e.get('open_start_time', '不明')}<br>
-                        🎫 <strong>販売状況：</strong>{e['sale_status']}<br>
-                        💴 <strong>価格：</strong>{price_line}
-                    </p>
-                    <a href="{e['detail_link']}" target="_blank" rel="noopener noreferrer" class="btn btn-primary w-100">詳細を見る</a>
-                </div>
-            </div>
-        </div>
-    '''
-
-html_content += '''
-    </div>
-</div>
-</body>
-</html>
-'''
-
-with open(html_output_path, "w", encoding="utf-8") as f:
-    f.write(html_content)
-
-print(f"✅ HTMLファイルを出力しました: {html_output_path}")
-
+new_events =
+::contentReference[oaicite:8]{index=8}
+ 
