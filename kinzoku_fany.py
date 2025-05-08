@@ -161,13 +161,14 @@ def mark_and_sort_new_events(events, prev_data):
 def generate_html(events, path):
     has_new = any(e.get("is_new") for e in events)
     title_text = "(new)金属バット公演一覧" if has_new else "金属バット公演一覧"
-    heading_html = " {}金属バット公演一覧".format('<span class="badge bg-danger">新着あり</span> (new)' if has_new else "")
+    heading_html = '{}金属バット公演一覧'.format('<span class="badge bg-danger">新着</span> (new) ' if has_new else '')
 
     html = f'''
 <!DOCTYPE html>
 <html lang="ja">
 <head>
     <meta charset="UTF-8">
+    <meta property="og:title" content="{title_text}">
     <title>{title_text}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
