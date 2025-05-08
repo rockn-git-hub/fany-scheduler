@@ -160,8 +160,8 @@ def mark_and_sort_new_events(events, prev_data):
 
 def generate_html(events, path):
     has_new = any(e.get("is_new") for e in events)
-    title_text = "🆕金属バット公演一覧" if has_new else "金属バット公演一覧"
-    heading_html = "金属バット公演一覧 {}".format('<span class="badge bg-danger">新着あり</span>' if has_new else "")
+    title_text = "(new)金属バット公演一覧" if has_new else "金属バット公演一覧"
+    heading_html = "{} 金属バット公演一覧".format('<span class="badge bg-danger">新着あり</span>' if has_new else "")
 
     html = f'''
 <!DOCTYPE html>
