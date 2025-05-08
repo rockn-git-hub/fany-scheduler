@@ -109,42 +109,75 @@ def enrich_event_details(driver, events):
         event["open_start_time"] = open_start_time
 
 def mark_and_sort_new_events(events, prev_data):
-    now_id = datetime.datetime.now().strftime("%Y%m%d%H%M%S")
+    # 現在の日時を取得（新規イベントに使うタイムスタンプ形式）
+    now = datetime.datetime.now()
+    now_id = now.strftime("%Y%m%d%H%M%S")
+
+    # 「新着」とみなす期限（3日以内）を定義
+    threshold = now - datetime.timedelta(days=3)
+
+    # 各イベントに対して、新規フラグと追加IDを設定する
     for e in events:
+        # detail_linkが一致する過去イベントを探す（既存イベントと照合）
         match = next((p for p in prev_data if p.get("detail_link") == e["detail_link"]), None)
+
         if match and "added_id" in match:
-            e["is_new"] = False
-            e["added_id"] = match["added_id"]
+            # 既存イベントで added_id もある場合（正常な記録）
+            added_id_str = match["added_id"]
+            try:
+                # added_id を datetime に変換し、しきい値と比較
+                added_dt = datetime.datetime.strptime(added_id_str, "%Y%m%d%H%M%S")
+                is_recent = added_dt >= threshold
+            except ValueError:
+                # フォーマットが不正なら古いと見なす
+                is_recent = False
+
+            # 新着フラグは 3日以内なら True
+            e["is_new"] = is_recent
+            e["added_id"] = added_id_str
+
         elif match:
-            e["is_new"] = False
-            e["added_id"] = now_id
-        else:
+            # 既存だけど added_id がない（古いJSON） → 今回のIDを付与し新着扱い
             e["is_new"] = True
             e["added_id"] = now_id
 
+        else:
+            # 完全に新規イベント
+            e["is_new"] = True
+            e["added_id"] = now_id
+
+    # 並び順を調整（新着→追加順→開催日順）
     events.sort(key=lambda x: (
-        x["is_new"],
-        x.get("added_id", ""),
-        x.get("date", "")
+        x["is_new"],                  # 新着を最上位に
+        x.get("added_id", ""),       # 新しく追加された順に
+        x.get("date", "")            # 公演日でソート（文字列でもOK）
     ), reverse=True)
 
     return events
 
+
+    return events
+
 def generate_html(events, path):
-    html = '''
+    has_new = any(e.get("is_new") for e in events)
+    title_text = "🆕金属バット公演一覧" if has_new else "金属バット公演一覧"
+    heading_html = "金属バット公演一覧 {}".format('<span class="badge bg-danger">新着あり</span>' if has_new else "")
+
+    html = f'''
 <!DOCTYPE html>
 <html lang="ja">
 <head>
     <meta charset="UTF-8">
-    <title>金属バット公演一覧</title>
+    <title>{title_text}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body class="bg-light">
 <div class="container py-4">
-    <h1 class="mb-4 text-center">金属バット公演一覧</h1>
+    <h1 class="mb-4 text-center">{heading_html}</h1>
     <div class="row g-4">
 '''
+
     for e in events:
         if '本公演' in e['title']:
             continue
@@ -167,6 +200,7 @@ def generate_html(events, path):
             </div>
         </div>
         '''
+
     html += '''
     </div>
 </div>
@@ -195,16 +229,22 @@ def main():
         except Exception as e:
             print(f"⚠️ 前回のJSON読み込みエラー: {e}")
 
+    # 取得したイベントに、新着情報を付けたりソートしたりする
     events = mark_and_sort_new_events(events, prev_data)
 
+    # ✅ HTML は必ず生成（新着があるかどうかは中で判定される）
+    generate_html(events, HTML_PATH)
+
+    # ✅ 新着がなければ JSON保存＆Git更新はスキップ
     if not any(e.get("is_new") for e in events):
-        print("新規イベントはありませんでした。HTML・JSONの更新はスキップします。")
+        print("新規イベントはありませんでした。JSONの更新・コミットはスキップします。")
         return
 
+    # ✅ 新着がある場合のみ JSONを更新
     with open(JSON_PATH, "w", encoding="utf-8") as f:
         json.dump(events, f, ensure_ascii=False, indent=2)
 
-    generate_html(events, HTML_PATH)
+    print("✅ 新着イベントがあったため、JSONを更新しました。")
 
 if __name__ == "__main__":
     main()
