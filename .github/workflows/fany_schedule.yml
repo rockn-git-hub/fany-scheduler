@@ -6,11 +6,9 @@ on:
     - cron: '30 11 * * *'  # JST 20:30
   workflow_dispatch:
 
-
 permissions:
-  contents: write  # ⬅️ リポジトリへの書き込み許可を追加
+  contents: write  # リポジトリへの書き込み許可
 
-  
 jobs:
   run-script:
     runs-on: ubuntu-latest
@@ -19,7 +17,7 @@ jobs:
       - name: リポジトリをチェックアウト
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0 
+          fetch-depth: 0
 
       - name: Pythonをセットアップ
         uses: actions/setup-python@v4
@@ -34,15 +32,15 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git pull origin main  # ← ここで最新取得！
-      
-      - name: スケジューラを実行
+          git pull origin main
+
+      - name: スクリプトを実行
         run: python kinzoku_fany.py
-      
+
       - name: 変更をコミット & Push
         run: |
-          git add kinzoku_bat_events.html
-          git commit -m "✅ HTML更新（$(TZ=Asia/Tokyo date '+%Y-%m-%d %H:%M')）" || echo "No changes to commit"
+          git add kinzoku_bat_events.html previous_events.json
+          git commit -m "✅ データ更新（$(TZ=Asia/Tokyo date '+%Y-%m-%d %H:%M')）" || echo "No changes to commit"
           git push
 
       - name: LINEに通知を送信
