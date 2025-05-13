@@ -1,31 +1,17 @@
 [
   {
-    "title": "三軍の金帯",
-    "date": "2025-05-12",
-    "date_text": "2025/05/12(月)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/7129/8660",
+    "title": "大喜利大集合〜ハゲ・ヒゲ・ロン毛大集合〜",
+    "date": "2025-05-23",
+    "date_text": "2025/05/23(金)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/10821/12120",
     "prices": [
-      "価格取得エラー: Message: \n"
+      "整理番号付自由席／前売：￥2,500"
     ],
-    "open_start_time": "",
+    "open_start_time": "開場 16:10 / 開演 16:30",
     "is_new": true,
-    "added_id": "20250512114002"
-  },
-  {
-    "title": "新ネタライブ！！ハイキック寄席！！",
-    "date": "2025-05-12",
-    "date_text": "2025/05/12(月)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/7130/8738",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20250512114002"
+    "added_id": "20250513114030"
   },
   {
     "title": "よしもとゴリラライブ",
