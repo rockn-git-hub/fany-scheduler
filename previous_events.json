@@ -1,19 +1,5 @@
 [
   {
-    "title": "NEW！MONSTER！ENGINE！",
-    "date": "2025-05-15",
-    "date_text": "2025/05/15(木)",
-    "venue": "よしもと祇園花月（京都府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/5234/7615",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20250515114006"
-  },
-  {
     "title": "大喜利大集合〜ハゲ・ヒゲ・ロン毛大集合〜",
     "date": "2025-05-23",
     "date_text": "2025/05/23(金)",
@@ -344,7 +330,7 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/7106/8650",
     "prices": [
-      "整理番号付自由席／前売：￥1,800"
+      "整理番号付自由席／当日：￥2,000"
     ],
     "open_start_time": "開場 18:45 / 開演 19:00",
     "is_new": false,
