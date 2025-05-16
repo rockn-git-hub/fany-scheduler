@@ -1,5 +1,19 @@
 [
   {
+    "title": "マンゲキフライデーナイト",
+    "date": "2025-05-16",
+    "date_text": "2025/05/16(金)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/7098/8650",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20250516113931"
+  },
+  {
     "title": "大喜利大集合〜ハゲ・ヒゲ・ロン毛大集合〜",
     "date": "2025-05-23",
     "date_text": "2025/05/23(金)",
@@ -319,20 +333,6 @@
       "全席指定／前売小学生以下：￥1,000"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": false,
-    "added_id": "20250508113945"
-  },
-  {
-    "title": "マンゲキフライデーナイト",
-    "date": "2025-05-16",
-    "date_text": "2025/05/16(金)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/7106/8650",
-    "prices": [
-      "整理番号付自由席／当日：￥2,000"
-    ],
-    "open_start_time": "開場 18:45 / 開演 19:00",
     "is_new": false,
     "added_id": "20250508113945"
   }
