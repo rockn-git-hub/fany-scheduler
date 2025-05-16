@@ -1,17 +1,45 @@
 [
   {
-    "title": "マンゲキフライデーナイト",
-    "date": "2025-05-16",
-    "date_text": "2025/05/16(金)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/7098/8650",
+    "title": "【通し券】NORA",
+    "date": "2025-06-30",
+    "date_text": "2025/06/30(月) ～ 2025/06/30(月)",
+    "venue": "Yogibo META VALLEY（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/10941/12235",
     "prices": [
-      "価格取得エラー: Message: \n"
+      "通し券／前売：￥4,000"
     ],
     "open_start_time": "",
     "is_new": true,
-    "added_id": "20250516113931"
+    "added_id": "20250516234302"
+  },
+  {
+    "title": "NORAネタ",
+    "date": "2025-06-30",
+    "date_text": "2025/06/30(月)",
+    "venue": "Yogibo META VALLEY（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/10943/12236",
+    "prices": [
+      "整理番号付自由席／前売：￥2,500"
+    ],
+    "open_start_time": "開場 18:45 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20250516234302"
+  },
+  {
+    "title": "NORAコーナー",
+    "date": "2025-06-30",
+    "date_text": "2025/06/30(月)",
+    "venue": "Yogibo META VALLEY（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/10944/12238",
+    "prices": [
+      "整理番号付自由席／前売：￥2,500"
+    ],
+    "open_start_time": "開場 20:15 / 開演 20:30",
+    "is_new": true,
+    "added_id": "20250516234302"
   },
   {
     "title": "大喜利大集合〜ハゲ・ヒゲ・ロン毛大集合〜",
@@ -24,7 +52,7 @@
       "整理番号付自由席／前売：￥2,500"
     ],
     "open_start_time": "開場 16:10 / 開演 16:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20250513114030"
   },
   {
