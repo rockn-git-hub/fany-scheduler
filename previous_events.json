@@ -1,5 +1,19 @@
 [
   {
+    "title": "金属・黒帯の最後のダルガラミ",
+    "date": "2025-07-25",
+    "date_text": "2025/07/25(金)",
+    "venue": "よしもと祇園花月（京都府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/11906/12853",
+    "prices": [
+      "全席指定／前売：￥2,200"
+    ],
+    "open_start_time": "開場 18:30 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20250520114010"
+  },
+  {
     "title": "漫才×漫才×コント×コント",
     "date": "2025-06-16",
     "date_text": "2025/06/16(月)",
@@ -32,7 +46,7 @@
     "date": "2025-06-30",
     "date_text": "2025/06/30(月) ～ 2025/06/30(月)",
     "venue": "Yogibo META VALLEY（大阪府）",
-    "sale_status": "抽選受付中",
+    "sale_status": "抽選受付終了",
     "detail_link": "https://ticket.fany.lol/reception/10941/12235",
     "prices": [
       "通し券／前売：￥4,000"
@@ -382,7 +396,7 @@
     "date": "2025-05-20",
     "date_text": "2025/05/20(火)",
     "venue": "なんばグランド花月（大阪府）",
-    "sale_status": "先着発売中",
+    "sale_status": "先着発売終了",
     "detail_link": "https://ticket.fany.lol/reception/6077/8322",
     "prices": [
       "全席指定／当日大人：￥3,000",
