@@ -128,7 +128,7 @@
       "整理番号付自由席／前売：￥2,000"
     ],
     "open_start_time": "開場 18:40 / 開演 19:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20250518234328"
   },
   {
@@ -142,7 +142,7 @@
       "整理番号付自由席／前売：￥1,800"
     ],
     "open_start_time": "開場 18:40 / 開演 19:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20250518234328"
   },
   {
@@ -489,7 +489,7 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/7695/9273",
     "prices": [
-      "全席指定／前売：￥2,200"
+      "全席指定／当日：￥2,500"
     ],
     "open_start_time": "開場 19:00 / 開演 19:30",
     "is_new": false,
