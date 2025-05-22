@@ -1,19 +1,5 @@
 [
   {
-    "title": "金属・黒帯のダルガラミ",
-    "date": "2025-05-22",
-    "date_text": "2025/05/22(木)",
-    "venue": "よしもと祇園花月（京都府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/7693/9273",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20250522114005"
-  },
-  {
     "title": "【9/15(月)1日券】KOYABU SONIC 2025",
     "date": "2025-09-15",
     "date_text": "2025/09/15(月・祝)",
@@ -209,7 +195,7 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/10821/12120",
     "prices": [
-      "整理番号付自由席／前売：￥2,500"
+      "整理番号付自由席／当日：￥3,000"
     ],
     "open_start_time": "開場 16:10 / 開演 16:30",
     "is_new": false,
