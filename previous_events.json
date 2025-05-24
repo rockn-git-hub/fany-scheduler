@@ -1,5 +1,35 @@
 [
   {
+    "title": "よる公演",
+    "date": "2025-07-10",
+    "date_text": "2025/07/10(木)",
+    "venue": "なんばグランド花月（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/12158/13223",
+    "prices": [
+      "全席指定／前売大人：￥3,500",
+      "全席指定／前売小学生以下：￥1,000"
+    ],
+    "open_start_time": "開場 18:30 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20250524113922"
+  },
+  {
+    "title": "よる公演",
+    "date": "2025-07-03",
+    "date_text": "2025/07/03(木)",
+    "venue": "なんばグランド花月（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/12158/13222",
+    "prices": [
+      "全席指定／前売大人：￥3,500",
+      "全席指定／前売小学生以下：￥1,000"
+    ],
+    "open_start_time": "開場 18:30 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20250524113922"
+  },
+  {
     "title": "【9/15(月)1日券】KOYABU SONIC 2025",
     "date": "2025-09-15",
     "date_text": "2025/09/15(月・祝)",
@@ -428,7 +458,7 @@
     "date": "2025-05-24",
     "date_text": "2025/05/24(土)",
     "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "先着発売中",
+    "sale_status": "先着発売終了",
     "detail_link": "https://ticket.fany.lol/reception/8816/10519",
     "prices": [
       "整理番号付自由席／当日：￥3,300",
@@ -450,7 +480,7 @@
     "date": "2025-05-24",
     "date_text": "2025/05/24(土)",
     "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "先着発売中",
+    "sale_status": "先着発売終了",
     "detail_link": "https://ticket.fany.lol/reception/8816/10526",
     "prices": [
       "整理番号付自由席／当日：￥3,300",
