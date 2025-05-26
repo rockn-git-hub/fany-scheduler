@@ -1,5 +1,34 @@
 [
   {
+    "title": "金属・黒帯の最後のダルガラミ",
+    "date": "2025-07-25",
+    "date_text": "2025/07/25(金)",
+    "venue": "よしもと祇園花月（京都府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/11908/12853",
+    "prices": [
+      "全席指定／前売：￥2,200"
+    ],
+    "open_start_time": "開場 18:30 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20250526113949"
+  },
+  {
+    "title": "祇園ミドルどすなライブ FINAL～最後の開催を見とくれやす～",
+    "date": "2025-07-11",
+    "date_text": "2025/07/11(金)",
+    "venue": "よしもと祇園花月（京都府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/11797/12766",
+    "prices": [
+      "全席指定／前売　一般：￥2,800",
+      "全席指定／前売　学生：￥800"
+    ],
+    "open_start_time": "開場 18:30 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20250526113949"
+  },
+  {
     "title": "なにわ漫才360 vol.9",
     "date": "2025-07-26",
     "date_text": "2025/07/26(土)",
@@ -203,21 +232,6 @@
     "added_id": "20250521114011"
   },
   {
-    "title": "祇園ミドルどすなライブ FINAL～最後の開催を見とくれやす～",
-    "date": "2025-07-11",
-    "date_text": "2025/07/11(金)",
-    "venue": "よしもと祇園花月（京都府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/11795/12766",
-    "prices": [
-      "全席指定／前売　一般：￥2,800",
-      "全席指定／前売　学生：￥800"
-    ],
-    "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": false,
-    "added_id": "20250521114011"
-  },
-  {
     "title": "シゲカズですpresentsクセツアー2025さらにさらにトンボリ",
     "date": "2025-06-16",
     "date_text": "2025/06/16(月)",
@@ -230,20 +244,6 @@
     "open_start_time": "開場 20:40 / 開演 21:00",
     "is_new": false,
     "added_id": "20250520234331"
-  },
-  {
-    "title": "金属・黒帯の最後のダルガラミ",
-    "date": "2025-07-25",
-    "date_text": "2025/07/25(金)",
-    "venue": "よしもと祇園花月（京都府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/11906/12853",
-    "prices": [
-      "全席指定／前売：￥2,200"
-    ],
-    "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": false,
-    "added_id": "20250520114010"
   },
   {
     "title": "漫才×漫才×コント×コント",
