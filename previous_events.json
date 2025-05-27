@@ -33,7 +33,7 @@
     "date": "2025-07-26",
     "date_text": "2025/07/26(土)",
     "venue": "日本橋Ups（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/12479/13507",
     "prices": [
       "整理番号付自由席／前売：￥2,500"
@@ -47,7 +47,7 @@
     "date": "2025-07-07",
     "date_text": "2025/07/07(月) ～ 2025/07/07(月)",
     "venue": "日本橋Pollux Theater（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "抽選受付中",
     "detail_link": "https://ticket.fany.lol/reception/12909/13964",
     "prices": [
       "通し券／前売：￥4,000"
@@ -75,7 +75,7 @@
     "date": "2025-06-28",
     "date_text": "2025/06/28(土)",
     "venue": "日本橋Ups（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/12240/13246",
     "prices": [
       "整理番号付自由席／前売：￥2,500"
@@ -138,7 +138,7 @@
       "全席指定／前売小学生以下：￥1,000"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20250524113922"
   },
   {
@@ -153,7 +153,7 @@
       "全席指定／前売小学生以下：￥1,000"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20250524113922"
   },
   {
