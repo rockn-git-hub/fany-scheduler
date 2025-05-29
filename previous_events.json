@@ -1,5 +1,19 @@
 [
   {
+    "title": "ツートライブとライブ",
+    "date": "2025-05-29",
+    "date_text": "2025/05/29(木)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/7155/8685",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20250529114012"
+  },
+  {
     "title": "漫才×漫才×コント×コント×エバース",
     "date": "2025-07-21",
     "date_text": "2025/07/21(月・祝)",
@@ -54,7 +68,7 @@
       "全席指定／前売：￥2,200"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20250526113949"
   },
   {
@@ -69,7 +83,7 @@
       "全席指定／前売　学生：￥800"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20250526113949"
   },
   {
@@ -91,7 +105,7 @@
     "date": "2025-07-07",
     "date_text": "2025/07/07(月) ～ 2025/07/07(月)",
     "venue": "日本橋Pollux Theater（大阪府）",
-    "sale_status": "抽選受付中",
+    "sale_status": "抽選受付終了",
     "detail_link": "https://ticket.fany.lol/reception/12909/13964",
     "prices": [
       "通し券／前売：￥4,000"
@@ -491,21 +505,6 @@
       "立見（整理番号）／前売：￥2,000"
     ],
     "open_start_time": "開場 19:00 / 開演 19:15",
-    "is_new": false,
-    "added_id": "20250508113945"
-  },
-  {
-    "title": "ツートライブとライブ",
-    "date": "2025-05-29",
-    "date_text": "2025/05/29(木)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/7245/8685",
-    "prices": [
-      "指定席／当日：￥1,800",
-      "立見（整理番号）／当日：￥1,800"
-    ],
-    "open_start_time": "開場 20:30 / 開演 20:45",
     "is_new": false,
     "added_id": "20250508113945"
   }
