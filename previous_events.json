@@ -1,5 +1,19 @@
 [
   {
+    "title": "NORAネタ",
+    "date": "2025-07-07",
+    "date_text": "2025/07/07(月)",
+    "venue": "日本橋Pollux Theater（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/12913/13966",
+    "prices": [
+      "整理番号付自由席／前売：￥2,500"
+    ],
+    "open_start_time": "開場 18:00 / 開演 18:15",
+    "is_new": true,
+    "added_id": "20250601234406"
+  },
+  {
     "title": "Dr.ハインリッヒと先輩と後輩",
     "date": "2025-07-09",
     "date_text": "2025/07/09(水)",
@@ -501,8 +515,8 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/9697/10648",
     "prices": [
-      "指定席／前売：￥2,000",
-      "立見（整理番号）／前売：￥2,000"
+      "指定席／当日：￥2,300",
+      "立見（整理番号）／当日：￥2,300"
     ],
     "open_start_time": "開場 19:00 / 開演 19:15",
     "is_new": false,
