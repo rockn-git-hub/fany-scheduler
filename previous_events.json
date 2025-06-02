@@ -28,20 +28,6 @@
     "added_id": "20250602114102"
   },
   {
-    "title": "新ネタライブ!!ハイキック寄席!!",
-    "date": "2025-06-02",
-    "date_text": "2025/06/02(月)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/9607/10648",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20250602114102"
-  },
-  {
     "title": "NORAネタ",
     "date": "2025-07-07",
     "date_text": "2025/07/07(月)",
@@ -63,10 +49,9 @@
     "sale_status": "抽選受付終了",
     "detail_link": "https://ticket.fany.lol/reception/12419/12931",
     "prices": [
-      "指定席／前売：￥1,800",
-      "立見（整理番号）／前売：￥1,800"
+      "価格取得エラー: Message: \n"
     ],
-    "open_start_time": "開場 17:45 / 開演 18:00",
+    "open_start_time": "",
     "is_new": false,
     "added_id": "20250528114026"
   },
@@ -136,9 +121,9 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/12479/13507",
     "prices": [
-      "整理番号付自由席／前売：￥2,500"
+      "価格取得エラー: Message: \n"
     ],
-    "open_start_time": "開場 17:45 / 開演 18:00",
+    "open_start_time": "",
     "is_new": false,
     "added_id": "20250525234327"
   },
