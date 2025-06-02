@@ -1,10 +1,52 @@
 [
   {
+    "title": "Dr.ハインリッヒと先輩と後輩",
+    "date": "2025-07-09",
+    "date_text": "2025/07/09(水)",
+    "venue": "よしもと祇園花月（京都府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/12954/14121",
+    "prices": [
+      "全席指定／前売：￥2,500"
+    ],
+    "open_start_time": "開場 18:45 / 開演 19:15",
+    "is_new": true,
+    "added_id": "20250602114102"
+  },
+  {
+    "title": "大喜利大集合～ハゲ・ヒゲ・ロン毛大集合～",
+    "date": "2025-06-19",
+    "date_text": "2025/06/19(木)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/13133/14177",
+    "prices": [
+      "整理番号付自由席／前売：￥2,500"
+    ],
+    "open_start_time": "開場 20:40 / 開演 21:00",
+    "is_new": true,
+    "added_id": "20250602114102"
+  },
+  {
+    "title": "新ネタライブ!!ハイキック寄席!!",
+    "date": "2025-06-02",
+    "date_text": "2025/06/02(月)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/9607/10648",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20250602114102"
+  },
+  {
     "title": "NORAネタ",
     "date": "2025-07-07",
     "date_text": "2025/07/07(月)",
     "venue": "日本橋Pollux Theater（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/12913/13966",
     "prices": [
       "整理番号付自由席／前売：￥2,500"
@@ -12,20 +54,6 @@
     "open_start_time": "開場 18:00 / 開演 18:15",
     "is_new": true,
     "added_id": "20250601234406"
-  },
-  {
-    "title": "Dr.ハインリッヒと先輩と後輩",
-    "date": "2025-07-09",
-    "date_text": "2025/07/09(水)",
-    "venue": "よしもと祇園花月（京都府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/12952/14121",
-    "prices": [
-      "全席指定／前売：￥2,500"
-    ],
-    "open_start_time": "開場 18:45 / 開演 19:15",
-    "is_new": true,
-    "added_id": "20250529234520"
   },
   {
     "title": "漫才×漫才×コント×コント×エバース",
@@ -133,7 +161,7 @@
     "date": "2025-07-07",
     "date_text": "2025/07/07(月)",
     "venue": "日本橋Pollux Theater（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/12914/13967",
     "prices": [
       "整理番号付自由席／前売：￥2,500"
@@ -504,21 +532,6 @@
       "立見（整理番号）／前売：￥1,500"
     ],
     "open_start_time": "開場 20:45 / 開演 21:00",
-    "is_new": false,
-    "added_id": "20250508113945"
-  },
-  {
-    "title": "新ネタライブ!!ハイキック寄席!!",
-    "date": "2025-06-02",
-    "date_text": "2025/06/02(月)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/9697/10648",
-    "prices": [
-      "指定席／当日：￥2,300",
-      "立見（整理番号）／当日：￥2,300"
-    ],
-    "open_start_time": "開場 19:00 / 開演 19:15",
     "is_new": false,
     "added_id": "20250508113945"
   }
