@@ -18,7 +18,7 @@
     "date": "2025-06-19",
     "date_text": "2025/06/19(木)",
     "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/13133/14177",
     "prices": [
       "整理番号付自由席／前売：￥2,500"
@@ -49,9 +49,10 @@
     "sale_status": "抽選受付終了",
     "detail_link": "https://ticket.fany.lol/reception/12419/12931",
     "prices": [
-      "価格取得エラー: Message: \n"
+      "指定席／前売：￥1,800",
+      "立見（整理番号）／前売：￥1,800"
     ],
-    "open_start_time": "",
+    "open_start_time": "開場 17:45 / 開演 18:00",
     "is_new": false,
     "added_id": "20250528114026"
   },
@@ -121,9 +122,9 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/12479/13507",
     "prices": [
-      "価格取得エラー: Message: \n"
+      "整理番号付自由席／前売：￥2,500"
     ],
-    "open_start_time": "",
+    "open_start_time": "開場 17:45 / 開演 18:00",
     "is_new": false,
     "added_id": "20250525234327"
   },
