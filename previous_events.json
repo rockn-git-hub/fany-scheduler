@@ -1,19 +1,5 @@
 [
   {
-    "title": "三軍の金帯",
-    "date": "2025-06-04",
-    "date_text": "2025/06/04(水)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/9612/10617",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20250604114146"
-  },
-  {
     "title": "Dr.ハインリッヒと先輩と後輩",
     "date": "2025-07-09",
     "date_text": "2025/07/09(水)",
@@ -52,7 +38,7 @@
       "整理番号付自由席／前売：￥2,500"
     ],
     "open_start_time": "開場 18:00 / 開演 18:15",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20250601234406"
   },
   {
@@ -318,20 +304,6 @@
     "added_id": "20250518234328"
   },
   {
-    "title": "ますかた一真の道頓堀占い部屋 ～金属バット編～",
-    "date": "2025-06-04",
-    "date_text": "2025/06/04(水)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "先着発売終了",
-    "detail_link": "https://ticket.fany.lol/reception/11768/12561",
-    "prices": [
-      "整理番号付自由席／当日：￥2,100"
-    ],
-    "open_start_time": "開場 18:40 / 開演 19:00",
-    "is_new": false,
-    "added_id": "20250518234328"
-  },
-  {
     "title": "【通し券】NORA",
     "date": "2025-06-30",
     "date_text": "2025/06/30(月) ～ 2025/06/30(月)",
@@ -498,8 +470,8 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/9065/10532",
     "prices": [
-      "全席指定／前売大人：￥3,500",
-      "全席指定／前売小学生以下：￥1,000"
+      "全席指定／当日大人：￥3,500",
+      "全席指定／当日小学生以下：￥1,000"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": false,
@@ -513,8 +485,8 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/9703/10655",
     "prices": [
-      "指定席／前売：￥1,500",
-      "立見（整理番号）／前売：￥1,500"
+      "指定席／当日：￥1,700",
+      "立見（整理番号）／当日：￥1,700"
     ],
     "open_start_time": "開場 19:00 / 開演 19:15",
     "is_new": false,
