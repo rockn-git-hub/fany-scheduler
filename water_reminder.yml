@@ -1,0 +1,24 @@
+name: Water Reminder Bot
+
+on:
+  schedule:
+    - cron: '25 0-2,4-10 * * *'  # 9:25〜11:25、13:25〜19:25 (JST)
+  workflow_dispatch:
+
+jobs:
+  remind-water:
+    runs-on: ubuntu-latest
+    steps:
+      - name: リポジトリをチェックアウト
+        uses: actions/checkout@v3
+      - name: Pythonをセットアップ
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+      - name: 必要なライブラリをインストール
+        run: pip install requests
+      - name: 水飲めメッセージを送信
+        env:
+          LINE_TOKEN: ${{ secrets.LINE_ACCESS_TOKEN }}
+          LINE_TO: ${{ secrets.LINE_USER_ID }}
+        run: python send_water_notify.py
