@@ -1,17 +1,17 @@
 [
   {
-    "title": "苺ちゃんネタ大収穫",
-    "date": "2025-06-05",
-    "date_text": "2025/06/05(木)",
-    "venue": "よしもと漫才劇場（大阪府）",
+    "title": "THE SECOND ライブツアー2025～今、全盛期の漫才師達～in大阪",
+    "date": "2025-06-07",
+    "date_text": "2025/06/07(土)",
+    "venue": "COOL JAPAN PARK OSAKA WWホール（大阪府）",
     "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/9613/10655",
+    "detail_link": "https://ticket.fany.lol/reception/10231/11187",
     "prices": [
       "価格取得エラー: Message: \n"
     ],
     "open_start_time": "",
     "is_new": true,
-    "added_id": "20250605114109"
+    "added_id": "20250606234423"
   },
   {
     "title": "Dr.ハインリッヒと先輩と後輩",
@@ -444,50 +444,6 @@
       "全席指定／前売：￥2,500"
     ],
     "open_start_time": "開場 18:45 / 開演 19:15",
-    "is_new": false,
-    "added_id": "20250508113945"
-  },
-  {
-    "title": "THE SECOND ライブツアー2025～今、全盛期の漫才師達～in大阪",
-    "date": "2025-06-07",
-    "date_text": "2025/06/07(土)",
-    "venue": "COOL JAPAN PARK OSAKA WWホール（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/10233/11187",
-    "prices": [
-      "全席指定／前売：￥5,000"
-    ],
-    "open_start_time": "開場 15:00 / 開演 16:00",
-    "is_new": false,
-    "added_id": "20250508113945"
-  },
-  {
-    "title": "よる公演",
-    "date": "2025-06-06",
-    "date_text": "2025/06/06(金)",
-    "venue": "なんばグランド花月（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/9065/10533",
-    "prices": [
-      "全席指定／前売大人：￥3,500",
-      "全席指定／前売小学生以下：￥1,000"
-    ],
-    "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": false,
-    "added_id": "20250508113945"
-  },
-  {
-    "title": "よる公演",
-    "date": "2025-06-05",
-    "date_text": "2025/06/05(木)",
-    "venue": "なんばグランド花月（大阪府）",
-    "sale_status": "先着発売終了",
-    "detail_link": "https://ticket.fany.lol/reception/9065/10532",
-    "prices": [
-      "全席指定／当日大人：￥3,500",
-      "全席指定／当日小学生以下：￥1,000"
-    ],
-    "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": false,
     "added_id": "20250508113945"
   }
