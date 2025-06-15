@@ -29,7 +29,7 @@
       "1日券／特割　こども：￥2,000"
     ],
     "open_start_time": "開場 09:30 / 開演 10:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20250612114150"
   },
   {
@@ -54,7 +54,7 @@
       "1日券／特割　こども：￥2,000"
     ],
     "open_start_time": "開場 09:30 / 開演 10:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20250612114150"
   },
   {
@@ -85,7 +85,7 @@
       "1日券／特割　こども：￥2,000"
     ],
     "open_start_time": "開場 09:30 / 開演 10:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20250612114150"
   },
   {
@@ -99,7 +99,7 @@
       "整理番号付自由席／前売：￥2,500"
     ],
     "open_start_time": "開場 17:45 / 開演 18:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20250612114150"
   },
   {
@@ -113,7 +113,7 @@
       "全席指定／前売：￥2,200"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20250612114150"
   },
   {
@@ -128,7 +128,7 @@
       "立見（整理番号）／前売：￥1,800"
     ],
     "open_start_time": "開場 17:45 / 開演 18:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20250612114150"
   },
   {
@@ -142,7 +142,7 @@
       "全席指定／前売：￥3,500"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20250612114150"
   },
   {
@@ -157,7 +157,7 @@
       "立見（整理番号）／前売：￥2,000"
     ],
     "open_start_time": "開場 19:00 / 開演 19:15",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20250612114150"
   },
   {
@@ -172,7 +172,7 @@
       "全席指定／前売　学生：￥800"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20250612114150"
   },
   {
@@ -187,7 +187,7 @@
       "全席指定／前売小学生以下：￥1,000"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20250612114150"
   },
   {
@@ -201,7 +201,7 @@
       "指定席／前売：￥1,500"
     ],
     "open_start_time": "開場 20:00 / 開演 20:15",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20250612114150"
   },
   {
@@ -215,7 +215,7 @@
       "全席指定／前売：￥2,500"
     ],
     "open_start_time": "開場 18:45 / 開演 19:15",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20250612114150"
   },
   {
@@ -229,7 +229,7 @@
       "通し券／前売：￥4,000"
     ],
     "open_start_time": "",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20250612114150"
   },
   {
@@ -243,7 +243,7 @@
       "整理番号付自由席／前売：￥2,500"
     ],
     "open_start_time": "開場 18:00 / 開演 18:15",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20250612114150"
   },
   {
@@ -257,7 +257,7 @@
       "整理番号付自由席／前売：￥2,500"
     ],
     "open_start_time": "開場 19:30 / 開演 19:45",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20250612114150"
   },
   {
@@ -272,7 +272,7 @@
       "全席指定／前売小学生以下：￥1,000"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20250612114150"
   },
   {
@@ -286,7 +286,7 @@
       "通し券／前売：￥4,000"
     ],
     "open_start_time": "",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20250612114150"
   },
   {
@@ -300,7 +300,7 @@
       "整理番号付自由席／前売：￥2,500"
     ],
     "open_start_time": "開場 18:45 / 開演 19:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20250612114150"
   },
   {
@@ -314,7 +314,7 @@
       "整理番号付自由席／前売：￥2,500"
     ],
     "open_start_time": "開場 20:15 / 開演 20:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20250612114150"
   },
   {
@@ -328,7 +328,7 @@
       "整理番号付自由席／前売：￥2,500"
     ],
     "open_start_time": "開場 17:45 / 開演 18:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20250612114150"
   },
   {
@@ -343,7 +343,7 @@
       "立見（整理番号）／前売：￥1,800"
     ],
     "open_start_time": "開場 19:00 / 開演 19:15",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20250612114150"
   },
   {
@@ -358,7 +358,7 @@
       "全席指定／前売小学生以下：￥1,000"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20250612114150"
   },
   {
@@ -373,7 +373,7 @@
       "全席指定／前売小学生以下：￥1,000"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20250612114150"
   },
   {
@@ -412,7 +412,7 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/11864/12624",
     "prices": [
-      "整理番号付自由席／前売：￥2,000"
+      "整理番号付自由席／当日：￥2,500"
     ],
     "open_start_time": "開場 20:40 / 開演 21:00",
     "is_new": false,
@@ -426,7 +426,7 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/11852/12581",
     "prices": [
-      "整理番号付自由席／前売：￥2,000"
+      "整理番号付自由席／当日：￥2,500"
     ],
     "open_start_time": "開場 18:40 / 開演 19:00",
     "is_new": false,
