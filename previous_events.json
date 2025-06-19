@@ -129,7 +129,7 @@
       "全席指定／前売：￥2,200"
     ],
     "open_start_time": "開場 18:45 / 開演 19:15",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20250616114137"
   },
   {
@@ -143,7 +143,7 @@
       "全席指定／前売：￥3,500"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20250616114137"
   },
   {
@@ -433,34 +433,5 @@
     "open_start_time": "開場 18:40 / 開演 19:00",
     "is_new": false,
     "added_id": "20250610114055"
-  },
-  {
-    "title": "大喜利大集合～ハゲ・ヒゲ・ロン毛大集合～",
-    "date": "2025-06-19",
-    "date_text": "2025/06/19(木)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "先着発売終了",
-    "detail_link": "https://ticket.fany.lol/reception/13133/14177",
-    "prices": [
-      "整理番号付自由席／当日：￥3,000"
-    ],
-    "open_start_time": "開場 20:40 / 開演 21:00",
-    "is_new": false,
-    "added_id": "20250602114102"
-  },
-  {
-    "title": "よる公演",
-    "date": "2025-06-19",
-    "date_text": "2025/06/19(木)",
-    "venue": "なんばグランド花月（大阪府）",
-    "sale_status": "先着発売終了",
-    "detail_link": "https://ticket.fany.lol/reception/9065/10538",
-    "prices": [
-      "全席指定／当日大人：￥3,500",
-      "全席指定／当日小学生以下：￥1,000"
-    ],
-    "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": false,
-    "added_id": "20250508113945"
   }
 ]
