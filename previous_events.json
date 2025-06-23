@@ -441,25 +441,11 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/9065/10540",
     "prices": [
-      "全席指定／前売大人：￥3,500",
-      "全席指定／前売小学生以下：￥1,000"
+      "全席指定／当日大人：￥3,500",
+      "全席指定／当日小学生以下：￥1,000"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": false,
     "added_id": "20250612114150"
-  },
-  {
-    "title": "クレーンゲーム企画！この景品、どう取る？～芸人たちの挑戦～",
-    "date": "2025-06-23",
-    "date_text": "2025/06/23(月)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "先着発売終了",
-    "detail_link": "https://ticket.fany.lol/reception/13599/14738",
-    "prices": [
-      "整理番号付自由席／当日：￥2,100"
-    ],
-    "open_start_time": "開場 18:40 / 開演 19:00",
-    "is_new": false,
-    "added_id": "20250610114055"
   }
 ]
