@@ -1,5 +1,33 @@
 [
   {
+    "title": "鬼としみちゃむ人気者大集結ライブ！",
+    "date": "2025-08-12",
+    "date_text": "2025/08/12(火)",
+    "venue": "森ノ宮よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付中",
+    "detail_link": "https://ticket.fany.lol/reception/15678/16858",
+    "prices": [
+      "指定席／前売：￥1,500"
+    ],
+    "open_start_time": "開場 20:15 / 開演 20:30",
+    "is_new": true,
+    "added_id": "20250626114136"
+  },
+  {
+    "title": "よしもとゴリラライブ",
+    "date": "2025-06-26",
+    "date_text": "2025/06/26(木)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/9640/10657",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20250626114136"
+  },
+  {
     "title": "【通し券】NORA",
     "date": "2025-08-02",
     "date_text": "2025/08/02(土) ～ 2025/08/02(土)",
@@ -102,13 +130,13 @@
     "date": "2025-09-11",
     "date_text": "2025/09/11(木)",
     "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/14177/16130",
     "prices": [
       "全席指定／前売：￥3,300"
     ],
     "open_start_time": "開場 20:10 / 開演 20:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20250623114121"
   },
   {
@@ -122,7 +150,7 @@
       "整理番号付自由席／前売：￥2,500"
     ],
     "open_start_time": "開場 16:40 / 開演 17:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20250623114121"
   },
   {
@@ -498,21 +526,6 @@
       "整理番号付自由席／前売：￥2,500"
     ],
     "open_start_time": "開場 17:45 / 開演 18:00",
-    "is_new": false,
-    "added_id": "20250612114150"
-  },
-  {
-    "title": "よしもとゴリラライブ",
-    "date": "2025-06-26",
-    "date_text": "2025/06/26(木)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/9730/10657",
-    "prices": [
-      "指定席／当日：￥2,000",
-      "立見（整理番号）／当日：￥2,000"
-    ],
-    "open_start_time": "開場 19:00 / 開演 19:15",
     "is_new": false,
     "added_id": "20250612114150"
   }
