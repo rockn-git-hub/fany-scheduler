@@ -2,7 +2,12 @@ name: Water Reminder Bot
 
 on:
   schedule:
-    - cron: '25 0-2,4-10 * * *'  # 9:25〜11:25、13:25〜19:25 (JST)
+    - cron: '0 1 * * 1-5'  # 月～金 10:00 (JST)
+    - cron: '0 2 * * 1-5'  # 月～金 11:00 (JST)
+    - cron: '0 5 * * 1-5'  # 月～金 14:00 (JST)
+    - cron: '0 6 * * 1-5'  # 月～金 15:00 (JST)
+    - cron: '0 7 * * 1-5'  # 月～金 16:00 (JST)
+    - cron: '0 8 * * 1-5'  # 月～金 17:00 (JST)
   workflow_dispatch:
 
 jobs:
