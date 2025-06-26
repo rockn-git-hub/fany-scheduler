@@ -21,9 +21,9 @@ def send_line_notify(message):
         ]
     }
     # リクエスト発行
-    requests.post(line_notify_api, headers=headers, json=payload)
-    print(f"[DEBUG] Response status: {requests.status_code}")
-    print(f"[DEBUG] Response body: {requests.text}")
+    response = requests.post(line_notify_api, headers=headers, json=payload)
+    print(f"[DEBUG] Response status: {response.status_code}")
+    print(f"[DEBUG] Response body: {response.text}")
 
 # 3. ランダムメッセージを選んで送信
 if __name__ == "__main__":
