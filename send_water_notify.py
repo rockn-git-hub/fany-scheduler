@@ -32,5 +32,8 @@ if __name__ == "__main__":
         "🥤 あかん小林、水飲みにいこ。",
         "💦 ウォータータイム！汝に光があらんことを！いざゆかん、バイキングロードの上へ！"
     ]
-    message = random.choice(messages)  # 1個ランダムに選ぶ
+    message = random.choice(messages)
+    print(f"[DEBUG] LINE_TOKEN: {os.environ.get('LINE_TOKEN')[:10]}...")  # 一部だけ表示
+    print(f"[DEBUG] LINE_TO: {os.environ.get('LINE_TO')}")
+    print(f"[DEBUG] Message: {message}")
     send_line_notify(message)  # LINEに送る
