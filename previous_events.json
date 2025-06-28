@@ -1,5 +1,19 @@
 [
   {
+    "title": "あおばと～金属バットと～",
+    "date": "2025-09-08",
+    "date_text": "2025/09/08(月)",
+    "venue": "天満天神繁昌亭（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/15908/16969",
+    "prices": [
+      "全席指定／前売：￥2,000"
+    ],
+    "open_start_time": "開場 18:30 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20250628234436"
+  },
+  {
     "title": "よしもとゴリラライブ",
     "date": "2025-08-25",
     "date_text": "2025/08/25(月)",
@@ -502,20 +516,6 @@
       "整理番号付自由席／前売：￥2,500"
     ],
     "open_start_time": "開場 20:15 / 開演 20:30",
-    "is_new": false,
-    "added_id": "20250612114150"
-  },
-  {
-    "title": "なにわ漫才360 vol.8",
-    "date": "2025-06-28",
-    "date_text": "2025/06/28(土)",
-    "venue": "日本橋Ups（大阪府）",
-    "sale_status": "先着発売終了",
-    "detail_link": "https://ticket.fany.lol/reception/12240/13246",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
     "is_new": false,
     "added_id": "20250612114150"
   }
