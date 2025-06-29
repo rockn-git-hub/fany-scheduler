@@ -98,7 +98,7 @@
       "通し券／前売：￥5,000"
     ],
     "open_start_time": "",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20250625234612"
   },
   {
@@ -112,7 +112,7 @@
       "全席指定／前売：￥3,000"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20250625234612"
   },
   {
@@ -126,7 +126,7 @@
       "全席指定／前売：￥3,000"
     ],
     "open_start_time": "開場 20:30 / 開演 20:45",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20250625234612"
   },
   {
