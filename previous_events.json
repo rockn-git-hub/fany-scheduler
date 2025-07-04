@@ -1,5 +1,19 @@
 [
   {
+    "title": "第5回 金属バットとデルマパンゲ迫田に悩みを・・・",
+    "date": "2025-08-12",
+    "date_text": "2025/08/12(火)",
+    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/16303/17237",
+    "prices": [
+      "全席指定／前売：￥3,300"
+    ],
+    "open_start_time": "開場 18:15 / 開演 18:45",
+    "is_new": true,
+    "added_id": "20250704114101"
+  },
+  {
     "title": "あおばと～金属バットと～",
     "date": "2025-09-08",
     "date_text": "2025/09/08(月)",
@@ -10,7 +24,7 @@
       "全席指定／前売：￥2,000"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20250628234436"
   },
   {
@@ -106,7 +120,7 @@
     "date": "2025-08-02",
     "date_text": "2025/08/02(土)",
     "venue": "YES THEATER（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/15804/16888",
     "prices": [
       "全席指定／前売：￥3,000"
@@ -120,7 +134,7 @@
     "date": "2025-08-02",
     "date_text": "2025/08/02(土)",
     "venue": "YES THEATER（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/15805/16890",
     "prices": [
       "全席指定／前売：￥3,000"
@@ -459,21 +473,6 @@
       "整理番号付自由席／前売：￥2,500"
     ],
     "open_start_time": "開場 19:30 / 開演 19:45",
-    "is_new": false,
-    "added_id": "20250612114150"
-  },
-  {
-    "title": "よる公演",
-    "date": "2025-07-03",
-    "date_text": "2025/07/03(木)",
-    "venue": "なんばグランド花月（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/12158/13222",
-    "prices": [
-      "全席指定／前売大人：￥3,500",
-      "全席指定／前売小学生以下：￥1,000"
-    ],
-    "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": false,
     "added_id": "20250612114150"
   }
