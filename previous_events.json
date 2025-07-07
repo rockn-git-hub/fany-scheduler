@@ -433,47 +433,5 @@
     "open_start_time": "開場 18:45 / 開演 19:15",
     "is_new": false,
     "added_id": "20250612114150"
-  },
-  {
-    "title": "【通し券】NORA",
-    "date": "2025-07-07",
-    "date_text": "2025/07/07(月) ～ 2025/07/07(月)",
-    "venue": "日本橋Pollux Theater（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/12909/13964",
-    "prices": [
-      "通し券／前売：￥4,000"
-    ],
-    "open_start_time": "",
-    "is_new": false,
-    "added_id": "20250612114150"
-  },
-  {
-    "title": "NORAネタ",
-    "date": "2025-07-07",
-    "date_text": "2025/07/07(月)",
-    "venue": "日本橋Pollux Theater（大阪府）",
-    "sale_status": "先着発売終了",
-    "detail_link": "https://ticket.fany.lol/reception/12913/13966",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": false,
-    "added_id": "20250612114150"
-  },
-  {
-    "title": "NORAコーナー",
-    "date": "2025-07-07",
-    "date_text": "2025/07/07(月)",
-    "venue": "日本橋Pollux Theater（大阪府）",
-    "sale_status": "先着発売終了",
-    "detail_link": "https://ticket.fany.lol/reception/12914/13967",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": false,
-    "added_id": "20250612114150"
   }
 ]
