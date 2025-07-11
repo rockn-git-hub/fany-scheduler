@@ -1,17 +1,32 @@
 [
   {
-    "title": "ツートライブとライブ",
-    "date": "2025-07-10",
-    "date_text": "2025/07/10(木)",
-    "venue": "森ノ宮よしもと漫才劇場（大阪府）",
+    "title": "よる公演",
+    "date": "2025-09-30",
+    "date_text": "2025/09/30(火)",
+    "venue": "なんばグランド花月（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/16846/17617",
+    "prices": [
+      "全席指定／前売大人：￥3,500",
+      "全席指定／前売小学生以下：￥1,000"
+    ],
+    "open_start_time": "開場 18:30 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20250711114145"
+  },
+  {
+    "title": "祇園ミドルどすなライブ FINAL～最後の開催を見とくれやす～",
+    "date": "2025-07-11",
+    "date_text": "2025/07/11(金)",
+    "venue": "よしもと祇園花月（京都府）",
     "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/12731/12941",
+    "detail_link": "https://ticket.fany.lol/reception/11795/12766",
     "prices": [
       "価格取得エラー: Message: \n"
     ],
     "open_start_time": "",
     "is_new": true,
-    "added_id": "20250710114214"
+    "added_id": "20250711114145"
   },
   {
     "title": "第5回 金属バットとデルマパンゲ迫田に悩みを・・・",
@@ -387,36 +402,6 @@
       "立見（整理番号）／前売：￥2,000"
     ],
     "open_start_time": "開場 19:00 / 開演 19:15",
-    "is_new": false,
-    "added_id": "20250612114150"
-  },
-  {
-    "title": "祇園ミドルどすなライブ FINAL～最後の開催を見とくれやす～",
-    "date": "2025-07-11",
-    "date_text": "2025/07/11(金)",
-    "venue": "よしもと祇園花月（京都府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/11797/12766",
-    "prices": [
-      "全席指定／前売　一般：￥2,800",
-      "全席指定／前売　学生：￥800"
-    ],
-    "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": false,
-    "added_id": "20250612114150"
-  },
-  {
-    "title": "よる公演",
-    "date": "2025-07-10",
-    "date_text": "2025/07/10(木)",
-    "venue": "なんばグランド花月（大阪府）",
-    "sale_status": "先着発売終了",
-    "detail_link": "https://ticket.fany.lol/reception/12158/13223",
-    "prices": [
-      "全席指定／当日大人：￥3,500",
-      "全席指定／当日小学生以下：￥1,000"
-    ],
-    "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": false,
     "added_id": "20250612114150"
   }
