@@ -1,5 +1,33 @@
 [
   {
+    "title": "大阪グルメEXPO2025ステージショー",
+    "date": "2025-07-26",
+    "date_text": "2025/07/26(土)",
+    "venue": "大阪城公園　太陽の広場　宴UTAGEテント（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/16954/17666",
+    "prices": [
+      "自由席／前売：￥2,000"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20250714114235"
+  },
+  {
+    "title": "新ネタライブ!!ハイキック寄席!!",
+    "date": "2025-07-14",
+    "date_text": "2025/07/14(月)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/12308/12885",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20250714114235"
+  },
+  {
     "title": "よしもと祇園花月　「大千秋楽」　1公演目",
     "date": "2025-08-18",
     "date_text": "2025/08/18(月)",
@@ -45,7 +73,7 @@
       "全席指定／前売小学生以下：￥1,000"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20250711114145"
   },
   {
@@ -407,21 +435,6 @@
       "立見（整理番号）／前売：￥1,800"
     ],
     "open_start_time": "開場 17:45 / 開演 18:00",
-    "is_new": false,
-    "added_id": "20250612114150"
-  },
-  {
-    "title": "新ネタライブ!!ハイキック寄席!!",
-    "date": "2025-07-14",
-    "date_text": "2025/07/14(月)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/12406/12885",
-    "prices": [
-      "指定席／当日：￥2,300",
-      "立見（整理番号）／当日：￥2,300"
-    ],
-    "open_start_time": "開場 19:00 / 開演 19:15",
     "is_new": false,
     "added_id": "20250612114150"
   }
