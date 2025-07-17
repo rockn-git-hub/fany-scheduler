@@ -1,5 +1,19 @@
 [
   {
+    "title": "祇園花月の3回戦",
+    "date": "2025-07-17",
+    "date_text": "2025/07/17(木)",
+    "venue": "よしもと祇園花月（京都府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/13645/15379",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20250717114317"
+  },
+  {
     "title": "【9/15(月)1日券】KOYABU SONIC 2025",
     "date": "2025-09-15",
     "date_text": "2025/09/15(月・祝)",
@@ -79,7 +93,7 @@
     "date": "2025-08-18",
     "date_text": "2025/08/18(月)",
     "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/17110/18103",
     "prices": [
       "整理番号付自由席／前売：￥2,500"
@@ -107,7 +121,7 @@
     "date": "2025-08-14",
     "date_text": "2025/08/14(木)",
     "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/17188/18114",
     "prices": [
       "整理番号付自由席／前売　バーガー付：￥4,600",
@@ -129,7 +143,7 @@
     "date": "2025-08-14",
     "date_text": "2025/08/14(木)",
     "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/17105/18078",
     "prices": [
       "整理番号付自由席／前売：￥1,500"
@@ -183,7 +197,7 @@
       "自由席／前売：￥2,000"
     ],
     "open_start_time": "",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20250714114235"
   },
   {
@@ -428,20 +442,6 @@
       "全席指定／前売：￥2,200"
     ],
     "open_start_time": "開場 18:45 / 開演 19:15",
-    "is_new": false,
-    "added_id": "20250616114137"
-  },
-  {
-    "title": "祇園花月の3回戦",
-    "date": "2025-07-17",
-    "date_text": "2025/07/17(木)",
-    "venue": "よしもと祇園花月（京都府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/13647/15379",
-    "prices": [
-      "全席指定／当日：￥3,500"
-    ],
-    "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": false,
     "added_id": "20250616114137"
   },
