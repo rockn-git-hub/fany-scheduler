@@ -1,5 +1,65 @@
 [
   {
+    "title": "吉本新喜劇inセカンドシアター 夏休みスペシャル",
+    "date": "2025-07-27",
+    "date_text": "2025/07/27(日)",
+    "venue": "YES THEATER（新喜劇セカンドシアター）（大阪府）",
+    "sale_status": "先着発売中",
+    "detail_link": "https://ticket.fany.lol/reception/13149/14184",
+    "prices": [
+      "全席指定／大人：￥3,000",
+      "全席指定／小人：￥1,500"
+    ],
+    "open_start_time": "開場 12:00 / 開演 12:30",
+    "is_new": true,
+    "added_id": "20250719114108"
+  },
+  {
+    "title": "吉本新喜劇inセカンドシアター 夏休みスペシャル",
+    "date": "2025-07-27",
+    "date_text": "2025/07/27(日)",
+    "venue": "YES THEATER（新喜劇セカンドシアター）（大阪府）",
+    "sale_status": "先着発売中",
+    "detail_link": "https://ticket.fany.lol/reception/13149/14185",
+    "prices": [
+      "全席指定／大人：￥3,000",
+      "全席指定／小人：￥1,500"
+    ],
+    "open_start_time": "開場 15:00 / 開演 15:30",
+    "is_new": true,
+    "added_id": "20250719114108"
+  },
+  {
+    "title": "吉本新喜劇inセカンドシアター 夏休みスペシャル",
+    "date": "2025-07-26",
+    "date_text": "2025/07/26(土)",
+    "venue": "YES THEATER（新喜劇セカンドシアター）（大阪府）",
+    "sale_status": "先着発売中",
+    "detail_link": "https://ticket.fany.lol/reception/13149/14182",
+    "prices": [
+      "全席指定／大人：￥3,000",
+      "全席指定／小人：￥1,500"
+    ],
+    "open_start_time": "開場 12:00 / 開演 12:30",
+    "is_new": true,
+    "added_id": "20250719114108"
+  },
+  {
+    "title": "吉本新喜劇inセカンドシアター 夏休みスペシャル",
+    "date": "2025-07-26",
+    "date_text": "2025/07/26(土)",
+    "venue": "YES THEATER（新喜劇セカンドシアター）（大阪府）",
+    "sale_status": "先着発売中",
+    "detail_link": "https://ticket.fany.lol/reception/13149/14183",
+    "prices": [
+      "全席指定／大人：￥3,000",
+      "全席指定／小人：￥1,500"
+    ],
+    "open_start_time": "開場 15:00 / 開演 15:30",
+    "is_new": true,
+    "added_id": "20250719114108"
+  },
+  {
     "title": "【9/15(月)1日券】KOYABU SONIC 2025",
     "date": "2025-09-15",
     "date_text": "2025/09/15(月・祝)",
@@ -93,7 +153,7 @@
     "date": "2025-08-15",
     "date_text": "2025/08/15(金)",
     "venue": "よしもと祇園花月（京都府）",
-    "sale_status": "不明",
+    "sale_status": "抽選受付中",
     "detail_link": "https://ticket.fany.lol/reception/17266/18140",
     "prices": [
       "全席指定／前売：￥2,500"
