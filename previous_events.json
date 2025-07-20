@@ -170,9 +170,9 @@
     "sale_status": "抽選受付中",
     "detail_link": "https://ticket.fany.lol/reception/17266/18140",
     "prices": [
-      "価格取得エラー: Message: \n"
+      "全席指定／前売：￥2,500"
     ],
-    "open_start_time": "",
+    "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": false,
     "added_id": "20250716114244"
   },
@@ -441,9 +441,9 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/15087/16835",
     "prices": [
-      "整理番号付自由席／前売：￥2,500"
+      "価格取得エラー: Message: \n"
     ],
-    "open_start_time": "開場 16:40 / 開演 17:00",
+    "open_start_time": "",
     "is_new": false,
     "added_id": "20250623114121"
   },
