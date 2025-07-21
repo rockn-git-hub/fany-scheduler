@@ -1,10 +1,24 @@
 [
   {
+    "title": "漫才×漫才×コント×コント×エバース",
+    "date": "2025-07-21",
+    "date_text": "2025/07/21(月・祝)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/12321/12931",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20250721114345"
+  },
+  {
     "title": "ザ・ぼんち×金属バットツーマンライブ「ばっとぼんちー」",
     "date": "2025-08-24",
     "date_text": "2025/08/24(日)",
     "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "抽選受付中",
     "detail_link": "https://ticket.fany.lol/reception/17492/18309",
     "prices": [
       "全席指定／前売：￥4,000"
@@ -217,7 +231,7 @@
     "date": "2025-08-18",
     "date_text": "2025/08/18(月)",
     "venue": "よしもと祇園花月（京都府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/16889/17636",
     "prices": [
       "全席指定／前売：￥4,000",
@@ -234,7 +248,7 @@
     "date": "2025-08-18",
     "date_text": "2025/08/18(月)",
     "venue": "よしもと祇園花月（京都府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/16889/17638",
     "prices": [
       "全席指定／前売：￥4,000",
@@ -530,21 +544,6 @@
       "全席指定／前売：￥2,200"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": false,
-    "added_id": "20250612114150"
-  },
-  {
-    "title": "漫才×漫才×コント×コント×エバース",
-    "date": "2025-07-21",
-    "date_text": "2025/07/21(月・祝)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/12419/12931",
-    "prices": [
-      "指定席／当日：￥2,000",
-      "立見（整理番号）／当日：￥2,000"
-    ],
-    "open_start_time": "開場 17:45 / 開演 18:00",
     "is_new": false,
     "added_id": "20250612114150"
   }
