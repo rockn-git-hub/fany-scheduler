@@ -1,5 +1,19 @@
 [
   {
+    "title": "ザ・ぼんち×金属バットツーマンライブ「ばっとぼんちー」",
+    "date": "2025-08-24",
+    "date_text": "2025/08/24(日)",
+    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/17494/18309",
+    "prices": [
+      "全席指定／前売：￥4,000"
+    ],
+    "open_start_time": "開場 12:45 / 開演 13:15",
+    "is_new": true,
+    "added_id": "20250723114359"
+  },
+  {
     "title": "金属バットの祇園花月で最後のライブ",
     "date": "2025-08-15",
     "date_text": "2025/08/15(金)",
@@ -12,20 +26,6 @@
     "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": true,
     "added_id": "20250722114252"
-  },
-  {
-    "title": "ザ・ぼんち×金属バットツーマンライブ「ばっとぼんちー」",
-    "date": "2025-08-24",
-    "date_text": "2025/08/24(日)",
-    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/17492/18309",
-    "prices": [
-      "全席指定／前売：￥4,000"
-    ],
-    "open_start_time": "開場 12:45 / 開演 13:15",
-    "is_new": true,
-    "added_id": "20250719234729"
   },
   {
     "title": "吉本新喜劇inセカンドシアター 夏休みスペシャル",
