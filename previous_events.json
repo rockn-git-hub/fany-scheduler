@@ -1,5 +1,33 @@
 [
   {
+    "title": "漫才×漫才×コント×コント×はりけ～んず",
+    "date": "2025-09-30",
+    "date_text": "2025/09/30(火)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/18325/18628",
+    "prices": [
+      "指定席／前売：￥1,800"
+    ],
+    "open_start_time": "開場 19:00 / 開演 19:15",
+    "is_new": true,
+    "added_id": "20250724234604"
+  },
+  {
+    "title": "新ネタライブ!!ハイキック寄席!!",
+    "date": "2025-09-15",
+    "date_text": "2025/09/15(月・祝)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/18301/18617",
+    "prices": [
+      "指定席／前売：￥2,000"
+    ],
+    "open_start_time": "開場 18:15 / 開演 18:30",
+    "is_new": true,
+    "added_id": "20250724234604"
+  },
+  {
     "title": "ザ・ぼんち×金属バットツーマンライブ「ばっとぼんちー」",
     "date": "2025-08-24",
     "date_text": "2025/08/24(日)",
@@ -527,7 +555,7 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/11908/12853",
     "prices": [
-      "全席指定／前売：￥2,200"
+      "全席指定／当日：￥2,500"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": false,
