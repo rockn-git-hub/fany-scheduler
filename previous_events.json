@@ -14,34 +14,6 @@
     "added_id": "20250726234612"
   },
   {
-    "title": "吉本新喜劇inセカンドシアター 夏休みスペシャル",
-    "date": "2025-07-27",
-    "date_text": "2025/07/27(日)",
-    "venue": "YES THEATER（新喜劇セカンドシアター）（大阪府）",
-    "sale_status": "抽選受付終了 FANYコミュ限定先行",
-    "detail_link": "https://ticket.fany.lol/reception/13150/14184",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20250726234612"
-  },
-  {
-    "title": "吉本新喜劇inセカンドシアター 夏休みスペシャル",
-    "date": "2025-07-27",
-    "date_text": "2025/07/27(日)",
-    "venue": "YES THEATER（新喜劇セカンドシアター）（大阪府）",
-    "sale_status": "抽選受付終了 FANYコミュ限定先行",
-    "detail_link": "https://ticket.fany.lol/reception/13150/14185",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20250726234612"
-  },
-  {
     "title": "漫才×漫才×コント×コント×はりけ～んず",
     "date": "2025-09-30",
     "date_text": "2025/09/30(火)",
@@ -52,7 +24,7 @@
       "指定席／前売：￥1,800"
     ],
     "open_start_time": "開場 19:00 / 開演 19:15",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20250724234604"
   },
   {
@@ -66,7 +38,7 @@
       "指定席／前売：￥2,000"
     ],
     "open_start_time": "開場 18:15 / 開演 18:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20250724234604"
   },
   {
@@ -442,28 +414,6 @@
     "open_start_time": "開場 16:40 / 開演 17:00",
     "is_new": false,
     "added_id": "20250623114121"
-  },
-  {
-    "title": "よしもとお笑いレストラン",
-    "date": "2025-07-27",
-    "date_text": "2025/07/27(日)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "先着発売終了",
-    "detail_link": "https://ticket.fany.lol/reception/13731/15457",
-    "prices": [
-      "整理番号付自由席／当日　バーガー付：￥4,600",
-      "整理番号付自由席／当日　ロコモコ付：￥4,200",
-      "整理番号付自由席／当日　カレー付：￥4,200",
-      "整理番号付自由席／当日　唐揚BOWL付：￥4,200",
-      "整理番号付自由席／当日　唐揚付：￥3,900",
-      "整理番号付自由席／当日　ポテト(L)付：￥3,900",
-      "整理番号付自由席／当日　チュロス付：￥3,700",
-      "整理番号付自由席／当日　ワンドリンク付：￥3,700",
-      "整理番号付自由席／当日：￥3,500"
-    ],
-    "open_start_time": "開場 11:30 / 開演 12:00",
-    "is_new": false,
-    "added_id": "20250619114122"
   },
   {
     "title": "祇園de祇園The FINAL",
