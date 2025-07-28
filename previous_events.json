@@ -1,10 +1,40 @@
 [
   {
+    "title": "漫才×漫才×コント×コント×はりけ～んず",
+    "date": "2025-09-30",
+    "date_text": "2025/09/30(火)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/18415/18628",
+    "prices": [
+      "指定席／前売：￥1,800",
+      "立見（整理番号）／前売：￥1,800"
+    ],
+    "open_start_time": "開場 19:00 / 開演 19:15",
+    "is_new": true,
+    "added_id": "20250728114340"
+  },
+  {
+    "title": "新ネタライブ!!ハイキック寄席!!",
+    "date": "2025-09-15",
+    "date_text": "2025/09/15(月・祝)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/18391/18617",
+    "prices": [
+      "指定席／前売：￥2,000",
+      "立見（整理番号）／前売：￥2,000"
+    ],
+    "open_start_time": "開場 18:15 / 開演 18:30",
+    "is_new": true,
+    "added_id": "20250728114340"
+  },
+  {
     "title": "なにわ漫才360 vol.10",
     "date": "2025-08-14",
     "date_text": "2025/08/14(木)",
     "venue": "日本橋Ups（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/18903/19023",
     "prices": [
       "整理番号付自由席／前売：￥2,500"
@@ -12,34 +42,6 @@
     "open_start_time": "開場 17:45 / 開演 18:00",
     "is_new": true,
     "added_id": "20250726234612"
-  },
-  {
-    "title": "漫才×漫才×コント×コント×はりけ～んず",
-    "date": "2025-09-30",
-    "date_text": "2025/09/30(火)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/18325/18628",
-    "prices": [
-      "指定席／前売：￥1,800"
-    ],
-    "open_start_time": "開場 19:00 / 開演 19:15",
-    "is_new": false,
-    "added_id": "20250724234604"
-  },
-  {
-    "title": "新ネタライブ!!ハイキック寄席!!",
-    "date": "2025-09-15",
-    "date_text": "2025/09/15(月・祝)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/18301/18617",
-    "prices": [
-      "指定席／前売：￥2,000"
-    ],
-    "open_start_time": "開場 18:15 / 開演 18:30",
-    "is_new": false,
-    "added_id": "20250724234604"
   },
   {
     "title": "ザ・ぼんち×金属バットツーマンライブ「ばっとぼんちー」",
