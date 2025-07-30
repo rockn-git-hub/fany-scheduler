@@ -311,9 +311,9 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/15748/16858",
     "prices": [
-      "指定席／前売：￥1,500"
+      "価格取得エラー: Message: \n"
     ],
-    "open_start_time": "開場 20:15 / 開演 20:30",
+    "open_start_time": "",
     "is_new": false,
     "added_id": "20250628114003"
   },
@@ -400,20 +400,6 @@
       "全席指定／前売：￥3,300"
     ],
     "open_start_time": "開場 20:10 / 開演 20:30",
-    "is_new": false,
-    "added_id": "20250623114121"
-  },
-  {
-    "title": "大喜利大集合～ハゲ・ヒゲ・ロン毛大集合～",
-    "date": "2025-07-30",
-    "date_text": "2025/07/30(水)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "先着発売終了",
-    "detail_link": "https://ticket.fany.lol/reception/15087/16835",
-    "prices": [
-      "整理番号付自由席／当日：￥3,000"
-    ],
-    "open_start_time": "開場 16:40 / 開演 17:00",
     "is_new": false,
     "added_id": "20250623114121"
   },
