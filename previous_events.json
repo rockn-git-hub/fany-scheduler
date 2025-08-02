@@ -1,5 +1,27 @@
 [
   {
+    "title": "よしもとお笑いレストラン",
+    "date": "2025-09-15",
+    "date_text": "2025/09/15(月・祝)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
+    "sale_status": "先着発売中",
+    "detail_link": "https://ticket.fany.lol/reception/18174/18889",
+    "prices": [
+      "整理番号付自由席／前売　バーガー付：￥4,600",
+      "整理番号付自由席／前売　ロコモコ付：￥4,200",
+      "整理番号付自由席／前売　カレー付：￥4,200",
+      "整理番号付自由席／前売　唐揚BOWL付：￥4,200",
+      "整理番号付自由席／前売　唐揚付：￥3,900",
+      "整理番号付自由席／前売　ポテト(L)付：￥3,900",
+      "整理番号付自由席／前売　チュロス付：￥3,700",
+      "整理番号付自由席／前売　ワンドリンク付：￥3,700",
+      "整理番号付自由席／前売：￥3,500"
+    ],
+    "open_start_time": "開場 11:30 / 開演 12:00",
+    "is_new": true,
+    "added_id": "20250802234831"
+  },
+  {
     "title": "よしもとお笑いライブin大阪狭山2025",
     "date": "2025-10-05",
     "date_text": "2025/10/05(日)",
@@ -374,48 +396,6 @@
     "open_start_time": "開場 20:45 / 開演 21:00",
     "is_new": false,
     "added_id": "20250628114003"
-  },
-  {
-    "title": "【通し券】NORA",
-    "date": "2025-08-02",
-    "date_text": "2025/08/02(土) ～ 2025/08/02(土)",
-    "venue": "YES THEATER（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/15797/16894",
-    "prices": [
-      "通し券／前売：￥5,000"
-    ],
-    "open_start_time": "",
-    "is_new": false,
-    "added_id": "20250625234612"
-  },
-  {
-    "title": "NORAネタ",
-    "date": "2025-08-02",
-    "date_text": "2025/08/02(土)",
-    "venue": "YES THEATER（大阪府）",
-    "sale_status": "先着発売終了",
-    "detail_link": "https://ticket.fany.lol/reception/15804/16888",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": false,
-    "added_id": "20250625234612"
-  },
-  {
-    "title": "NORAコーナー",
-    "date": "2025-08-02",
-    "date_text": "2025/08/02(土)",
-    "venue": "YES THEATER（大阪府）",
-    "sale_status": "先着発売終了",
-    "detail_link": "https://ticket.fany.lol/reception/15805/16890",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": false,
-    "added_id": "20250625234612"
   },
   {
     "title": "キンキンヘンヘンライブ 東阪福ツアー【大阪公演】",
