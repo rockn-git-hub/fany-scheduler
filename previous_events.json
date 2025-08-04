@@ -1,5 +1,76 @@
 [
   {
+    "title": "よしもとお笑いライブin大阪狭山2025",
+    "date": "2025-10-05",
+    "date_text": "2025/10/05(日)",
+    "venue": "SAYAKAホール　大ホール（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/19103/19123",
+    "prices": [
+      "全席指定／前売：￥5,000"
+    ],
+    "open_start_time": "開場 11:15 / 開演 12:00",
+    "is_new": true,
+    "added_id": "20250804114408"
+  },
+  {
+    "title": "よしもとお笑いライブin大阪狭山2025",
+    "date": "2025-10-05",
+    "date_text": "2025/10/05(日)",
+    "venue": "SAYAKAホール　大ホール（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/19103/19127",
+    "prices": [
+      "全席指定／前売：￥5,000"
+    ],
+    "open_start_time": "開場 14:15 / 開演 15:00",
+    "is_new": true,
+    "added_id": "20250804114408"
+  },
+  {
+    "title": "よる公演",
+    "date": "2025-08-05",
+    "date_text": "2025/08/05(火)",
+    "venue": "なんばグランド花月（大阪府）",
+    "sale_status": "先着発売中",
+    "detail_link": "https://ticket.fany.lol/reception/14881/16397",
+    "prices": [
+      "全席指定／前売大人：￥3,500",
+      "全席指定／前売小学生以下：￥1,000"
+    ],
+    "open_start_time": "開場 18:30 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20250804114408"
+  },
+  {
+    "title": "漫才VSコント〜鬼しみ軍&とくいち軍 真夏のタイマンネタバトル",
+    "date": "2025-08-04",
+    "date_text": "2025/08/04(月)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/15225/16461",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20250804114408"
+  },
+  {
+    "title": "漫才×漫才×コント×コント×GAG",
+    "date": "2025-08-04",
+    "date_text": "2025/08/04(月)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/15226/16463",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20250804114408"
+  },
+  {
     "title": "よしもとお笑いレストラン",
     "date": "2025-09-15",
     "date_text": "2025/09/15(月・祝)",
@@ -20,34 +91,6 @@
     "open_start_time": "開場 11:30 / 開演 12:00",
     "is_new": true,
     "added_id": "20250802234831"
-  },
-  {
-    "title": "よしもとお笑いライブin大阪狭山2025",
-    "date": "2025-10-05",
-    "date_text": "2025/10/05(日)",
-    "venue": "SAYAKAホール　大ホール（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/19101/19123",
-    "prices": [
-      "全席指定／前売：￥5,000"
-    ],
-    "open_start_time": "開場 11:15 / 開演 12:00",
-    "is_new": true,
-    "added_id": "20250801234728"
-  },
-  {
-    "title": "よしもとお笑いライブin大阪狭山2025",
-    "date": "2025-10-05",
-    "date_text": "2025/10/05(日)",
-    "venue": "SAYAKAホール　大ホール（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/19101/19127",
-    "prices": [
-      "全席指定／前売：￥5,000"
-    ],
-    "open_start_time": "開場 14:15 / 開演 15:00",
-    "is_new": true,
-    "added_id": "20250801234728"
   },
   {
     "title": "漫才×漫才×コント×コント×はりけ～んず",
@@ -364,36 +407,6 @@
       "指定席／前売：￥1,500"
     ],
     "open_start_time": "開場 20:15 / 開演 20:30",
-    "is_new": false,
-    "added_id": "20250628114003"
-  },
-  {
-    "title": "漫才VSコント〜鬼しみ軍&とくいち軍 真夏のタイマンネタバトル",
-    "date": "2025-08-04",
-    "date_text": "2025/08/04(月)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/15317/16461",
-    "prices": [
-      "指定席／当日：￥1,800",
-      "立見（整理番号）／当日：￥1,800"
-    ],
-    "open_start_time": "開場 18:45 / 開演 19:00",
-    "is_new": false,
-    "added_id": "20250628114003"
-  },
-  {
-    "title": "漫才×漫才×コント×コント×GAG",
-    "date": "2025-08-04",
-    "date_text": "2025/08/04(月)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/15318/16463",
-    "prices": [
-      "指定席／当日：￥2,100",
-      "立見（整理番号）／当日：￥2,100"
-    ],
-    "open_start_time": "開場 20:45 / 開演 21:00",
     "is_new": false,
     "added_id": "20250628114003"
   },
