@@ -1,5 +1,19 @@
 [
   {
+    "title": "第5回 金属バットとデルマパンゲ迫田に悩みを・・・",
+    "date": "2025-08-12",
+    "date_text": "2025/08/12(火)",
+    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/16303/17237",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20250811234426"
+  },
+  {
     "title": "ツートライブとライブSP",
     "date": "2025-09-01",
     "date_text": "2025/09/01(月)",
@@ -10,7 +24,7 @@
       "全席指定／前売：￥2,500"
     ],
     "open_start_time": "開場 17:00 / 開演 17:15",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20250807114334"
   },
   {
@@ -310,20 +324,6 @@
     "added_id": "20250711114145"
   },
   {
-    "title": "第5回 金属バットとデルマパンゲ迫田に悩みを・・・",
-    "date": "2025-08-12",
-    "date_text": "2025/08/12(火)",
-    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/16305/17237",
-    "prices": [
-      "全席指定／前売：￥3,300"
-    ],
-    "open_start_time": "開場 18:15 / 開演 18:45",
-    "is_new": false,
-    "added_id": "20250707114134"
-  },
-  {
     "title": "あおばと～金属バットと～",
     "date": "2025-09-08",
     "date_text": "2025/09/08(月)",
@@ -375,7 +375,7 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/15748/16858",
     "prices": [
-      "指定席／前売：￥1,500"
+      "指定席／当日：￥1,800"
     ],
     "open_start_time": "開場 20:15 / 開演 20:30",
     "is_new": false,
