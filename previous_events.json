@@ -1,5 +1,19 @@
 [
   {
+    "title": "鬼としみちゃむ人気者大集結ライブ！",
+    "date": "2025-08-12",
+    "date_text": "2025/08/12(火)",
+    "venue": "森ノ宮よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/15678/16858",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20250812114154"
+  },
+  {
     "title": "第5回 金属バットとデルマパンゲ迫田に悩みを・・・",
     "date": "2025-08-12",
     "date_text": "2025/08/12(火)",
@@ -364,20 +378,6 @@
       "立見（整理番号）／前売：￥2,000"
     ],
     "open_start_time": "開場 19:00 / 開演 19:15",
-    "is_new": false,
-    "added_id": "20250628114003"
-  },
-  {
-    "title": "鬼としみちゃむ人気者大集結ライブ！",
-    "date": "2025-08-12",
-    "date_text": "2025/08/12(火)",
-    "venue": "森ノ宮よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/15748/16858",
-    "prices": [
-      "指定席／当日：￥1,800"
-    ],
-    "open_start_time": "開場 20:15 / 開演 20:30",
     "is_new": false,
     "added_id": "20250628114003"
   },
