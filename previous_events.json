@@ -14,34 +14,6 @@
     "added_id": "20250818114218"
   },
   {
-    "title": "よしもと祇園花月　「大千秋楽」　1公演目",
-    "date": "2025-08-18",
-    "date_text": "2025/08/18(月)",
-    "venue": "よしもと祇園花月（京都府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/16887/17636",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20250818114218"
-  },
-  {
-    "title": "よしもと祇園花月　「大千秋楽」　2公演目",
-    "date": "2025-08-18",
-    "date_text": "2025/08/18(月)",
-    "venue": "よしもと祇園花月（京都府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/16887/17638",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20250818114218"
-  },
-  {
     "title": "大喜利大集合～ハゲ・ヒゲ・ロン毛大集合～",
     "date": "2025-09-26",
     "date_text": "2025/09/26(金)",
@@ -235,20 +207,6 @@
       "1日券／前売　こども：￥3,000"
     ],
     "open_start_time": "開場 09:30 / 開演 10:30",
-    "is_new": false,
-    "added_id": "20250716114244"
-  },
-  {
-    "title": "大喜利大集合～ハゲ・ヒゲ・ロン毛大集合～",
-    "date": "2025-08-18",
-    "date_text": "2025/08/18(月)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "先着発売終了",
-    "detail_link": "https://ticket.fany.lol/reception/17110/18103",
-    "prices": [
-      "整理番号付自由席／当日：￥3,000"
-    ],
-    "open_start_time": "開場 20:25 / 開演 20:45",
     "is_new": false,
     "added_id": "20250716114244"
   },
