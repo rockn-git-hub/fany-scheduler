@@ -5,49 +5,74 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>人数集計</title>
   <style>
-    body { font-family: sans-serif; padding: 1em; margin: 0; }
-    h3 { margin-top: 0; }
-    table { border-collapse: collapse; margin: 1em 0; }
-    th, td { border: 1px solid #aaa; padding: 0.2em 0.4em; text-align: center;  font-size: 0.9em; }
+    body { font-family: sans-serif; padding: 1em; margin: 0; background: #f9f9f9; }
+    h3 { margin: 0 0 0.5em; font-size: 1.3em; border-bottom: 2px solid #444; padding-bottom: 0.2em; }
+    
+    /* 学年ボタン風チェック */
+    .grade-check { display: none; }
+    .grade-label {
+      display: inline-block;
+      padding: 4px 10px;
+      margin-right: 6px;
+      border: 1px solid #007bff;
+      border-radius: 4px;
+      cursor: pointer;
+      color: #007bff;
+      background: white;
+      user-select: none;
+      font-size: 0.9em;
+    }
+    .grade-check:checked + .grade-label {
+      background: #007bff;
+      color: white;
+    }
+
+    /* 合計のカード風 */
+    .summary {
+      margin: 0.8em 0;
+      padding: 0.6em;
+      background: #fff;
+      border: 1px solid #ddd;
+      border-radius: 6px;
+      font-size: 0.9em;
+      width: fit-content;   /* ← 中身に合わせて幅が決まる */
+    }
+    .total {
+      font-size: 1.2em;
+      font-weight: bold;
+      color: darkblue;
+    }
+
+    /* テーブルデザイン */
+    table { border-collapse: collapse; margin: 1em 0; width: auto; background: #fff; }
+    th, td { border: 1px solid #ccc; padding: 0.3em 0.5em; text-align: center; font-size: 0.9em; }
+    th { background: #eee; }
+    tbody tr:nth-child(even) { background: #f6f6f6; }
     input[type="number"] { width: 50px; padding: 0.1em; font-size: 0.9em; text-align: right; }
-    .summary { margin: 0.5em 0; font-size: 0.9em; }
-    .total { font-size: 1em; font-weight: bold; color: darkblue; }
   </style>
 </head>
 <body>
   <h3>人数集計</h3>
 
-    <!-- 学年チェックボックス -->
-    <div>
-    <strong>学年:</strong>
-    <label><input type="checkbox" class="grade-check" value="1" checked>1年</label>
-    <label><input type="checkbox" class="grade-check" value="2" checked>2年</label>
-    <label><input type="checkbox" class="grade-check" value="3" checked>3年</label>
-    </div>
-
-    <script>
-    const checkboxes = document.querySelectorAll('.grade-check');
-
-    checkboxes.forEach(cb => {
-        cb.addEventListener('change', function () {
-        const checked = document.querySelectorAll('.grade-check:checked');
-        if (checked.length === 0) {
-            alert("最低1つはチェックしてください");
-            this.checked = true; // 直前の操作を戻す
-        }
-        });
-    });
-    </script>
-
-
-  <!-- クラスラジオボタン -->
+  <!-- 学年チェックボックス -->
   <div>
-    <strong>クラス:</strong>
-    <label><input type="radio" name="class-range" value="6" checked>A〜F</label>
-    <label><input type="radio" name="class-range" value="10">A〜J</label>
+    <strong>学年:</strong>
+    <input type="checkbox" class="grade-check" id="g1" value="1" checked>
+    <label for="g1" class="grade-label">1年</label>
+    <input type="checkbox" class="grade-check" id="g2" value="2" checked>
+    <label for="g2" class="grade-label">2年</label>
+    <input type="checkbox" class="grade-check" id="g3" value="3" checked>
+    <label for="g3" class="grade-label">3年</label>
   </div>
 
-  <!-- 合計表示（上に移動） -->
+  <!-- クラスラジオボタン -->
+  <div style="margin-top: 0.5em;">
+    <strong>クラス:</strong>
+    <label><input type="radio" name="class-range" value="6" checked> A〜F</label>
+    <label><input type="radio" name="class-range" value="10"> A〜J</label>
+  </div>
+
+  <!-- 合計表示 -->
   <div class="summary">
     <div id="grade-sums"></div>
     <div>全体合計: <span class="total" id="total">0</span> 人</div>
@@ -67,6 +92,19 @@
       6: ["A","B","C","D","E","F"],
       10: ["A","B","C","D","E","F","G","H","I","J"]
     };
+
+    // 最低1学年チェック必須
+    const checkboxes = document.querySelectorAll('.grade-check');
+    checkboxes.forEach(cb => {
+      cb.addEventListener('change', function () {
+        const checked = document.querySelectorAll('.grade-check:checked');
+        if (checked.length === 0) {
+          alert("最低1つはチェックしてください");
+          this.checked = true;
+        }
+        buildTable();
+      });
+    });
 
     function buildTable() {
       const headerRow = document.getElementById("header-row");
@@ -97,30 +135,23 @@
         tr.appendChild(th);
 
         selectedGrades.forEach(g => {
-            const td = document.createElement("td");
-            const input = document.createElement("input");
-            input.type = "number";
-            input.min = 0;
-            input.max = maxStudents;
-            input.value = 0;
-            input.inputMode = "numeric";
-            input.pattern = "[0-9]*";
-            input.dataset.grade = g;
-            input.classList.add("count");
-
-            // ← JSでイベント追加
-            input.addEventListener("focus", e => e.target.select());
-
-            td.appendChild(input);
-            tr.appendChild(td);
+          const td = document.createElement("td");
+          const input = document.createElement("input");
+          input.type = "number";
+          input.min = 0;
+          input.max = maxStudents;
+          input.value = 0;
+          input.inputMode = "numeric";
+          input.pattern = "[0-9]*";
+          input.dataset.grade = g;
+          input.classList.add("count");
+          input.addEventListener("focus", e => e.target.select());
+          input.addEventListener("input", updateTotals);
+          td.appendChild(input);
+          tr.appendChild(td);
         });
 
         tbody.appendChild(tr);
-      });
-
-      // イベントを再バインド
-      document.querySelectorAll(".count").forEach(el => {
-        el.addEventListener("input", updateTotals);
       });
 
       updateTotals();
@@ -149,7 +180,7 @@
     }
 
     // 初期化
-    document.querySelectorAll(".grade-check, input[name='class-range']")
+    document.querySelectorAll("input[name='class-range']")
             .forEach(el => el.addEventListener("change", buildTable));
     buildTable();
   </script>
