@@ -81,10 +81,22 @@
         tr.appendChild(th);
 
         selectedGrades.forEach(g => {
-          const td = document.createElement("td");
-          td.innerHTML = `<input type="number" min="0" max="${maxStudents}" value="0" 
-                            data-grade="${g}" class="count">`;
-          tr.appendChild(td);
+            const td = document.createElement("td");
+            const input = document.createElement("input");
+            input.type = "number";
+            input.min = 0;
+            input.max = maxStudents;
+            input.value = 0;
+            input.inputMode = "numeric";
+            input.pattern = "[0-9]*";
+            input.dataset.grade = g;
+            input.classList.add("count");
+
+            // ← JSでイベント追加
+            input.addEventListener("focus", e => e.target.select());
+
+            td.appendChild(input);
+            tr.appendChild(td);
         });
 
         tbody.appendChild(tr);
