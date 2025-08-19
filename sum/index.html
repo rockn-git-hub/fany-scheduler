@@ -14,7 +14,7 @@
   </style>
 </head>
 <body>
-  <h1>出席集計</h1>
+  <h3>出席集計</h3>
 
   <!-- 学年チェックボックス -->
   <div>
@@ -112,7 +112,7 @@
       let all = 0;
       let gradeSumHTML = "";
       selectedGrades.forEach(g => {
-        gradeSumHTML += `${g}年合計: <span>${totals[g]}</span> 人　`;
+        gradeSumHTML += `${g}年: <span>${totals[g]}</span> 人　`;
         all += totals[g];
       });
 
