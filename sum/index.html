@@ -1,1 +1,129 @@
-aa
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>出席集計</title>
+  <style>
+    body { font-family: sans-serif; padding: 1em; }
+    table { border-collapse: collapse; margin: 1em 0; }
+    th, td { border: 1px solid #aaa; padding: 0.5em; text-align: center; }
+    input[type="number"] { width: 60px; padding: 0.2em; text-align: right; }
+    .summary { margin: 1em 0; font-size: 1.1em; }
+    .total { font-size: 1.3em; font-weight: bold; color: darkblue; }
+  </style>
+</head>
+<body>
+  <h1>出席集計</h1>
+
+  <!-- 学年チェックボックス -->
+  <div>
+    <strong>学年:</strong>
+    <label><input type="checkbox" class="grade-check" value="1" checked>1年</label>
+    <label><input type="checkbox" class="grade-check" value="2" checked>2年</label>
+    <label><input type="checkbox" class="grade-check" value="3" checked>3年</label>
+  </div>
+
+  <!-- クラスラジオボタン -->
+  <div>
+    <strong>クラス:</strong>
+    <label><input type="radio" name="class-range" value="6" checked>A〜F</label>
+    <label><input type="radio" name="class-range" value="10">A〜J</label>
+  </div>
+
+  <!-- 合計表示（上に移動） -->
+  <div class="summary">
+    <div id="grade-sums"></div>
+    <div>全体合計: <span class="total" id="total">0</span> 人</div>
+  </div>
+
+  <!-- 集計表 -->
+  <table id="table">
+    <thead>
+      <tr id="header-row"><th>組</th></tr>
+    </thead>
+    <tbody id="table-body"></tbody>
+  </table>
+
+  <script>
+    const maxStudents = 50;
+    const classSets = {
+      6: ["A","B","C","D","E","F"],
+      10: ["A","B","C","D","E","F","G","H","I","J"]
+    };
+
+    function buildTable() {
+      const headerRow = document.getElementById("header-row");
+      const tbody = document.getElementById("table-body");
+      headerRow.innerHTML = "<th>組</th>";
+      tbody.innerHTML = "";
+
+      // 選択された学年
+      const selectedGrades = [...document.querySelectorAll(".grade-check:checked")]
+                            .map(el => Number(el.value));
+
+      // 選択されたクラスパターン
+      const classCount = document.querySelector("input[name='class-range']:checked").value;
+      const classList = classSets[classCount];
+
+      // ヘッダ行
+      selectedGrades.forEach(g => {
+        const th = document.createElement("th");
+        th.textContent = g + "年";
+        headerRow.appendChild(th);
+      });
+
+      // クラス行
+      classList.forEach(c => {
+        const tr = document.createElement("tr");
+        const th = document.createElement("th");
+        th.textContent = c + "組";
+        tr.appendChild(th);
+
+        selectedGrades.forEach(g => {
+          const td = document.createElement("td");
+          td.innerHTML = `<input type="number" min="0" max="${maxStudents}" value="0" 
+                            data-grade="${g}" class="count">`;
+          tr.appendChild(td);
+        });
+
+        tbody.appendChild(tr);
+      });
+
+      // イベントを再バインド
+      document.querySelectorAll(".count").forEach(el => {
+        el.addEventListener("input", updateTotals);
+      });
+
+      updateTotals();
+    }
+
+    function updateTotals() {
+      const selectedGrades = [...document.querySelectorAll(".grade-check:checked")]
+                            .map(el => Number(el.value));
+      let totals = {};
+      selectedGrades.forEach(g => totals[g] = 0);
+
+      document.querySelectorAll(".count").forEach(el => {
+        const g = el.dataset.grade;
+        totals[g] += Number(el.value);
+      });
+
+      let all = 0;
+      let gradeSumHTML = "";
+      selectedGrades.forEach(g => {
+        gradeSumHTML += `${g}年合計: <span>${totals[g]}</span> 人　`;
+        all += totals[g];
+      });
+
+      document.getElementById("grade-sums").innerHTML = gradeSumHTML;
+      document.getElementById("total").textContent = all;
+    }
+
+    // 初期化
+    document.querySelectorAll(".grade-check, input[name='class-range']")
+            .forEach(el => el.addEventListener("change", buildTable));
+    buildTable();
+  </script>
+</body>
+</html>
