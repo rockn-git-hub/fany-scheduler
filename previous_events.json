@@ -1,5 +1,61 @@
 [
   {
+    "title": "ザ・ぼんち　芸道55周年記念単独ライブ　～漫才はとまらないッ～",
+    "date": "2025-10-26",
+    "date_text": "2025/10/26(日)",
+    "venue": "なんばグランド花月（大阪府）",
+    "sale_status": "先着発売中",
+    "detail_link": "https://ticket.fany.lol/reception/11112/12309",
+    "prices": [
+      "全席指定／前売：￥5,500"
+    ],
+    "open_start_time": "開場 18:45 / 開演 19:15",
+    "is_new": true,
+    "added_id": "20250820113958"
+  },
+  {
+    "title": "NORAネタ",
+    "date": "2025-09-29",
+    "date_text": "2025/09/29(月)",
+    "venue": "日本橋Pollux Theater（大阪府）",
+    "sale_status": "先着発売中",
+    "detail_link": "https://ticket.fany.lol/reception/20418/20395",
+    "prices": [
+      "整理番号付自由席／前売：￥3,000"
+    ],
+    "open_start_time": "開場 18:45 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20250820113958"
+  },
+  {
+    "title": "NORAコーナー",
+    "date": "2025-09-29",
+    "date_text": "2025/09/29(月)",
+    "venue": "日本橋Pollux Theater（大阪府）",
+    "sale_status": "先着発売中",
+    "detail_link": "https://ticket.fany.lol/reception/20419/20397",
+    "prices": [
+      "整理番号付自由席／前売：￥3,000"
+    ],
+    "open_start_time": "開場 20:15 / 開演 20:30",
+    "is_new": true,
+    "added_id": "20250820113958"
+  },
+  {
+    "title": "新ネタライブ!!ハイキック寄席!!",
+    "date": "2025-08-20",
+    "date_text": "2025/08/20(水)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/15247/16481",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20250820113958"
+  },
+  {
     "title": "「アキナ　金属バット　コント10本漫才10本」",
     "date": "2025-10-07",
     "date_text": "2025/10/07(火)",
@@ -251,21 +307,6 @@
       "立見（整理番号）／前売：￥1,800"
     ],
     "open_start_time": "開場 20:30 / 開演 20:45",
-    "is_new": false,
-    "added_id": "20250628114003"
-  },
-  {
-    "title": "新ネタライブ!!ハイキック寄席!!",
-    "date": "2025-08-20",
-    "date_text": "2025/08/20(水)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/15339/16481",
-    "prices": [
-      "指定席／当日：￥2,300",
-      "立見（整理番号）／当日：￥2,300"
-    ],
-    "open_start_time": "開場 19:00 / 開演 19:15",
     "is_new": false,
     "added_id": "20250628114003"
   },
