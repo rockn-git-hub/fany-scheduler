@@ -1,5 +1,19 @@
 [
   {
+    "title": "ザ・ぼんち×金属バットツーマンライブ「ばっとぼんちー」",
+    "date": "2025-08-24",
+    "date_text": "2025/08/24(日)",
+    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/17492/18309",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20250823234327"
+  },
+  {
     "title": "よる公演",
     "date": "2025-10-30",
     "date_text": "2025/10/30(木)",
@@ -54,7 +68,7 @@
       "全席指定／前売：￥5,500"
     ],
     "open_start_time": "開場 18:45 / 開演 19:15",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20250820113958"
   },
   {
@@ -68,7 +82,7 @@
       "整理番号付自由席／前売：￥3,000"
     ],
     "open_start_time": "開場 18:45 / 開演 19:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20250820113958"
   },
   {
@@ -82,7 +96,7 @@
       "整理番号付自由席／前売：￥3,000"
     ],
     "open_start_time": "開場 20:15 / 開演 20:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20250820113958"
   },
   {
@@ -206,20 +220,6 @@
     "open_start_time": "開場 18:15 / 開演 18:30",
     "is_new": false,
     "added_id": "20250728114340"
-  },
-  {
-    "title": "ザ・ぼんち×金属バットツーマンライブ「ばっとぼんちー」",
-    "date": "2025-08-24",
-    "date_text": "2025/08/24(日)",
-    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/17494/18309",
-    "prices": [
-      "全席指定／前売：￥4,000"
-    ],
-    "open_start_time": "開場 12:45 / 開演 13:15",
-    "is_new": false,
-    "added_id": "20250723114359"
   },
   {
     "title": "【9/15(月)1日券】KOYABU SONIC 2025",
