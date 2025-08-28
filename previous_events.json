@@ -1,5 +1,33 @@
 [
   {
+    "title": "【通し券】よしもと学園 in なんばキャンパス",
+    "date": "2025-10-04",
+    "date_text": "2025/10/04(土) ～ 2025/10/05(日)",
+    "venue": "YES THEATER（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/22411/21547",
+    "prices": [
+      "【通し券】全席指定／前売：￥4,000"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20250828234140"
+  },
+  {
+    "title": "よしもと学園 in なんばキャンパス Day1",
+    "date": "2025-10-04",
+    "date_text": "2025/10/04(土)",
+    "venue": "YES THEATER（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/22403/21542",
+    "prices": [
+      "全席指定／前売：￥2,200"
+    ],
+    "open_start_time": "開場 15:30 / 開演 16:00",
+    "is_new": true,
+    "added_id": "20250828234140"
+  },
+  {
     "title": "天才ピアニスト単独ライブ「おしゃれしゃれしゃれ【10月号】」",
     "date": "2025-10-25",
     "date_text": "2025/10/25(土)",
