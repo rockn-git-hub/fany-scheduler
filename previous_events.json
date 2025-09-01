@@ -1,5 +1,19 @@
 [
   {
+    "title": "トークライブ「対」",
+    "date": "2025-09-16",
+    "date_text": "2025/09/16(火)",
+    "venue": "YES THEATER（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/22503/21617",
+    "prices": [
+      "全席指定／前売：￥1,800"
+    ],
+    "open_start_time": "開場 21:00 / 開演 21:15",
+    "is_new": true,
+    "added_id": "20250901234207"
+  },
+  {
     "title": "金属バット×ロングコートダディ～ネタとトークの６０分～",
     "date": "2025-09-26",
     "date_text": "2025/09/26(金)",
@@ -181,20 +195,6 @@
     "added_id": "20250825234316"
   },
   {
-    "title": "YES！東西お笑いライブ",
-    "date": "2025-09-01",
-    "date_text": "2025/09/01(月)",
-    "venue": "YES THEATER（大阪府）",
-    "sale_status": "先着発売終了",
-    "detail_link": "https://ticket.fany.lol/reception/21676/21253",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": false,
-    "added_id": "20250824234323"
-  },
-  {
     "title": "よる公演",
     "date": "2025-10-30",
     "date_text": "2025/10/30(木)",
@@ -307,20 +307,6 @@
     "open_start_time": "開場 20:40 / 開演 21:00",
     "is_new": false,
     "added_id": "20250812234402"
-  },
-  {
-    "title": "ツートライブとライブSP",
-    "date": "2025-09-01",
-    "date_text": "2025/09/01(月)",
-    "venue": "YES THEATER（大阪府）",
-    "sale_status": "先着発売終了",
-    "detail_link": "https://ticket.fany.lol/reception/19422/19404",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": false,
-    "added_id": "20250807114334"
   },
   {
     "title": "よしもとお笑いライブin大阪狭山2025",
