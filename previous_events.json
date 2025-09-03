@@ -1,10 +1,24 @@
 [
   {
+    "title": "金属バット×ロングコートダディ～ネタとトークの６０分～",
+    "date": "2025-09-26",
+    "date_text": "2025/09/26(金)",
+    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/22466/21599",
+    "prices": [
+      "全席指定／前売：￥3,000"
+    ],
+    "open_start_time": "開場 15:30 / 開演 16:00",
+    "is_new": true,
+    "added_id": "20250903113918"
+  },
+  {
     "title": "トークライブ「対」",
     "date": "2025-09-16",
     "date_text": "2025/09/16(火)",
     "venue": "YES THEATER（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/22503/21617",
     "prices": [
       "全席指定／前売：￥1,800"
@@ -12,20 +26,6 @@
     "open_start_time": "開場 21:00 / 開演 21:15",
     "is_new": true,
     "added_id": "20250901234207"
-  },
-  {
-    "title": "金属バット×ロングコートダディ～ネタとトークの６０分～",
-    "date": "2025-09-26",
-    "date_text": "2025/09/26(金)",
-    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/22464/21599",
-    "prices": [
-      "全席指定／前売：￥3,000"
-    ],
-    "open_start_time": "開場 15:30 / 開演 16:00",
-    "is_new": true,
-    "added_id": "20250831113858"
   },
   {
     "title": "limited60min～定刻で終わります～",
@@ -38,7 +38,7 @@
       "全席指定／前売：￥2,500"
     ],
     "open_start_time": "開場 18:00 / 開演 18:15",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20250830234201"
   },
   {
