@@ -24,7 +24,7 @@
       "全席指定／前売：￥1,800"
     ],
     "open_start_time": "開場 21:00 / 開演 21:15",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20250901234207"
   },
   {
@@ -96,7 +96,7 @@
     "date": "2025-10-25",
     "date_text": "2025/10/25(土)",
     "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/21189/20664",
     "prices": [
       "指定席／前売：￥1,500",
@@ -111,7 +111,7 @@
     "date": "2025-10-24",
     "date_text": "2025/10/24(金)",
     "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/21185/20709",
     "prices": [
       "指定席／前売：￥2,000",
@@ -126,7 +126,7 @@
     "date": "2025-10-23",
     "date_text": "2025/10/23(木)",
     "venue": "森ノ宮よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/21778/21168",
     "prices": [
       "指定席／前売：￥1,500"
@@ -140,7 +140,7 @@
     "date": "2025-10-20",
     "date_text": "2025/10/20(月)",
     "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/21180/20655",
     "prices": [
       "指定席／前売：￥1,500",
@@ -155,7 +155,7 @@
     "date": "2025-10-15",
     "date_text": "2025/10/15(水)",
     "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/21174/20707",
     "prices": [
       "指定席／前売：￥2,000",
@@ -170,7 +170,7 @@
     "date": "2025-10-09",
     "date_text": "2025/10/09(木)",
     "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/21161/20674",
     "prices": [
       "指定席／前売：￥1,800",
