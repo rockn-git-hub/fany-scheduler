@@ -505,12 +505,12 @@
     "date": "2025-09-08",
     "date_text": "2025/09/08(月)",
     "venue": "天満天神繁昌亭（大阪府）",
-    "sale_status": "先着発売中",
+    "sale_status": "先着発売終了",
     "detail_link": "https://ticket.fany.lol/reception/15908/16969",
     "prices": [
-      "全席指定／前売：￥2,000"
+      "価格取得エラー: Message: \n"
     ],
-    "open_start_time": "開場 18:30 / 開演 19:00",
+    "open_start_time": "",
     "is_new": false,
     "added_id": "20250628234436"
   },
