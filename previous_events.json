@@ -1,10 +1,24 @@
 [
   {
+    "title": "【3日通し券・前半2日通し券・9/13(土)1日券】KOYABU SONIC 2025",
+    "date": "2025-09-13",
+    "date_text": "2025/09/13(土)",
+    "venue": "インテックス大阪　4号館、5号館（大阪府）",
+    "sale_status": "先着発売終了",
+    "detail_link": "https://ticket.fany.lol/reception/11334/12293",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20250913113909"
+  },
+  {
     "title": "アブナイ　ヨセ　全国ツアー　「アブナイ ヨセin大阪」",
     "date": "2026-01-11",
     "date_text": "2026/01/11(日)",
     "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "抽選受付中",
     "detail_link": "https://ticket.fany.lol/reception/23378/22785",
     "prices": [
       "全席指定／前売：￥4,000"
@@ -463,25 +477,6 @@
       "1日券／前売　大人：￥14,500",
       "1日券／前売　中学生：￥5,000",
       "1日券／前売　こども：￥3,000"
-    ],
-    "open_start_time": "開場 09:30 / 開演 10:30",
-    "is_new": false,
-    "added_id": "20250716114244"
-  },
-  {
-    "title": "【3日通し券・前半2日通し券・9/13(土)1日券】KOYABU SONIC 2025",
-    "date": "2025-09-13",
-    "date_text": "2025/09/13(土)",
-    "venue": "インテックス大阪　4号館、5号館（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/13706/12293",
-    "prices": [
-      "1日券／当日　フォートナイトエリア付き大人：￥15,000",
-      "1日券／当日　フォートナイトエリア付き中学生：￥5,000",
-      "1日券／当日　フォートナイトエリア付きこども：￥3,000",
-      "1日券／当日　大人：￥15,000",
-      "1日券／当日　中学生：￥5,000",
-      "1日券／当日　こども：￥3,000"
     ],
     "open_start_time": "開場 09:30 / 開演 10:30",
     "is_new": false,
