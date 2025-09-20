@@ -1,10 +1,38 @@
 [
   {
+    "title": "京の寄席",
+    "date": "2025-10-22",
+    "date_text": "2025/10/22(水)",
+    "venue": "ヒューリックホール京都（京都府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/24235/23342",
+    "prices": [
+      "全席指定／前売：￥2,800"
+    ],
+    "open_start_time": "開場 17:00 / 開演 17:30",
+    "is_new": true,
+    "added_id": "20250920113853"
+  },
+  {
+    "title": "よるよる寄席",
+    "date": "2025-10-22",
+    "date_text": "2025/10/22(水)",
+    "venue": "ヒューリックホール京都（京都府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/24397/23678",
+    "prices": [
+      "全席指定／前売：￥2,800"
+    ],
+    "open_start_time": "開場 19:00 / 開演 19:30",
+    "is_new": true,
+    "added_id": "20250920113853"
+  },
+  {
     "title": "大喜利大集合 ～ハゲ・ヒゲ・ロン毛大集合～",
     "date": "2025-10-21",
     "date_text": "2025/10/21(火)",
     "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/23834/23255",
     "prices": [
       "整理番号付自由席／前売：￥2,500"
@@ -18,7 +46,7 @@
     "date": "2026-01-11",
     "date_text": "2026/01/11(日)",
     "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/23380/22785",
     "prices": [
       "全席指定／前売：￥4,000"
