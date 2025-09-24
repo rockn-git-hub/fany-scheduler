@@ -1,5 +1,47 @@
 [
   {
+    "title": "三軍の金帯",
+    "date": "2025-11-26",
+    "date_text": "2025/11/26(水)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/24705/23622",
+    "prices": [
+      "指定席／前売：￥1,500"
+    ],
+    "open_start_time": "開場 18:45 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20250924234130"
+  },
+  {
+    "title": "漫才×漫才×コント×コント×カラタチ",
+    "date": "2025-11-25",
+    "date_text": "2025/11/25(火)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/24704/23646",
+    "prices": [
+      "指定席／前売：￥1,800"
+    ],
+    "open_start_time": "開場 20:45 / 開演 21:00",
+    "is_new": true,
+    "added_id": "20250924234130"
+  },
+  {
+    "title": "新ネタライブ!!ハイキック寄席!!",
+    "date": "2025-11-21",
+    "date_text": "2025/11/21(金)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/24696/23641",
+    "prices": [
+      "指定席／前売：￥2,000"
+    ],
+    "open_start_time": "開場 20:30 / 開演 20:45",
+    "is_new": true,
+    "added_id": "20250924234130"
+  },
+  {
     "title": "京の寄席",
     "date": "2025-10-22",
     "date_text": "2025/10/22(水)",
