@@ -1,5 +1,19 @@
 [
   {
+    "title": "金属バット×ロングコートダディ～ネタとトークの６０分～",
+    "date": "2025-09-26",
+    "date_text": "2025/09/26(金)",
+    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/22464/21599",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20250925234158"
+  },
+  {
     "title": "三軍の金帯",
     "date": "2025-11-26",
     "date_text": "2025/11/26(水)",
@@ -118,20 +132,6 @@
     "open_start_time": "開場 11:30 / 開演 12:00",
     "is_new": false,
     "added_id": "20250906234108"
-  },
-  {
-    "title": "金属バット×ロングコートダディ～ネタとトークの６０分～",
-    "date": "2025-09-26",
-    "date_text": "2025/09/26(金)",
-    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/22466/21599",
-    "prices": [
-      "全席指定／前売：￥3,000"
-    ],
-    "open_start_time": "開場 15:30 / 開演 16:00",
-    "is_new": false,
-    "added_id": "20250903113918"
   },
   {
     "title": "【通し券】よしもと学園 in なんばキャンパス",
@@ -285,12 +285,12 @@
     "date": "2025-09-26",
     "date_text": "2025/09/26(金)",
     "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
-    "sale_status": "先着発売中",
+    "sale_status": "先着発売終了",
     "detail_link": "https://ticket.fany.lol/reception/21631/21173",
     "prices": [
-      "全席指定／前売：￥4,000"
+      "価格取得エラー: Message: \n"
     ],
-    "open_start_time": "開場 12:30 / 開演 13:00",
+    "open_start_time": "",
     "is_new": false,
     "added_id": "20250822113847"
   },
@@ -358,7 +358,7 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/19969/19949",
     "prices": [
-      "整理番号付自由席／前売：￥2,500"
+      "整理番号付自由席／当日：￥3,000"
     ],
     "open_start_time": "開場 20:40 / 開演 21:00",
     "is_new": false,
