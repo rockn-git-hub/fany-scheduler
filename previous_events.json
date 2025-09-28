@@ -4,49 +4,52 @@
     "date": "2025-11-26",
     "date_text": "2025/11/26(水)",
     "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/24705/23622",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/24795/23622",
     "prices": [
-      "指定席／前売：￥1,500"
+      "指定席／前売：￥1,500",
+      "立見（整理番号）／前売：￥1,500"
     ],
     "open_start_time": "開場 18:45 / 開演 19:00",
     "is_new": true,
-    "added_id": "20250924234130"
+    "added_id": "20250928113844"
   },
   {
     "title": "漫才×漫才×コント×コント×カラタチ",
     "date": "2025-11-25",
     "date_text": "2025/11/25(火)",
     "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/24704/23646",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/24794/23646",
     "prices": [
-      "指定席／前売：￥1,800"
+      "指定席／前売：￥1,800",
+      "立見（整理番号）／前売：￥1,800"
     ],
     "open_start_time": "開場 20:45 / 開演 21:00",
     "is_new": true,
-    "added_id": "20250924234130"
+    "added_id": "20250928113844"
   },
   {
     "title": "新ネタライブ!!ハイキック寄席!!",
     "date": "2025-11-21",
     "date_text": "2025/11/21(金)",
     "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/24696/23641",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/24786/23641",
     "prices": [
-      "指定席／前売：￥2,000"
+      "指定席／前売：￥2,000",
+      "立見（整理番号）／前売：￥2,000"
     ],
     "open_start_time": "開場 20:30 / 開演 20:45",
     "is_new": true,
-    "added_id": "20250924234130"
+    "added_id": "20250928113844"
   },
   {
     "title": "京の寄席",
     "date": "2025-10-22",
     "date_text": "2025/10/22(水)",
     "venue": "ヒューリックホール京都（京都府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/24237/23342",
     "prices": [
       "全席指定／前売：￥2,800"
@@ -60,7 +63,7 @@
     "date": "2025-10-22",
     "date_text": "2025/10/22(水)",
     "venue": "ヒューリックホール京都（京都府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/24399/23678",
     "prices": [
       "全席指定／前売：￥2,800"
