@@ -1,5 +1,54 @@
 [
   {
+    "title": "よしもとお笑いレストラン",
+    "date": "2025-11-08",
+    "date_text": "2025/11/08(土)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
+    "sale_status": "先着発売中",
+    "detail_link": "https://ticket.fany.lol/reception/25675/24824",
+    "prices": [
+      "整理番号付自由席／前売　バーガー付：￥4,600",
+      "整理番号付自由席／前売　ロコモコ付：￥4,200",
+      "整理番号付自由席／前売　オムライス付：￥4,200",
+      "整理番号付自由席／前売　唐揚付：￥3,900",
+      "整理番号付自由席／前売　ポテト(L)付：￥3,900",
+      "整理番号付自由席／前売　チュロス付：￥3,700",
+      "整理番号付自由席／前売　ワンドリンク付：￥3,700",
+      "整理番号付自由席／前売：￥3,500"
+    ],
+    "open_start_time": "開場 11:30 / 開演 12:00",
+    "is_new": true,
+    "added_id": "20251004234140"
+  },
+  {
+    "title": "よしもとお笑いライブin大阪狭山2025",
+    "date": "2025-10-05",
+    "date_text": "2025/10/05(日)",
+    "venue": "SAYAKAホール　大ホール（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/19101/19123",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20251004234140"
+  },
+  {
+    "title": "よしもとお笑いライブin大阪狭山2025",
+    "date": "2025-10-05",
+    "date_text": "2025/10/05(日)",
+    "venue": "SAYAKAホール　大ホール（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/19101/19127",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20251004234140"
+  },
+  {
     "title": "ヒューマンハートハートアワー ～ネタとコンビ愛のアワー～",
     "date": "2025-11-21",
     "date_text": "2025/11/21(金)",
@@ -130,28 +179,6 @@
     "added_id": "20250916113943"
   },
   {
-    "title": "よしもとお笑いレストラン",
-    "date": "2025-10-04",
-    "date_text": "2025/10/04(土)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "先着発売終了",
-    "detail_link": "https://ticket.fany.lol/reception/22417/21552",
-    "prices": [
-      "整理番号付自由席／当日　バーガー付：￥4,600",
-      "整理番号付自由席／当日　ロコモコ付：￥4,200",
-      "整理番号付自由席／当日　カレー付：￥4,200",
-      "整理番号付自由席／当日　オムライス付：￥4,200",
-      "整理番号付自由席／当日　唐揚付：￥3,900",
-      "整理番号付自由席／当日　ポテト(L)付：￥3,900",
-      "整理番号付自由席／当日　チュロス付：￥3,700",
-      "整理番号付自由席／当日　ワンドリンク付：￥3,700",
-      "整理番号付自由席／当日：￥3,500"
-    ],
-    "open_start_time": "開場 11:30 / 開演 12:00",
-    "is_new": false,
-    "added_id": "20250906234108"
-  },
-  {
     "title": "【通し券】よしもと学園 in なんばキャンパス",
     "date": "2025-10-04",
     "date_text": "2025/10/04(土) ～ 2025/10/05(日)",
@@ -160,20 +187,6 @@
     "detail_link": "https://ticket.fany.lol/reception/22411/21547",
     "prices": [
       "【通し券】全席指定／前売：￥4,000"
-    ],
-    "open_start_time": "",
-    "is_new": false,
-    "added_id": "20250828234140"
-  },
-  {
-    "title": "よしもと学園 in なんばキャンパス Day1",
-    "date": "2025-10-04",
-    "date_text": "2025/10/04(土)",
-    "venue": "YES THEATER（大阪府）",
-    "sale_status": "先着発売終了",
-    "detail_link": "https://ticket.fany.lol/reception/22403/21542",
-    "prices": [
-      "価格取得エラー: Message: \n"
     ],
     "open_start_time": "",
     "is_new": false,
@@ -325,33 +338,5 @@
     "open_start_time": "開場 17:45 / 開演 18:15",
     "is_new": false,
     "added_id": "20250818114218"
-  },
-  {
-    "title": "よしもとお笑いライブin大阪狭山2025",
-    "date": "2025-10-05",
-    "date_text": "2025/10/05(日)",
-    "venue": "SAYAKAホール　大ホール（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/19103/19123",
-    "prices": [
-      "全席指定／前売：￥5,000"
-    ],
-    "open_start_time": "開場 11:15 / 開演 12:00",
-    "is_new": false,
-    "added_id": "20250804114408"
-  },
-  {
-    "title": "よしもとお笑いライブin大阪狭山2025",
-    "date": "2025-10-05",
-    "date_text": "2025/10/05(日)",
-    "venue": "SAYAKAホール　大ホール（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/19103/19127",
-    "prices": [
-      "全席指定／前売：￥5,000"
-    ],
-    "open_start_time": "開場 14:15 / 開演 15:00",
-    "is_new": false,
-    "added_id": "20250804114408"
   }
 ]
