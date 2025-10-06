@@ -1,5 +1,33 @@
 [
   {
+    "title": "ギブLabo.企画「他の人は笑ってないのに自分だけ笑って・・・",
+    "date": "2025-11-08",
+    "date_text": "2025/11/08(土)",
+    "venue": "YES THEATER（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/26038/25108",
+    "prices": [
+      "全席指定／前売：￥3,000"
+    ],
+    "open_start_time": "開場 13:00 / 開演 13:30",
+    "is_new": true,
+    "added_id": "20251006234112"
+  },
+  {
+    "title": "「アキナ　金属バット　コント10本漫才10本」",
+    "date": "2025-10-07",
+    "date_text": "2025/10/07(火)",
+    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/19942/19964",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20251006234112"
+  },
+  {
     "title": "よしもとお笑いレストラン",
     "date": "2025-11-08",
     "date_text": "2025/11/08(土)",
@@ -282,19 +310,5 @@
     "open_start_time": "開場 18:45 / 開演 19:15",
     "is_new": false,
     "added_id": "20250820113958"
-  },
-  {
-    "title": "「アキナ　金属バット　コント10本漫才10本」",
-    "date": "2025-10-07",
-    "date_text": "2025/10/07(火)",
-    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/19944/19964",
-    "prices": [
-      "全席指定／前売：￥5,000"
-    ],
-    "open_start_time": "開場 17:45 / 開演 18:15",
-    "is_new": false,
-    "added_id": "20250818114218"
   }
 ]
