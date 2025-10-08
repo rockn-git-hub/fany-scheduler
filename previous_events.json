@@ -1,5 +1,61 @@
 [
   {
+    "title": "【通し券】NORA 11月",
+    "date": "2025-11-10",
+    "date_text": "2025/11/10(月) ～ 2025/11/10(月)",
+    "venue": "日本橋Pollux Theater（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/26402/25497",
+    "prices": [
+      "通し券／前売：￥4,000"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20251008234117"
+  },
+  {
+    "title": "NORAネタ",
+    "date": "2025-11-10",
+    "date_text": "2025/11/10(月)",
+    "venue": "日本橋Pollux Theater（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/26404/25498",
+    "prices": [
+      "整理番号付自由席／前売：￥2,500"
+    ],
+    "open_start_time": "開場 18:45 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20251008234117"
+  },
+  {
+    "title": "NORAコーナー",
+    "date": "2025-11-10",
+    "date_text": "2025/11/10(月)",
+    "venue": "日本橋Pollux Theater（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/26405/25499",
+    "prices": [
+      "整理番号付自由席／前売：￥2,500"
+    ],
+    "open_start_time": "開場 20:15 / 開演 20:30",
+    "is_new": true,
+    "added_id": "20251008234117"
+  },
+  {
+    "title": "ガクテンソク×Dr.ハインリッヒ×金属バット　スリーマンライブ",
+    "date": "2025-10-31",
+    "date_text": "2025/10/31(金)",
+    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/26144/25151",
+    "prices": [
+      "全席指定／前売：￥3,800"
+    ],
+    "open_start_time": "開場 18:00 / 開演 18:30",
+    "is_new": true,
+    "added_id": "20251008234117"
+  },
+  {
     "title": "ヒューマンハートハートアワー ～ネタとコンビ愛のアワー～",
     "date": "2025-11-21",
     "date_text": "2025/11/21(金)",
@@ -246,8 +302,8 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/21161/20674",
     "prices": [
-      "指定席／前売：￥1,800",
-      "立見（整理番号）／前売：￥1,800"
+      "指定席／当日：￥2,100",
+      "立見（整理番号）／当日：￥2,100"
     ],
     "open_start_time": "開場 18:15 / 開演 18:30",
     "is_new": false,
