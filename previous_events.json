@@ -1,5 +1,19 @@
 [
   {
+    "title": "漫才×漫才×コント×コント×ダイタク",
+    "date": "2025-10-09",
+    "date_text": "2025/10/09(木)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/21065/20674",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20251009113932"
+  },
+  {
     "title": "【通し券】NORA 11月",
     "date": "2025-11-10",
     "date_text": "2025/11/10(月) ～ 2025/11/10(月)",
@@ -291,21 +305,6 @@
       "立見（整理番号）／前売：￥2,000"
     ],
     "open_start_time": "開場 20:30 / 開演 20:45",
-    "is_new": false,
-    "added_id": "20250828113919"
-  },
-  {
-    "title": "漫才×漫才×コント×コント×ダイタク",
-    "date": "2025-10-09",
-    "date_text": "2025/10/09(木)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/21161/20674",
-    "prices": [
-      "指定席／当日：￥2,100",
-      "立見（整理番号）／当日：￥2,100"
-    ],
-    "open_start_time": "開場 18:15 / 開演 18:30",
     "is_new": false,
     "added_id": "20250828113919"
   },
