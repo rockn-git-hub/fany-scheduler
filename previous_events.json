@@ -1,17 +1,17 @@
 [
   {
-    "title": "漫才×漫才×コント×コント×ダイタク",
-    "date": "2025-10-09",
-    "date_text": "2025/10/09(木)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/21065/20674",
+    "title": "「金属バットの単独ライブ」大阪公演",
+    "date": "2025-12-19",
+    "date_text": "2025/12/19(金)",
+    "venue": "COOL JAPAN PARK OSAKA WWホール（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/26536/25675",
     "prices": [
-      "価格取得エラー: Message: \n"
+      "全席指定／前売：￥4,500"
     ],
-    "open_start_time": "",
+    "open_start_time": "開場 18:00 / 開演 19:00",
     "is_new": true,
-    "added_id": "20251009113932"
+    "added_id": "20251009234133"
   },
   {
     "title": "【通し券】NORA 11月",
@@ -94,7 +94,7 @@
       "全席指定／前売：￥3,000"
     ],
     "open_start_time": "開場 13:00 / 開演 13:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20251006234112"
   },
   {
