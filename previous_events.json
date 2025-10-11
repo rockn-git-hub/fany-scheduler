@@ -1,5 +1,19 @@
 [
   {
+    "title": "『リスペクト寄席 in 大阪』",
+    "date": "2025-11-23",
+    "date_text": "2025/11/23(日・祝)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
+    "sale_status": "先着発売中",
+    "detail_link": "https://ticket.fany.lol/reception/25620/24775",
+    "prices": [
+      "整理番号付自由席／前売：￥2,500"
+    ],
+    "open_start_time": "開場 19:10 / 開演 19:30",
+    "is_new": true,
+    "added_id": "20251011234130"
+  },
+  {
     "title": "お笑いブーム",
     "date": "2025-12-17",
     "date_text": "2025/12/17(水)",
@@ -18,7 +32,7 @@
     "date": "2025-12-19",
     "date_text": "2025/12/19(金)",
     "venue": "COOL JAPAN PARK OSAKA WWホール（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "抽選受付中",
     "detail_link": "https://ticket.fany.lol/reception/26536/25675",
     "prices": [
       "全席指定／前売：￥4,500"
@@ -38,7 +52,7 @@
       "通し券／前売：￥4,000"
     ],
     "open_start_time": "",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20251008234117"
   },
   {
@@ -52,7 +66,7 @@
       "整理番号付自由席／前売：￥2,500"
     ],
     "open_start_time": "開場 18:45 / 開演 19:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20251008234117"
   },
   {
@@ -66,7 +80,7 @@
       "整理番号付自由席／前売：￥2,500"
     ],
     "open_start_time": "開場 20:15 / 開演 20:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20251008234117"
   },
   {
@@ -80,7 +94,7 @@
       "全席指定／前売：￥3,800"
     ],
     "open_start_time": "開場 18:00 / 開演 18:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20251008234117"
   },
   {
