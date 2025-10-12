@@ -1,5 +1,19 @@
 [
   {
+    "title": "全日本表現力選手権 ～なんばグランド花月の会～",
+    "date": "2025-11-12",
+    "date_text": "2025/11/12(水)",
+    "venue": "なんばグランド花月（大阪府）",
+    "sale_status": "抽選受付中",
+    "detail_link": "https://ticket.fany.lol/reception/26101/25152",
+    "prices": [
+      "全席指定／前売：￥3,500"
+    ],
+    "open_start_time": "開場 19:00 / 開演 19:30",
+    "is_new": true,
+    "added_id": "20251012113922"
+  },
+  {
     "title": "『リスペクト寄席 in 大阪』",
     "date": "2025-11-23",
     "date_text": "2025/11/23(日・祝)",
@@ -102,7 +116,7 @@
     "date": "2025-11-21",
     "date_text": "2025/11/21(金)",
     "venue": "COOL JAPAN PARK OSAKA WWホール（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/25723/24873",
     "prices": [
       "全席指定／前売：￥3,300"
