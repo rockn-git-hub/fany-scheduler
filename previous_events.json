@@ -1,5 +1,19 @@
 [
   {
+    "title": "黒帯てらうちとエルフはるのよりを戻すライブ",
+    "date": "2025-10-15",
+    "date_text": "2025/10/15(水)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/21078/20707",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20251015113928"
+  },
+  {
     "title": "「金属バットの単独ライブ」大阪公演",
     "date": "2025-12-19",
     "date_text": "2025/12/19(金)",
@@ -66,7 +80,7 @@
       "整理番号付自由席／前売：￥2,500"
     ],
     "open_start_time": "開場 19:10 / 開演 19:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20251011234130"
   },
   {
@@ -332,21 +346,6 @@
       "立見（整理番号）／前売：￥1,500"
     ],
     "open_start_time": "開場 19:15 / 開演 19:30",
-    "is_new": false,
-    "added_id": "20250828113919"
-  },
-  {
-    "title": "黒帯てらうちとエルフはるのよりを戻すライブ",
-    "date": "2025-10-15",
-    "date_text": "2025/10/15(水)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/21174/20707",
-    "prices": [
-      "指定席／当日：￥2,300",
-      "立見（整理番号）／当日：￥2,300"
-    ],
-    "open_start_time": "開場 20:30 / 開演 20:45",
     "is_new": false,
     "added_id": "20250828113919"
   },
