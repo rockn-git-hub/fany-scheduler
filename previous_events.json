@@ -1,17 +1,31 @@
 [
   {
-    "title": "三軍の金帯",
-    "date": "2025-10-20",
-    "date_text": "2025/10/20(月)",
-    "venue": "よしもと漫才劇場（大阪府）",
+    "title": "京の寄席",
+    "date": "2025-10-22",
+    "date_text": "2025/10/22(水)",
+    "venue": "ヒューリックホール京都（京都府）",
     "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/21084/20655",
+    "detail_link": "https://ticket.fany.lol/reception/24235/23342",
     "prices": [
       "価格取得エラー: Message: \n"
     ],
     "open_start_time": "",
     "is_new": true,
-    "added_id": "20251020113921"
+    "added_id": "20251021234308"
+  },
+  {
+    "title": "よるよる寄席",
+    "date": "2025-10-22",
+    "date_text": "2025/10/22(水)",
+    "venue": "ヒューリックホール京都（京都府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/24397/23678",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20251021234308"
   },
   {
     "title": "大喜利大集合 ～ハゲ・ヒゲ・ロン毛大集合～",
@@ -247,48 +261,6 @@
     "open_start_time": "開場 20:30 / 開演 20:45",
     "is_new": false,
     "added_id": "20250928113844"
-  },
-  {
-    "title": "京の寄席",
-    "date": "2025-10-22",
-    "date_text": "2025/10/22(水)",
-    "venue": "ヒューリックホール京都（京都府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/24237/23342",
-    "prices": [
-      "全席指定／前売：￥2,800"
-    ],
-    "open_start_time": "開場 17:00 / 開演 17:30",
-    "is_new": false,
-    "added_id": "20250923113914"
-  },
-  {
-    "title": "よるよる寄席",
-    "date": "2025-10-22",
-    "date_text": "2025/10/22(水)",
-    "venue": "ヒューリックホール京都（京都府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/24399/23678",
-    "prices": [
-      "全席指定／前売：￥2,800"
-    ],
-    "open_start_time": "開場 19:00 / 開演 19:30",
-    "is_new": false,
-    "added_id": "20250923113914"
-  },
-  {
-    "title": "大喜利大集合 ～ハゲ・ヒゲ・ロン毛大集合～",
-    "date": "2025-10-21",
-    "date_text": "2025/10/21(火)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/23834/23255",
-    "prices": [
-      "整理番号付自由席／前売：￥2,500"
-    ],
-    "open_start_time": "開場 18:40 / 開演 19:00",
-    "is_new": false,
-    "added_id": "20250918234146"
   },
   {
     "title": "アブナイ　ヨセ　全国ツアー　「アブナイ ヨセin大阪」",
