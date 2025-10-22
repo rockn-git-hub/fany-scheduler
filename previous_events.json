@@ -1,5 +1,35 @@
 [
   {
+    "title": "19時ライブ～ネタ＆吉本新喜劇～",
+    "date": "2025-12-04",
+    "date_text": "2025/12/04(木)",
+    "venue": "なんばグランド花月（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/27659/27341",
+    "prices": [
+      "全席指定／前売大人：￥3,500",
+      "全席指定／前売小学生以下：￥1,000"
+    ],
+    "open_start_time": "開場 18:30 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20251022114021"
+  },
+  {
+    "title": "19時ライブ～ネタ＆吉本新喜劇～",
+    "date": "2025-12-02",
+    "date_text": "2025/12/02(火)",
+    "venue": "なんばグランド花月（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/27659/27339",
+    "prices": [
+      "全席指定／前売大人：￥3,500",
+      "全席指定／前売小学生以下：￥1,000"
+    ],
+    "open_start_time": "開場 18:30 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20251022114021"
+  },
+  {
     "title": "京の寄席",
     "date": "2025-10-22",
     "date_text": "2025/10/22(水)",
