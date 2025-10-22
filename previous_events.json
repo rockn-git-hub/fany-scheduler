@@ -30,34 +30,6 @@
     "added_id": "20251022114021"
   },
   {
-    "title": "京の寄席",
-    "date": "2025-10-22",
-    "date_text": "2025/10/22(水)",
-    "venue": "ヒューリックホール京都（京都府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/24235/23342",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20251021234308"
-  },
-  {
-    "title": "よるよる寄席",
-    "date": "2025-10-22",
-    "date_text": "2025/10/22(水)",
-    "venue": "ヒューリックホール京都（京都府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/24397/23678",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20251021234308"
-  },
-  {
     "title": "大喜利大集合 ～ハゲ・ヒゲ・ロン毛大集合～",
     "date": "2025-11-08",
     "date_text": "2025/11/08(土)",
@@ -344,7 +316,7 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/21778/21168",
     "prices": [
-      "指定席／前売：￥1,500"
+      "指定席／当日：￥1,800"
     ],
     "open_start_time": "開場 20:15 / 開演 20:30",
     "is_new": false,
@@ -373,8 +345,8 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/20748/20826",
     "prices": [
-      "全席指定／前売大人：￥3,500",
-      "全席指定／前売小学生以下：￥1,000"
+      "全席指定／当日大人：￥3,500",
+      "全席指定／当日小学生以下：￥1,000"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": false,
