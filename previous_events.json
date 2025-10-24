@@ -1,5 +1,19 @@
 [
   {
+    "title": "新ネタライブ!!ハイキック寄席!!",
+    "date": "2025-10-24",
+    "date_text": "2025/10/24(金)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/21089/20709",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20251024113953"
+  },
+  {
     "title": "19時ライブ～ネタ＆吉本新喜劇～",
     "date": "2025-12-04",
     "date_text": "2025/12/04(木)",
@@ -290,21 +304,6 @@
       "立見（整理番号）／前売：￥1,500"
     ],
     "open_start_time": "開場 20:45 / 開演 21:00",
-    "is_new": false,
-    "added_id": "20250828113919"
-  },
-  {
-    "title": "新ネタライブ!!ハイキック寄席!!",
-    "date": "2025-10-24",
-    "date_text": "2025/10/24(金)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/21185/20709",
-    "prices": [
-      "指定席／当日：￥2,300",
-      "立見（整理番号）／当日：￥2,300"
-    ],
-    "open_start_time": "開場 19:00 / 開演 19:15",
     "is_new": false,
     "added_id": "20250828113919"
   },
