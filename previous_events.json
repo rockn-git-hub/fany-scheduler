@@ -1,10 +1,24 @@
 [
   {
+    "title": "天才ピアニスト単独ライブ「おしゃれしゃれしゃれ【10月号】」",
+    "date": "2025-10-25",
+    "date_text": "2025/10/25(土)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/21093/20664",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20251025113918"
+  },
+  {
     "title": "新ネタライブ!!ハイキック寄席!!",
     "date": "2025-12-08",
     "date_text": "2025/12/08(月)",
     "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "抽選受付中",
     "detail_link": "https://ticket.fany.lol/reception/28092/26948",
     "prices": [
       "指定席／前売：￥2,000"
@@ -18,7 +32,7 @@
     "date": "2025-12-04",
     "date_text": "2025/12/04(木)",
     "venue": "なんばグランド花月（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/27659/27341",
     "prices": [
       "全席指定／前売大人：￥3,500",
@@ -33,7 +47,7 @@
     "date": "2025-12-02",
     "date_text": "2025/12/02(火)",
     "venue": "なんばグランド花月（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/27659/27339",
     "prices": [
       "全席指定／前売大人：￥3,500",
@@ -291,21 +305,6 @@
     "open_start_time": "開場 16:15 / 開演 16:45",
     "is_new": false,
     "added_id": "20250916113943"
-  },
-  {
-    "title": "天才ピアニスト単独ライブ「おしゃれしゃれしゃれ【10月号】」",
-    "date": "2025-10-25",
-    "date_text": "2025/10/25(土)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/21189/20664",
-    "prices": [
-      "指定席／当日：￥1,800",
-      "立見（整理番号）／当日：￥1,800"
-    ],
-    "open_start_time": "開場 20:45 / 開演 21:00",
-    "is_new": false,
-    "added_id": "20250828113919"
   },
   {
     "title": "よる公演",
