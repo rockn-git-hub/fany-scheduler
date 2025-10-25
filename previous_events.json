@@ -1,19 +1,5 @@
 [
   {
-    "title": "天才ピアニスト単独ライブ「おしゃれしゃれしゃれ【10月号】」",
-    "date": "2025-10-25",
-    "date_text": "2025/10/25(土)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/21093/20664",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20251025113918"
-  },
-  {
     "title": "新ネタライブ!!ハイキック寄席!!",
     "date": "2025-12-08",
     "date_text": "2025/12/08(月)",
@@ -39,7 +25,7 @@
       "全席指定／前売小学生以下：￥1,000"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20251022114021"
   },
   {
@@ -54,7 +40,7 @@
       "全席指定／前売小学生以下：￥1,000"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20251022114021"
   },
   {
@@ -329,7 +315,7 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/11112/12309",
     "prices": [
-      "全席指定／前売：￥5,500"
+      "全席指定／当日：￥5,500"
     ],
     "open_start_time": "開場 18:45 / 開演 19:15",
     "is_new": false,
