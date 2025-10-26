@@ -1,5 +1,19 @@
 [
   {
+    "title": "ザ・ぼんち　芸道55周年記念単独ライブ　～漫才はとまらないッ～",
+    "date": "2025-10-26",
+    "date_text": "2025/10/26(日)",
+    "venue": "なんばグランド花月（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/11110/12309",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20251026113914"
+  },
+  {
     "title": "新ネタライブ!!ハイキック寄席!!",
     "date": "2025-12-08",
     "date_text": "2025/12/08(月)",
@@ -306,19 +320,5 @@
     "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": false,
     "added_id": "20250822113847"
-  },
-  {
-    "title": "ザ・ぼんち　芸道55周年記念単独ライブ　～漫才はとまらないッ～",
-    "date": "2025-10-26",
-    "date_text": "2025/10/26(日)",
-    "venue": "なんばグランド花月（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/11112/12309",
-    "prices": [
-      "全席指定／当日：￥5,500"
-    ],
-    "open_start_time": "開場 18:45 / 開演 19:15",
-    "is_new": false,
-    "added_id": "20250820113958"
   }
 ]
