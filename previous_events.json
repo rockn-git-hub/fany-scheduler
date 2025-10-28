@@ -4,14 +4,15 @@
     "date": "2025-12-08",
     "date_text": "2025/12/08(月)",
     "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/28092/26948",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/28186/26948",
     "prices": [
-      "指定席／前売：￥2,000"
+      "指定席／前売：￥2,000",
+      "立見（整理番号）／前売：￥2,000"
     ],
     "open_start_time": "開場 19:00 / 開演 19:15",
     "is_new": true,
-    "added_id": "20251024234115"
+    "added_id": "20251028113852"
   },
   {
     "title": "19時ライブ～ネタ＆吉本新喜劇～",
