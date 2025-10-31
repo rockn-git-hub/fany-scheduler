@@ -1,5 +1,19 @@
 [
   {
+    "title": "神★大喜利 ～東西交流会～",
+    "date": "2026-01-11",
+    "date_text": "2026/01/11(日)",
+    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/28738/28587",
+    "prices": [
+      "全席指定／前売：￥3,500"
+    ],
+    "open_start_time": "開場 11:00 / 開演 11:30",
+    "is_new": true,
+    "added_id": "20251031113904"
+  },
+  {
     "title": "ガクテンソク×Dr.ハインリッヒ×金属バット　スリーマンライブ",
     "date": "2025-10-31",
     "date_text": "2025/10/31(金)",
@@ -25,7 +39,7 @@
       "立見（整理番号）／前売：￥2,000"
     ],
     "open_start_time": "開場 19:00 / 開演 19:15",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20251028113852"
   },
   {
