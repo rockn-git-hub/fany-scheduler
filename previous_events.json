@@ -4,14 +4,14 @@
     "date": "2026-01-11",
     "date_text": "2026/01/11(日)",
     "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/28738/28587",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/28740/28587",
     "prices": [
       "全席指定／前売：￥3,500"
     ],
     "open_start_time": "開場 11:00 / 開演 11:30",
     "is_new": true,
-    "added_id": "20251031113904"
+    "added_id": "20251104114047"
   },
   {
     "title": "新ネタライブ!!ハイキック寄席!!",
@@ -108,7 +108,8 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/26103/25152",
     "prices": [
-      "全席指定／前売：￥3,500"
+      "全席指定／前売：￥3,500",
+      "注釈付指定席／前売：￥3,500"
     ],
     "open_start_time": "開場 19:00 / 開演 19:30",
     "is_new": false,
@@ -242,10 +243,9 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/24795/23622",
     "prices": [
-      "指定席／前売：￥1,500",
-      "立見（整理番号）／前売：￥1,500"
+      "価格取得エラー: Message: \n"
     ],
-    "open_start_time": "開場 18:45 / 開演 19:00",
+    "open_start_time": "",
     "is_new": false,
     "added_id": "20250928113844"
   },
