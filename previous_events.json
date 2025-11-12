@@ -1,5 +1,19 @@
 [
   {
+    "title": "全日本表現力選手権 ～なんばグランド花月の会～",
+    "date": "2025-11-12",
+    "date_text": "2025/11/12(水)",
+    "venue": "なんばグランド花月（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/26101/25152",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20251112114026"
+  },
+  {
     "title": "よしもとお笑いレストラン",
     "date": "2025-11-23",
     "date_text": "2025/11/23(日・祝)",
@@ -31,7 +45,7 @@
       "全席指定／前売：￥4,000"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20251109113833"
   },
   {
@@ -118,21 +132,6 @@
       "全席指定／前売：￥4,500"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": false,
-    "added_id": "20251014113858"
-  },
-  {
-    "title": "全日本表現力選手権 ～なんばグランド花月の会～",
-    "date": "2025-11-12",
-    "date_text": "2025/11/12(水)",
-    "venue": "なんばグランド花月（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/26103/25152",
-    "prices": [
-      "全席指定／当日：￥3,500",
-      "注釈付指定席／当日：￥3,500"
-    ],
-    "open_start_time": "開場 19:00 / 開演 19:30",
     "is_new": false,
     "added_id": "20251014113858"
   },
