@@ -1,5 +1,19 @@
 [
   {
+    "title": "新ネタライブ!!ハイキック寄席!!",
+    "date": "2025-11-21",
+    "date_text": "2025/11/21(金)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/24696/23641",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20251121113841"
+  },
+  {
     "title": "ヒューマンハートハートアワー ～ネタとコンビ愛のアワー～",
     "date": "2025-11-21",
     "date_text": "2025/11/21(金)",
@@ -191,21 +205,6 @@
       "立見（整理番号）／前売：￥1,800"
     ],
     "open_start_time": "開場 20:45 / 開演 21:00",
-    "is_new": false,
-    "added_id": "20250928113844"
-  },
-  {
-    "title": "新ネタライブ!!ハイキック寄席!!",
-    "date": "2025-11-21",
-    "date_text": "2025/11/21(金)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/24786/23641",
-    "prices": [
-      "指定席／当日：￥2,300",
-      "立見（整理番号）／当日：￥2,300"
-    ],
-    "open_start_time": "開場 20:30 / 開演 20:45",
     "is_new": false,
     "added_id": "20250928113844"
   },
