@@ -1,5 +1,33 @@
 [
   {
+    "title": "よしもとゴリラライブ",
+    "date": "2026-01-26",
+    "date_text": "2026/01/26(月)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/31990/30461",
+    "prices": [
+      "指定席／前売：￥1,800"
+    ],
+    "open_start_time": "開場 19:00 / 開演 19:15",
+    "is_new": true,
+    "added_id": "20251124234302"
+  },
+  {
+    "title": "三軍の金帯",
+    "date": "2026-01-07",
+    "date_text": "2026/01/07(水)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/31961/30450",
+    "prices": [
+      "指定席／前売：￥1,500"
+    ],
+    "open_start_time": "開場 20:45 / 開演 21:00",
+    "is_new": true,
+    "added_id": "20251124234302"
+  },
+  {
     "title": "大喜利大集合 ～ハゲ・ヒゲ・ロン毛大集合～",
     "date": "2025-12-24",
     "date_text": "2025/12/24(水)",
@@ -150,8 +178,8 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/25716/24868",
     "prices": [
-      "全席指定／前売大人：￥3,500",
-      "全席指定／前売小学生以下：￥1,000"
+      "全席指定／当日大人：￥3,500",
+      "全席指定／当日小学生以下：￥1,000"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": false,
@@ -180,8 +208,8 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/24794/23646",
     "prices": [
-      "指定席／前売：￥1,800",
-      "立見（整理番号）／前売：￥1,800"
+      "指定席／当日：￥2,000",
+      "立見（整理番号）／当日：￥2,000"
     ],
     "open_start_time": "開場 20:45 / 開演 21:00",
     "is_new": false,
