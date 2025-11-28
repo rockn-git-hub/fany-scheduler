@@ -1,5 +1,49 @@
 [
   {
+    "title": "よしもとゴリラライブ",
+    "date": "2026-01-26",
+    "date_text": "2026/01/26(月)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/32090/30461",
+    "prices": [
+      "指定席／前売：￥1,800",
+      "立見（整理番号）／前売：￥1,800"
+    ],
+    "open_start_time": "開場 19:00 / 開演 19:15",
+    "is_new": true,
+    "added_id": "20251128113913"
+  },
+  {
+    "title": "金属バット×例えば炎ツーマンライブ「例えバット」",
+    "date": "2026-01-13",
+    "date_text": "2026/01/13(火)",
+    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
+    "sale_status": "抽選受付中",
+    "detail_link": "https://ticket.fany.lol/reception/31841/30676",
+    "prices": [
+      "全席指定／前売：￥2,500"
+    ],
+    "open_start_time": "開場 19:00 / 開演 19:30",
+    "is_new": true,
+    "added_id": "20251128113913"
+  },
+  {
+    "title": "三軍の金帯",
+    "date": "2026-01-07",
+    "date_text": "2026/01/07(水)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/32061/30450",
+    "prices": [
+      "指定席／前売：￥1,500",
+      "立見（整理番号）／前売：￥1,500"
+    ],
+    "open_start_time": "開場 20:45 / 開演 21:00",
+    "is_new": true,
+    "added_id": "20251128113913"
+  },
+  {
     "title": "よしもとお笑い森ノ宮劇場 新春寄席",
     "date": "2026-01-04",
     "date_text": "2026/01/04(日)",
@@ -129,34 +173,6 @@
     "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": true,
     "added_id": "20251126114013"
-  },
-  {
-    "title": "よしもとゴリラライブ",
-    "date": "2026-01-26",
-    "date_text": "2026/01/26(月)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/31990/30461",
-    "prices": [
-      "指定席／前売：￥1,800"
-    ],
-    "open_start_time": "開場 19:00 / 開演 19:15",
-    "is_new": true,
-    "added_id": "20251124234302"
-  },
-  {
-    "title": "三軍の金帯",
-    "date": "2026-01-07",
-    "date_text": "2026/01/07(水)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/31961/30450",
-    "prices": [
-      "指定席／前売：￥1,500"
-    ],
-    "open_start_time": "開場 20:45 / 開演 21:00",
-    "is_new": true,
-    "added_id": "20251124234302"
   },
   {
     "title": "大喜利大集合 ～ハゲ・ヒゲ・ロン毛大集合～",
