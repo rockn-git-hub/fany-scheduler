@@ -1,5 +1,19 @@
 [
   {
+    "title": "「漫才×漫才×コント×コント×トム・ブラウン」",
+    "date": "2025-12-26",
+    "date_text": "2025/12/26(金)",
+    "venue": "YES THEATER（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/32633/31279",
+    "prices": [
+      "全席指定／前売：￥2,000"
+    ],
+    "open_start_time": "開場 16:30 / 開演 17:00",
+    "is_new": true,
+    "added_id": "20251201234328"
+  },
+  {
     "title": "金属バット×例えば炎ツーマンライブ「例えバット」",
     "date": "2026-01-13",
     "date_text": "2026/01/13(火)",
@@ -268,8 +282,8 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/27659/27339",
     "prices": [
-      "全席指定／前売大人：￥3,500",
-      "全席指定／前売小学生以下：￥1,000"
+      "全席指定／当日大人：￥3,500",
+      "全席指定／当日小学生以下：￥1,000"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": false,
