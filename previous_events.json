@@ -330,8 +330,8 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/27659/27341",
     "prices": [
-      "全席指定／前売大人：￥3,500",
-      "全席指定／前売小学生以下：￥1,000"
+      "全席指定／当日大人：￥3,500",
+      "全席指定／当日小学生以下：￥1,000"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": false,
