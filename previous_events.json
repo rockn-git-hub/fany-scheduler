@@ -67,7 +67,7 @@
     "date": "2025-12-26",
     "date_text": "2025/12/26(金)",
     "venue": "YES THEATER（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/32633/31279",
     "prices": [
       "全席指定／前売：￥2,000"
@@ -87,7 +87,7 @@
       "全席指定／前売：￥2,500"
     ],
     "open_start_time": "開場 19:00 / 開演 19:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20251130113833"
   },
   {
