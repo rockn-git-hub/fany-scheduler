@@ -4,7 +4,7 @@
     "date": "2025-12-30",
     "date_text": "2025/12/30(火)",
     "venue": "イオンシネマ京都桂川（京都府）",
-    "sale_status": "不明",
+    "sale_status": "抽選受付中",
     "detail_link": "https://ticket.fany.lol/reception/32787/31447",
     "prices": [
       "全席指定／前売：￥4,000"
@@ -18,7 +18,7 @@
     "date": "2025-12-30",
     "date_text": "2025/12/30(火)",
     "venue": "イオンシネマ茨木（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "抽選受付中",
     "detail_link": "https://ticket.fany.lol/reception/32787/31448",
     "prices": [
       "全席指定／前売：￥4,000"
@@ -32,7 +32,7 @@
     "date": "2026-02-15",
     "date_text": "2026/02/15(日)",
     "venue": "フェニーチェ堺　大ホール（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "抽選受付中",
     "detail_link": "https://ticket.fany.lol/reception/32760/31397",
     "prices": [
       "S席／前売：￥5,000",
@@ -48,7 +48,7 @@
     "date": "2026-02-15",
     "date_text": "2026/02/15(日)",
     "venue": "フェニーチェ堺　大ホール（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "抽選受付中",
     "detail_link": "https://ticket.fany.lol/reception/32760/31401",
     "prices": [
       "S席／前売：￥5,000",
@@ -91,7 +91,7 @@
       "整理番号付自由席／前売：￥3,500"
     ],
     "open_start_time": "開場 11:30 / 開演 12:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20251202234336"
   },
   {
@@ -112,7 +112,7 @@
       "整理番号付自由席／前売：￥3,500"
     ],
     "open_start_time": "開場 11:30 / 開演 12:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20251202234336"
   },
   {
@@ -133,7 +133,7 @@
       "整理番号付自由席／前売：￥3,500"
     ],
     "open_start_time": "開場 11:30 / 開演 12:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20251202234336"
   },
   {
