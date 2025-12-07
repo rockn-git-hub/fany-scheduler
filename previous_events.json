@@ -1,63 +1,17 @@
 [
   {
-    "title": "『DAIBAKUSHOW 2025』　第一部　ライブビューイング",
-    "date": "2025-12-30",
-    "date_text": "2025/12/30(火)",
-    "venue": "イオンシネマ京都桂川（京都府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/32787/31447",
+    "title": "ワルガキ ～タンクと友保～",
+    "date": "2025-12-26",
+    "date_text": "2025/12/26(金)",
+    "venue": "新世界ZAZA POCKETS（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/33163/31902",
     "prices": [
-      "全席指定／前売：￥4,000"
+      "整理番号付自由席／前売：￥2,000"
     ],
-    "open_start_time": "",
+    "open_start_time": "開場 18:45 / 開演 19:00",
     "is_new": true,
-    "added_id": "20251205234313"
-  },
-  {
-    "title": "『DAIBAKUSHOW 2025』　第一部　ライブビューイング",
-    "date": "2025-12-30",
-    "date_text": "2025/12/30(火)",
-    "venue": "イオンシネマ茨木（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/32787/31448",
-    "prices": [
-      "全席指定／前売：￥4,000"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20251205234313"
-  },
-  {
-    "title": "よしもとお笑いライブin堺2026",
-    "date": "2026-02-15",
-    "date_text": "2026/02/15(日)",
-    "venue": "フェニーチェ堺　大ホール（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/32760/31397",
-    "prices": [
-      "S席／前売：￥5,000",
-      "A席／前売：￥3,500",
-      "B席／前売：￥2,500"
-    ],
-    "open_start_time": "開場 09:45 / 開演 10:30",
-    "is_new": true,
-    "added_id": "20251205114046"
-  },
-  {
-    "title": "よしもとお笑いライブin堺2026",
-    "date": "2026-02-15",
-    "date_text": "2026/02/15(日)",
-    "venue": "フェニーチェ堺　大ホール（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/32760/31401",
-    "prices": [
-      "S席／前売：￥5,000",
-      "A席／前売：￥3,500",
-      "B席／前売：￥2,500"
-    ],
-    "open_start_time": "開場 13:15 / 開演 14:00",
-    "is_new": true,
-    "added_id": "20251205114046"
+    "added_id": "20251207234224"
   },
   {
     "title": "無限ヤジマリー。",
@@ -151,78 +105,6 @@
     "added_id": "20251201234328"
   },
   {
-    "title": "金属バット×例えば炎ツーマンライブ「例えバット」",
-    "date": "2026-01-13",
-    "date_text": "2026/01/13(火)",
-    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/31843/30676",
-    "prices": [
-      "全席指定／前売：￥2,500"
-    ],
-    "open_start_time": "開場 19:00 / 開演 19:30",
-    "is_new": false,
-    "added_id": "20251130113833"
-  },
-  {
-    "title": "よしもとゴリラライブ",
-    "date": "2026-01-26",
-    "date_text": "2026/01/26(月)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/32090/30461",
-    "prices": [
-      "指定席／前売：￥1,800",
-      "立見（整理番号）／前売：￥1,800"
-    ],
-    "open_start_time": "開場 19:00 / 開演 19:15",
-    "is_new": false,
-    "added_id": "20251128113913"
-  },
-  {
-    "title": "三軍の金帯",
-    "date": "2026-01-07",
-    "date_text": "2026/01/07(水)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/32061/30450",
-    "prices": [
-      "指定席／前売：￥1,500",
-      "立見（整理番号）／前売：￥1,500"
-    ],
-    "open_start_time": "開場 20:45 / 開演 21:00",
-    "is_new": false,
-    "added_id": "20251128113913"
-  },
-  {
-    "title": "よしもとお笑い森ノ宮劇場 新春寄席",
-    "date": "2026-01-04",
-    "date_text": "2026/01/04(日)",
-    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/32311/31016",
-    "prices": [
-      "全席指定／前売：￥4,000"
-    ],
-    "open_start_time": "開場 10:30 / 開演 11:00",
-    "is_new": false,
-    "added_id": "20251127234228"
-  },
-  {
-    "title": "よしもとお笑い森ノ宮劇場 新春寄席",
-    "date": "2026-01-04",
-    "date_text": "2026/01/04(日)",
-    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/32311/31017",
-    "prices": [
-      "全席指定／前売：￥4,000"
-    ],
-    "open_start_time": "開場 13:30 / 開演 14:00",
-    "is_new": false,
-    "added_id": "20251127234228"
-  },
-  {
     "title": "よしもとお笑い森ノ宮劇場",
     "date": "2025-12-29",
     "date_text": "2025/12/29(月)",
@@ -230,10 +112,9 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/32247/30988",
     "prices": [
-      "全席指定／前売：￥3,500",
-      "全席指定／前売　学生：￥2,000"
+      "価格取得エラー: Message: \n"
     ],
-    "open_start_time": "開場 10:30 / 開演 11:00",
+    "open_start_time": "",
     "is_new": false,
     "added_id": "20251127234228"
   },
@@ -354,34 +235,6 @@
     "added_id": "20251122234222"
   },
   {
-    "title": "シゲカズですpresents新春さらにさらにナンカゲ2026",
-    "date": "2026-01-20",
-    "date_text": "2026/01/20(火)",
-    "venue": "なんばグランド花月（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/29166/28855",
-    "prices": [
-      "全席指定／前売：￥4,000"
-    ],
-    "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": false,
-    "added_id": "20251109113833"
-  },
-  {
-    "title": "神★大喜利 ～東西交流会～",
-    "date": "2026-01-11",
-    "date_text": "2026/01/11(日)",
-    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/28740/28587",
-    "prices": [
-      "全席指定／前売：￥3,500"
-    ],
-    "open_start_time": "開場 11:00 / 開演 11:30",
-    "is_new": false,
-    "added_id": "20251104114047"
-  },
-  {
     "title": "新ネタライブ!!ハイキック寄席!!",
     "date": "2025-12-08",
     "date_text": "2025/12/08(月)",
@@ -389,8 +242,8 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/28186/26948",
     "prices": [
-      "指定席／前売：￥2,000",
-      "立見（整理番号）／前売：￥2,000"
+      "指定席／当日：￥2,500",
+      "立見（整理番号）／当日：￥2,500"
     ],
     "open_start_time": "開場 19:00 / 開演 19:15",
     "is_new": false,
@@ -423,19 +276,5 @@
     "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": false,
     "added_id": "20251014113858"
-  },
-  {
-    "title": "アブナイ　ヨセ　全国ツアー　「アブナイ ヨセin大阪」",
-    "date": "2026-01-11",
-    "date_text": "2026/01/11(日)",
-    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/23380/22785",
-    "prices": [
-      "全席指定／前売：￥4,000"
-    ],
-    "open_start_time": "開場 16:15 / 開演 16:45",
-    "is_new": false,
-    "added_id": "20250916113943"
   }
 ]
