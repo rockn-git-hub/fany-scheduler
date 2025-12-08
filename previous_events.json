@@ -1,5 +1,20 @@
 [
   {
+    "title": "新ネタライブ!!ハイキック寄席!!",
+    "date": "2026-01-19",
+    "date_text": "2026/01/19(月)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/33137/31843",
+    "prices": [
+      "指定席／前売：￥2,000",
+      "立見（整理番号）／前売：￥2,000"
+    ],
+    "open_start_time": "開場 20:45 / 開演 21:00",
+    "is_new": true,
+    "added_id": "20251208234359"
+  },
+  {
     "title": "よしもとお笑いライブin堺2026",
     "date": "2026-02-15",
     "date_text": "2026/02/15(日)",
@@ -238,20 +253,6 @@
     "detail_link": "https://ticket.fany.lol/reception/32787/31448",
     "prices": [
       "全席指定／前売：￥4,000"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20251208114211"
-  },
-  {
-    "title": "新ネタライブ!!ハイキック寄席!!",
-    "date": "2025-12-08",
-    "date_text": "2025/12/08(月)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/28092/26948",
-    "prices": [
-      "価格取得エラー: Message: \n"
     ],
     "open_start_time": "",
     "is_new": true,
