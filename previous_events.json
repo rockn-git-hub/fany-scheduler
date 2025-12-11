@@ -27,7 +27,7 @@
       "B席／前売：￥2,500"
     ],
     "open_start_time": "開場 09:45 / 開演 10:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20251208114211"
   },
   {
@@ -43,7 +43,7 @@
       "B席／前売：￥2,500"
     ],
     "open_start_time": "開場 13:15 / 開演 14:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20251208114211"
   },
   {
@@ -51,13 +51,13 @@
     "date": "2026-01-27",
     "date_text": "2026/01/27(火) ～ 2026/01/27(火)",
     "venue": "日本橋Pollux Theater（大阪府）",
-    "sale_status": "抽選受付中",
+    "sale_status": "抽選受付終了",
     "detail_link": "https://ticket.fany.lol/reception/33152/31850",
     "prices": [
       "通し券／前売：￥5,000"
     ],
     "open_start_time": "",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20251208114211"
   },
   {
@@ -71,7 +71,7 @@
       "整理番号付自由席／前売：￥3,000"
     ],
     "open_start_time": "開場 18:45 / 開演 19:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20251208114211"
   },
   {
@@ -85,7 +85,7 @@
       "整理番号付自由席／前売：￥3,000"
     ],
     "open_start_time": "開場 20:15 / 開演 20:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20251208114211"
   },
   {
@@ -100,7 +100,7 @@
       "立見（整理番号）／前売：￥1,800"
     ],
     "open_start_time": "開場 19:00 / 開演 19:15",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20251208114211"
   },
   {
@@ -114,7 +114,7 @@
       "全席指定／前売：￥4,000"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20251208114211"
   },
   {
@@ -128,7 +128,7 @@
       "全席指定／前売：￥2,500"
     ],
     "open_start_time": "開場 19:00 / 開演 19:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20251208114211"
   },
   {
@@ -142,7 +142,7 @@
       "全席指定／前売：￥3,500"
     ],
     "open_start_time": "開場 11:00 / 開演 11:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20251208114211"
   },
   {
@@ -156,7 +156,7 @@
       "全席指定／前売：￥4,000"
     ],
     "open_start_time": "開場 16:15 / 開演 16:45",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20251208114211"
   },
   {
@@ -171,7 +171,7 @@
       "立見（整理番号）／前売：￥1,500"
     ],
     "open_start_time": "開場 20:45 / 開演 21:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20251208114211"
   },
   {
@@ -185,7 +185,7 @@
       "全席指定／前売：￥4,000"
     ],
     "open_start_time": "開場 10:30 / 開演 11:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20251208114211"
   },
   {
@@ -199,7 +199,7 @@
       "全席指定／前売：￥5,000"
     ],
     "open_start_time": "開場 10:30 / 開演 11:15",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20251208114211"
   },
   {
@@ -213,7 +213,7 @@
       "全席指定／前売：￥4,000"
     ],
     "open_start_time": "開場 13:30 / 開演 14:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20251208114211"
   },
   {
@@ -227,7 +227,7 @@
       "全席指定／前売：￥5,000"
     ],
     "open_start_time": "開場 13:15 / 開演 14:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20251208114211"
   },
   {
@@ -241,7 +241,7 @@
       "全席指定／前売：￥4,000"
     ],
     "open_start_time": "",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20251208114211"
   },
   {
@@ -255,7 +255,7 @@
       "全席指定／前売：￥4,000"
     ],
     "open_start_time": "",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20251208114211"
   },
   {
