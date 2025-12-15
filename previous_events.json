@@ -31,7 +31,7 @@
       "整理番号付自由席／前売：￥3,500"
     ],
     "open_start_time": "開場 11:30 / 開演 12:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20251211234515"
   },
   {
@@ -100,7 +100,7 @@
     "date": "2026-01-27",
     "date_text": "2026/01/27(火)",
     "venue": "日本橋Pollux Theater（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/33155/31852",
     "prices": [
       "整理番号付自由席／前売：￥3,000"
@@ -114,7 +114,7 @@
     "date": "2026-01-27",
     "date_text": "2026/01/27(火)",
     "venue": "日本橋Pollux Theater（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/33156/31853",
     "prices": [
       "整理番号付自由席／前売：￥3,000"
