@@ -56,20 +56,6 @@
     "added_id": "20251215234537"
   },
   {
-    "title": "笑い飯×金属バット×ロングコートダディ ～コロラド～",
-    "date": "2025-12-16",
-    "date_text": "2025/12/16(火)",
-    "venue": "ヒューリックホール京都（京都府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/31577/30640",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20251215234537"
-  },
-  {
     "title": "よしもとお笑いレストラン",
     "date": "2026-01-18",
     "date_text": "2026/01/18(日)",
@@ -558,20 +544,6 @@
     "added_id": "20251123234216"
   },
   {
-    "title": "よしもとお笑い河原町劇場",
-    "date": "2025-12-16",
-    "date_text": "2025/12/16(火)",
-    "venue": "ヒューリックホール京都（京都府）",
-    "sale_status": "先着発売終了",
-    "detail_link": "https://ticket.fany.lol/reception/31574/30639",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": false,
-    "added_id": "20251122234222"
-  },
-  {
     "title": "お笑いブーム",
     "date": "2025-12-17",
     "date_text": "2025/12/17(水)",
@@ -579,7 +551,7 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/26501/25626",
     "prices": [
-      "全席指定／前売：￥4,500"
+      "全席指定／当日：￥5,000"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": false,
