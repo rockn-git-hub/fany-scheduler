@@ -1,5 +1,19 @@
 [
   {
+    "title": "お笑いブーム",
+    "date": "2025-12-17",
+    "date_text": "2025/12/17(水)",
+    "venue": "なんばグランド花月（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/26499/25626",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20251217114328"
+  },
+  {
     "title": "大喜利大集合・ハゲ・ヒゲ・ロン毛大集合SP",
     "date": "2026-01-28",
     "date_text": "2026/01/28(水)",
@@ -18,7 +32,7 @@
     "date": "2025-12-19",
     "date_text": "2025/12/19(金)",
     "venue": "COOL JAPAN PARK OSAKA WWホール（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/34164/25675",
     "prices": [
       "機材開放席／前売：￥4,500"
@@ -32,7 +46,7 @@
     "date": "2026-03-20",
     "date_text": "2026/03/20(金・祝) ～ 2026/03/20(金・祝)",
     "venue": "GORILLA HALL OSAKA（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "抽選受付中FANYコミュ限定先行",
     "detail_link": "https://ticket.fany.lol/reception/33759/32407",
     "prices": [
       "スタンディング／通し券：￥12,000"
@@ -46,7 +60,7 @@
     "date": "2026-03-20",
     "date_text": "2026/03/20(金・祝)",
     "venue": "GORILLA HALL OSAKA（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "抽選受付中FANYコミュ限定先行",
     "detail_link": "https://ticket.fany.lol/reception/33782/32386",
     "prices": [
       "スタンディング／第二部 過激大祭典：￥6,000"
@@ -542,19 +556,5 @@
     "open_start_time": "開場 18:40 / 開演 19:00",
     "is_new": false,
     "added_id": "20251123234216"
-  },
-  {
-    "title": "お笑いブーム",
-    "date": "2025-12-17",
-    "date_text": "2025/12/17(水)",
-    "venue": "なんばグランド花月（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/26501/25626",
-    "prices": [
-      "全席指定／当日：￥5,000"
-    ],
-    "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": false,
-    "added_id": "20251014113858"
   }
 ]
