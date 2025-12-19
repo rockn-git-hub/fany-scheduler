@@ -18,7 +18,7 @@
     "date": "2026-01-28",
     "date_text": "2026/01/28(水)",
     "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/33604/32298",
     "prices": [
       "全席指定／前売：￥3,500"
@@ -38,7 +38,7 @@
       "スタンディング／通し券：￥12,000"
     ],
     "open_start_time": "",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20251215234537"
   },
   {
@@ -52,7 +52,7 @@
       "スタンディング／第二部 過激大祭典：￥6,000"
     ],
     "open_start_time": "開場 17:45 / 開演 18:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20251215234537"
   },
   {
@@ -202,7 +202,8 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/31843/30676",
     "prices": [
-      "全席指定／前売：￥2,500"
+      "全席指定／前売：￥2,500",
+      "注釈付指定席／前売：￥2,500"
     ],
     "open_start_time": "開場 19:00 / 開演 19:30",
     "is_new": false,
