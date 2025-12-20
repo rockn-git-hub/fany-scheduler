@@ -1,17 +1,31 @@
 [
   {
-    "title": "「金属バットの単独ライブ」大阪公演",
-    "date": "2025-12-19",
-    "date_text": "2025/12/19(金)",
-    "venue": "COOL JAPAN PARK OSAKA WWホール（大阪府）",
+    "title": "『DAIBAKUSHOW 2025』　第一部　ライブビューイング",
+    "date": "2025-12-30",
+    "date_text": "2025/12/30(火)",
+    "venue": "イオンシネマ京都桂川（京都府）",
     "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/26536/25675",
+    "detail_link": "https://ticket.fany.lol/reception/32790/31447",
     "prices": [
-      "価格取得エラー: Message: \n"
+      "全席指定／前売：￥4,000"
     ],
     "open_start_time": "",
     "is_new": true,
-    "added_id": "20251218234442"
+    "added_id": "20251220234258"
+  },
+  {
+    "title": "『DAIBAKUSHOW 2025』　第一部　ライブビューイング",
+    "date": "2025-12-30",
+    "date_text": "2025/12/30(火)",
+    "venue": "イオンシネマ茨木（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/32790/31448",
+    "prices": [
+      "全席指定／前売：￥4,000"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20251220234258"
   },
   {
     "title": "大喜利大集合・ハゲ・ヒゲ・ロン毛大集合SP",
@@ -24,7 +38,7 @@
       "全席指定／前売：￥3,500"
     ],
     "open_start_time": "開場 18:20 / 開演 19:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20251216114312"
   },
   {
@@ -305,34 +319,6 @@
       "全席指定／前売：￥5,000"
     ],
     "open_start_time": "開場 13:15 / 開演 14:00",
-    "is_new": false,
-    "added_id": "20251208114211"
-  },
-  {
-    "title": "『DAIBAKUSHOW 2025』　第一部　ライブビューイング",
-    "date": "2025-12-30",
-    "date_text": "2025/12/30(火)",
-    "venue": "イオンシネマ京都桂川（京都府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/32787/31447",
-    "prices": [
-      "全席指定／前売：￥4,000"
-    ],
-    "open_start_time": "",
-    "is_new": false,
-    "added_id": "20251208114211"
-  },
-  {
-    "title": "『DAIBAKUSHOW 2025』　第一部　ライブビューイング",
-    "date": "2025-12-30",
-    "date_text": "2025/12/30(火)",
-    "venue": "イオンシネマ茨木（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/32787/31448",
-    "prices": [
-      "全席指定／前売：￥4,000"
-    ],
-    "open_start_time": "",
     "is_new": false,
     "added_id": "20251208114211"
   },
