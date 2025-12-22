@@ -1,5 +1,35 @@
 [
   {
+    "title": "19時ライブ～ネタ＆吉本新喜劇～",
+    "date": "2026-02-24",
+    "date_text": "2026/02/24(火)",
+    "venue": "なんばグランド花月（大阪府）",
+    "sale_status": "先着発売中",
+    "detail_link": "https://ticket.fany.lol/reception/34649/32698",
+    "prices": [
+      "全席指定／前売大人：￥3,500",
+      "全席指定／前売小学生以下：￥1,000"
+    ],
+    "open_start_time": "開場 18:30 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20251222114138"
+  },
+  {
+    "title": "19時ライブ～ネタ＆吉本新喜劇～",
+    "date": "2026-02-19",
+    "date_text": "2026/02/19(木)",
+    "venue": "なんばグランド花月（大阪府）",
+    "sale_status": "先着発売中",
+    "detail_link": "https://ticket.fany.lol/reception/34649/32695",
+    "prices": [
+      "全席指定／前売大人：￥3,500",
+      "全席指定／前売小学生以下：￥1,000"
+    ],
+    "open_start_time": "開場 18:30 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20251222114138"
+  },
+  {
     "title": "『DAIBAKUSHOW 2025』　第一部　ライブビューイング",
     "date": "2025-12-30",
     "date_text": "2025/12/30(火)",
