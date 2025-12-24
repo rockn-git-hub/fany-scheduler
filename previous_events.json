@@ -1,5 +1,61 @@
 [
   {
+    "title": "三軍の金帯",
+    "date": "2026-02-27",
+    "date_text": "2026/02/27(金)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/35313/32922",
+    "prices": [
+      "指定席／前売：￥1,500"
+    ],
+    "open_start_time": "開場 19:15 / 開演 19:30",
+    "is_new": true,
+    "added_id": "20251224234453"
+  },
+  {
+    "title": "ネタライブ！YES！FUTURE！",
+    "date": "2026-02-27",
+    "date_text": "2026/02/27(金)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/35314/32939",
+    "prices": [
+      "指定席／前売：￥2,000"
+    ],
+    "open_start_time": "開場 20:45 / 開演 21:00",
+    "is_new": true,
+    "added_id": "20251224234453"
+  },
+  {
+    "title": "新ネタライブ!!ハイキック寄席!!",
+    "date": "2026-02-09",
+    "date_text": "2026/02/09(月)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/35283/32931",
+    "prices": [
+      "指定席／前売：￥2,000"
+    ],
+    "open_start_time": "開場 18:45 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20251224234453"
+  },
+  {
+    "title": "よしもと京都お笑い劇場",
+    "date": "2026-01-21",
+    "date_text": "2026/01/21(水)",
+    "venue": "京都府立文化芸術会館（京都府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/35647/33438",
+    "prices": [
+      "全席指定／前売：￥3,500"
+    ],
+    "open_start_time": "開場 14:30 / 開演 15:00",
+    "is_new": true,
+    "added_id": "20251224234453"
+  },
+  {
     "title": "ダブルアートの12才協会企画『全開の日』第二部「過激大祭典」",
     "date": "2026-03-20",
     "date_text": "2026/03/20(金・祝)",
@@ -374,7 +430,7 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/30152/29756",
     "prices": [
-      "整理番号付自由席／前売：￥2,000"
+      "整理番号付自由席／当日：￥2,500"
     ],
     "open_start_time": "開場 20:30 / 開演 20:45",
     "is_new": false,
@@ -408,27 +464,6 @@
     "venue": "よしもと道頓堀シアター（大阪府）",
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/29393/28943",
-    "prices": [
-      "整理番号付自由席／前売　バーガー付：￥4,600",
-      "整理番号付自由席／前売　ロコモコ付：￥4,200",
-      "整理番号付自由席／前売　オムライス付：￥4,200",
-      "整理番号付自由席／前売　唐揚付：￥3,900",
-      "整理番号付自由席／前売　ポテト(L)付：￥3,900",
-      "整理番号付自由席／前売　チュロス付：￥3,700",
-      "整理番号付自由席／前売　ワンドリンク付：￥3,700",
-      "整理番号付自由席／前売：￥3,500"
-    ],
-    "open_start_time": "開場 11:30 / 開演 12:00",
-    "is_new": false,
-    "added_id": "20251202234336"
-  },
-  {
-    "title": "よしもとお笑いレストラン",
-    "date": "2025-12-24",
-    "date_text": "2025/12/24(水)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "先着発売終了",
-    "detail_link": "https://ticket.fany.lol/reception/29393/28942",
     "prices": [
       "整理番号付自由席／当日　バーガー付：￥4,600",
       "整理番号付自由席／当日　ロコモコ付：￥4,200",
@@ -531,33 +566,5 @@
     "open_start_time": "開場 12:30 / 開演 13:00",
     "is_new": false,
     "added_id": "20251127234228"
-  },
-  {
-    "title": "ネタやって即打ち上げ",
-    "date": "2025-12-24",
-    "date_text": "2025/12/24(水)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "先着発売終了",
-    "detail_link": "https://ticket.fany.lol/reception/31356/30600",
-    "prices": [
-      "整理番号付自由席／当日：￥2,100"
-    ],
-    "open_start_time": "開場 16:40 / 開演 17:00",
-    "is_new": false,
-    "added_id": "20251126114013"
-  },
-  {
-    "title": "大喜利大集合 ～ハゲ・ヒゲ・ロン毛大集合～",
-    "date": "2025-12-24",
-    "date_text": "2025/12/24(水)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "先着発売終了",
-    "detail_link": "https://ticket.fany.lol/reception/31368/30601",
-    "prices": [
-      "整理番号付自由席／当日：￥3,000"
-    ],
-    "open_start_time": "開場 18:40 / 開演 19:00",
-    "is_new": false,
-    "added_id": "20251123234216"
   }
 ]
