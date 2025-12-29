@@ -63,7 +63,7 @@
     "sale_status": "抽選受付終了",
     "detail_link": "https://ticket.fany.lol/reception/32787/31447",
     "prices": [
-      "全席指定／前売：￥4,000"
+      "価格取得エラー: Message: \n"
     ],
     "open_start_time": "",
     "is_new": true,
@@ -77,7 +77,7 @@
     "sale_status": "抽選受付終了",
     "detail_link": "https://ticket.fany.lol/reception/32787/31448",
     "prices": [
-      "全席指定／前売：￥4,000"
+      "価格取得エラー: Message: \n"
     ],
     "open_start_time": "",
     "is_new": true,
@@ -480,35 +480,5 @@
     "open_start_time": "開場 13:15 / 開演 14:00",
     "is_new": false,
     "added_id": "20251208114211"
-  },
-  {
-    "title": "よしもとお笑い森ノ宮劇場",
-    "date": "2025-12-29",
-    "date_text": "2025/12/29(月)",
-    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
-    "sale_status": "先着発売終了",
-    "detail_link": "https://ticket.fany.lol/reception/32247/30988",
-    "prices": [
-      "全席指定／当日：￥3,500",
-      "全席指定／当日　学生：￥2,000"
-    ],
-    "open_start_time": "開場 10:30 / 開演 11:00",
-    "is_new": false,
-    "added_id": "20251127234228"
-  },
-  {
-    "title": "よしもとお笑い森ノ宮劇場",
-    "date": "2025-12-29",
-    "date_text": "2025/12/29(月)",
-    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
-    "sale_status": "先着発売終了",
-    "detail_link": "https://ticket.fany.lol/reception/32247/30989",
-    "prices": [
-      "全席指定／当日：￥3,500",
-      "全席指定／当日　学生：￥2,000"
-    ],
-    "open_start_time": "開場 13:30 / 開演 14:00",
-    "is_new": false,
-    "added_id": "20251127234228"
   }
 ]
