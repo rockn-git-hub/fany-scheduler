@@ -67,7 +67,7 @@
       "立見（整理番号）／前売：￥1,500"
     ],
     "open_start_time": "開場 19:15 / 開演 19:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20251228114023"
   },
   {
@@ -82,7 +82,7 @@
       "立見（整理番号）／前売：￥2,000"
     ],
     "open_start_time": "開場 20:45 / 開演 21:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20251228114023"
   },
   {
@@ -97,7 +97,7 @@
       "立見（整理番号）／前売：￥2,000"
     ],
     "open_start_time": "開場 18:45 / 開演 19:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20251228114023"
   },
   {
@@ -111,7 +111,7 @@
       "全席指定／前売：￥3,500"
     ],
     "open_start_time": "開場 14:30 / 開演 15:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20251228114023"
   },
   {
@@ -133,7 +133,7 @@
     "date": "2026-03-20",
     "date_text": "2026/03/20(金・祝)",
     "venue": "GORILLA HALL OSAKA（大阪府）",
-    "sale_status": "抽選受付終了FANYコミュ限定先行",
+    "sale_status": "抽選受付中",
     "detail_link": "https://ticket.fany.lol/reception/33821/32386",
     "prices": [
       "スタンディング／第二部 過激大祭典：￥6,000"
