@@ -1,59 +1,73 @@
 [
   {
+    "title": "バッテリィズがオーダーを組んでそのまま寄席してみました",
+    "date": "2026-03-19",
+    "date_text": "2026/03/19(木)",
+    "venue": "COOL JAPAN PARK OSAKA WWホール（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/36034/33625",
+    "prices": [
+      "全席指定／前売：￥3,000"
+    ],
+    "open_start_time": "開場 18:00 / 開演 18:30",
+    "is_new": true,
+    "added_id": "20260101114147"
+  },
+  {
     "title": "やさしいズタイpresents「タイの超企画でお腹を空かせてから・・",
     "date": "2026-02-11",
     "date_text": "2026/02/11(水・祝)",
     "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/35878/33532",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/35888/33532",
     "prices": [
       "指定席／前売：￥2,000"
     ],
     "open_start_time": "開場 11:00 / 開演 11:15",
     "is_new": true,
-    "added_id": "20251228234448"
+    "added_id": "20260101114147"
   },
   {
     "title": "やさしいズタイpresents「クイズ『なんで』のあと ～遂に・・",
     "date": "2026-02-11",
     "date_text": "2026/02/11(水・祝)",
     "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/35879/33536",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/35889/33536",
     "prices": [
       "指定席／前売：￥2,000"
     ],
     "open_start_time": "開場 13:15 / 開演 13:30",
     "is_new": true,
-    "added_id": "20251228234448"
+    "added_id": "20260101114147"
   },
   {
     "title": "やさしいズタイpresents「こここここここここここここここた・・",
     "date": "2026-02-11",
     "date_text": "2026/02/11(水・祝)",
     "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/35880/33538",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/35890/33538",
     "prices": [
       "指定席／前売：￥2,000"
     ],
     "open_start_time": "開場 15:00 / 開演 15:15",
     "is_new": true,
-    "added_id": "20251228234448"
+    "added_id": "20260101114147"
   },
   {
     "title": "「金属バットのトークライブ」",
     "date": "2026-02-10",
     "date_text": "2026/02/10(火)",
     "venue": "YES THEATER（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/35873/33563",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/35875/33563",
     "prices": [
       "全席指定／前売：￥2,500"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": true,
-    "added_id": "20251228234448"
+    "added_id": "20260101114147"
   },
   {
     "title": "三軍の金帯",
