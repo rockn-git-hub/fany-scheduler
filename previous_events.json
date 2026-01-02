@@ -1,19 +1,5 @@
 [
   {
-    "title": "バッテリィズがオーダーを組んでそのまま寄席してみました",
-    "date": "2026-03-19",
-    "date_text": "2026/03/19(木)",
-    "venue": "COOL JAPAN PARK OSAKA WWホール（大阪府）",
-    "sale_status": "不明",
-    "detail_link": "https://ticket.fany.lol/reception/36034/33625",
-    "prices": [
-      "全席指定／前売：￥3,000"
-    ],
-    "open_start_time": "開場 18:00 / 開演 18:30",
-    "is_new": true,
-    "added_id": "20260101114147"
-  },
-  {
     "title": "やさしいズタイpresents「タイの超企画でお腹を空かせてから・・",
     "date": "2026-02-11",
     "date_text": "2026/02/11(水・祝)",
@@ -70,36 +56,6 @@
     "added_id": "20260101114147"
   },
   {
-    "title": "三軍の金帯",
-    "date": "2026-02-27",
-    "date_text": "2026/02/27(金)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/35407/32922",
-    "prices": [
-      "指定席／前売：￥1,500",
-      "立見（整理番号）／前売：￥1,500"
-    ],
-    "open_start_time": "開場 19:15 / 開演 19:30",
-    "is_new": false,
-    "added_id": "20251228114023"
-  },
-  {
-    "title": "ネタライブ！YES！FUTURE！",
-    "date": "2026-02-27",
-    "date_text": "2026/02/27(金)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/35408/32939",
-    "prices": [
-      "指定席／前売：￥2,000",
-      "立見（整理番号）／前売：￥2,000"
-    ],
-    "open_start_time": "開場 20:45 / 開演 21:00",
-    "is_new": false,
-    "added_id": "20251228114023"
-  },
-  {
     "title": "新ネタライブ!!ハイキック寄席!!",
     "date": "2026-02-09",
     "date_text": "2026/02/09(月)",
@@ -143,50 +99,6 @@
     "added_id": "20251227113950"
   },
   {
-    "title": "ダブルアートの12才協会企画『全開の日』第二部「過激大祭典」",
-    "date": "2026-03-20",
-    "date_text": "2026/03/20(金・祝)",
-    "venue": "GORILLA HALL OSAKA（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/33821/32386",
-    "prices": [
-      "スタンディング／第二部 過激大祭典：￥6,000"
-    ],
-    "open_start_time": "開場 17:45 / 開演 18:30",
-    "is_new": false,
-    "added_id": "20251224114132"
-  },
-  {
-    "title": "19時ライブ～ネタ＆吉本新喜劇～",
-    "date": "2026-02-24",
-    "date_text": "2026/02/24(火)",
-    "venue": "なんばグランド花月（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/34649/32698",
-    "prices": [
-      "全席指定／前売大人：￥3,500",
-      "全席指定／前売小学生以下：￥1,000"
-    ],
-    "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": false,
-    "added_id": "20251222114138"
-  },
-  {
-    "title": "19時ライブ～ネタ＆吉本新喜劇～",
-    "date": "2026-02-19",
-    "date_text": "2026/02/19(木)",
-    "venue": "なんばグランド花月（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/34649/32695",
-    "prices": [
-      "全席指定／前売大人：￥3,500",
-      "全席指定／前売小学生以下：￥1,000"
-    ],
-    "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": false,
-    "added_id": "20251222114138"
-  },
-  {
     "title": "大喜利大集合・ハゲ・ヒゲ・ロン毛大集合SP",
     "date": "2026-01-28",
     "date_text": "2026/01/28(水)",
@@ -199,20 +111,6 @@
     "open_start_time": "開場 18:20 / 開演 19:00",
     "is_new": false,
     "added_id": "20251216114312"
-  },
-  {
-    "title": "ダブルアートの12才協会企画『全開の日』第一部、第二部通し券",
-    "date": "2026-03-20",
-    "date_text": "2026/03/20(金・祝) ～ 2026/03/20(金・祝)",
-    "venue": "GORILLA HALL OSAKA（大阪府）",
-    "sale_status": "抽選受付終了FANYコミュ限定先行",
-    "detail_link": "https://ticket.fany.lol/reception/33759/32407",
-    "prices": [
-      "スタンディング／通し券：￥12,000"
-    ],
-    "open_start_time": "",
-    "is_new": false,
-    "added_id": "20251215234537"
   },
   {
     "title": "よしもとお笑いレストラン",
@@ -249,38 +147,6 @@
     "open_start_time": "開場 20:45 / 開演 21:00",
     "is_new": false,
     "added_id": "20251208234359"
-  },
-  {
-    "title": "よしもとお笑いライブin堺2026",
-    "date": "2026-02-15",
-    "date_text": "2026/02/15(日)",
-    "venue": "フェニーチェ堺　大ホール（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/32762/31397",
-    "prices": [
-      "S席／前売：￥5,000",
-      "A席／前売：￥3,500",
-      "B席／前売：￥2,500"
-    ],
-    "open_start_time": "開場 09:45 / 開演 10:30",
-    "is_new": false,
-    "added_id": "20251208114211"
-  },
-  {
-    "title": "よしもとお笑いライブin堺2026",
-    "date": "2026-02-15",
-    "date_text": "2026/02/15(日)",
-    "venue": "フェニーチェ堺　大ホール（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/32762/31401",
-    "prices": [
-      "S席／前売：￥5,000",
-      "A席／前売：￥3,500",
-      "B席／前売：￥2,500"
-    ],
-    "open_start_time": "開場 13:15 / 開演 14:00",
-    "is_new": false,
-    "added_id": "20251208114211"
   },
   {
     "title": "【通し券】NORA 1月",
