@@ -1,19 +1,5 @@
 [
   {
-    "title": "ダブルアートの12才協会企画『全開の日』第二部「過激大祭典」",
-    "date": "2026-03-20",
-    "date_text": "2026/03/20(金・祝)",
-    "venue": "GORILLA HALL OSAKA（大阪府）",
-    "sale_status": "抽選受付終了FANYコミュ限定先行",
-    "detail_link": "https://ticket.fany.lol/reception/33823/32386",
-    "prices": [
-      "スタンディング／第二部 過激大祭典：￥6,000"
-    ],
-    "open_start_time": "開場 17:45 / 開演 18:30",
-    "is_new": true,
-    "added_id": "20260105114354"
-  },
-  {
     "title": "東西芸人森ノ宮寄席",
     "date": "2026-02-11",
     "date_text": "2026/02/11(水・祝)",
@@ -26,34 +12,6 @@
     "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": true,
     "added_id": "20260105114354"
-  },
-  {
-    "title": "ダブルアートの12才協会企画『全開の日』第一部、第二部通し券",
-    "date": "2026-03-20",
-    "date_text": "2026/03/20(金・祝) ～ 2026/03/20(金・祝)",
-    "venue": "GORILLA HALL OSAKA（大阪府）",
-    "sale_status": "抽選受付終了FANYコミュ限定先行",
-    "detail_link": "https://ticket.fany.lol/reception/33759/32407",
-    "prices": [
-      "スタンディング／通し券：￥12,000"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20260103113946"
-  },
-  {
-    "title": "バッテリィズがオーダーを組んでそのまま寄席してみました",
-    "date": "2026-03-19",
-    "date_text": "2026/03/19(木)",
-    "venue": "COOL JAPAN PARK OSAKA WWホール（大阪府）",
-    "sale_status": "不明",
-    "detail_link": "https://ticket.fany.lol/reception/36034/33625",
-    "prices": [
-      "全席指定／前売：￥3,000"
-    ],
-    "open_start_time": "開場 18:00 / 開演 18:30",
-    "is_new": true,
-    "added_id": "20260103113946"
   },
   {
     "title": "三軍の金帯",
