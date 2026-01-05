@@ -1,5 +1,33 @@
 [
   {
+    "title": "ダブルアートの12才協会企画『全開の日』第二部「過激大祭典」",
+    "date": "2026-03-20",
+    "date_text": "2026/03/20(金・祝)",
+    "venue": "GORILLA HALL OSAKA（大阪府）",
+    "sale_status": "抽選受付終了FANYコミュ限定先行",
+    "detail_link": "https://ticket.fany.lol/reception/33823/32386",
+    "prices": [
+      "スタンディング／第二部 過激大祭典：￥6,000"
+    ],
+    "open_start_time": "開場 17:45 / 開演 18:30",
+    "is_new": true,
+    "added_id": "20260105114354"
+  },
+  {
+    "title": "東西芸人森ノ宮寄席",
+    "date": "2026-02-11",
+    "date_text": "2026/02/11(水・祝)",
+    "venue": "COOL JAPAN PARK OSAKA WWホール（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/35800/33498",
+    "prices": [
+      "全席指定／前売：￥4,500"
+    ],
+    "open_start_time": "開場 18:30 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20260105114354"
+  },
+  {
     "title": "ダブルアートの12才協会企画『全開の日』第一部、第二部通し券",
     "date": "2026-03-20",
     "date_text": "2026/03/20(金・祝) ～ 2026/03/20(金・祝)",
@@ -10,20 +38,6 @@
       "スタンディング／通し券：￥12,000"
     ],
     "open_start_time": "",
-    "is_new": true,
-    "added_id": "20260103113946"
-  },
-  {
-    "title": "ダブルアートの12才協会企画『全開の日』第二部「過激大祭典」",
-    "date": "2026-03-20",
-    "date_text": "2026/03/20(金・祝)",
-    "venue": "GORILLA HALL OSAKA（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/33821/32386",
-    "prices": [
-      "スタンディング／第二部 過激大祭典：￥6,000"
-    ],
-    "open_start_time": "開場 17:45 / 開演 18:30",
     "is_new": true,
     "added_id": "20260103113946"
   },
@@ -46,7 +60,7 @@
     "date": "2026-02-27",
     "date_text": "2026/02/27(金)",
     "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/35407/32922",
     "prices": [
       "指定席／前売：￥1,500",
@@ -61,7 +75,7 @@
     "date": "2026-02-27",
     "date_text": "2026/02/27(金)",
     "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/35408/32939",
     "prices": [
       "指定席／前売：￥2,000",
@@ -194,7 +208,7 @@
     "date": "2026-02-09",
     "date_text": "2026/02/09(月)",
     "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/35377/32931",
     "prices": [
       "指定席／前売：￥2,000",
@@ -217,20 +231,6 @@
     "open_start_time": "開場 14:30 / 開演 15:00",
     "is_new": false,
     "added_id": "20251228114023"
-  },
-  {
-    "title": "東西芸人森ノ宮寄席",
-    "date": "2026-02-11",
-    "date_text": "2026/02/11(水・祝)",
-    "venue": "COOL JAPAN PARK OSAKA WWホール（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/35798/33498",
-    "prices": [
-      "全席指定／前売：￥4,500"
-    ],
-    "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": false,
-    "added_id": "20251227113950"
   },
   {
     "title": "大喜利大集合・ハゲ・ヒゲ・ロン毛大集合SP",
