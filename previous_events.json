@@ -1,5 +1,19 @@
 [
   {
+    "title": "三軍の金帯",
+    "date": "2026-01-07",
+    "date_text": "2026/01/07(水)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/31961/30450",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260107114321"
+  },
+  {
     "title": "ダブルアートの12才協会企画『全開の日』第一部、第二部通し券",
     "date": "2026-03-20",
     "date_text": "2026/03/20(金・祝) ～ 2026/03/20(金・祝)",
@@ -194,7 +208,7 @@
     "date": "2026-02-10",
     "date_text": "2026/02/10(火)",
     "venue": "YES THEATER（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/35875/33563",
     "prices": [
       "全席指定／前売：￥2,500"
@@ -393,21 +407,6 @@
       "全席指定／前売：￥4,000"
     ],
     "open_start_time": "開場 16:15 / 開演 16:45",
-    "is_new": false,
-    "added_id": "20251208114211"
-  },
-  {
-    "title": "三軍の金帯",
-    "date": "2026-01-07",
-    "date_text": "2026/01/07(水)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/32061/30450",
-    "prices": [
-      "指定席／当日：￥1,800",
-      "立見（整理番号）／当日：￥1,800"
-    ],
-    "open_start_time": "開場 20:45 / 開演 21:00",
     "is_new": false,
     "added_id": "20251208114211"
   }
