@@ -1,5 +1,33 @@
 [
   {
+    "title": "大喜利大集合 ～ハゲ・ヒゲ・ロン毛大集合～",
+    "date": "2026-02-24",
+    "date_text": "2026/02/24(火)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/36623/33995",
+    "prices": [
+      "整理番号付自由席／前売：￥2,500"
+    ],
+    "open_start_time": "開場 17:10 / 開演 17:30",
+    "is_new": true,
+    "added_id": "20260108234506"
+  },
+  {
+    "title": "漫才×漫才×コント×コント×ダブルヒガシ",
+    "date": "2026-02-15",
+    "date_text": "2026/02/15(日)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/36560/33950",
+    "prices": [
+      "整理番号付自由席／前売：￥1,800"
+    ],
+    "open_start_time": "開場 20:30 / 開演 20:50",
+    "is_new": true,
+    "added_id": "20260108234506"
+  },
+  {
     "title": "ダブルアートの12才協会企画『全開の日』第一部、第二部通し券",
     "date": "2026-03-20",
     "date_text": "2026/03/20(金・祝) ～ 2026/03/20(金・祝)",
@@ -52,7 +80,7 @@
       "全席指定／前売：￥4,500"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260105114354"
   },
   {
