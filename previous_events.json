@@ -1,5 +1,19 @@
 [
   {
+    "title": "タカトシプレゼンツ 新ネタやろうぜ！",
+    "date": "2026-02-26",
+    "date_text": "2026/02/26(木)",
+    "venue": "なんばグランド花月（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/36321/33720",
+    "prices": [
+      "全席指定／前売：￥3,500"
+    ],
+    "open_start_time": "開場 18:30 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20260109114306"
+  },
+  {
     "title": "大喜利大集合 ～ハゲ・ヒゲ・ロン毛大集合～",
     "date": "2026-02-24",
     "date_text": "2026/02/24(火)",
@@ -38,7 +52,7 @@
       "スタンディング／通し券：￥12,000"
     ],
     "open_start_time": "",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260106114215"
   },
   {
@@ -52,7 +66,7 @@
       "スタンディング／第二部 過激大祭典：￥6,000"
     ],
     "open_start_time": "開場 17:45 / 開演 18:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260106114215"
   },
   {
@@ -66,7 +80,7 @@
       "全席指定／前売：￥3,000"
     ],
     "open_start_time": "開場 18:00 / 開演 18:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260106114215"
   },
   {
