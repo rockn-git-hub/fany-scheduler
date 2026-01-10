@@ -1,5 +1,33 @@
 [
   {
+    "title": "神★大喜利 ～東西交流会～",
+    "date": "2026-01-11",
+    "date_text": "2026/01/11(日)",
+    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/28738/28587",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260110234444"
+  },
+  {
+    "title": "アブナイ　ヨセ　全国ツアー　「アブナイ ヨセin大阪」",
+    "date": "2026-01-11",
+    "date_text": "2026/01/11(日)",
+    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/23378/22785",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260110234444"
+  },
+  {
     "title": "タカトシプレゼンツ 新ネタやろうぜ！",
     "date": "2026-02-26",
     "date_text": "2026/02/26(木)",
@@ -407,34 +435,6 @@
       "注釈付指定席／前売：￥2,500"
     ],
     "open_start_time": "開場 19:00 / 開演 19:30",
-    "is_new": false,
-    "added_id": "20251208114211"
-  },
-  {
-    "title": "神★大喜利 ～東西交流会～",
-    "date": "2026-01-11",
-    "date_text": "2026/01/11(日)",
-    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/28740/28587",
-    "prices": [
-      "全席指定／前売：￥3,500"
-    ],
-    "open_start_time": "開場 11:00 / 開演 11:30",
-    "is_new": false,
-    "added_id": "20251208114211"
-  },
-  {
-    "title": "アブナイ　ヨセ　全国ツアー　「アブナイ ヨセin大阪」",
-    "date": "2026-01-11",
-    "date_text": "2026/01/11(日)",
-    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/23380/22785",
-    "prices": [
-      "全席指定／前売：￥4,000"
-    ],
-    "open_start_time": "開場 16:15 / 開演 16:45",
     "is_new": false,
     "added_id": "20251208114211"
   }
