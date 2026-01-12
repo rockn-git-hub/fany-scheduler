@@ -1,5 +1,33 @@
 [
   {
+    "title": "よしもとお笑い河原町劇場",
+    "date": "2026-02-02",
+    "date_text": "2026/02/02(月)",
+    "venue": "ヒューリックホール京都（京都府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/37154/34405",
+    "prices": [
+      "全席指定／前売：￥2,800"
+    ],
+    "open_start_time": "開場 18:30 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20260112234409"
+  },
+  {
+    "title": "金属バット×例えば炎ツーマンライブ「例えバット」",
+    "date": "2026-01-13",
+    "date_text": "2026/01/13(火)",
+    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/31841/30676",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260112234409"
+  },
+  {
     "title": "金属バットの声流電刹ライブ 2026",
     "date": "2026-03-30",
     "date_text": "2026/03/30(月)",
@@ -406,21 +434,6 @@
       "全席指定／前売：￥4,000"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": false,
-    "added_id": "20251208114211"
-  },
-  {
-    "title": "金属バット×例えば炎ツーマンライブ「例えバット」",
-    "date": "2026-01-13",
-    "date_text": "2026/01/13(火)",
-    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/31843/30676",
-    "prices": [
-      "全席指定／前売：￥2,500",
-      "注釈付指定席／前売：￥2,500"
-    ],
-    "open_start_time": "開場 19:00 / 開演 19:30",
     "is_new": false,
     "added_id": "20251208114211"
   }
