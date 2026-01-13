@@ -1,5 +1,19 @@
 [
   {
+    "title": "SECOND MONSTERS～至極のネタ2本の60分～",
+    "date": "2026-02-19",
+    "date_text": "2026/02/19(木)",
+    "venue": "日本橋Pollux Theater（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/36391/33733",
+    "prices": [
+      "整理番号付自由席／前売：￥2,400"
+    ],
+    "open_start_time": "開場 20:15 / 開演 20:30",
+    "is_new": true,
+    "added_id": "20260113234512"
+  },
+  {
     "title": "バッテリィズがオーダーを組んでそのまま寄席してみました",
     "date": "2026-03-19",
     "date_text": "2026/03/19(木)",
@@ -38,20 +52,6 @@
       "全席指定／前売：￥2,800"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": true,
-    "added_id": "20260112234409"
-  },
-  {
-    "title": "金属バット×例えば炎ツーマンライブ「例えバット」",
-    "date": "2026-01-13",
-    "date_text": "2026/01/13(火)",
-    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/31841/30676",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
     "is_new": true,
     "added_id": "20260112234409"
   },
