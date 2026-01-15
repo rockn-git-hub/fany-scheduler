@@ -1,10 +1,25 @@
 [
   {
+    "title": "金属バットの声流電刹ライブ 2026",
+    "date": "2026-03-30",
+    "date_text": "2026/03/30(月)",
+    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/36723/34015",
+    "prices": [
+      "全席指定／前売：￥3,500",
+      "注釈付指定席／前売：￥3,500"
+    ],
+    "open_start_time": "開場 18:30 / 開演 19:30",
+    "is_new": true,
+    "added_id": "20260115114359"
+  },
+  {
     "title": "SECOND MONSTERS～至極のネタ2本の60分～",
     "date": "2026-02-19",
     "date_text": "2026/02/19(木)",
     "venue": "日本橋Pollux Theater（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/36391/33733",
     "prices": [
       "整理番号付自由席／前売：￥2,400"
@@ -54,20 +69,6 @@
     "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": true,
     "added_id": "20260112234409"
-  },
-  {
-    "title": "金属バットの声流電刹ライブ 2026",
-    "date": "2026-03-30",
-    "date_text": "2026/03/30(月)",
-    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/36721/34015",
-    "prices": [
-      "全席指定／前売：￥3,500"
-    ],
-    "open_start_time": "開場 18:30 / 開演 19:30",
-    "is_new": true,
-    "added_id": "20260112114315"
   },
   {
     "title": "大喜利大集合 ～ハゲ・ヒゲ・ロン毛大集合～",
