@@ -1,5 +1,19 @@
 [
   {
+    "title": "よしもとお笑い河原町劇場",
+    "date": "2026-02-02",
+    "date_text": "2026/02/02(月)",
+    "venue": "ヒューリックホール京都（京都府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/37156/34405",
+    "prices": [
+      "全席指定／前売：￥2,800"
+    ],
+    "open_start_time": "開場 18:30 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20260116114341"
+  },
+  {
     "title": "よしもとお笑いライブin堺2026",
     "date": "2026-02-15",
     "date_text": "2026/02/15(日)",
@@ -71,20 +85,6 @@
     "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": true,
     "added_id": "20260113114414"
-  },
-  {
-    "title": "よしもとお笑い河原町劇場",
-    "date": "2026-02-02",
-    "date_text": "2026/02/02(月)",
-    "venue": "ヒューリックホール京都（京都府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/37154/34405",
-    "prices": [
-      "全席指定／前売：￥2,800"
-    ],
-    "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": false,
-    "added_id": "20260112234409"
   },
   {
     "title": "大喜利大集合 ～ハゲ・ヒゲ・ロン毛大集合～",
