@@ -1,5 +1,34 @@
 [
   {
+    "title": "19時ライブ～ネタ＆吉本新喜劇～",
+    "date": "2026-03-17",
+    "date_text": "2026/03/17(火)",
+    "venue": "なんばグランド花月（大阪府）",
+    "sale_status": "先着発売中",
+    "detail_link": "https://ticket.fany.lol/reception/37450/34660",
+    "prices": [
+      "全席指定／前売大人：￥3,500",
+      "全席指定／前売小学生以下：￥1,000"
+    ],
+    "open_start_time": "開場 18:30 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20260120114624"
+  },
+  {
+    "title": "シゲカズですpresents新春さらにさらにナンカゲ2026",
+    "date": "2026-01-20",
+    "date_text": "2026/01/20(火)",
+    "venue": "なんばグランド花月（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/29164/28855",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260120114624"
+  },
+  {
     "title": "道頓堀ネタ&コーナー&ブランチ",
     "date": "2026-02-27",
     "date_text": "2026/02/27(金)",
@@ -463,20 +492,6 @@
       "立見（整理番号）／前売：￥1,800"
     ],
     "open_start_time": "開場 19:00 / 開演 19:15",
-    "is_new": false,
-    "added_id": "20251208114211"
-  },
-  {
-    "title": "シゲカズですpresents新春さらにさらにナンカゲ2026",
-    "date": "2026-01-20",
-    "date_text": "2026/01/20(火)",
-    "venue": "なんばグランド花月（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/29166/28855",
-    "prices": [
-      "全席指定／当日：￥4,500"
-    ],
-    "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": false,
     "added_id": "20251208114211"
   }
