@@ -1,17 +1,17 @@
 [
   {
-    "title": "よしもと京都お笑い劇場",
-    "date": "2026-01-21",
-    "date_text": "2026/01/21(水)",
-    "venue": "京都府立文化芸術会館（京都府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/35647/33438",
+    "title": "EDGE～エッジ～",
+    "date": "2026-03-23",
+    "date_text": "2026/03/23(月)",
+    "venue": "なんばグランド花月（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/38222/35321",
     "prices": [
-      "価格取得エラー: Message: \n"
+      "全席指定／前売：￥3,500"
     ],
-    "open_start_time": "",
+    "open_start_time": "開場 20:00 / 開演 20:30",
     "is_new": true,
-    "added_id": "20260120234805"
+    "added_id": "20260123114524"
   },
   {
     "title": "道頓堀ネタ&コーナー&ブランチ",
@@ -26,7 +26,7 @@
       "指定席／前売おにぎり付：￥4,200"
     ],
     "open_start_time": "開場 09:40 / 開演 10:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260118234445"
   },
   {
@@ -42,7 +42,7 @@
       "指定席／前売タコライス付：￥4,200"
     ],
     "open_start_time": "開場 12:40 / 開演 13:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260118234445"
   },
   {
@@ -56,7 +56,7 @@
       "指定席／前売：￥2,500"
     ],
     "open_start_time": "開場 15:15 / 開演 15:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260118234445"
   },
   {
@@ -72,7 +72,7 @@
       "指定席／前売タコライス付：￥3,200"
     ],
     "open_start_time": "開場 17:10 / 開演 17:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260118234445"
   },
   {
@@ -80,7 +80,7 @@
     "date": "2026-02-02",
     "date_text": "2026/02/02(月)",
     "venue": "ヒューリックホール京都（京都府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/37156/34405",
     "prices": [
       "全席指定／前売：￥2,800"
