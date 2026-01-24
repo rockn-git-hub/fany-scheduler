@@ -1,10 +1,25 @@
 [
   {
+    "title": "19時ライブ～よくばり！MIX！～",
+    "date": "2026-03-12",
+    "date_text": "2026/03/12(木)",
+    "venue": "なんばグランド花月（大阪府）",
+    "sale_status": "先着発売中",
+    "detail_link": "https://ticket.fany.lol/reception/37450/34658",
+    "prices": [
+      "全席指定／前売大人：￥3,500",
+      "全席指定／前売小学生以下：￥1,000"
+    ],
+    "open_start_time": "開場 18:30 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20260124114055"
+  },
+  {
     "title": "EDGE～エッジ～",
     "date": "2026-03-23",
     "date_text": "2026/03/23(月)",
     "venue": "なんばグランド花月（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "抽選受付中",
     "detail_link": "https://ticket.fany.lol/reception/38222/35321",
     "prices": [
       "全席指定／前売：￥3,500"
