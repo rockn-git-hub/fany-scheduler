@@ -1,5 +1,33 @@
 [
   {
+    "title": "EDGE～エッジ～",
+    "date": "2026-03-23",
+    "date_text": "2026/03/23(月)",
+    "venue": "なんばグランド花月（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/38224/35321",
+    "prices": [
+      "全席指定／前売：￥3,500"
+    ],
+    "open_start_time": "開場 20:00 / 開演 20:30",
+    "is_new": true,
+    "added_id": "20260126114507"
+  },
+  {
+    "title": "よしもとゴリラライブ",
+    "date": "2026-01-26",
+    "date_text": "2026/01/26(月)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/31990/30461",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260126114507"
+  },
+  {
     "title": "私の名前は平成女児！みんなには、なつかしさいっぱいって・・・",
     "date": "2026-03-07",
     "date_text": "2026/03/07(土)",
@@ -83,20 +111,6 @@
     "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": true,
     "added_id": "20260124114055"
-  },
-  {
-    "title": "EDGE～エッジ～",
-    "date": "2026-03-23",
-    "date_text": "2026/03/23(月)",
-    "venue": "なんばグランド花月（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/38222/35321",
-    "prices": [
-      "全席指定／前売：￥3,500"
-    ],
-    "open_start_time": "開場 20:00 / 開演 20:30",
-    "is_new": true,
-    "added_id": "20260123114524"
   },
   {
     "title": "道頓堀ネタ&コーナー&ブランチ",
@@ -533,21 +547,6 @@
       "整理番号付自由席／前売：￥3,000"
     ],
     "open_start_time": "開場 20:15 / 開演 20:30",
-    "is_new": false,
-    "added_id": "20251208114211"
-  },
-  {
-    "title": "よしもとゴリラライブ",
-    "date": "2026-01-26",
-    "date_text": "2026/01/26(月)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/32090/30461",
-    "prices": [
-      "指定席／当日：￥2,000",
-      "立見（整理番号）／当日：￥2,000"
-    ],
-    "open_start_time": "開場 19:00 / 開演 19:15",
     "is_new": false,
     "added_id": "20251208114211"
   }
