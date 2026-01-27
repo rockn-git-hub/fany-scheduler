@@ -1,5 +1,19 @@
 [
   {
+    "title": "eo光チャンネル１１「どこでもミルクボーイ」公開収録ライブ",
+    "date": "2026-03-04",
+    "date_text": "2026/03/04(水)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/39495/35695",
+    "prices": [
+      "全席指定／前売：￥3,000"
+    ],
+    "open_start_time": "開場 18:00 / 開演 18:30",
+    "is_new": true,
+    "added_id": "20260127114733"
+  },
+  {
     "title": "EDGE～エッジ～",
     "date": "2026-03-23",
     "date_text": "2026/03/23(月)",
@@ -18,7 +32,7 @@
     "date": "2026-03-07",
     "date_text": "2026/03/07(土)",
     "venue": "YES THEATER（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/39022/35561",
     "prices": [
       "全席指定／前売：￥3,000"
@@ -95,7 +109,7 @@
       "全席指定／前売小学生以下：￥1,000"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260124114055"
   },
   {
