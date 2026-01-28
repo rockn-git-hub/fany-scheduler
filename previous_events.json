@@ -1,5 +1,33 @@
 [
   {
+    "title": "ツーナッカンが西のセカンド組と仲良くなるライブ",
+    "date": "2026-03-10",
+    "date_text": "2026/03/10(火)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/39449/35637",
+    "prices": [
+      "整理番号付自由席／前売：￥1,800"
+    ],
+    "open_start_time": "開場 20:10 / 開演 20:30",
+    "is_new": true,
+    "added_id": "20260128235221"
+  },
+  {
+    "title": "-ZX-の社会の窓〜ゲスト金属バット編〜",
+    "date": "2026-02-12",
+    "date_text": "2026/02/12(木)",
+    "venue": "Yogibo META VALLEY（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/39488/35693",
+    "prices": [
+      "整理番号付自由席／前売：￥1,200"
+    ],
+    "open_start_time": "開場 15:45 / 開演 16:00",
+    "is_new": true,
+    "added_id": "20260128235221"
+  },
+  {
     "title": "ナンバ",
     "date": "2026-03-19",
     "date_text": "2026/03/19(木)",
@@ -60,20 +88,6 @@
     "added_id": "20260128114627"
   },
   {
-    "title": "大喜利大集合・ハゲ・ヒゲ・ロン毛大集合SP",
-    "date": "2026-01-28",
-    "date_text": "2026/01/28(水)",
-    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/33602/32298",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20260127234823"
-  },
-  {
     "title": "eo光チャンネル１１「どこでもミルクボーイ」公開収録ライブ",
     "date": "2026-03-04",
     "date_text": "2026/03/04(水)",
@@ -112,7 +126,7 @@
       "全席指定／前売：￥3,000"
     ],
     "open_start_time": "開場 19:00 / 開演 19:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260125234559"
   },
   {
