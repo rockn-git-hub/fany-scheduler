@@ -1,5 +1,65 @@
 [
   {
+    "title": "ナンバ",
+    "date": "2026-03-19",
+    "date_text": "2026/03/19(木)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/39310/35017",
+    "prices": [
+      "指定席／前売：￥1,500",
+      "立見（整理番号）／前売：￥1,500"
+    ],
+    "open_start_time": "開場 20:45 / 開演 21:00",
+    "is_new": true,
+    "added_id": "20260128114627"
+  },
+  {
+    "title": "はるかぜに告ぐのメガ進化",
+    "date": "2026-03-10",
+    "date_text": "2026/03/10(火)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/39296/35015",
+    "prices": [
+      "指定席／前売：￥1,300",
+      "立見（整理番号）／前売：￥1,300"
+    ],
+    "open_start_time": "開場 19:15 / 開演 19:30",
+    "is_new": true,
+    "added_id": "20260128114627"
+  },
+  {
+    "title": "新ネタライブ!!ハイキック寄席!!",
+    "date": "2026-03-09",
+    "date_text": "2026/03/09(月)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/39294/35014",
+    "prices": [
+      "指定席／前売：￥2,000",
+      "立見（整理番号）／前売：￥2,000"
+    ],
+    "open_start_time": "開場 19:00 / 開演 19:15",
+    "is_new": true,
+    "added_id": "20260128114627"
+  },
+  {
+    "title": "よしもとゴリラライブ",
+    "date": "2026-03-02",
+    "date_text": "2026/03/02(月)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/39282/35000",
+    "prices": [
+      "指定席／前売：￥1,800",
+      "立見（整理番号）／前売：￥1,800"
+    ],
+    "open_start_time": "開場 19:00 / 開演 19:15",
+    "is_new": true,
+    "added_id": "20260128114627"
+  },
+  {
     "title": "大喜利大集合・ハゲ・ヒゲ・ロン毛大集合SP",
     "date": "2026-01-28",
     "date_text": "2026/01/28(水)",
@@ -54,62 +114,6 @@
     "open_start_time": "開場 19:00 / 開演 19:30",
     "is_new": true,
     "added_id": "20260125234559"
-  },
-  {
-    "title": "ナンバ",
-    "date": "2026-03-19",
-    "date_text": "2026/03/19(木)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/39212/35017",
-    "prices": [
-      "指定席／前売：￥1,500"
-    ],
-    "open_start_time": "開場 20:45 / 開演 21:00",
-    "is_new": false,
-    "added_id": "20260124234502"
-  },
-  {
-    "title": "はるかぜに告ぐのメガ進化",
-    "date": "2026-03-10",
-    "date_text": "2026/03/10(火)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/39198/35015",
-    "prices": [
-      "指定席／前売：￥1,300"
-    ],
-    "open_start_time": "開場 19:15 / 開演 19:30",
-    "is_new": false,
-    "added_id": "20260124234502"
-  },
-  {
-    "title": "新ネタライブ!!ハイキック寄席!!",
-    "date": "2026-03-09",
-    "date_text": "2026/03/09(月)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/39196/35014",
-    "prices": [
-      "指定席／前売：￥2,000"
-    ],
-    "open_start_time": "開場 19:00 / 開演 19:15",
-    "is_new": false,
-    "added_id": "20260124234502"
-  },
-  {
-    "title": "よしもとゴリラライブ",
-    "date": "2026-03-02",
-    "date_text": "2026/03/02(月)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/39184/35000",
-    "prices": [
-      "指定席／前売：￥1,800"
-    ],
-    "open_start_time": "開場 19:00 / 開演 19:15",
-    "is_new": false,
-    "added_id": "20260124234502"
   },
   {
     "title": "19時ライブ～よくばり！MIX！～",
