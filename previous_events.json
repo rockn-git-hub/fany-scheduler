@@ -1,10 +1,40 @@
 [
   {
+    "title": "よしもとお笑いライブin岸和田2026",
+    "date": "2026-04-12",
+    "date_text": "2026/04/12(日)",
+    "venue": "南海浪切ホール　大ホール（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/39535/35724",
+    "prices": [
+      "全席指定(1・2階)／前売：￥5,000",
+      "全席指定(3階)／前売：￥4,000"
+    ],
+    "open_start_time": "開場 11:45 / 開演 12:30",
+    "is_new": true,
+    "added_id": "20260130115155"
+  },
+  {
+    "title": "よしもとお笑いライブin岸和田2026",
+    "date": "2026-04-12",
+    "date_text": "2026/04/12(日)",
+    "venue": "南海浪切ホール　大ホール（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/39535/35725",
+    "prices": [
+      "全席指定(1・2階)／前売：￥5,000",
+      "全席指定(3階)／前売：￥4,000"
+    ],
+    "open_start_time": "開場 14:45 / 開演 15:30",
+    "is_new": true,
+    "added_id": "20260130115155"
+  },
+  {
     "title": "ツーナッカンが西のセカンド組と仲良くなるライブ",
     "date": "2026-03-10",
     "date_text": "2026/03/10(火)",
     "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/39449/35637",
     "prices": [
       "整理番号付自由席／前売：￥1,800"
@@ -18,7 +48,7 @@
     "date": "2026-02-12",
     "date_text": "2026/02/12(木)",
     "venue": "Yogibo META VALLEY（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/39488/35693",
     "prices": [
       "整理番号付自由席／前売：￥1,200"
@@ -98,7 +128,7 @@
       "全席指定／前売：￥3,000"
     ],
     "open_start_time": "開場 18:00 / 開演 18:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260127114733"
   },
   {
