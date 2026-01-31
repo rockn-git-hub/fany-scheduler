@@ -1,5 +1,33 @@
 [
   {
+    "title": "なにわ漫才360 vol.12",
+    "date": "2026-02-16",
+    "date_text": "2026/02/16(月)",
+    "venue": "新世界ZAZA POCKETS（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/39705/35822",
+    "prices": [
+      "整理番号付自由席／前売：￥3,000"
+    ],
+    "open_start_time": "開場 18:45 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20260131234908"
+  },
+  {
+    "title": "なにわ漫才360 vol.13",
+    "date": "2026-02-16",
+    "date_text": "2026/02/16(月)",
+    "venue": "新世界ZAZA POCKETS（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/39705/35823",
+    "prices": [
+      "整理番号付自由席／前売：￥3,000"
+    ],
+    "open_start_time": "開場 20:15 / 開演 20:30",
+    "is_new": true,
+    "added_id": "20260131234908"
+  },
+  {
     "title": "よしもとお笑いライブin岸和田2026",
     "date": "2026-04-12",
     "date_text": "2026/04/12(日)",
@@ -69,7 +97,7 @@
       "立見（整理番号）／前売：￥1,500"
     ],
     "open_start_time": "開場 20:45 / 開演 21:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260128114627"
   },
   {
@@ -84,7 +112,7 @@
       "立見（整理番号）／前売：￥1,300"
     ],
     "open_start_time": "開場 19:15 / 開演 19:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260128114627"
   },
   {
@@ -99,7 +127,7 @@
       "立見（整理番号）／前売：￥2,000"
     ],
     "open_start_time": "開場 19:00 / 開演 19:15",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260128114627"
   },
   {
@@ -114,7 +142,7 @@
       "立見（整理番号）／前売：￥1,800"
     ],
     "open_start_time": "開場 19:00 / 開演 19:15",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260128114627"
   },
   {
