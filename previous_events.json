@@ -18,7 +18,7 @@
     "date": "2026-02-16",
     "date_text": "2026/02/16(月)",
     "venue": "新世界ZAZA POCKETS（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/39705/35822",
     "prices": [
       "整理番号付自由席／前売：￥3,000"
@@ -32,7 +32,7 @@
     "date": "2026-02-16",
     "date_text": "2026/02/16(月)",
     "venue": "新世界ZAZA POCKETS（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/39705/35823",
     "prices": [
       "整理番号付自由席／前売：￥3,000"
@@ -53,7 +53,7 @@
       "全席指定(3階)／前売：￥4,000"
     ],
     "open_start_time": "開場 11:45 / 開演 12:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260130115155"
   },
   {
@@ -68,7 +68,7 @@
       "全席指定(3階)／前売：￥4,000"
     ],
     "open_start_time": "開場 14:45 / 開演 15:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260130115155"
   },
   {
