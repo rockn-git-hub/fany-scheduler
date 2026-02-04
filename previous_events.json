@@ -1,5 +1,35 @@
 [
   {
+    "title": "よしもとお笑いライブin岸和田2026",
+    "date": "2026-04-12",
+    "date_text": "2026/04/12(日)",
+    "venue": "南海浪切ホール　大ホール（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/39537/35724",
+    "prices": [
+      "全席指定(1・2階)／前売：￥5,000",
+      "全席指定(3階)／前売：￥4,000"
+    ],
+    "open_start_time": "開場 11:45 / 開演 12:30",
+    "is_new": true,
+    "added_id": "20260204115621"
+  },
+  {
+    "title": "よしもとお笑いライブin岸和田2026",
+    "date": "2026-04-12",
+    "date_text": "2026/04/12(日)",
+    "venue": "南海浪切ホール　大ホール（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/39537/35725",
+    "prices": [
+      "全席指定(1・2階)／前売：￥5,000",
+      "全席指定(3階)／前売：￥4,000"
+    ],
+    "open_start_time": "開場 14:45 / 開演 15:30",
+    "is_new": true,
+    "added_id": "20260204115621"
+  },
+  {
     "title": "なにわ漫才360 vol.12",
     "date": "2026-02-16",
     "date_text": "2026/02/16(月)",
@@ -10,7 +40,7 @@
       "整理番号付自由席／前売：￥3,000"
     ],
     "open_start_time": "開場 18:45 / 開演 19:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260131234908"
   },
   {
@@ -24,38 +54,8 @@
       "整理番号付自由席／前売：￥3,000"
     ],
     "open_start_time": "開場 20:15 / 開演 20:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260131234908"
-  },
-  {
-    "title": "よしもとお笑いライブin岸和田2026",
-    "date": "2026-04-12",
-    "date_text": "2026/04/12(日)",
-    "venue": "南海浪切ホール　大ホール（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/39535/35724",
-    "prices": [
-      "全席指定(1・2階)／前売：￥5,000",
-      "全席指定(3階)／前売：￥4,000"
-    ],
-    "open_start_time": "開場 11:45 / 開演 12:30",
-    "is_new": false,
-    "added_id": "20260130115155"
-  },
-  {
-    "title": "よしもとお笑いライブin岸和田2026",
-    "date": "2026-04-12",
-    "date_text": "2026/04/12(日)",
-    "venue": "南海浪切ホール　大ホール（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/39535/35725",
-    "prices": [
-      "全席指定(1・2階)／前売：￥5,000",
-      "全席指定(3階)／前売：￥4,000"
-    ],
-    "open_start_time": "開場 14:45 / 開演 15:30",
-    "is_new": false,
-    "added_id": "20260130115155"
   },
   {
     "title": "ツーナッカンが西のセカンド組と仲良くなるライブ",
