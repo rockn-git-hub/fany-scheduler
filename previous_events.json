@@ -1,5 +1,61 @@
 [
   {
+    "title": "大喜利大集合 ～ハゲ・ヒゲ・ロン毛大集合～",
+    "date": "2026-03-31",
+    "date_text": "2026/03/31(火)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/40399/36165",
+    "prices": [
+      "整理番号付自由席／前売：￥2,500"
+    ],
+    "open_start_time": "開場 18:10 / 開演 18:30",
+    "is_new": true,
+    "added_id": "20260209120509"
+  },
+  {
+    "title": "シチュー ～友保が木崎家のシチューを食べるライブ～",
+    "date": "2026-03-16",
+    "date_text": "2026/03/16(月)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/40376/36133",
+    "prices": [
+      "整理番号付自由席／前売：￥1,500"
+    ],
+    "open_start_time": "開場 18:40 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20260209120509"
+  },
+  {
+    "title": "「金属バットのトークライブ」2",
+    "date": "2026-03-06",
+    "date_text": "2026/03/06(金)",
+    "venue": "YES THEATER（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/40329/36143",
+    "prices": [
+      "全席指定／前売：￥2,500"
+    ],
+    "open_start_time": "開場 18:30 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20260209120509"
+  },
+  {
+    "title": "新ネタライブ!!ハイキック寄席!!",
+    "date": "2026-02-09",
+    "date_text": "2026/02/09(月)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/35283/32931",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260209120509"
+  },
+  {
     "title": "よしもとお笑いレストラン",
     "date": "2026-03-22",
     "date_text": "2026/03/22(日)",
@@ -32,7 +88,7 @@
       "全席指定／前売　学生：￥2,000"
     ],
     "open_start_time": "開場 12:30 / 開演 13:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260205115836"
   },
   {
@@ -590,20 +646,5 @@
     "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": false,
     "added_id": "20260101114147"
-  },
-  {
-    "title": "新ネタライブ!!ハイキック寄席!!",
-    "date": "2026-02-09",
-    "date_text": "2026/02/09(月)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/35377/32931",
-    "prices": [
-      "指定席／前売：￥2,000",
-      "立見（整理番号）／前売：￥2,000"
-    ],
-    "open_start_time": "開場 18:45 / 開演 19:00",
-    "is_new": false,
-    "added_id": "20251228114023"
   }
 ]
