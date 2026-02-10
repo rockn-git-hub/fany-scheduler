@@ -18,7 +18,7 @@
     "date": "2026-03-31",
     "date_text": "2026/03/31(火)",
     "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/40399/36165",
     "prices": [
       "整理番号付自由席／前売：￥2,500"
@@ -32,7 +32,7 @@
     "date": "2026-03-16",
     "date_text": "2026/03/16(月)",
     "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/40376/36133",
     "prices": [
       "整理番号付自由席／前売：￥1,500"
@@ -46,7 +46,7 @@
     "date": "2026-03-06",
     "date_text": "2026/03/06(金)",
     "venue": "YES THEATER（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "抽選受付中",
     "detail_link": "https://ticket.fany.lol/reception/40329/36143",
     "prices": [
       "全席指定／前売：￥2,500"
@@ -73,7 +73,7 @@
       "整理番号付自由席／前売：￥3,500"
     ],
     "open_start_time": "開場 11:30 / 開演 12:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260207114644"
   },
   {
@@ -96,7 +96,7 @@
     "date": "2026-04-12",
     "date_text": "2026/04/12(日)",
     "venue": "南海浪切ホール　大ホール（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/39537/35724",
     "prices": [
       "全席指定(1・2階)／前売：￥5,000",
@@ -111,7 +111,7 @@
     "date": "2026-04-12",
     "date_text": "2026/04/12(日)",
     "venue": "南海浪切ホール　大ホール（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/39537/35725",
     "prices": [
       "全席指定(1・2階)／前売：￥5,000",
