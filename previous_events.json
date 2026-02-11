@@ -1,17 +1,17 @@
 [
   {
-    "title": "「金属バットのトークライブ」",
-    "date": "2026-02-10",
-    "date_text": "2026/02/10(火)",
-    "venue": "YES THEATER（大阪府）",
+    "title": "東西芸人森ノ宮寄席",
+    "date": "2026-02-11",
+    "date_text": "2026/02/11(水・祝)",
+    "venue": "COOL JAPAN PARK OSAKA WWホール（大阪府）",
     "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/35873/33563",
+    "detail_link": "https://ticket.fany.lol/reception/35798/33498",
     "prices": [
       "価格取得エラー: Message: \n"
     ],
     "open_start_time": "",
     "is_new": true,
-    "added_id": "20260210000438"
+    "added_id": "20260211000541"
   },
   {
     "title": "大喜利大集合 ～ハゲ・ヒゲ・ロン毛大集合～",
@@ -486,20 +486,6 @@
     "added_id": "20260106114215"
   },
   {
-    "title": "東西芸人森ノ宮寄席",
-    "date": "2026-02-11",
-    "date_text": "2026/02/11(水・祝)",
-    "venue": "COOL JAPAN PARK OSAKA WWホール（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/35800/33498",
-    "prices": [
-      "全席指定／前売：￥4,500"
-    ],
-    "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": false,
-    "added_id": "20260105114354"
-  },
-  {
     "title": "三軍の金帯",
     "date": "2026-02-27",
     "date_text": "2026/02/27(金)",
@@ -599,7 +585,7 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/35888/33532",
     "prices": [
-      "指定席／前売：￥2,000"
+      "指定席／当日：￥2,500"
     ],
     "open_start_time": "開場 11:00 / 開演 11:15",
     "is_new": false,
@@ -613,7 +599,7 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/35889/33536",
     "prices": [
-      "指定席／前売：￥2,000"
+      "指定席／当日：￥2,500"
     ],
     "open_start_time": "開場 13:15 / 開演 13:30",
     "is_new": false,
@@ -627,7 +613,7 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/35890/33538",
     "prices": [
-      "指定席／前売：￥2,000"
+      "指定席／当日：￥2,500"
     ],
     "open_start_time": "開場 15:00 / 開演 15:15",
     "is_new": false,
