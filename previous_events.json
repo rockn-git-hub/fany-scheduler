@@ -24,7 +24,7 @@
       "整理番号付自由席／前売：￥2,500"
     ],
     "open_start_time": "開場 18:10 / 開演 18:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260209120509"
   },
   {
@@ -38,7 +38,7 @@
       "整理番号付自由席／前売：￥1,500"
     ],
     "open_start_time": "開場 18:40 / 開演 19:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260209120509"
   },
   {
@@ -146,20 +146,6 @@
       "整理番号付自由席／前売：￥1,800"
     ],
     "open_start_time": "開場 20:10 / 開演 20:30",
-    "is_new": false,
-    "added_id": "20260128235221"
-  },
-  {
-    "title": "-ZX-の社会の窓〜ゲスト金属バット編〜",
-    "date": "2026-02-12",
-    "date_text": "2026/02/12(木)",
-    "venue": "Yogibo META VALLEY（大阪府）",
-    "sale_status": "先着発売終了",
-    "detail_link": "https://ticket.fany.lol/reception/39488/35693",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
     "is_new": false,
     "added_id": "20260128235221"
   },
