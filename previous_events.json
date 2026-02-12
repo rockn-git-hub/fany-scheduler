@@ -1,5 +1,19 @@
 [
   {
+    "title": "「金属バットのトークライブ」2",
+    "date": "2026-03-06",
+    "date_text": "2026/03/06(金)",
+    "venue": "YES THEATER（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/40331/36143",
+    "prices": [
+      "全席指定／前売：￥2,500"
+    ],
+    "open_start_time": "開場 18:30 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20260212120305"
+  },
+  {
     "title": "大喜利大集合 ～ハゲ・ヒゲ・ロン毛大集合～",
     "date": "2026-03-31",
     "date_text": "2026/03/31(火)",
@@ -24,20 +38,6 @@
       "整理番号付自由席／前売：￥1,500"
     ],
     "open_start_time": "開場 18:40 / 開演 19:00",
-    "is_new": true,
-    "added_id": "20260209120509"
-  },
-  {
-    "title": "「金属バットのトークライブ」2",
-    "date": "2026-03-06",
-    "date_text": "2026/03/06(金)",
-    "venue": "YES THEATER（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/40329/36143",
-    "prices": [
-      "全席指定／前売：￥2,500"
-    ],
-    "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": true,
     "added_id": "20260209120509"
   },
