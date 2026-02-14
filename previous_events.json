@@ -1,5 +1,33 @@
 [
   {
+    "title": "よしもとお笑いライブin堺2026",
+    "date": "2026-02-15",
+    "date_text": "2026/02/15(日)",
+    "venue": "フェニーチェ堺　大ホール（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/32760/31397",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260214235222"
+  },
+  {
+    "title": "よしもとお笑いライブin堺2026",
+    "date": "2026-02-15",
+    "date_text": "2026/02/15(日)",
+    "venue": "フェニーチェ堺　大ホール（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/32760/31401",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260214235222"
+  },
+  {
     "title": "あおばと～金属バットと～",
     "date": "2026-05-11",
     "date_text": "2026/05/11(月)",
@@ -347,17 +375,12 @@
     "date": "2026-02-15",
     "date_text": "2026/02/15(日)",
     "venue": "フェニーチェ堺　大ホール（大阪府）",
-    "sale_status": "先着発売中",
+    "sale_status": "先着発売終了",
     "detail_link": "https://ticket.fany.lol/reception/37228/34507",
     "prices": [
-      "S席／前売：￥5,000",
-      "A席／前売：￥3,500",
-      "B席／前売：￥2,500",
-      "注釈付きS席／前売：￥5,000",
-      "注釈付きA席／前売：￥3,500",
-      "注釈付きB席／前売：￥2,500"
+      "価格取得エラー: Message: \n"
     ],
-    "open_start_time": "開場 17:15 / 開演 18:00",
+    "open_start_time": "",
     "is_new": false,
     "added_id": "20260115234604"
   },
@@ -440,7 +463,7 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/36560/33950",
     "prices": [
-      "整理番号付自由席／前売：￥1,800"
+      "整理番号付自由席／当日：￥2,100"
     ],
     "open_start_time": "開場 20:30 / 開演 20:50",
     "is_new": false,
@@ -531,44 +554,6 @@
       "全席指定／前売小学生以下：￥1,000"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": false,
-    "added_id": "20260103113946"
-  },
-  {
-    "title": "よしもとお笑いライブin堺2026",
-    "date": "2026-02-15",
-    "date_text": "2026/02/15(日)",
-    "venue": "フェニーチェ堺　大ホール（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/32762/31397",
-    "prices": [
-      "S席／前売：￥5,000",
-      "A席／前売：￥3,500",
-      "B席／前売：￥2,500",
-      "注釈付きS席／前売：￥5,000",
-      "注釈付きA席／前売：￥3,500",
-      "注釈付きB席／前売：￥2,500"
-    ],
-    "open_start_time": "開場 09:45 / 開演 10:30",
-    "is_new": false,
-    "added_id": "20260103113946"
-  },
-  {
-    "title": "よしもとお笑いライブin堺2026",
-    "date": "2026-02-15",
-    "date_text": "2026/02/15(日)",
-    "venue": "フェニーチェ堺　大ホール（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/32762/31401",
-    "prices": [
-      "S席／前売：￥5,000",
-      "A席／前売：￥3,500",
-      "B席／前売：￥2,500",
-      "注釈付きS席／前売：￥5,000",
-      "注釈付きA席／前売：￥3,500",
-      "注釈付きB席／前売：￥2,500"
-    ],
-    "open_start_time": "開場 13:15 / 開演 14:00",
     "is_new": false,
     "added_id": "20260103113946"
   }
