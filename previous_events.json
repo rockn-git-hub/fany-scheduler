@@ -273,9 +273,9 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/39022/35561",
     "prices": [
-      "全席指定／前売：￥3,000"
+      "価格取得エラー: Message: \n"
     ],
-    "open_start_time": "開場 19:00 / 開演 19:30",
+    "open_start_time": "",
     "is_new": false,
     "added_id": "20260125234559"
   },
