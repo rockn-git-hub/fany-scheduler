@@ -1,5 +1,75 @@
 [
   {
+    "title": "木佐寄席",
+    "date": "2026-04-20",
+    "date_text": "2026/04/20(月)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/42894/37579",
+    "prices": [
+      "指定席／前売：￥1,600"
+    ],
+    "open_start_time": "開場 20:45 / 開演 21:00",
+    "is_new": true,
+    "added_id": "20260224235851"
+  },
+  {
+    "title": "新ネタライブ!!ハイキック寄席!!",
+    "date": "2026-04-10",
+    "date_text": "2026/04/10(金)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/42876/37550",
+    "prices": [
+      "指定席／前売：￥2,000"
+    ],
+    "open_start_time": "開場 20:30 / 開演 20:45",
+    "is_new": true,
+    "added_id": "20260224235851"
+  },
+  {
+    "title": "ただただ、漫才を、楽しむ、ライブ",
+    "date": "2026-04-08",
+    "date_text": "2026/04/08(水)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/42871/37545",
+    "prices": [
+      "指定席／前売：￥1,600"
+    ],
+    "open_start_time": "開場 19:15 / 開演 19:30",
+    "is_new": true,
+    "added_id": "20260224235851"
+  },
+  {
+    "title": "ネタライブ！YES FUTURE！",
+    "date": "2026-04-06",
+    "date_text": "2026/04/06(月)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/42869/37547",
+    "prices": [
+      "指定席／前売：￥2,000"
+    ],
+    "open_start_time": "開場 19:00 / 開演 19:15",
+    "is_new": true,
+    "added_id": "20260224235851"
+  },
+  {
+    "title": "漫才",
+    "date": "2026-04-03",
+    "date_text": "2026/04/03(金)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/42866/37555",
+    "prices": [
+      "指定席／前売：￥2,000"
+    ],
+    "open_start_time": "開場 20:45 / 開演 21:00",
+    "is_new": true,
+    "added_id": "20260224235851"
+  },
+  {
     "title": "よしもとお笑い寄席 in TTホール",
     "date": "2026-03-27",
     "date_text": "2026/03/27(金)",
@@ -11,7 +81,7 @@
       "整理番号付自由席／前売　学生：￥1,500"
     ],
     "open_start_time": "開場 18:00 / 開演 18:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260220115505"
   },
   {
@@ -63,7 +133,7 @@
     "date": "2026-03-22",
     "date_text": "2026/03/22(日)",
     "venue": "YES THEATER（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/40991/36819",
     "prices": [
       "全席指定／前売：￥3,000"
@@ -77,7 +147,7 @@
     "date": "2026-03-22",
     "date_text": "2026/03/22(日)",
     "venue": "YES THEATER（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/40991/36912",
     "prices": [
       "全席指定／前売：￥3,000"
@@ -445,20 +515,6 @@
     "added_id": "20260113114414"
   },
   {
-    "title": "大喜利大集合 ～ハゲ・ヒゲ・ロン毛大集合～",
-    "date": "2026-02-24",
-    "date_text": "2026/02/24(火)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/36623/33995",
-    "prices": [
-      "整理番号付自由席／前売：￥2,500"
-    ],
-    "open_start_time": "開場 17:10 / 開演 17:30",
-    "is_new": false,
-    "added_id": "20260108234506"
-  },
-  {
     "title": "ダブルアートの12才協会企画『全開の日』第一部、第二部通し券",
     "date": "2026-03-20",
     "date_text": "2026/03/20(金・祝) ～ 2026/03/20(金・祝)",
@@ -513,21 +569,6 @@
       "立見（整理番号）／前売：￥2,000"
     ],
     "open_start_time": "開場 20:45 / 開演 21:00",
-    "is_new": false,
-    "added_id": "20260103113946"
-  },
-  {
-    "title": "19時ライブ～ネタ＆吉本新喜劇～",
-    "date": "2026-02-24",
-    "date_text": "2026/02/24(火)",
-    "venue": "なんばグランド花月（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/34649/32698",
-    "prices": [
-      "全席指定／前売大人：￥3,500",
-      "全席指定／前売小学生以下：￥1,000"
-    ],
-    "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": false,
     "added_id": "20260103113946"
   }
