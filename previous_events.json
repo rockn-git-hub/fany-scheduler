@@ -1,5 +1,19 @@
 [
   {
+    "title": "「金属バットのトークライブ」3",
+    "date": "2026-04-12",
+    "date_text": "2026/04/12(日)",
+    "venue": "YES THEATER（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/42726/37937",
+    "prices": [
+      "全席指定／前売：￥2,500"
+    ],
+    "open_start_time": "開場 18:30 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20260227235046"
+  },
+  {
     "title": "木佐寄席",
     "date": "2026-04-20",
     "date_text": "2026/04/20(月)",
@@ -71,34 +85,6 @@
       "立見（整理番号）／前売：￥2,000"
     ],
     "open_start_time": "開場 20:45 / 開演 21:00",
-    "is_new": true,
-    "added_id": "20260227115451"
-  },
-  {
-    "title": "三軍の金帯",
-    "date": "2026-02-27",
-    "date_text": "2026/02/27(金)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/35313/32922",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20260227115451"
-  },
-  {
-    "title": "ネタライブ！YES！FUTURE！",
-    "date": "2026-02-27",
-    "date_text": "2026/02/27(金)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/35314/32939",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
     "is_new": true,
     "added_id": "20260227115451"
   },
@@ -441,68 +427,6 @@
     "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": false,
     "added_id": "20260124114055"
-  },
-  {
-    "title": "道頓堀ネタ&コーナー&ブランチ",
-    "date": "2026-02-27",
-    "date_text": "2026/02/27(金)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "先着発売終了",
-    "detail_link": "https://ticket.fany.lol/reception/38017/35194",
-    "prices": [
-      "指定席／当日サンドイッチ付：￥4,200",
-      "指定席／当日フレンチトースト付：￥4,200",
-      "指定席／当日おにぎり付：￥4,200"
-    ],
-    "open_start_time": "開場 09:40 / 開演 10:00",
-    "is_new": false,
-    "added_id": "20260118234445"
-  },
-  {
-    "title": "道頓堀ネタ&コーナー&ランチ ”呪” ～標準語と大阪弁が・・・",
-    "date": "2026-02-27",
-    "date_text": "2026/02/27(金)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "先着発売終了",
-    "detail_link": "https://ticket.fany.lol/reception/38034/35220",
-    "prices": [
-      "指定席／当日カレー付：￥4,200",
-      "指定席／当日ロコモコ付：￥4,200",
-      "指定席／当日タコライス付：￥4,200"
-    ],
-    "open_start_time": "開場 12:40 / 開演 13:00",
-    "is_new": false,
-    "added_id": "20260118234445"
-  },
-  {
-    "title": "爆ノ介が考えたとても飯が喰えるようなもんじゃない・・・",
-    "date": "2026-02-27",
-    "date_text": "2026/02/27(金)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "先着発売終了",
-    "detail_link": "https://ticket.fany.lol/reception/38036/35223",
-    "prices": [
-      "指定席／当日：￥3,000"
-    ],
-    "open_start_time": "開場 15:15 / 開演 15:30",
-    "is_new": false,
-    "added_id": "20260118234445"
-  },
-  {
-    "title": "コウノがツッコみ続けるディナー歌謡ショー",
-    "date": "2026-02-27",
-    "date_text": "2026/02/27(金)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "先着発売終了",
-    "detail_link": "https://ticket.fany.lol/reception/38038/35225",
-    "prices": [
-      "指定席／当日カレー付：￥3,200",
-      "指定席／当日ロコモコ付：￥3,200",
-      "指定席／当日タコライス付：￥3,200"
-    ],
-    "open_start_time": "開場 17:10 / 開演 17:30",
-    "is_new": false,
-    "added_id": "20260118234445"
   },
   {
     "title": "金属バットの声流電刹ライブ 2026",
