@@ -1,10 +1,24 @@
 [
   {
+    "title": "よしもとゴリラライブ",
+    "date": "2026-03-02",
+    "date_text": "2026/03/02(月)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/39184/35000",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260302115352"
+  },
+  {
     "title": "漫才×漫才×コント×コント×天才ピアニスト",
     "date": "2026-04-11",
     "date_text": "2026/04/11(土)",
     "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "抽選受付中",
     "detail_link": "https://ticket.fany.lol/reception/43174/38010",
     "prices": [
       "整理番号付自由席／前売：￥1,800"
@@ -365,21 +379,6 @@
     "prices": [
       "指定席／前売：￥2,000",
       "立見（整理番号）／前売：￥2,000"
-    ],
-    "open_start_time": "開場 19:00 / 開演 19:15",
-    "is_new": false,
-    "added_id": "20260128114627"
-  },
-  {
-    "title": "よしもとゴリラライブ",
-    "date": "2026-03-02",
-    "date_text": "2026/03/02(月)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/39282/35000",
-    "prices": [
-      "指定席／当日：￥2,000",
-      "立見（整理番号）／当日：￥2,000"
     ],
     "open_start_time": "開場 19:00 / 開演 19:15",
     "is_new": false,
