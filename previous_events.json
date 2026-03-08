@@ -1,5 +1,19 @@
 [
   {
+    "title": "大喜利大集合 ～ハゲ・ヒゲ・ロン毛大集合～",
+    "date": "2026-04-24",
+    "date_text": "2026/04/24(金)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/43859/38376",
+    "prices": [
+      "整理番号付自由席／前売：￥2,000"
+    ],
+    "open_start_time": "開場 20:40 / 開演 21:00",
+    "is_new": true,
+    "added_id": "20260308235034"
+  },
+  {
     "title": "よしもとお笑いレストラン",
     "date": "2026-04-12",
     "date_text": "2026/04/12(日)",
@@ -384,8 +398,8 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/39294/35014",
     "prices": [
-      "指定席／前売：￥2,000",
-      "立見（整理番号）／前売：￥2,000"
+      "指定席／当日：￥2,300",
+      "立見（整理番号）／当日：￥2,300"
     ],
     "open_start_time": "開場 19:00 / 開演 19:15",
     "is_new": false,
