@@ -1,5 +1,19 @@
 [
   {
+    "title": "新ネタライブ!!ハイキック寄席!!",
+    "date": "2026-03-09",
+    "date_text": "2026/03/09(月)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/39196/35014",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260309115726"
+  },
+  {
     "title": "大喜利大集合 ～ハゲ・ヒゲ・ロン毛大集合～",
     "date": "2026-04-24",
     "date_text": "2026/04/24(金)",
@@ -31,7 +45,7 @@
       "整理番号付自由席／前売：￥3,500"
     ],
     "open_start_time": "開場 11:30 / 開演 12:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260306115258"
   },
   {
@@ -45,7 +59,7 @@
       "整理番号付自由席／前売：￥1,800"
     ],
     "open_start_time": "開場 20:15 / 開演 20:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260306115258"
   },
   {
@@ -67,7 +81,7 @@
     "date": "2026-04-12",
     "date_text": "2026/04/12(日)",
     "venue": "YES THEATER（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/42728/37937",
     "prices": [
       "全席指定／前売：￥2,500"
@@ -387,21 +401,6 @@
       "立見（整理番号）／前売：￥1,300"
     ],
     "open_start_time": "開場 19:15 / 開演 19:30",
-    "is_new": false,
-    "added_id": "20260128114627"
-  },
-  {
-    "title": "新ネタライブ!!ハイキック寄席!!",
-    "date": "2026-03-09",
-    "date_text": "2026/03/09(月)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/39294/35014",
-    "prices": [
-      "指定席／当日：￥2,300",
-      "立見（整理番号）／当日：￥2,300"
-    ],
-    "open_start_time": "開場 19:00 / 開演 19:15",
     "is_new": false,
     "added_id": "20260128114627"
   },
