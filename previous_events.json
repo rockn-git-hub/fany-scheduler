@@ -1,5 +1,19 @@
 [
   {
+    "title": "大喜利大集合 ～ハゲ・ヒゲ・ロン毛大集合～",
+    "date": "2026-04-24",
+    "date_text": "2026/04/24(金)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/43899/38376",
+    "prices": [
+      "整理番号付自由席／前売：￥2,000"
+    ],
+    "open_start_time": "開場 20:40 / 開演 21:00",
+    "is_new": true,
+    "added_id": "20260312115036"
+  },
+  {
     "title": "あおばと～金属バットと～",
     "date": "2026-05-11",
     "date_text": "2026/05/11(月)",
@@ -12,20 +26,6 @@
     "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": true,
     "added_id": "20260311115600"
-  },
-  {
-    "title": "大喜利大集合 ～ハゲ・ヒゲ・ロン毛大集合～",
-    "date": "2026-04-24",
-    "date_text": "2026/04/24(金)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/43859/38376",
-    "prices": [
-      "整理番号付自由席／前売：￥2,000"
-    ],
-    "open_start_time": "開場 20:40 / 開演 21:00",
-    "is_new": true,
-    "added_id": "20260308235034"
   },
   {
     "title": "よしもとお笑いレストラン",
@@ -380,11 +380,11 @@
     "date": "2026-03-12",
     "date_text": "2026/03/12(木)",
     "venue": "なんばグランド花月（大阪府）",
-    "sale_status": "先着発売中",
+    "sale_status": "先着発売終了",
     "detail_link": "https://ticket.fany.lol/reception/37450/34658",
     "prices": [
-      "全席指定／前売大人：￥3,500",
-      "全席指定／前売小学生以下：￥1,000"
+      "全席指定／当日大人：￥3,500",
+      "全席指定／当日小学生以下：￥1,000"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": false,
