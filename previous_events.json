@@ -1,5 +1,19 @@
 [
   {
+    "title": "バッテリィズがオーダーを組んでそのまま寄席してみました",
+    "date": "2026-03-19",
+    "date_text": "2026/03/19(木)",
+    "venue": "COOL JAPAN PARK OSAKA WWホール（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/36034/33625",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260318235519"
+  },
+  {
     "title": "GW茂造特別寄席公演",
     "date": "2026-05-03",
     "date_text": "2026/05/03(日・祝)",
@@ -382,8 +396,8 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/39310/35017",
     "prices": [
-      "指定席／前売：￥1,500",
-      "立見（整理番号）／前売：￥1,500"
+      "指定席／当日：￥1,800",
+      "立見（整理番号）／当日：￥1,800"
     ],
     "open_start_time": "開場 20:45 / 開演 21:00",
     "is_new": false,
@@ -417,20 +431,6 @@
     "open_start_time": "開場 18:30 / 開演 19:30",
     "is_new": false,
     "added_id": "20260115114359"
-  },
-  {
-    "title": "バッテリィズがオーダーを組んでそのまま寄席してみました",
-    "date": "2026-03-19",
-    "date_text": "2026/03/19(木)",
-    "venue": "COOL JAPAN PARK OSAKA WWホール（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/36032/33625",
-    "prices": [
-      "全席指定／前売：￥3,000"
-    ],
-    "open_start_time": "開場 18:00 / 開演 18:30",
-    "is_new": false,
-    "added_id": "20260113114414"
   },
   {
     "title": "ダブルアートの12才協会企画『全開の日』第一部、第二部通し券",
