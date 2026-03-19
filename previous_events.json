@@ -1,5 +1,49 @@
 [
   {
+    "title": "19時ライブ～ネタ＆吉本新喜劇～",
+    "date": "2026-05-14",
+    "date_text": "2026/05/14(木)",
+    "venue": "なんばグランド花月（大阪府）",
+    "sale_status": "先着発売中",
+    "detail_link": "https://ticket.fany.lol/reception/44521/38957",
+    "prices": [
+      "全席指定／前売大人：￥3,500",
+      "全席指定／前売小学生以下：￥1,000"
+    ],
+    "open_start_time": "開場 18:30 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20260319115913"
+  },
+  {
+    "title": "19時ライブ～ネタ＆吉本新喜劇～",
+    "date": "2026-05-01",
+    "date_text": "2026/05/01(金)",
+    "venue": "なんばグランド花月（大阪府）",
+    "sale_status": "先着発売中",
+    "detail_link": "https://ticket.fany.lol/reception/44521/38951",
+    "prices": [
+      "全席指定／前売大人：￥3,500",
+      "全席指定／前売小学生以下：￥1,000"
+    ],
+    "open_start_time": "開場 18:30 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20260319115913"
+  },
+  {
+    "title": "ナンバ",
+    "date": "2026-03-19",
+    "date_text": "2026/03/19(木)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/39212/35017",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260319115913"
+  },
+  {
     "title": "バッテリィズがオーダーを組んでそのまま寄席してみました",
     "date": "2026-03-19",
     "date_text": "2026/03/19(木)",
@@ -387,21 +431,6 @@
     "open_start_time": "開場 14:45 / 開演 15:30",
     "is_new": false,
     "added_id": "20260204115621"
-  },
-  {
-    "title": "ナンバ",
-    "date": "2026-03-19",
-    "date_text": "2026/03/19(木)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/39310/35017",
-    "prices": [
-      "指定席／当日：￥1,800",
-      "立見（整理番号）／当日：￥1,800"
-    ],
-    "open_start_time": "開場 20:45 / 開演 21:00",
-    "is_new": false,
-    "added_id": "20260128114627"
   },
   {
     "title": "EDGE～エッジ～",
