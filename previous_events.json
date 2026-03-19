@@ -1,5 +1,19 @@
 [
   {
+    "title": "ダブルアートの12才協会企画『全開の日』第二部「過激大祭典」",
+    "date": "2026-03-20",
+    "date_text": "2026/03/20(金・祝)",
+    "venue": "GORILLA HALL OSAKA（大阪府）",
+    "sale_status": "抽選受付終了 FANYコミュ限定先行",
+    "detail_link": "https://ticket.fany.lol/reception/33782/32386",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260319235606"
+  },
+  {
     "title": "19時ライブ～ネタ＆吉本新喜劇～",
     "date": "2026-05-14",
     "date_text": "2026/05/14(木)",
@@ -30,34 +44,6 @@
     "added_id": "20260319115913"
   },
   {
-    "title": "ナンバ",
-    "date": "2026-03-19",
-    "date_text": "2026/03/19(木)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/39212/35017",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20260319115913"
-  },
-  {
-    "title": "バッテリィズがオーダーを組んでそのまま寄席してみました",
-    "date": "2026-03-19",
-    "date_text": "2026/03/19(木)",
-    "venue": "COOL JAPAN PARK OSAKA WWホール（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/36034/33625",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20260318235519"
-  },
-  {
     "title": "GW茂造特別寄席公演",
     "date": "2026-05-03",
     "date_text": "2026/05/03(日・祝)",
@@ -68,7 +54,7 @@
       "全席指定／前売：￥4,500"
     ],
     "open_start_time": "開場 11:30 / 開演 12:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260316120514"
   },
   {
@@ -82,7 +68,7 @@
       "全席指定／前売：￥4,500"
     ],
     "open_start_time": "開場 11:30 / 開演 12:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260316120514"
   },
   {
@@ -96,7 +82,7 @@
       "全席指定／前売：￥4,500"
     ],
     "open_start_time": "開場 11:30 / 開演 12:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260316120514"
   },
   {
@@ -472,20 +458,6 @@
       "スタンディング／通し券：￥12,000"
     ],
     "open_start_time": "",
-    "is_new": false,
-    "added_id": "20260106114215"
-  },
-  {
-    "title": "ダブルアートの12才協会企画『全開の日』第二部「過激大祭典」",
-    "date": "2026-03-20",
-    "date_text": "2026/03/20(金・祝)",
-    "venue": "GORILLA HALL OSAKA（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/33823/32386",
-    "prices": [
-      "スタンディング／第二部 過激大祭典：￥6,000"
-    ],
-    "open_start_time": "開場 17:45 / 開演 18:30",
     "is_new": false,
     "added_id": "20260106114215"
   }
