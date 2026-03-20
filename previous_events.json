@@ -1,5 +1,35 @@
 [
   {
+    "title": "BSよしもとpresents「吉本新喜劇」",
+    "date": "2026-04-11",
+    "date_text": "2026/04/11(土)",
+    "venue": "YES THEATER（新喜劇セカンドシアター）（大阪府）",
+    "sale_status": "先着発売中",
+    "detail_link": "https://ticket.fany.lol/reception/42514/37870",
+    "prices": [
+      "全席指定／前売大人：￥3,000",
+      "全席指定／前売小人：￥1,500"
+    ],
+    "open_start_time": "開場 12:00 / 開演 12:30",
+    "is_new": true,
+    "added_id": "20260320115415"
+  },
+  {
+    "title": "BSよしもとpresents「吉本新喜劇」",
+    "date": "2026-04-11",
+    "date_text": "2026/04/11(土)",
+    "venue": "YES THEATER（新喜劇セカンドシアター）（大阪府）",
+    "sale_status": "先着発売中",
+    "detail_link": "https://ticket.fany.lol/reception/42514/37879",
+    "prices": [
+      "全席指定／前売大人：￥3,000",
+      "全席指定／前売小人：￥1,500"
+    ],
+    "open_start_time": "開場 15:00 / 開演 15:30",
+    "is_new": true,
+    "added_id": "20260320115415"
+  },
+  {
     "title": "ダブルアートの12才協会企画『全開の日』第二部「過激大祭典」",
     "date": "2026-03-20",
     "date_text": "2026/03/20(金・祝)",
