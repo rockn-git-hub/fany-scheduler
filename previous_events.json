@@ -1,5 +1,19 @@
 [
   {
+    "title": "EDGE～エッジ～",
+    "date": "2026-03-23",
+    "date_text": "2026/03/23(月)",
+    "venue": "なんばグランド花月（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/38222/35321",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260323120348"
+  },
+  {
     "title": "BSよしもとpresents「吉本新喜劇」",
     "date": "2026-04-11",
     "date_text": "2026/04/11(土)",
@@ -11,7 +25,7 @@
       "全席指定／前売小人：￥1,500"
     ],
     "open_start_time": "開場 12:00 / 開演 12:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260320115415"
   },
   {
@@ -26,7 +40,7 @@
       "全席指定／前売小人：￥1,500"
     ],
     "open_start_time": "開場 15:00 / 開演 15:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260320115415"
   },
   {
@@ -370,20 +384,6 @@
     "open_start_time": "開場 14:45 / 開演 15:30",
     "is_new": false,
     "added_id": "20260204115621"
-  },
-  {
-    "title": "EDGE～エッジ～",
-    "date": "2026-03-23",
-    "date_text": "2026/03/23(月)",
-    "venue": "なんばグランド花月（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/38224/35321",
-    "prices": [
-      "全席指定／当日：￥3,800"
-    ],
-    "open_start_time": "開場 20:00 / 開演 20:30",
-    "is_new": false,
-    "added_id": "20260126114507"
   },
   {
     "title": "金属バットの声流電刹ライブ 2026",
