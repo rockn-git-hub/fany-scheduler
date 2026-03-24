@@ -1,17 +1,45 @@
 [
   {
-    "title": "EDGE～エッジ～",
-    "date": "2026-03-23",
-    "date_text": "2026/03/23(月)",
-    "venue": "なんばグランド花月（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/38222/35321",
+    "title": "大阪アングラ計画",
+    "date": "2026-05-26",
+    "date_text": "2026/05/26(火)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/46423/39774",
     "prices": [
-      "価格取得エラー: Message: \n"
+      "指定席／前売：￥1,500"
     ],
-    "open_start_time": "",
+    "open_start_time": "開場 19:15 / 開演 19:30",
     "is_new": true,
-    "added_id": "20260323120348"
+    "added_id": "20260324235812"
+  },
+  {
+    "title": "新ネタライブ!!ハイキック寄席!!",
+    "date": "2026-05-25",
+    "date_text": "2026/05/25(月)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/46421/39768",
+    "prices": [
+      "指定席／前売：￥2,000"
+    ],
+    "open_start_time": "開場 19:00 / 開演 19:15",
+    "is_new": true,
+    "added_id": "20260324235812"
+  },
+  {
+    "title": "ネタライブ！YES FUTURE！",
+    "date": "2026-05-22",
+    "date_text": "2026/05/22(金)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/46414/39747",
+    "prices": [
+      "指定席／前売：￥2,000"
+    ],
+    "open_start_time": "開場 19:00 / 開演 19:15",
+    "is_new": true,
+    "added_id": "20260324235812"
   },
   {
     "title": "BSよしもとpresents「吉本新喜劇」",
