@@ -1,33 +1,5 @@
 [
   {
-    "title": "マンゲキフライデーナイト",
-    "date": "2026-03-27",
-    "date_text": "2026/03/27(金)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/39167/35100",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20260327120444"
-  },
-  {
-    "title": "よしもとお笑い寄席 in TTホール",
-    "date": "2026-03-27",
-    "date_text": "2026/03/27(金)",
-    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/41089/36955",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20260327000027"
-  },
-  {
     "title": "大阪アングラ計画",
     "date": "2026-05-26",
     "date_text": "2026/05/26(火)",
@@ -366,20 +338,6 @@
     "open_start_time": "開場 18:10 / 開演 18:30",
     "is_new": false,
     "added_id": "20260209120509"
-  },
-  {
-    "title": "よしもとお笑い森ノ宮劇場",
-    "date": "2026-03-27",
-    "date_text": "2026/03/27(金)",
-    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
-    "sale_status": "先着発売終了",
-    "detail_link": "https://ticket.fany.lol/reception/38690/35452",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": false,
-    "added_id": "20260205115836"
   },
   {
     "title": "よしもとお笑いライブin岸和田2026",
