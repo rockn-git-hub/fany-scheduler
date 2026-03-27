@@ -1,5 +1,19 @@
 [
   {
+    "title": "マンゲキフライデーナイト",
+    "date": "2026-03-27",
+    "date_text": "2026/03/27(金)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/39167/35100",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260327120444"
+  },
+  {
     "title": "よしもとお笑い寄席 in TTホール",
     "date": "2026-03-27",
     "date_text": "2026/03/27(金)",
@@ -203,20 +217,6 @@
       "整理番号付自由席／前売：￥3,500"
     ],
     "open_start_time": "開場 11:30 / 開演 12:00",
-    "is_new": false,
-    "added_id": "20260306115258"
-  },
-  {
-    "title": "マンゲキフライデーナイト",
-    "date": "2026-03-27",
-    "date_text": "2026/03/27(金)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/39177/35100",
-    "prices": [
-      "整理番号付自由席／当日：￥2,000"
-    ],
-    "open_start_time": "開場 20:15 / 開演 20:30",
     "is_new": false,
     "added_id": "20260306115258"
   },
