@@ -1,5 +1,33 @@
 [
   {
+    "title": "大喜利大集合 ～ハゲ・ヒゲ・ロン毛大集合～",
+    "date": "2026-05-28",
+    "date_text": "2026/05/28(木)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/46895/40322",
+    "prices": [
+      "整理番号付自由席／前売：￥2,000"
+    ],
+    "open_start_time": "開場 20:30 / 開演 20:50",
+    "is_new": true,
+    "added_id": "20260329115328"
+  },
+  {
+    "title": "爆ノ介の道頓堀漢寄席",
+    "date": "2026-05-15",
+    "date_text": "2026/05/15(金)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/46884/40328",
+    "prices": [
+      "整理番号付自由席／前売：￥2,000"
+    ],
+    "open_start_time": "開場 18:40 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20260329115328"
+  },
+  {
     "title": "大阪アングラ計画",
     "date": "2026-05-26",
     "date_text": "2026/05/26(火)",
