@@ -1,5 +1,33 @@
 [
   {
+    "title": "久馬歩責任編集 月刊コント「故郷に錦号」",
+    "date": "2026-05-09",
+    "date_text": "2026/05/09(土)",
+    "venue": "岸和田製鋼マドカホール（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/46871/40353",
+    "prices": [
+      "全席指定／前売：￥4,500"
+    ],
+    "open_start_time": "開場 17:30 / 開演 18:00",
+    "is_new": true,
+    "added_id": "20260402120759"
+  },
+  {
+    "title": "「金属バットのトークライブ」4",
+    "date": "2026-05-02",
+    "date_text": "2026/05/02(土)",
+    "venue": "YES THEATER（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/46860/40351",
+    "prices": [
+      "全席指定／前売：￥2,500"
+    ],
+    "open_start_time": "開場 18:30 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20260402120759"
+  },
+  {
     "title": "よしもとお笑いレストラン",
     "date": "2026-05-31",
     "date_text": "2026/05/31(日)",
@@ -110,34 +138,6 @@
     "open_start_time": "開場 11:30 / 開演 12:00",
     "is_new": true,
     "added_id": "20260401120813"
-  },
-  {
-    "title": "久馬歩責任編集 月刊コント「故郷に錦号」",
-    "date": "2026-05-09",
-    "date_text": "2026/05/09(土)",
-    "venue": "岸和田製鋼マドカホール（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/46869/40353",
-    "prices": [
-      "全席指定／前売：￥4,500"
-    ],
-    "open_start_time": "開場 17:30 / 開演 18:00",
-    "is_new": true,
-    "added_id": "20260330000039"
-  },
-  {
-    "title": "「金属バットのトークライブ」4",
-    "date": "2026-05-02",
-    "date_text": "2026/05/02(土)",
-    "venue": "YES THEATER（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/46858/40351",
-    "prices": [
-      "全席指定／前売：￥2,500"
-    ],
-    "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": true,
-    "added_id": "20260330000039"
   },
   {
     "title": "大阪アングラ計画",
