@@ -1,10 +1,38 @@
 [
   {
+    "title": "THE SECOND ライブツアー2026～今、全盛期の漫才師達～in大阪",
+    "date": "2026-07-05",
+    "date_text": "2026/07/05(日)",
+    "venue": "COOL JAPAN PARK OSAKA WWホール（大阪府）",
+    "sale_status": "抽選受付中",
+    "detail_link": "https://ticket.fany.lol/reception/47955/40938",
+    "prices": [
+      "全席指定／前売：￥5,000"
+    ],
+    "open_start_time": "開場 11:45 / 開演 12:30",
+    "is_new": true,
+    "added_id": "20260410120659"
+  },
+  {
+    "title": "THE SECOND ライブツアー2026～今、全盛期の漫才師達～in大阪",
+    "date": "2026-07-05",
+    "date_text": "2026/07/05(日)",
+    "venue": "COOL JAPAN PARK OSAKA WWホール（大阪府）",
+    "sale_status": "抽選受付中",
+    "detail_link": "https://ticket.fany.lol/reception/47955/40939",
+    "prices": [
+      "全席指定／前売：￥5,000"
+    ],
+    "open_start_time": "開場 15:15 / 開演 16:00",
+    "is_new": true,
+    "added_id": "20260410120659"
+  },
+  {
     "title": "漫才×漫才×コント×コント×カラタチ",
     "date": "2026-05-31",
     "date_text": "2026/05/31(日)",
     "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "抽選受付中",
     "detail_link": "https://ticket.fany.lol/reception/47636/40728",
     "prices": [
       "整理番号付自由席／前売：￥1,800"
@@ -445,21 +473,6 @@
       "立見（整理番号）／前売：￥1,600"
     ],
     "open_start_time": "開場 20:45 / 開演 21:00",
-    "is_new": false,
-    "added_id": "20260227115451"
-  },
-  {
-    "title": "新ネタライブ!!ハイキック寄席!!",
-    "date": "2026-04-10",
-    "date_text": "2026/04/10(金)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/42980/37550",
-    "prices": [
-      "指定席／当日：￥2,300",
-      "立見（整理番号）／当日：￥2,300"
-    ],
-    "open_start_time": "開場 20:30 / 開演 20:45",
     "is_new": false,
     "added_id": "20260227115451"
   },
