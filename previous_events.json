@@ -1,5 +1,33 @@
 [
   {
+    "title": "BSよしもとpresents「吉本新喜劇」",
+    "date": "2026-04-11",
+    "date_text": "2026/04/11(土)",
+    "venue": "YES THEATER（新喜劇セカンドシアター）（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/42512/37870",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260411000320"
+  },
+  {
+    "title": "BSよしもとpresents「吉本新喜劇」",
+    "date": "2026-04-11",
+    "date_text": "2026/04/11(土)",
+    "venue": "YES THEATER（新喜劇セカンドシアター）（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/42512/37879",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260411000320"
+  },
+  {
     "title": "THE SECOND ライブツアー2026～今、全盛期の漫才師達～in大阪",
     "date": "2026-07-05",
     "date_text": "2026/07/05(日)",
@@ -283,36 +311,6 @@
     "added_id": "20260328115300"
   },
   {
-    "title": "BSよしもとpresents「吉本新喜劇」",
-    "date": "2026-04-11",
-    "date_text": "2026/04/11(土)",
-    "venue": "YES THEATER（新喜劇セカンドシアター）（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/42514/37870",
-    "prices": [
-      "全席指定／前売大人：￥3,000",
-      "全席指定／前売小人：￥1,500"
-    ],
-    "open_start_time": "開場 12:00 / 開演 12:30",
-    "is_new": false,
-    "added_id": "20260320115415"
-  },
-  {
-    "title": "BSよしもとpresents「吉本新喜劇」",
-    "date": "2026-04-11",
-    "date_text": "2026/04/11(土)",
-    "venue": "YES THEATER（新喜劇セカンドシアター）（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/42514/37879",
-    "prices": [
-      "全席指定／前売大人：￥3,000",
-      "全席指定／前売小人：￥1,500"
-    ],
-    "open_start_time": "開場 15:00 / 開演 15:30",
-    "is_new": false,
-    "added_id": "20260320115415"
-  },
-  {
     "title": "19時ライブ～ネタ＆吉本新喜劇～",
     "date": "2026-05-14",
     "date_text": "2026/05/14(木)",
@@ -441,7 +439,7 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/43202/38010",
     "prices": [
-      "整理番号付自由席／前売：￥1,800"
+      "整理番号付自由席／当日：￥2,100"
     ],
     "open_start_time": "開場 20:40 / 開演 21:00",
     "is_new": false,
