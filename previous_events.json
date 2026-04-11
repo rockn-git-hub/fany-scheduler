@@ -1,5 +1,19 @@
 [
   {
+    "title": "漫才×漫才×コント×コント×天才ピアニスト",
+    "date": "2026-04-11",
+    "date_text": "2026/04/11(土)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/43174/38010",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260411115551"
+  },
+  {
     "title": "BSよしもとpresents「吉本新喜劇」",
     "date": "2026-04-11",
     "date_text": "2026/04/11(土)",
@@ -102,7 +116,7 @@
     "date": "2026-04-26",
     "date_text": "2026/04/26(日)",
     "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/47416/40641",
     "prices": [
       "全席指定／前売：￥3,000"
@@ -430,20 +444,6 @@
     "open_start_time": "開場 11:30 / 開演 12:00",
     "is_new": false,
     "added_id": "20260306115258"
-  },
-  {
-    "title": "漫才×漫才×コント×コント×天才ピアニスト",
-    "date": "2026-04-11",
-    "date_text": "2026/04/11(土)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/43202/38010",
-    "prices": [
-      "整理番号付自由席／当日：￥2,100"
-    ],
-    "open_start_time": "開場 20:40 / 開演 21:00",
-    "is_new": false,
-    "added_id": "20260304115349"
   },
   {
     "title": "「金属バットのトークライブ」3",
