@@ -1,45 +1,45 @@
 [
   {
-    "title": "漫才×漫才×コント×コント×天才ピアニスト",
-    "date": "2026-04-11",
-    "date_text": "2026/04/11(土)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
+    "title": "よしもとお笑いライブin岸和田2026",
+    "date": "2026-04-12",
+    "date_text": "2026/04/12(日)",
+    "venue": "南海浪切ホール　大ホール（大阪府）",
     "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/43174/38010",
+    "detail_link": "https://ticket.fany.lol/reception/39535/35724",
     "prices": [
       "価格取得エラー: Message: \n"
     ],
     "open_start_time": "",
     "is_new": true,
-    "added_id": "20260411115551"
+    "added_id": "20260412000211"
   },
   {
-    "title": "BSよしもとpresents「吉本新喜劇」",
-    "date": "2026-04-11",
-    "date_text": "2026/04/11(土)",
-    "venue": "YES THEATER（新喜劇セカンドシアター）（大阪府）",
+    "title": "よしもとお笑いライブin岸和田2026",
+    "date": "2026-04-12",
+    "date_text": "2026/04/12(日)",
+    "venue": "南海浪切ホール　大ホール（大阪府）",
     "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/42512/37870",
+    "detail_link": "https://ticket.fany.lol/reception/39535/35725",
     "prices": [
       "価格取得エラー: Message: \n"
     ],
     "open_start_time": "",
     "is_new": true,
-    "added_id": "20260411000320"
+    "added_id": "20260412000211"
   },
   {
-    "title": "BSよしもとpresents「吉本新喜劇」",
-    "date": "2026-04-11",
-    "date_text": "2026/04/11(土)",
-    "venue": "YES THEATER（新喜劇セカンドシアター）（大阪府）",
+    "title": "「金属バットのトークライブ」3",
+    "date": "2026-04-12",
+    "date_text": "2026/04/12(日)",
+    "venue": "YES THEATER（大阪府）",
     "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/42512/37879",
+    "detail_link": "https://ticket.fany.lol/reception/42726/37937",
     "prices": [
       "価格取得エラー: Message: \n"
     ],
     "open_start_time": "",
     "is_new": true,
-    "added_id": "20260411000320"
+    "added_id": "20260412000211"
   },
   {
     "title": "THE SECOND ライブツアー2026～今、全盛期の漫才師達～in大阪",
@@ -80,7 +80,7 @@
       "整理番号付自由席／前売：￥1,800"
     ],
     "open_start_time": "開場 19:10 / 開演 19:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260409000158"
   },
   {
@@ -94,7 +94,7 @@
       "指定席／前売：￥3,000"
     ],
     "open_start_time": "開場 17:10 / 開演 17:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260409000158"
   },
   {
@@ -108,7 +108,7 @@
       "指定席／前売：￥3,000"
     ],
     "open_start_time": "開場 19:10 / 開演 19:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260409000158"
   },
   {
@@ -122,7 +122,7 @@
       "全席指定／前売：￥3,000"
     ],
     "open_start_time": "開場 14:30 / 開演 15:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260408120856"
   },
   {
@@ -136,7 +136,7 @@
       "整理番号付自由席／前売：￥1,500"
     ],
     "open_start_time": "開場 16:45 / 開演 17:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260408120856"
   },
   {
@@ -432,32 +432,18 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/42784/37971",
     "prices": [
-      "整理番号付自由席／前売　バーガー付：￥4,600",
-      "整理番号付自由席／前売　ロコモコ付：￥4,200",
-      "整理番号付自由席／前売　オムライス付：￥4,200",
-      "整理番号付自由席／前売　唐揚げ串付：￥3,900",
-      "整理番号付自由席／前売　ポテト(L)付：￥3,900",
-      "整理番号付自由席／前売　チュロス付：￥3,700",
-      "整理番号付自由席／前売　ワンドリンク付：￥3,700",
-      "整理番号付自由席／前売：￥3,500"
+      "整理番号付自由席／当日　バーガー付：￥4,600",
+      "整理番号付自由席／当日　ロコモコ付：￥4,200",
+      "整理番号付自由席／当日　オムライス付：￥4,200",
+      "整理番号付自由席／当日　唐揚げ串付：￥3,900",
+      "整理番号付自由席／当日　ポテト(L)付：￥3,900",
+      "整理番号付自由席／当日　チュロス付：￥3,700",
+      "整理番号付自由席／当日　ワンドリンク付：￥3,700",
+      "整理番号付自由席／当日：￥3,500"
     ],
     "open_start_time": "開場 11:30 / 開演 12:00",
     "is_new": false,
     "added_id": "20260306115258"
-  },
-  {
-    "title": "「金属バットのトークライブ」3",
-    "date": "2026-04-12",
-    "date_text": "2026/04/12(日)",
-    "venue": "YES THEATER（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/42728/37937",
-    "prices": [
-      "全席指定／前売：￥2,500"
-    ],
-    "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": false,
-    "added_id": "20260303115503"
   },
   {
     "title": "木佐寄席",
@@ -503,35 +489,5 @@
     "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": false,
     "added_id": "20260219120209"
-  },
-  {
-    "title": "よしもとお笑いライブin岸和田2026",
-    "date": "2026-04-12",
-    "date_text": "2026/04/12(日)",
-    "venue": "南海浪切ホール　大ホール（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/39537/35724",
-    "prices": [
-      "全席指定(1・2階)／前売：￥5,000",
-      "全席指定(3階)／前売：￥4,000"
-    ],
-    "open_start_time": "開場 11:45 / 開演 12:30",
-    "is_new": false,
-    "added_id": "20260204115621"
-  },
-  {
-    "title": "よしもとお笑いライブin岸和田2026",
-    "date": "2026-04-12",
-    "date_text": "2026/04/12(日)",
-    "venue": "南海浪切ホール　大ホール（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/39537/35725",
-    "prices": [
-      "全席指定(1・2階)／前売：￥5,000",
-      "全席指定(3階)／前売：￥4,000"
-    ],
-    "open_start_time": "開場 14:45 / 開演 15:30",
-    "is_new": false,
-    "added_id": "20260204115621"
   }
 ]
