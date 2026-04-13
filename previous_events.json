@@ -1,5 +1,35 @@
 [
   {
+    "title": "BSよしもとpresents「吉本新喜劇」",
+    "date": "2026-05-04",
+    "date_text": "2026/05/04(月・祝)",
+    "venue": "YES THEATER（新喜劇セカンドシアター）（大阪府）",
+    "sale_status": "先着発売中",
+    "detail_link": "https://ticket.fany.lol/reception/42514/37875",
+    "prices": [
+      "全席指定／前売大人：￥3,000",
+      "全席指定／前売小人：￥1,500"
+    ],
+    "open_start_time": "開場 12:00 / 開演 12:30",
+    "is_new": true,
+    "added_id": "20260413124237"
+  },
+  {
+    "title": "BSよしもとpresents「吉本新喜劇」",
+    "date": "2026-05-04",
+    "date_text": "2026/05/04(月・祝)",
+    "venue": "YES THEATER（新喜劇セカンドシアター）（大阪府）",
+    "sale_status": "先着発売中",
+    "detail_link": "https://ticket.fany.lol/reception/42514/37884",
+    "prices": [
+      "全席指定／前売大人：￥3,000",
+      "全席指定／前売小人：￥1,500"
+    ],
+    "open_start_time": "開場 15:00 / 開演 15:30",
+    "is_new": true,
+    "added_id": "20260413124237"
+  },
+  {
     "title": "漫才×漫才×コント×コント×カラタチ",
     "date": "2026-05-31",
     "date_text": "2026/05/31(日)",
@@ -24,7 +54,7 @@
       "全席指定／前売：￥5,000"
     ],
     "open_start_time": "開場 11:45 / 開演 12:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260410120659"
   },
   {
@@ -38,7 +68,7 @@
       "全席指定／前売：￥5,000"
     ],
     "open_start_time": "開場 15:15 / 開演 16:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260410120659"
   },
   {
