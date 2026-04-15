@@ -1,5 +1,19 @@
 [
   {
+    "title": "Kiwami極LIVE",
+    "date": "2026-04-15",
+    "date_text": "2026/04/15(水)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/42844/37494",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260415121201"
+  },
+  {
     "title": "BSよしもとpresents「吉本新喜劇」",
     "date": "2026-05-04",
     "date_text": "2026/05/04(月・祝)",
@@ -40,7 +54,7 @@
       "整理番号付自由席／前売：￥1,800"
     ],
     "open_start_time": "開場 19:10 / 開演 19:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260412115859"
   },
   {
@@ -110,20 +124,6 @@
       "全席指定／前売：￥3,000"
     ],
     "open_start_time": "開場 14:30 / 開演 15:00",
-    "is_new": false,
-    "added_id": "20260408120856"
-  },
-  {
-    "title": "Kiwami極LIVE",
-    "date": "2026-04-15",
-    "date_text": "2026/04/15(水)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/42850/37494",
-    "prices": [
-      "整理番号付自由席／当日：￥1,800"
-    ],
-    "open_start_time": "開場 16:45 / 開演 17:00",
     "is_new": false,
     "added_id": "20260408120856"
   },
