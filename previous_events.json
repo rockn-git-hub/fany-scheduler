@@ -121,7 +121,7 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/42850/37494",
     "prices": [
-      "整理番号付自由席／前売：￥1,500"
+      "整理番号付自由席／当日：￥1,800"
     ],
     "open_start_time": "開場 16:45 / 開演 17:00",
     "is_new": false,
@@ -437,21 +437,6 @@
     "prices": [
       "全席指定／前売大人：￥3,500",
       "全席指定／前売小学生以下：￥1,000"
-    ],
-    "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": false,
-    "added_id": "20260219120209"
-  },
-  {
-    "title": "19時ライブ～ネタ＆吉本新喜劇～",
-    "date": "2026-04-14",
-    "date_text": "2026/04/14(火)",
-    "venue": "なんばグランド花月（大阪府）",
-    "sale_status": "先着発売終了",
-    "detail_link": "https://ticket.fany.lol/reception/40972/36687",
-    "prices": [
-      "全席指定／当日大人：￥3,500",
-      "全席指定／当日小学生以下：￥1,000"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": false,
