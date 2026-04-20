@@ -1,5 +1,64 @@
 [
   {
+    "title": "19時ライブ～ネタ＆吉本新喜劇～",
+    "date": "2026-06-24",
+    "date_text": "2026/06/24(水)",
+    "venue": "なんばグランド花月（大阪府）",
+    "sale_status": "先着発売中",
+    "detail_link": "https://ticket.fany.lol/reception/48447/41475",
+    "prices": [
+      "全席指定／前売大人：￥3,500",
+      "全席指定／前売小学生以下：￥1,000"
+    ],
+    "open_start_time": "開場 18:30 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20260420124724"
+  },
+  {
+    "title": "19時ライブ～ネタ＆吉本新喜劇～",
+    "date": "2026-06-10",
+    "date_text": "2026/06/10(水)",
+    "venue": "なんばグランド花月（大阪府）",
+    "sale_status": "先着発売中",
+    "detail_link": "https://ticket.fany.lol/reception/48447/41467",
+    "prices": [
+      "全席指定／前売大人：￥3,500",
+      "全席指定／前売小学生以下：￥1,000"
+    ],
+    "open_start_time": "開場 18:30 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20260420124724"
+  },
+  {
+    "title": "19時ライブ～ネタ＆吉本新喜劇～",
+    "date": "2026-06-03",
+    "date_text": "2026/06/03(水)",
+    "venue": "なんばグランド花月（大阪府）",
+    "sale_status": "先着発売中",
+    "detail_link": "https://ticket.fany.lol/reception/48447/41464",
+    "prices": [
+      "全席指定／前売大人：￥3,500",
+      "全席指定／前売小学生以下：￥1,000"
+    ],
+    "open_start_time": "開場 18:30 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20260420124724"
+  },
+  {
+    "title": "木佐寄席",
+    "date": "2026-04-20",
+    "date_text": "2026/04/20(月)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/42894/37579",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260420124724"
+  },
+  {
     "title": "BSよしもとpresents「吉本新喜劇」",
     "date": "2026-05-04",
     "date_text": "2026/05/04(月・祝)",
@@ -11,7 +70,7 @@
       "全席指定／前売小人：￥1,500"
     ],
     "open_start_time": "開場 12:00 / 開演 12:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260413124237"
   },
   {
@@ -26,7 +85,7 @@
       "全席指定／前売小人：￥1,500"
     ],
     "open_start_time": "開場 15:00 / 開演 15:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260413124237"
   },
   {
@@ -34,7 +93,7 @@
     "date": "2026-05-31",
     "date_text": "2026/05/31(日)",
     "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/47678/40728",
     "prices": [
       "整理番号付自由席／前売：￥1,800"
@@ -76,7 +135,7 @@
     "date": "2026-05-30",
     "date_text": "2026/05/30(土)",
     "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/47850/40779",
     "prices": [
       "指定席／前売：￥3,000"
@@ -90,7 +149,7 @@
     "date": "2026-05-30",
     "date_text": "2026/05/30(土)",
     "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/47850/40780",
     "prices": [
       "指定席／前売：￥3,000"
@@ -336,7 +395,8 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/44279/38573",
     "prices": [
-      "全席指定／前売：￥4,500"
+      "全席指定／前売：￥4,500",
+      "見切れ席／前売：￥4,500"
     ],
     "open_start_time": "開場 11:30 / 開演 12:00",
     "is_new": false,
@@ -350,7 +410,8 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/44279/38572",
     "prices": [
-      "全席指定／前売：￥4,500"
+      "全席指定／前売：￥4,500",
+      "見切れ席／前売：￥4,500"
     ],
     "open_start_time": "開場 11:30 / 開演 12:00",
     "is_new": false,
@@ -364,7 +425,8 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/44279/38571",
     "prices": [
-      "全席指定／前売：￥4,500"
+      "全席指定／前売：￥4,500",
+      "見切れ席／前売：￥4,500"
     ],
     "open_start_time": "開場 11:30 / 開演 12:00",
     "is_new": false,
@@ -397,21 +459,6 @@
     "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": false,
     "added_id": "20260311115600"
-  },
-  {
-    "title": "木佐寄席",
-    "date": "2026-04-20",
-    "date_text": "2026/04/20(月)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/42998/37579",
-    "prices": [
-      "指定席／前売：￥1,600",
-      "立見（整理番号）／前売：￥1,600"
-    ],
-    "open_start_time": "開場 20:45 / 開演 21:00",
-    "is_new": false,
-    "added_id": "20260227115451"
   },
   {
     "title": "19時ライブ～ネタ＆吉本新喜劇～",
