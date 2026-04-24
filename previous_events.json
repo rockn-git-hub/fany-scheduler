@@ -1,5 +1,19 @@
 [
   {
+    "title": "大喜利大集合 ～ハゲ・ヒゲ・ロン毛大集合～",
+    "date": "2026-04-24",
+    "date_text": "2026/04/24(金)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/43859/38376",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260424121407"
+  },
+  {
     "title": "THE SECOND ライブツアー2026～今、全盛期の漫才師達～in大阪",
     "date": "2026-07-05",
     "date_text": "2026/07/05(日)",
@@ -417,20 +431,6 @@
     "open_start_time": "開場 11:30 / 開演 12:00",
     "is_new": false,
     "added_id": "20260316120514"
-  },
-  {
-    "title": "大喜利大集合 ～ハゲ・ヒゲ・ロン毛大集合～",
-    "date": "2026-04-24",
-    "date_text": "2026/04/24(金)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/43899/38376",
-    "prices": [
-      "整理番号付自由席／当日：￥2,500"
-    ],
-    "open_start_time": "開場 20:40 / 開演 21:00",
-    "is_new": false,
-    "added_id": "20260312115036"
   },
   {
     "title": "あおばと～金属バットと～",
