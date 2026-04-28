@@ -1,5 +1,78 @@
 [
   {
+    "title": "THE SECOND ライブツアー2026～今、全盛期の漫才師達～in大阪",
+    "date": "2026-07-05",
+    "date_text": "2026/07/05(日)",
+    "venue": "COOL JAPAN PARK OSAKA WWホール（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/47987/40938",
+    "prices": [
+      "全席指定／前売：￥5,000"
+    ],
+    "open_start_time": "開場 11:45 / 開演 12:30",
+    "is_new": true,
+    "added_id": "20260428131357"
+  },
+  {
+    "title": "THE SECOND ライブツアー2026～今、全盛期の漫才師達～in大阪",
+    "date": "2026-07-05",
+    "date_text": "2026/07/05(日)",
+    "venue": "COOL JAPAN PARK OSAKA WWホール（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/47987/40939",
+    "prices": [
+      "全席指定／前売：￥5,000"
+    ],
+    "open_start_time": "開場 15:15 / 開演 16:00",
+    "is_new": true,
+    "added_id": "20260428131357"
+  },
+  {
+    "title": "よしもとゴリラライブ大阪",
+    "date": "2026-06-23",
+    "date_text": "2026/06/23(火)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/50473/42161",
+    "prices": [
+      "指定席／前売：￥1,800",
+      "立見（整理番号）／前売：￥1,800"
+    ],
+    "open_start_time": "開場 19:00 / 開演 19:15",
+    "is_new": true,
+    "added_id": "20260428131357"
+  },
+  {
+    "title": "ネタライブ！YES FUTURE！",
+    "date": "2026-06-15",
+    "date_text": "2026/06/15(月)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/50458/42145",
+    "prices": [
+      "指定席／前売：￥2,000",
+      "立見（整理番号）／前売：￥2,000"
+    ],
+    "open_start_time": "開場 19:00 / 開演 19:15",
+    "is_new": true,
+    "added_id": "20260428131357"
+  },
+  {
+    "title": "新ネタライブ!!ハイキック寄席!!",
+    "date": "2026-06-10",
+    "date_text": "2026/06/10(水)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/50453/42148",
+    "prices": [
+      "指定席／前売：￥2,000",
+      "立見（整理番号）／前売：￥2,000"
+    ],
+    "open_start_time": "開場 19:00 / 開演 19:15",
+    "is_new": true,
+    "added_id": "20260428131357"
+  },
+  {
     "title": "ザ・ぼんち×金属バットツーマンライブ「ばっとぼんちー2026」",
     "date": "2026-09-18",
     "date_text": "2026/09/18(金)",
@@ -12,76 +85,6 @@
     "open_start_time": "開場 18:00 / 開演 19:00",
     "is_new": true,
     "added_id": "20260427130538"
-  },
-  {
-    "title": "よしもとゴリラライブ大阪",
-    "date": "2026-06-23",
-    "date_text": "2026/06/23(火)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/50369/42161",
-    "prices": [
-      "指定席／前売：￥1,800"
-    ],
-    "open_start_time": "開場 19:00 / 開演 19:15",
-    "is_new": false,
-    "added_id": "20260425000822"
-  },
-  {
-    "title": "ネタライブ！YES FUTURE！",
-    "date": "2026-06-15",
-    "date_text": "2026/06/15(月)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/50354/42145",
-    "prices": [
-      "指定席／前売：￥2,000"
-    ],
-    "open_start_time": "開場 19:00 / 開演 19:15",
-    "is_new": false,
-    "added_id": "20260425000822"
-  },
-  {
-    "title": "新ネタライブ!!ハイキック寄席!!",
-    "date": "2026-06-10",
-    "date_text": "2026/06/10(水)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/50349/42148",
-    "prices": [
-      "指定席／前売：￥2,000"
-    ],
-    "open_start_time": "開場 19:00 / 開演 19:15",
-    "is_new": false,
-    "added_id": "20260425000822"
-  },
-  {
-    "title": "THE SECOND ライブツアー2026～今、全盛期の漫才師達～in大阪",
-    "date": "2026-07-05",
-    "date_text": "2026/07/05(日)",
-    "venue": "COOL JAPAN PARK OSAKA WWホール（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/47971/40938",
-    "prices": [
-      "全席指定／前売：￥5,000"
-    ],
-    "open_start_time": "開場 11:45 / 開演 12:30",
-    "is_new": false,
-    "added_id": "20260421124237"
-  },
-  {
-    "title": "THE SECOND ライブツアー2026～今、全盛期の漫才師達～in大阪",
-    "date": "2026-07-05",
-    "date_text": "2026/07/05(日)",
-    "venue": "COOL JAPAN PARK OSAKA WWホール（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/47971/40939",
-    "prices": [
-      "全席指定／前売：￥5,000"
-    ],
-    "open_start_time": "開場 15:15 / 開演 16:00",
-    "is_new": false,
-    "added_id": "20260421124237"
   },
   {
     "title": "19時ライブ～ネタ＆吉本新喜劇～",
