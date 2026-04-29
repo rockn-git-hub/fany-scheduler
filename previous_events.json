@@ -1,5 +1,47 @@
 [
   {
+    "title": "漫才×漫才×コント×コント×三遊間",
+    "date": "2026-06-22",
+    "date_text": "2026/06/22(月)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/50841/42985",
+    "prices": [
+      "指定席／前売：￥1,800"
+    ],
+    "open_start_time": "開場 19:10 / 開演 19:30",
+    "is_new": true,
+    "added_id": "20260429011836"
+  },
+  {
+    "title": "大喜利大集合 ～ハゲ・ヒゲ・ロン毛大集合～",
+    "date": "2026-06-11",
+    "date_text": "2026/06/11(木)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/50754/42970",
+    "prices": [
+      "整理番号付自由席／前売：￥2,000"
+    ],
+    "open_start_time": "開場 20:40 / 開演 21:00",
+    "is_new": true,
+    "added_id": "20260429011836"
+  },
+  {
+    "title": "ティーアップ トークライブ",
+    "date": "2026-06-06",
+    "date_text": "2026/06/06(土)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/50748/42979",
+    "prices": [
+      "整理番号付自由席／前売：￥2,000"
+    ],
+    "open_start_time": "開場 18:10 / 開演 18:30",
+    "is_new": true,
+    "added_id": "20260429011836"
+  },
+  {
     "title": "THE SECOND ライブツアー2026～今、全盛期の漫才師達～in大阪",
     "date": "2026-07-05",
     "date_text": "2026/07/05(日)",
