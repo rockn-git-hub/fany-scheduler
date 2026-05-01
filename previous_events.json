@@ -1,5 +1,19 @@
 [
   {
+    "title": "GW茂造特別寄席公演",
+    "date": "2026-05-01",
+    "date_text": "2026/05/01(金)",
+    "venue": "サンケイホールブリーゼ（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/44277/38571",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260501012338"
+  },
+  {
     "title": "よしもとお笑いレストラン",
     "date": "2026-06-06",
     "date_text": "2026/06/06(土)",
@@ -474,8 +488,8 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/44521/38951",
     "prices": [
-      "全席指定／前売大人：￥3,500",
-      "全席指定／前売小学生以下：￥1,000"
+      "全席指定／当日大人：￥3,500",
+      "全席指定／当日小学生以下：￥1,000"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": false,
@@ -503,21 +517,6 @@
     "venue": "サンケイホールブリーゼ（大阪府）",
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/44279/38572",
-    "prices": [
-      "全席指定／前売：￥4,500",
-      "見切れ席／前売：￥4,500"
-    ],
-    "open_start_time": "開場 11:30 / 開演 12:00",
-    "is_new": false,
-    "added_id": "20260316120514"
-  },
-  {
-    "title": "GW茂造特別寄席公演",
-    "date": "2026-05-01",
-    "date_text": "2026/05/01(金)",
-    "venue": "サンケイホールブリーゼ（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/44279/38571",
     "prices": [
       "全席指定／前売：￥4,500",
       "見切れ席／前売：￥4,500"
