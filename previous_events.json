@@ -1,5 +1,19 @@
 [
   {
+    "title": "GW茂造特別寄席公演",
+    "date": "2026-05-03",
+    "date_text": "2026/05/03(日・祝)",
+    "venue": "サンケイホールブリーゼ（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/44277/38573",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260503001114"
+  },
+  {
     "title": "漫才×漫才×コント×コント×三遊間",
     "date": "2026-06-22",
     "date_text": "2026/06/22(月)",
@@ -73,48 +87,6 @@
       "全席指定／前売：￥3,000"
     ],
     "open_start_time": "開場 19:00 / 開演 19:30",
-    "is_new": true,
-    "added_id": "20260502011417"
-  },
-  {
-    "title": "GW茂造特別寄席公演",
-    "date": "2026-05-02",
-    "date_text": "2026/05/02(土)",
-    "venue": "サンケイホールブリーゼ（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/44277/38572",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20260502011417"
-  },
-  {
-    "title": "よしもとお笑いレストラン",
-    "date": "2026-05-02",
-    "date_text": "2026/05/02(土)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/46740/40283",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20260502011417"
-  },
-  {
-    "title": "「金属バットのトークライブ」4",
-    "date": "2026-05-02",
-    "date_text": "2026/05/02(土)",
-    "venue": "YES THEATER（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/46858/40351",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
     "is_new": true,
     "added_id": "20260502011417"
   },
@@ -486,21 +458,6 @@
     "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": false,
     "added_id": "20260319115913"
-  },
-  {
-    "title": "GW茂造特別寄席公演",
-    "date": "2026-05-03",
-    "date_text": "2026/05/03(日・祝)",
-    "venue": "サンケイホールブリーゼ（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/44279/38573",
-    "prices": [
-      "全席指定／前売：￥4,500",
-      "見切れ席／前売：￥4,500"
-    ],
-    "open_start_time": "開場 11:30 / 開演 12:00",
-    "is_new": false,
-    "added_id": "20260316120514"
   },
   {
     "title": "あおばと～金属バットと～",
