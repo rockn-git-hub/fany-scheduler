@@ -1,17 +1,59 @@
 [
   {
-    "title": "GW茂造特別寄席公演",
-    "date": "2026-05-03",
-    "date_text": "2026/05/03(日・祝)",
-    "venue": "サンケイホールブリーゼ（大阪府）",
+    "title": "気持ちは芸歴1年目！？大はしゃぎライブ！！",
+    "date": "2026-06-07",
+    "date_text": "2026/06/07(日)",
+    "venue": "YES THEATER（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/51140/43111",
+    "prices": [
+      "全席指定／前売：￥3,000"
+    ],
+    "open_start_time": "開場 18:40 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20260504011833"
+  },
+  {
+    "title": "よしもとお笑いレストラン",
+    "date": "2026-05-04",
+    "date_text": "2026/05/04(月・祝)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
     "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/44277/38573",
+    "detail_link": "https://ticket.fany.lol/reception/46740/40285",
     "prices": [
       "価格取得エラー: Message: \n"
     ],
     "open_start_time": "",
     "is_new": true,
-    "added_id": "20260503001114"
+    "added_id": "20260504011833"
+  },
+  {
+    "title": "BSよしもとpresents「吉本新喜劇」",
+    "date": "2026-05-04",
+    "date_text": "2026/05/04(月・祝)",
+    "venue": "YES THEATER（新喜劇セカンドシアター）（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/42512/37875",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260504011833"
+  },
+  {
+    "title": "BSよしもとpresents「吉本新喜劇」",
+    "date": "2026-05-04",
+    "date_text": "2026/05/04(月・祝)",
+    "venue": "YES THEATER（新喜劇セカンドシアター）（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/42512/37884",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260504011833"
   },
   {
     "title": "漫才×漫才×コント×コント×三遊間",
@@ -223,36 +265,6 @@
     "added_id": "20260420124724"
   },
   {
-    "title": "BSよしもとpresents「吉本新喜劇」",
-    "date": "2026-05-04",
-    "date_text": "2026/05/04(月・祝)",
-    "venue": "YES THEATER（新喜劇セカンドシアター）（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/42514/37875",
-    "prices": [
-      "全席指定／前売大人：￥3,000",
-      "全席指定／前売小人：￥1,500"
-    ],
-    "open_start_time": "開場 12:00 / 開演 12:30",
-    "is_new": false,
-    "added_id": "20260413124237"
-  },
-  {
-    "title": "BSよしもとpresents「吉本新喜劇」",
-    "date": "2026-05-04",
-    "date_text": "2026/05/04(月・祝)",
-    "venue": "YES THEATER（新喜劇セカンドシアター）（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/42514/37884",
-    "prices": [
-      "全席指定／前売大人：￥3,000",
-      "全席指定／前売小人：￥1,500"
-    ],
-    "open_start_time": "開場 15:00 / 開演 15:30",
-    "is_new": false,
-    "added_id": "20260413124237"
-  },
-  {
     "title": "漫才×漫才×コント×コント×カラタチ",
     "date": "2026-05-31",
     "date_text": "2026/05/31(日)",
@@ -375,27 +387,6 @@
       "整理番号付自由席／前売：￥2,000"
     ],
     "open_start_time": "開場 18:40 / 開演 19:00",
-    "is_new": false,
-    "added_id": "20260401120813"
-  },
-  {
-    "title": "よしもとお笑いレストラン",
-    "date": "2026-05-04",
-    "date_text": "2026/05/04(月・祝)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/46742/40285",
-    "prices": [
-      "整理番号付自由席／前売　バーガー付：￥4,600",
-      "整理番号付自由席／前売　ロコモコ付：￥4,200",
-      "整理番号付自由席／前売　オムライス付：￥4,200",
-      "整理番号付自由席／前売　唐揚げ串付：￥3,900",
-      "整理番号付自由席／前売　ポテト(L)付：￥3,900",
-      "整理番号付自由席／前売　チュロス付：￥3,700",
-      "整理番号付自由席／前売　ワンドリンク付：￥3,700",
-      "整理番号付自由席／前売：￥3,500"
-    ],
-    "open_start_time": "開場 11:30 / 開演 12:00",
     "is_new": false,
     "added_id": "20260401120813"
   },
