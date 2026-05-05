@@ -1,5 +1,19 @@
 [
   {
+    "title": "ワルガキ ～タンクと友保～",
+    "date": "2026-05-27",
+    "date_text": "2026/05/27(水)",
+    "venue": "日本橋Pollux Theater（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/51346/43130",
+    "prices": [
+      "整理番号付自由席／前売：￥2,000"
+    ],
+    "open_start_time": "開場 18:45 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20260505011326"
+  },
+  {
     "title": "Kiwami極LIVEプラス",
     "date": "2026-05-14",
     "date_text": "2026/05/14(木)",
@@ -28,53 +42,11 @@
     "added_id": "20260504011833"
   },
   {
-    "title": "よしもとお笑いレストラン",
-    "date": "2026-05-04",
-    "date_text": "2026/05/04(月・祝)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/46740/40285",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20260504011833"
-  },
-  {
-    "title": "BSよしもとpresents「吉本新喜劇」",
-    "date": "2026-05-04",
-    "date_text": "2026/05/04(月・祝)",
-    "venue": "YES THEATER（新喜劇セカンドシアター）（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/42512/37875",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20260504011833"
-  },
-  {
-    "title": "BSよしもとpresents「吉本新喜劇」",
-    "date": "2026-05-04",
-    "date_text": "2026/05/04(月・祝)",
-    "venue": "YES THEATER（新喜劇セカンドシアター）（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/42512/37884",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20260504011833"
-  },
-  {
     "title": "漫才×漫才×コント×コント×三遊間",
     "date": "2026-06-22",
     "date_text": "2026/06/22(月)",
     "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/50843/42985",
     "prices": [
       "指定席／前売：￥1,800"
@@ -88,7 +60,7 @@
     "date": "2026-06-11",
     "date_text": "2026/06/11(木)",
     "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/50796/42970",
     "prices": [
       "整理番号付自由席／前売：￥2,000"
@@ -102,7 +74,7 @@
     "date": "2026-06-06",
     "date_text": "2026/06/06(土)",
     "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/50968/43026",
     "prices": [
       "整理番号付自由席／前売　バーガー付：￥4,600",
@@ -123,7 +95,7 @@
     "date": "2026-06-06",
     "date_text": "2026/06/06(土)",
     "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/50790/42979",
     "prices": [
       "整理番号付自由席／前売：￥2,000"
@@ -179,7 +151,7 @@
     "date": "2026-06-23",
     "date_text": "2026/06/23(火)",
     "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/50473/42161",
     "prices": [
       "指定席／前売：￥1,800",
@@ -194,7 +166,7 @@
     "date": "2026-06-15",
     "date_text": "2026/06/15(月)",
     "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/50458/42145",
     "prices": [
       "指定席／前売：￥2,000",
@@ -209,7 +181,7 @@
     "date": "2026-06-10",
     "date_text": "2026/06/10(水)",
     "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/50453/42148",
     "prices": [
       "指定席／前売：￥2,000",
