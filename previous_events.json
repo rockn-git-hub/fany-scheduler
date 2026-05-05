@@ -32,7 +32,7 @@
     "date": "2026-06-07",
     "date_text": "2026/06/07(日)",
     "venue": "YES THEATER（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "抽選受付中",
     "detail_link": "https://ticket.fany.lol/reception/51140/43111",
     "prices": [
       "全席指定／前売：￥3,000"
@@ -52,7 +52,7 @@
       "指定席／前売：￥1,800"
     ],
     "open_start_time": "開場 19:10 / 開演 19:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260502120915"
   },
   {
@@ -66,7 +66,7 @@
       "整理番号付自由席／前売：￥2,000"
     ],
     "open_start_time": "開場 20:40 / 開演 21:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260502120915"
   },
   {
@@ -87,7 +87,7 @@
       "整理番号付自由席／前売：￥3,500"
     ],
     "open_start_time": "開場 11:30 / 開演 12:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260502120915"
   },
   {
@@ -101,7 +101,7 @@
       "整理番号付自由席／前売：￥2,000"
     ],
     "open_start_time": "開場 18:10 / 開演 18:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260502120915"
   },
   {
@@ -115,7 +115,7 @@
       "全席指定／前売：￥3,000"
     ],
     "open_start_time": "開場 19:00 / 開演 19:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260502011417"
   },
   {
