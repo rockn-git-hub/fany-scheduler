@@ -1,5 +1,19 @@
 [
   {
+    "title": "気持ちは芸歴1年目！？大はしゃぎライブ！！",
+    "date": "2026-06-07",
+    "date_text": "2026/06/07(日)",
+    "venue": "YES THEATER（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/51142/43111",
+    "prices": [
+      "全席指定／前売：￥3,000"
+    ],
+    "open_start_time": "開場 18:40 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20260507131602"
+  },
+  {
     "title": "ワルガキ ～タンクと友保～",
     "date": "2026-05-27",
     "date_text": "2026/05/27(水)",
@@ -24,22 +38,8 @@
       "整理番号付自由席／前売：￥1,500"
     ],
     "open_start_time": "開場 16:45 / 開演 17:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260504130925"
-  },
-  {
-    "title": "気持ちは芸歴1年目！？大はしゃぎライブ！！",
-    "date": "2026-06-07",
-    "date_text": "2026/06/07(日)",
-    "venue": "YES THEATER（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/51140/43111",
-    "prices": [
-      "全席指定／前売：￥3,000"
-    ],
-    "open_start_time": "開場 18:40 / 開演 19:00",
-    "is_new": true,
-    "added_id": "20260504011833"
   },
   {
     "title": "漫才×漫才×コント×コント×三遊間",
