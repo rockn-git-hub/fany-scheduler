@@ -1,5 +1,19 @@
 [
   {
+    "title": "「金属バットのトークライブ」5",
+    "date": "2026-06-08",
+    "date_text": "2026/06/08(月)",
+    "venue": "YES THEATER（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/51458/43248",
+    "prices": [
+      "全席指定／前売：￥2,500"
+    ],
+    "open_start_time": "開場 18:30 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20260508011942"
+  },
+  {
     "title": "気持ちは芸歴1年目！？大はしゃぎライブ！！",
     "date": "2026-06-07",
     "date_text": "2026/06/07(日)",
@@ -24,7 +38,7 @@
       "整理番号付自由席／前売：￥2,000"
     ],
     "open_start_time": "開場 18:45 / 開演 19:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260505011326"
   },
   {
