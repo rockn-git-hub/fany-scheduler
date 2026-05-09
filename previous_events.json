@@ -1,5 +1,19 @@
 [
   {
+    "title": "Kiwami極LIVEプラス",
+    "date": "2026-05-15",
+    "date_text": "2026/05/15(金)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "先着発売中",
+    "detail_link": "https://ticket.fany.lol/reception/46598/39859",
+    "prices": [
+      "整理番号付自由席／前売：￥1,500"
+    ],
+    "open_start_time": "開場 16:45 / 開演 17:00",
+    "is_new": true,
+    "added_id": "20260509121111"
+  },
+  {
     "title": "久馬歩責任編集 月刊コント「故郷に錦号」",
     "date": "2026-05-09",
     "date_text": "2026/05/09(土)",
@@ -32,7 +46,7 @@
     "date": "2026-06-08",
     "date_text": "2026/06/08(月)",
     "venue": "YES THEATER（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "抽選受付中",
     "detail_link": "https://ticket.fany.lol/reception/51458/43248",
     "prices": [
       "全席指定／前売：￥2,500"
