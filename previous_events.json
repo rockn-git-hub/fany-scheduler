@@ -1,5 +1,33 @@
 [
   {
+    "title": "金属バット×例えば炎ツーマンライブ「例えバット」２",
+    "date": "2026-07-14",
+    "date_text": "2026/07/14(火)",
+    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/49816/42612",
+    "prices": [
+      "全席指定／前売：￥3,000"
+    ],
+    "open_start_time": "開場 19:00 / 開演 19:30",
+    "is_new": true,
+    "added_id": "20260511140335"
+  },
+  {
+    "title": "「金属バットのトークライブ」5",
+    "date": "2026-06-08",
+    "date_text": "2026/06/08(月)",
+    "venue": "YES THEATER（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/51460/43248",
+    "prices": [
+      "全席指定／前売：￥2,500"
+    ],
+    "open_start_time": "開場 18:30 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20260511140335"
+  },
+  {
     "title": "Kiwami極LIVEプラス",
     "date": "2026-05-15",
     "date_text": "2026/05/15(金)",
@@ -24,22 +52,8 @@
       "整理番号付自由席／前売：￥1,800"
     ],
     "open_start_time": "開場 20:15 / 開演 20:30",
-    "is_new": true,
-    "added_id": "20260508125350"
-  },
-  {
-    "title": "「金属バットのトークライブ」5",
-    "date": "2026-06-08",
-    "date_text": "2026/06/08(月)",
-    "venue": "YES THEATER（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/51458/43248",
-    "prices": [
-      "全席指定／前売：￥2,500"
-    ],
-    "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": false,
-    "added_id": "20260508011942"
+    "added_id": "20260508125350"
   },
   {
     "title": "気持ちは芸歴1年目！？大はしゃぎライブ！！",
@@ -145,20 +159,6 @@
     "open_start_time": "開場 18:10 / 開演 18:30",
     "is_new": false,
     "added_id": "20260502120915"
-  },
-  {
-    "title": "金属バット×例えば炎ツーマンライブ「例えバット」２",
-    "date": "2026-07-14",
-    "date_text": "2026/07/14(火)",
-    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/49814/42612",
-    "prices": [
-      "全席指定／前売：￥3,000"
-    ],
-    "open_start_time": "開場 19:00 / 開演 19:30",
-    "is_new": false,
-    "added_id": "20260502011417"
   },
   {
     "title": "THE SECOND ライブツアー2026～今、全盛期の漫才師達～in大阪",
