@@ -1,5 +1,35 @@
 [
   {
+    "title": "吉本新喜劇inセカンドシアター",
+    "date": "2026-05-31",
+    "date_text": "2026/05/31(日)",
+    "venue": "YES THEATER（新喜劇セカンドシアター）（大阪府）",
+    "sale_status": "先着発売中",
+    "detail_link": "https://ticket.fany.lol/reception/40316/36123",
+    "prices": [
+      "全席指定／大人：￥3,000",
+      "全席指定／小人：￥1,500"
+    ],
+    "open_start_time": "開場 12:00 / 開演 12:30",
+    "is_new": true,
+    "added_id": "20260512132111"
+  },
+  {
+    "title": "吉本新喜劇inセカンドシアター",
+    "date": "2026-05-31",
+    "date_text": "2026/05/31(日)",
+    "venue": "YES THEATER（新喜劇セカンドシアター）（大阪府）",
+    "sale_status": "先着発売中",
+    "detail_link": "https://ticket.fany.lol/reception/40316/36124",
+    "prices": [
+      "全席指定／大人：￥3,000",
+      "全席指定／小人：￥1,500"
+    ],
+    "open_start_time": "開場 15:00 / 開演 15:30",
+    "is_new": true,
+    "added_id": "20260512132111"
+  },
+  {
     "title": "金属バット×例えば炎ツーマンライブ「例えバット」２",
     "date": "2026-07-14",
     "date_text": "2026/07/14(火)",
@@ -38,7 +68,7 @@
       "整理番号付自由席／前売：￥1,500"
     ],
     "open_start_time": "開場 16:45 / 開演 17:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260509121111"
   },
   {
