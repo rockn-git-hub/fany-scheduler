@@ -463,19 +463,5 @@
     "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": false,
     "added_id": "20260319115913"
-  },
-  {
-    "title": "あおばと～金属バットと～",
-    "date": "2026-05-11",
-    "date_text": "2026/05/11(月)",
-    "venue": "天満天神繁昌亭（大阪府）",
-    "sale_status": "先着発売終了",
-    "detail_link": "https://ticket.fany.lol/reception/40886/36650",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": false,
-    "added_id": "20260311115600"
   }
 ]
