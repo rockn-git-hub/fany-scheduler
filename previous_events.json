@@ -30,20 +30,6 @@
     "added_id": "20260512132111"
   },
   {
-    "title": "金属バット×例えば炎ツーマンライブ「例えバット」２",
-    "date": "2026-07-14",
-    "date_text": "2026/07/14(火)",
-    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/49816/42612",
-    "prices": [
-      "全席指定／前売：￥3,000"
-    ],
-    "open_start_time": "開場 19:00 / 開演 19:30",
-    "is_new": true,
-    "added_id": "20260511140335"
-  },
-  {
     "title": "「金属バットのトークライブ」5",
     "date": "2026-06-08",
     "date_text": "2026/06/08(月)",
@@ -191,49 +177,6 @@
     "added_id": "20260502120915"
   },
   {
-    "title": "THE SECOND ライブツアー2026～今、全盛期の漫才師達～in大阪",
-    "date": "2026-07-05",
-    "date_text": "2026/07/05(日)",
-    "venue": "COOL JAPAN PARK OSAKA WWホール（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/47987/40938",
-    "prices": [
-      "全席指定／前売：￥5,000"
-    ],
-    "open_start_time": "開場 11:45 / 開演 12:30",
-    "is_new": false,
-    "added_id": "20260428131357"
-  },
-  {
-    "title": "THE SECOND ライブツアー2026～今、全盛期の漫才師達～in大阪",
-    "date": "2026-07-05",
-    "date_text": "2026/07/05(日)",
-    "venue": "COOL JAPAN PARK OSAKA WWホール（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/47987/40939",
-    "prices": [
-      "全席指定／前売：￥5,000"
-    ],
-    "open_start_time": "開場 15:15 / 開演 16:00",
-    "is_new": false,
-    "added_id": "20260428131357"
-  },
-  {
-    "title": "よしもとゴリラライブ大阪",
-    "date": "2026-06-23",
-    "date_text": "2026/06/23(火)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/50473/42161",
-    "prices": [
-      "指定席／前売：￥1,800",
-      "立見（整理番号）／前売：￥1,800"
-    ],
-    "open_start_time": "開場 19:00 / 開演 19:15",
-    "is_new": false,
-    "added_id": "20260428131357"
-  },
-  {
     "title": "ネタライブ！YES FUTURE！",
     "date": "2026-06-15",
     "date_text": "2026/06/15(月)",
@@ -262,35 +205,6 @@
     "open_start_time": "開場 19:00 / 開演 19:15",
     "is_new": false,
     "added_id": "20260428131357"
-  },
-  {
-    "title": "ザ・ぼんち×金属バットツーマンライブ「ばっとぼんちー2026」",
-    "date": "2026-09-18",
-    "date_text": "2026/09/18(金)",
-    "venue": "COOL JAPAN PARK OSAKA WWホール（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/49429/42507",
-    "prices": [
-      "全席指定／前売：￥4,000"
-    ],
-    "open_start_time": "開場 18:00 / 開演 19:00",
-    "is_new": false,
-    "added_id": "20260427130538"
-  },
-  {
-    "title": "19時ライブ～ネタ＆吉本新喜劇～",
-    "date": "2026-06-24",
-    "date_text": "2026/06/24(水)",
-    "venue": "なんばグランド花月（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/48447/41475",
-    "prices": [
-      "全席指定／前売大人：￥3,500",
-      "全席指定／前売小学生以下：￥1,000"
-    ],
-    "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": false,
-    "added_id": "20260420124724"
   },
   {
     "title": "19時ライブ～ネタ＆吉本新喜劇～",
