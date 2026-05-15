@@ -1,19 +1,5 @@
 [
   {
-    "title": "Kiwami極LIVEプラス",
-    "date": "2026-05-14",
-    "date_text": "2026/05/14(木)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/46592/39858",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20260514131620"
-  },
-  {
     "title": "ザ・ぼんち×金属バットツーマンライブ「ばっとぼんちー2026」",
     "date": "2026-09-18",
     "date_text": "2026/09/18(金)",
@@ -140,7 +126,7 @@
       "全席指定／前売：￥2,500"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260511140335"
   },
   {
@@ -151,7 +137,7 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/46598/39859",
     "prices": [
-      "整理番号付自由席／前売：￥1,500"
+      "整理番号付自由席／当日：￥1,800"
     ],
     "open_start_time": "開場 16:45 / 開演 17:00",
     "is_new": false,
@@ -165,7 +151,7 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/46600/39873",
     "prices": [
-      "整理番号付自由席／前売：￥1,800"
+      "整理番号付自由席／当日：￥2,000"
     ],
     "open_start_time": "開場 20:15 / 開演 20:30",
     "is_new": false,
@@ -428,7 +414,7 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/46916/40328",
     "prices": [
-      "整理番号付自由席／前売：￥2,000"
+      "整理番号付自由席／当日：￥2,300"
     ],
     "open_start_time": "開場 18:40 / 開演 19:00",
     "is_new": false,
@@ -478,20 +464,5 @@
     "open_start_time": "開場 19:00 / 開演 19:15",
     "is_new": false,
     "added_id": "20260328115300"
-  },
-  {
-    "title": "19時ライブ～ネタ＆吉本新喜劇～",
-    "date": "2026-05-14",
-    "date_text": "2026/05/14(木)",
-    "venue": "なんばグランド花月（大阪府）",
-    "sale_status": "先着発売終了",
-    "detail_link": "https://ticket.fany.lol/reception/44521/38957",
-    "prices": [
-      "全席指定／当日大人：￥3,500",
-      "全席指定／当日小学生以下：￥1,000"
-    ],
-    "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": false,
-    "added_id": "20260319115913"
   }
 ]
