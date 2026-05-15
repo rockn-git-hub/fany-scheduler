@@ -1,17 +1,45 @@
 [
   {
-    "title": "ザ・ぼんち×金属バットツーマンライブ「ばっとぼんちー2026」",
-    "date": "2026-09-18",
-    "date_text": "2026/09/18(金)",
-    "venue": "COOL JAPAN PARK OSAKA WWホール（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/49429/42507",
+    "title": "Kiwami極LIVEプラス",
+    "date": "2026-05-15",
+    "date_text": "2026/05/15(金)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/46592/39859",
     "prices": [
-      "全席指定／前売：￥4,000"
+      "価格取得エラー: Message: \n"
     ],
-    "open_start_time": "開場 18:00 / 開演 19:00",
+    "open_start_time": "",
     "is_new": true,
-    "added_id": "20260513133649"
+    "added_id": "20260515131449"
+  },
+  {
+    "title": "爆ノ介の道頓堀漢寄席",
+    "date": "2026-05-15",
+    "date_text": "2026/05/15(金)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/46884/40328",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260515131449"
+  },
+  {
+    "title": "マンゲキフライデーナイト",
+    "date": "2026-05-15",
+    "date_text": "2026/05/15(金)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/46594/39873",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260515131449"
   },
   {
     "title": "金属バット×例えば炎ツーマンライブ「例えバット」２",
@@ -128,34 +156,6 @@
     "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": false,
     "added_id": "20260511140335"
-  },
-  {
-    "title": "Kiwami極LIVEプラス",
-    "date": "2026-05-15",
-    "date_text": "2026/05/15(金)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/46598/39859",
-    "prices": [
-      "整理番号付自由席／当日：￥1,800"
-    ],
-    "open_start_time": "開場 16:45 / 開演 17:00",
-    "is_new": false,
-    "added_id": "20260509121111"
-  },
-  {
-    "title": "マンゲキフライデーナイト",
-    "date": "2026-05-15",
-    "date_text": "2026/05/15(金)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/46600/39873",
-    "prices": [
-      "整理番号付自由席／当日：￥2,000"
-    ],
-    "open_start_time": "開場 20:15 / 開演 20:30",
-    "is_new": false,
-    "added_id": "20260508125350"
   },
   {
     "title": "気持ちは芸歴1年目！？大はしゃぎライブ！！",
@@ -403,20 +403,6 @@
       "整理番号付自由席／前売：￥2,000"
     ],
     "open_start_time": "開場 20:30 / 開演 20:50",
-    "is_new": false,
-    "added_id": "20260401120813"
-  },
-  {
-    "title": "爆ノ介の道頓堀漢寄席",
-    "date": "2026-05-15",
-    "date_text": "2026/05/15(金)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/46916/40328",
-    "prices": [
-      "整理番号付自由席／当日：￥2,300"
-    ],
-    "open_start_time": "開場 18:40 / 開演 19:00",
     "is_new": false,
     "added_id": "20260401120813"
   },
