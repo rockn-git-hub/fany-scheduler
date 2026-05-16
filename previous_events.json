@@ -1,52 +1,24 @@
 [
   {
-    "title": "Kiwami極LIVEプラス",
-    "date": "2026-05-15",
-    "date_text": "2026/05/15(金)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/46592/39859",
+    "title": "ザ・ぼんち×金属バットツーマンライブ「ばっとぼんちー2026」",
+    "date": "2026-09-18",
+    "date_text": "2026/09/18(金)",
+    "venue": "COOL JAPAN PARK OSAKA WWホール（大阪府）",
+    "sale_status": "先着発売中",
+    "detail_link": "https://ticket.fany.lol/reception/49429/42507",
     "prices": [
-      "価格取得エラー: Message: \n"
+      "全席指定／前売：￥4,000"
     ],
-    "open_start_time": "",
+    "open_start_time": "開場 18:00 / 開演 19:00",
     "is_new": true,
-    "added_id": "20260515131449"
-  },
-  {
-    "title": "爆ノ介の道頓堀漢寄席",
-    "date": "2026-05-15",
-    "date_text": "2026/05/15(金)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/46884/40328",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20260515131449"
-  },
-  {
-    "title": "マンゲキフライデーナイト",
-    "date": "2026-05-15",
-    "date_text": "2026/05/15(金)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/46594/39873",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20260515131449"
+    "added_id": "20260516011829"
   },
   {
     "title": "金属バット×例えば炎ツーマンライブ「例えバット」２",
     "date": "2026-07-14",
     "date_text": "2026/07/14(火)",
     "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/49816/42612",
     "prices": [
       "全席指定／前売：￥3,000"
@@ -125,7 +97,7 @@
       "全席指定／小人：￥1,500"
     ],
     "open_start_time": "開場 12:00 / 開演 12:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260512132111"
   },
   {
@@ -140,7 +112,7 @@
       "全席指定／小人：￥1,500"
     ],
     "open_start_time": "開場 15:00 / 開演 15:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260512132111"
   },
   {
