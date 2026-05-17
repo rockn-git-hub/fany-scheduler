@@ -24,7 +24,7 @@
       "全席指定／前売：￥3,000"
     ],
     "open_start_time": "開場 19:00 / 開演 19:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260513133649"
   },
   {
@@ -38,7 +38,7 @@
       "全席指定／前売：￥5,000"
     ],
     "open_start_time": "開場 11:45 / 開演 12:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260513133649"
   },
   {
@@ -52,7 +52,7 @@
       "全席指定／前売：￥5,000"
     ],
     "open_start_time": "開場 15:15 / 開演 16:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260513133649"
   },
   {
@@ -67,7 +67,7 @@
       "全席指定／前売小学生以下：￥1,000"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260513133649"
   },
   {
@@ -82,7 +82,7 @@
       "立見（整理番号）／前売：￥1,800"
     ],
     "open_start_time": "開場 19:00 / 開演 19:15",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260513133649"
   },
   {
@@ -120,7 +120,7 @@
     "date": "2026-06-08",
     "date_text": "2026/06/08(月)",
     "venue": "YES THEATER（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/51460/43248",
     "prices": [
       "全席指定／前売：￥2,500"
