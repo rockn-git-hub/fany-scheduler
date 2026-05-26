@@ -72,20 +72,6 @@
     "added_id": "20260525142140"
   },
   {
-    "title": "新ネタライブ!!ハイキック寄席!!",
-    "date": "2026-05-25",
-    "date_text": "2026/05/25(月)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/46421/39768",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20260525142140"
-  },
-  {
     "title": "19時ライブ～ネタ＆吉本新喜劇～",
     "date": "2026-07-09",
     "date_text": "2026/07/09(木)",
@@ -531,8 +517,8 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/46527/39774",
     "prices": [
-      "指定席／前売：￥1,500",
-      "立見（整理番号）／前売：￥1,500"
+      "指定席／当日：￥1,800",
+      "立見（整理番号）／当日：￥1,800"
     ],
     "open_start_time": "開場 19:15 / 開演 19:30",
     "is_new": false,
