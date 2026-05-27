@@ -1,19 +1,5 @@
 [
   {
-    "title": "大阪アングラ計画",
-    "date": "2026-05-26",
-    "date_text": "2026/05/26(火)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/46423/39774",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20260526141419"
-  },
-  {
     "title": "やすともの黒白歌合戦2026",
     "date": "2026-08-13",
     "date_text": "2026/08/13(木)",
@@ -293,12 +279,12 @@
     "date": "2026-05-27",
     "date_text": "2026/05/27(水)",
     "venue": "日本橋Pollux Theater（大阪府）",
-    "sale_status": "先着発売中",
+    "sale_status": "先着発売終了",
     "detail_link": "https://ticket.fany.lol/reception/51346/43130",
     "prices": [
-      "整理番号付自由席／前売：￥2,000"
+      "価格取得エラー: Message: \n"
     ],
-    "open_start_time": "開場 18:45 / 開演 19:00",
+    "open_start_time": "",
     "is_new": false,
     "added_id": "20260505011326"
   },
