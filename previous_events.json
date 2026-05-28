@@ -1,5 +1,64 @@
 [
   {
+    "title": "しみちゃむ寄席",
+    "date": "2026-07-27",
+    "date_text": "2026/07/27(月)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/54397/44475",
+    "prices": [
+      "指定席／前売：￥2,000",
+      "立見（整理番号）／前売：￥2,000"
+    ],
+    "open_start_time": "開場 19:15 / 開演 19:30",
+    "is_new": true,
+    "added_id": "20260528145159"
+  },
+  {
+    "title": "よしもとゴリラライブ大阪",
+    "date": "2026-07-11",
+    "date_text": "2026/07/11(土)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/54372/44436",
+    "prices": [
+      "指定席／前売：￥1,800",
+      "立見（整理番号）／前売：￥1,800"
+    ],
+    "open_start_time": "開場 20:30 / 開演 20:45",
+    "is_new": true,
+    "added_id": "20260528145159"
+  },
+  {
+    "title": "新ネタライブ!!ハイキック寄席!!",
+    "date": "2026-07-10",
+    "date_text": "2026/07/10(金)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/54370/44444",
+    "prices": [
+      "指定席／前売：￥2,000",
+      "立見（整理番号）／前売：￥2,000"
+    ],
+    "open_start_time": "開場 20:30 / 開演 20:45",
+    "is_new": true,
+    "added_id": "20260528145159"
+  },
+  {
+    "title": "大喜利大集合 ～ハゲ・ヒゲ・ロン毛大集合～",
+    "date": "2026-05-28",
+    "date_text": "2026/05/28(木)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/46895/40322",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260528145159"
+  },
+  {
     "title": "やすともの黒白歌合戦2026",
     "date": "2026-08-13",
     "date_text": "2026/08/13(木)",
@@ -11,7 +70,7 @@
       "2階指定席／前売：￥7,000"
     ],
     "open_start_time": "開場 17:00 / 開演 18:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260525142140"
   },
   {
@@ -26,49 +85,7 @@
       "2階指定席／前売：￥7,000"
     ],
     "open_start_time": "開場 17:00 / 開演 18:00",
-    "is_new": true,
-    "added_id": "20260525142140"
-  },
-  {
-    "title": "しみちゃむ寄席",
-    "date": "2026-07-27",
-    "date_text": "2026/07/27(月)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/54291/44475",
-    "prices": [
-      "指定席／前売：￥2,000"
-    ],
-    "open_start_time": "開場 19:15 / 開演 19:30",
-    "is_new": true,
-    "added_id": "20260525142140"
-  },
-  {
-    "title": "よしもとゴリラライブ大阪",
-    "date": "2026-07-11",
-    "date_text": "2026/07/11(土)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/54266/44436",
-    "prices": [
-      "指定席／前売：￥1,800"
-    ],
-    "open_start_time": "開場 20:30 / 開演 20:45",
-    "is_new": true,
-    "added_id": "20260525142140"
-  },
-  {
-    "title": "新ネタライブ!!ハイキック寄席!!",
-    "date": "2026-07-10",
-    "date_text": "2026/07/10(金)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/54264/44444",
-    "prices": [
-      "指定席／前売：￥2,000"
-    ],
-    "open_start_time": "開場 20:30 / 開演 20:45",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260525142140"
   },
   {
@@ -478,20 +495,6 @@
       "整理番号付自由席／前売：￥3,500"
     ],
     "open_start_time": "開場 11:30 / 開演 12:00",
-    "is_new": false,
-    "added_id": "20260401120813"
-  },
-  {
-    "title": "大喜利大集合 ～ハゲ・ヒゲ・ロン毛大集合～",
-    "date": "2026-05-28",
-    "date_text": "2026/05/28(木)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/46927/40322",
-    "prices": [
-      "整理番号付自由席／当日：￥2,500"
-    ],
-    "open_start_time": "開場 20:30 / 開演 20:50",
     "is_new": false,
     "added_id": "20260401120813"
   }
