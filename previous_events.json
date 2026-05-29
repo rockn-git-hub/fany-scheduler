@@ -1,5 +1,61 @@
 [
   {
+    "title": "オジサンズ8全国ツアー～今年もあなたの街に逢いに行きま・・・",
+    "date": "2026-09-14",
+    "date_text": "2026/09/14(月)",
+    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/54736/45188",
+    "prices": [
+      "全席指定／前売：￥4,000"
+    ],
+    "open_start_time": "開場 19:00 / 開演 19:30",
+    "is_new": true,
+    "added_id": "20260529013518"
+  },
+  {
+    "title": "NORAネタ",
+    "date": "2026-07-19",
+    "date_text": "2026/07/19(日)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/54881/45231",
+    "prices": [
+      "指定席／前売：￥3,000"
+    ],
+    "open_start_time": "開場 18:45 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20260529013518"
+  },
+  {
+    "title": "NORAコーナー",
+    "date": "2026-07-19",
+    "date_text": "2026/07/19(日)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/54881/45232",
+    "prices": [
+      "指定席／前売：￥3,000"
+    ],
+    "open_start_time": "開場 20:25 / 開演 20:40",
+    "is_new": true,
+    "added_id": "20260529013518"
+  },
+  {
+    "title": "大喜利大集合 ～ハゲ・ヒゲ・ロン毛大集合～",
+    "date": "2026-07-15",
+    "date_text": "2026/07/15(水)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/54596/45156",
+    "prices": [
+      "整理番号付自由席／前売：￥2,000"
+    ],
+    "open_start_time": "開場 20:30 / 開演 20:50",
+    "is_new": true,
+    "added_id": "20260529013518"
+  },
+  {
     "title": "しみちゃむ寄席",
     "date": "2026-07-27",
     "date_text": "2026/07/27(月)",
@@ -45,25 +101,11 @@
     "added_id": "20260528145159"
   },
   {
-    "title": "大喜利大集合 ～ハゲ・ヒゲ・ロン毛大集合～",
-    "date": "2026-05-28",
-    "date_text": "2026/05/28(木)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/46895/40322",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20260528145159"
-  },
-  {
     "title": "やすともの黒白歌合戦2026",
     "date": "2026-08-13",
     "date_text": "2026/08/13(木)",
     "venue": "Zepp Namba（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/50852/42988",
     "prices": [
       "1階スタンディング／前売：￥7,000",
@@ -78,7 +120,7 @@
     "date": "2026-08-12",
     "date_text": "2026/08/12(水)",
     "venue": "Zepp Namba（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/50852/42987",
     "prices": [
       "1階スタンディング／前売：￥7,000",
