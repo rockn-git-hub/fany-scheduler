@@ -1,5 +1,19 @@
 [
   {
+    "title": "よしもとお笑いレストラン",
+    "date": "2026-05-30",
+    "date_text": "2026/05/30(土)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/46740/40292",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260530013021"
+  },
+  {
     "title": "オジサンズ8全国ツアー～今年もあなたの街に逢いに行きま・・・",
     "date": "2026-09-14",
     "date_text": "2026/09/14(月)",
@@ -478,7 +492,7 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/47850/40779",
     "prices": [
-      "指定席／前売：￥3,000"
+      "指定席／当日：￥3,500"
     ],
     "open_start_time": "開場 17:10 / 開演 17:30",
     "is_new": false,
@@ -492,7 +506,7 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/47850/40780",
     "prices": [
-      "指定席／前売：￥3,000"
+      "指定席／当日：￥3,500"
     ],
     "open_start_time": "開場 19:10 / 開演 19:30",
     "is_new": false,
@@ -505,27 +519,6 @@
     "venue": "よしもと道頓堀シアター（大阪府）",
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/46742/40293",
-    "prices": [
-      "整理番号付自由席／前売　バーガー付：￥4,600",
-      "整理番号付自由席／前売　ロコモコ付：￥4,200",
-      "整理番号付自由席／前売　オムライス付：￥4,200",
-      "整理番号付自由席／前売　唐揚げ串付：￥3,900",
-      "整理番号付自由席／前売　ポテト(L)付：￥3,900",
-      "整理番号付自由席／前売　チュロス付：￥3,700",
-      "整理番号付自由席／前売　ワンドリンク付：￥3,700",
-      "整理番号付自由席／前売：￥3,500"
-    ],
-    "open_start_time": "開場 11:30 / 開演 12:00",
-    "is_new": false,
-    "added_id": "20260401120813"
-  },
-  {
-    "title": "よしもとお笑いレストラン",
-    "date": "2026-05-30",
-    "date_text": "2026/05/30(土)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/46742/40292",
     "prices": [
       "整理番号付自由席／前売　バーガー付：￥4,600",
       "整理番号付自由席／前売　ロコモコ付：￥4,200",
