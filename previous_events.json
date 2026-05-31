@@ -1,5 +1,107 @@
 [
   {
+    "title": "よしもとお笑い森ノ宮劇場",
+    "date": "2026-08-05",
+    "date_text": "2026/08/05(水)",
+    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/55080/45298",
+    "prices": [
+      "全席指定／前売：￥3,500",
+      "全席指定／前売　学生：￥2,000"
+    ],
+    "open_start_time": "開場 10:30 / 開演 11:00",
+    "is_new": true,
+    "added_id": "20260531013728"
+  },
+  {
+    "title": "よしもとお笑い森ノ宮劇場",
+    "date": "2026-08-05",
+    "date_text": "2026/08/05(水)",
+    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/55080/45299",
+    "prices": [
+      "全席指定／前売：￥3,500",
+      "全席指定／前売　学生：￥2,000"
+    ],
+    "open_start_time": "開場 13:30 / 開演 14:00",
+    "is_new": true,
+    "added_id": "20260531013728"
+  },
+  {
+    "title": "よしもとお笑い森ノ宮劇場",
+    "date": "2026-08-03",
+    "date_text": "2026/08/03(月)",
+    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/55080/45294",
+    "prices": [
+      "全席指定／前売：￥3,500",
+      "全席指定／前売　学生：￥2,000"
+    ],
+    "open_start_time": "開場 10:30 / 開演 11:00",
+    "is_new": true,
+    "added_id": "20260531013728"
+  },
+  {
+    "title": "よしもとお笑い森ノ宮劇場",
+    "date": "2026-08-03",
+    "date_text": "2026/08/03(月)",
+    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/55080/45295",
+    "prices": [
+      "全席指定／前売：￥3,500",
+      "全席指定／前売　学生：￥2,000"
+    ],
+    "open_start_time": "開場 13:30 / 開演 14:00",
+    "is_new": true,
+    "added_id": "20260531013728"
+  },
+  {
+    "title": "よしもとお笑いレストラン",
+    "date": "2026-05-31",
+    "date_text": "2026/05/31(日)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/46740/40293",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260531013728"
+  },
+  {
+    "title": "吉本新喜劇inセカンドシアター",
+    "date": "2026-05-31",
+    "date_text": "2026/05/31(日)",
+    "venue": "YES THEATER（新喜劇セカンドシアター）（大阪府）",
+    "sale_status": "抽選受付終了 FANYコミュ限定先行",
+    "detail_link": "https://ticket.fany.lol/reception/40313/36123",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260531013728"
+  },
+  {
+    "title": "吉本新喜劇inセカンドシアター",
+    "date": "2026-05-31",
+    "date_text": "2026/05/31(日)",
+    "venue": "YES THEATER（新喜劇セカンドシアター）（大阪府）",
+    "sale_status": "抽選受付終了 FANYコミュ限定先行",
+    "detail_link": "https://ticket.fany.lol/reception/40313/36124",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260531013728"
+  },
+  {
     "title": "よしもとお笑い中堅芸人レストラン",
     "date": "2026-07-25",
     "date_text": "2026/07/25(土)",
@@ -124,20 +226,6 @@
     "open_start_time": "開場 11:30 / 開演 12:00",
     "is_new": true,
     "added_id": "20260530124803"
-  },
-  {
-    "title": "よしもとお笑いレストラン",
-    "date": "2026-05-30",
-    "date_text": "2026/05/30(土)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/46740/40292",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20260530013021"
   },
   {
     "title": "オジサンズ8全国ツアー～今年もあなたの街に逢いに行きま・・・",
@@ -416,36 +504,6 @@
     "added_id": "20260513133649"
   },
   {
-    "title": "吉本新喜劇inセカンドシアター",
-    "date": "2026-05-31",
-    "date_text": "2026/05/31(日)",
-    "venue": "YES THEATER（新喜劇セカンドシアター）（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/40316/36123",
-    "prices": [
-      "全席指定／大人：￥3,000",
-      "全席指定／小人：￥1,500"
-    ],
-    "open_start_time": "開場 12:00 / 開演 12:30",
-    "is_new": false,
-    "added_id": "20260512132111"
-  },
-  {
-    "title": "吉本新喜劇inセカンドシアター",
-    "date": "2026-05-31",
-    "date_text": "2026/05/31(日)",
-    "venue": "YES THEATER（新喜劇セカンドシアター）（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/40316/36124",
-    "prices": [
-      "全席指定／大人：￥3,000",
-      "全席指定／小人：￥1,500"
-    ],
-    "open_start_time": "開場 15:00 / 開演 15:30",
-    "is_new": false,
-    "added_id": "20260512132111"
-  },
-  {
     "title": "「金属バットのトークライブ」5",
     "date": "2026-06-08",
     "date_text": "2026/06/08(月)",
@@ -604,59 +662,10 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/47678/40728",
     "prices": [
-      "整理番号付自由席／前売：￥1,800"
+      "整理番号付自由席／当日：￥2,100"
     ],
     "open_start_time": "開場 19:10 / 開演 19:30",
     "is_new": false,
     "added_id": "20260412115859"
-  },
-  {
-    "title": "NORAネタ",
-    "date": "2026-05-30",
-    "date_text": "2026/05/30(土)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "先着発売終了",
-    "detail_link": "https://ticket.fany.lol/reception/47850/40779",
-    "prices": [
-      "指定席／当日：￥3,500"
-    ],
-    "open_start_time": "開場 17:10 / 開演 17:30",
-    "is_new": false,
-    "added_id": "20260409000158"
-  },
-  {
-    "title": "NORAコーナー",
-    "date": "2026-05-30",
-    "date_text": "2026/05/30(土)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "先着発売終了",
-    "detail_link": "https://ticket.fany.lol/reception/47850/40780",
-    "prices": [
-      "指定席／当日：￥3,500"
-    ],
-    "open_start_time": "開場 19:10 / 開演 19:30",
-    "is_new": false,
-    "added_id": "20260409000158"
-  },
-  {
-    "title": "よしもとお笑いレストラン",
-    "date": "2026-05-31",
-    "date_text": "2026/05/31(日)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/46742/40293",
-    "prices": [
-      "整理番号付自由席／前売　バーガー付：￥4,600",
-      "整理番号付自由席／前売　ロコモコ付：￥4,200",
-      "整理番号付自由席／前売　オムライス付：￥4,200",
-      "整理番号付自由席／前売　唐揚げ串付：￥3,900",
-      "整理番号付自由席／前売　ポテト(L)付：￥3,900",
-      "整理番号付自由席／前売　チュロス付：￥3,700",
-      "整理番号付自由席／前売　ワンドリンク付：￥3,700",
-      "整理番号付自由席／前売：￥3,500"
-    ],
-    "open_start_time": "開場 11:30 / 開演 12:00",
-    "is_new": false,
-    "added_id": "20260401120813"
   }
 ]
