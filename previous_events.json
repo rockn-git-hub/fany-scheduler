@@ -14,25 +14,11 @@
     "added_id": "20260531125854"
   },
   {
-    "title": "漫才×漫才×コント×コント×カラタチ",
-    "date": "2026-05-31",
-    "date_text": "2026/05/31(日)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/47636/40728",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20260531125854"
-  },
-  {
     "title": "よしもとお笑い森ノ宮劇場",
     "date": "2026-08-05",
     "date_text": "2026/08/05(水)",
     "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/55080/45298",
     "prices": [
       "全席指定／前売：￥3,500",
@@ -47,7 +33,7 @@
     "date": "2026-08-05",
     "date_text": "2026/08/05(水)",
     "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/55080/45299",
     "prices": [
       "全席指定／前売：￥3,500",
@@ -62,7 +48,7 @@
     "date": "2026-08-03",
     "date_text": "2026/08/03(月)",
     "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/55080/45294",
     "prices": [
       "全席指定／前売：￥3,500",
@@ -77,55 +63,13 @@
     "date": "2026-08-03",
     "date_text": "2026/08/03(月)",
     "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/55080/45295",
     "prices": [
       "全席指定／前売：￥3,500",
       "全席指定／前売　学生：￥2,000"
     ],
     "open_start_time": "開場 13:30 / 開演 14:00",
-    "is_new": true,
-    "added_id": "20260531013728"
-  },
-  {
-    "title": "よしもとお笑いレストラン",
-    "date": "2026-05-31",
-    "date_text": "2026/05/31(日)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/46740/40293",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20260531013728"
-  },
-  {
-    "title": "吉本新喜劇inセカンドシアター",
-    "date": "2026-05-31",
-    "date_text": "2026/05/31(日)",
-    "venue": "YES THEATER（新喜劇セカンドシアター）（大阪府）",
-    "sale_status": "抽選受付終了 FANYコミュ限定先行",
-    "detail_link": "https://ticket.fany.lol/reception/40313/36123",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20260531013728"
-  },
-  {
-    "title": "吉本新喜劇inセカンドシアター",
-    "date": "2026-05-31",
-    "date_text": "2026/05/31(日)",
-    "venue": "YES THEATER（新喜劇セカンドシアター）（大阪府）",
-    "sale_status": "抽選受付終了 FANYコミュ限定先行",
-    "detail_link": "https://ticket.fany.lol/reception/40313/36124",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
     "is_new": true,
     "added_id": "20260531013728"
   },
@@ -266,7 +210,7 @@
       "指定席／前売：￥3,000"
     ],
     "open_start_time": "開場 18:45 / 開演 19:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260529013518"
   },
   {
@@ -280,7 +224,7 @@
       "指定席／前売：￥3,000"
     ],
     "open_start_time": "開場 20:25 / 開演 20:40",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260529013518"
   },
   {
@@ -294,7 +238,7 @@
       "整理番号付自由席／前売：￥2,000"
     ],
     "open_start_time": "開場 20:30 / 開演 20:50",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260529013518"
   },
   {
@@ -309,7 +253,7 @@
       "立見（整理番号）／前売：￥2,000"
     ],
     "open_start_time": "開場 19:15 / 開演 19:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260528145159"
   },
   {
@@ -324,7 +268,7 @@
       "立見（整理番号）／前売：￥1,800"
     ],
     "open_start_time": "開場 20:30 / 開演 20:45",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260528145159"
   },
   {
@@ -339,7 +283,7 @@
       "立見（整理番号）／前売：￥2,000"
     ],
     "open_start_time": "開場 20:30 / 開演 20:45",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260528145159"
   },
   {
