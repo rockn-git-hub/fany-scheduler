@@ -32,7 +32,7 @@
       "整理番号付自由席／前売：￥3,500"
     ],
     "open_start_time": "開場 11:30 / 開演 12:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260601170237"
   },
   {
@@ -53,7 +53,7 @@
       "整理番号付自由席／前売：￥3,000"
     ],
     "open_start_time": "開場 10:30 / 開演 11:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260601170237"
   },
   {
@@ -74,7 +74,7 @@
       "整理番号付自由席／前売：￥3,000"
     ],
     "open_start_time": "開場 13:00 / 開演 13:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260601170237"
   },
   {
@@ -95,7 +95,7 @@
       "整理番号付自由席／前売：￥3,000"
     ],
     "open_start_time": "開場 10:30 / 開演 11:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260601170237"
   },
   {
@@ -116,7 +116,7 @@
       "整理番号付自由席／前売：￥3,000"
     ],
     "open_start_time": "開場 13:00 / 開演 13:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260601170237"
   },
   {
@@ -130,7 +130,7 @@
       "整理番号付自由席／前売：￥2,000"
     ],
     "open_start_time": "開場 20:30 / 開演 20:50",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260601170237"
   },
   {
@@ -151,7 +151,7 @@
       "整理番号付自由席／前売：￥3,500"
     ],
     "open_start_time": "開場 11:30 / 開演 12:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260601170237"
   },
   {
@@ -261,7 +261,7 @@
     "date": "2026-07-27",
     "date_text": "2026/07/27(月)",
     "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/54397/44475",
     "prices": [
       "指定席／前売：￥2,000",
@@ -276,7 +276,7 @@
     "date": "2026-07-11",
     "date_text": "2026/07/11(土)",
     "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/54372/44436",
     "prices": [
       "指定席／前売：￥1,800",
@@ -291,7 +291,7 @@
     "date": "2026-07-10",
     "date_text": "2026/07/10(金)",
     "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/54370/44444",
     "prices": [
       "指定席／前売：￥2,000",
