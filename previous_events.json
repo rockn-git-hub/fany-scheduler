@@ -1,5 +1,19 @@
 [
   {
+    "title": "ティーアップ トークライブ",
+    "date": "2026-06-06",
+    "date_text": "2026/06/06(土)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/50748/42979",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260606125227"
+  },
+  {
     "title": "よしもとお笑いレストラン",
     "date": "2026-06-06",
     "date_text": "2026/06/06(土)",
@@ -543,20 +557,6 @@
       "整理番号付自由席／前売：￥2,000"
     ],
     "open_start_time": "開場 20:40 / 開演 21:00",
-    "is_new": false,
-    "added_id": "20260502120915"
-  },
-  {
-    "title": "ティーアップ トークライブ",
-    "date": "2026-06-06",
-    "date_text": "2026/06/06(土)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/50790/42979",
-    "prices": [
-      "整理番号付自由席／当日：￥2,500"
-    ],
-    "open_start_time": "開場 18:10 / 開演 18:30",
     "is_new": false,
     "added_id": "20260502120915"
   },
