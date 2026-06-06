@@ -1,5 +1,19 @@
 [
   {
+    "title": "よしもとお笑いレストラン",
+    "date": "2026-06-06",
+    "date_text": "2026/06/06(土)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/50966/43026",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260606013134"
+  },
+  {
     "title": "19時ライブ～ネタ＆吉本新喜劇～",
     "date": "2026-08-25",
     "date_text": "2026/08/25(火)",
@@ -159,7 +173,7 @@
     "date": "2026-09-14",
     "date_text": "2026/09/14(月)",
     "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/54740/45188",
     "prices": [
       "全席指定／前売：￥4,000"
@@ -533,27 +547,6 @@
     "added_id": "20260502120915"
   },
   {
-    "title": "よしもとお笑いレストラン",
-    "date": "2026-06-06",
-    "date_text": "2026/06/06(土)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/50968/43026",
-    "prices": [
-      "整理番号付自由席／前売　バーガー付：￥4,600",
-      "整理番号付自由席／前売　ロコモコ付：￥4,400",
-      "整理番号付自由席／前売　唐揚げBOWL付：￥4,400",
-      "整理番号付自由席／前売　唐揚げ串付：￥3,900",
-      "整理番号付自由席／前売　ポテト(L)付：￥3,900",
-      "整理番号付自由席／前売　チュロス付：￥3,700",
-      "整理番号付自由席／前売　ワンドリンク付：￥3,800",
-      "整理番号付自由席／前売：￥3,500"
-    ],
-    "open_start_time": "開場 11:30 / 開演 12:00",
-    "is_new": false,
-    "added_id": "20260502120915"
-  },
-  {
     "title": "ティーアップ トークライブ",
     "date": "2026-06-06",
     "date_text": "2026/06/06(土)",
@@ -561,7 +554,7 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/50790/42979",
     "prices": [
-      "整理番号付自由席／前売：￥2,000"
+      "整理番号付自由席／当日：￥2,500"
     ],
     "open_start_time": "開場 18:10 / 開演 18:30",
     "is_new": false,
