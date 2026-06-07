@@ -1,31 +1,31 @@
 [
   {
-    "title": "ティーアップ トークライブ",
-    "date": "2026-06-06",
-    "date_text": "2026/06/06(土)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/50748/42979",
+    "title": "「金属バットのトークライブ」6",
+    "date": "2026-07-11",
+    "date_text": "2026/07/11(土)",
+    "venue": "YES THEATER（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/55805/46019",
     "prices": [
-      "価格取得エラー: Message: \n"
+      "全席指定／前売：￥2,500"
     ],
-    "open_start_time": "",
+    "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": true,
-    "added_id": "20260606125227"
+    "added_id": "20260607013959"
   },
   {
-    "title": "よしもとお笑いレストラン",
-    "date": "2026-06-06",
-    "date_text": "2026/06/06(土)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
+    "title": "気持ちは芸歴1年目！？大はしゃぎライブ！！",
+    "date": "2026-06-07",
+    "date_text": "2026/06/07(日)",
+    "venue": "YES THEATER（大阪府）",
     "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/50966/43026",
+    "detail_link": "https://ticket.fany.lol/reception/51140/43111",
     "prices": [
       "価格取得エラー: Message: \n"
     ],
     "open_start_time": "",
     "is_new": true,
-    "added_id": "20260606013134"
+    "added_id": "20260607013959"
   },
   {
     "title": "19時ライブ～ネタ＆吉本新喜劇～",
@@ -39,7 +39,7 @@
       "全席指定／前売小学生以下：￥1,000"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260603160210"
   },
   {
@@ -517,20 +517,6 @@
     "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": false,
     "added_id": "20260511140335"
-  },
-  {
-    "title": "気持ちは芸歴1年目！？大はしゃぎライブ！！",
-    "date": "2026-06-07",
-    "date_text": "2026/06/07(日)",
-    "venue": "YES THEATER（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/51142/43111",
-    "prices": [
-      "全席指定／前売：￥3,000"
-    ],
-    "open_start_time": "開場 18:40 / 開演 19:00",
-    "is_new": false,
-    "added_id": "20260507131602"
   },
   {
     "title": "漫才×漫才×コント×コント×三遊間",
