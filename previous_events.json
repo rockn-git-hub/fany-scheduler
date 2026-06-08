@@ -1,5 +1,33 @@
 [
   {
+    "title": "terauchi寄席",
+    "date": "2026-07-13",
+    "date_text": "2026/07/13(月)",
+    "venue": "YES THEATER（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/55762/46007",
+    "prices": [
+      "全席指定／前売：￥3,000"
+    ],
+    "open_start_time": "開場 18:30 / 開演 18:45",
+    "is_new": true,
+    "added_id": "20260608015747"
+  },
+  {
+    "title": "「金属バットのトークライブ」5",
+    "date": "2026-06-08",
+    "date_text": "2026/06/08(月)",
+    "venue": "YES THEATER（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/51458/43248",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260608015747"
+  },
+  {
     "title": "「金属バットのトークライブ」6",
     "date": "2026-07-11",
     "date_text": "2026/07/11(土)",
@@ -10,20 +38,6 @@
       "全席指定／前売：￥2,500"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": true,
-    "added_id": "20260607013959"
-  },
-  {
-    "title": "気持ちは芸歴1年目！？大はしゃぎライブ！！",
-    "date": "2026-06-07",
-    "date_text": "2026/06/07(日)",
-    "venue": "YES THEATER（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/51140/43111",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
     "is_new": true,
     "added_id": "20260607013959"
   },
@@ -503,20 +517,6 @@
     "open_start_time": "開場 19:00 / 開演 19:15",
     "is_new": false,
     "added_id": "20260513133649"
-  },
-  {
-    "title": "「金属バットのトークライブ」5",
-    "date": "2026-06-08",
-    "date_text": "2026/06/08(月)",
-    "venue": "YES THEATER（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/51460/43248",
-    "prices": [
-      "全席指定／前売：￥2,500"
-    ],
-    "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": false,
-    "added_id": "20260511140335"
   },
   {
     "title": "漫才×漫才×コント×コント×三遊間",
