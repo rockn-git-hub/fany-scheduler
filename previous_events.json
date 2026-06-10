@@ -1,10 +1,52 @@
 [
   {
+    "title": "terauchi寄席",
+    "date": "2026-07-13",
+    "date_text": "2026/07/13(月)",
+    "venue": "YES THEATER（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/55764/46007",
+    "prices": [
+      "全席指定／前売：￥3,000"
+    ],
+    "open_start_time": "開場 18:30 / 開演 18:45",
+    "is_new": true,
+    "added_id": "20260610143736"
+  },
+  {
+    "title": "「金属バットのトークライブ」6",
+    "date": "2026-07-11",
+    "date_text": "2026/07/11(土)",
+    "venue": "YES THEATER（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/55807/46019",
+    "prices": [
+      "全席指定／前売：￥2,500"
+    ],
+    "open_start_time": "開場 18:30 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20260610143736"
+  },
+  {
+    "title": "新ネタライブ!!ハイキック寄席!!",
+    "date": "2026-06-10",
+    "date_text": "2026/06/10(水)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/50349/42148",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260610143736"
+  },
+  {
     "title": "漫才×漫才×コント×コント×アキナ",
     "date": "2026-07-26",
     "date_text": "2026/07/26(日)",
     "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "抽選受付中",
     "detail_link": "https://ticket.fany.lol/reception/55933/46063",
     "prices": [
       "指定席／前売：￥1,800"
@@ -18,7 +60,7 @@
     "date": "2026-07-18",
     "date_text": "2026/07/18(土)",
     "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "抽選受付中",
     "detail_link": "https://ticket.fany.lol/reception/55881/46047",
     "prices": [
       "整理番号付自由席／前売：￥2,000"
@@ -26,49 +68,6 @@
     "open_start_time": "開場 20:45 / 開演 21:00",
     "is_new": true,
     "added_id": "20260609012944"
-  },
-  {
-    "title": "terauchi寄席",
-    "date": "2026-07-13",
-    "date_text": "2026/07/13(月)",
-    "venue": "YES THEATER（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/55762/46007",
-    "prices": [
-      "全席指定／前売：￥3,000"
-    ],
-    "open_start_time": "開場 18:30 / 開演 18:45",
-    "is_new": true,
-    "added_id": "20260608015747"
-  },
-  {
-    "title": "「金属バットのトークライブ」6",
-    "date": "2026-07-11",
-    "date_text": "2026/07/11(土)",
-    "venue": "YES THEATER（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/55805/46019",
-    "prices": [
-      "全席指定／前売：￥2,500"
-    ],
-    "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": true,
-    "added_id": "20260607013959"
-  },
-  {
-    "title": "19時ライブ～ネタ＆吉本新喜劇～",
-    "date": "2026-08-25",
-    "date_text": "2026/08/25(火)",
-    "venue": "なんばグランド花月（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/55346/45478",
-    "prices": [
-      "全席指定／前売大人：￥3,500",
-      "全席指定／前売小学生以下：￥1,000"
-    ],
-    "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": false,
-    "added_id": "20260603160210"
   },
   {
     "title": "よしもとお笑い中堅芸人レストラン",
@@ -211,20 +210,6 @@
     "added_id": "20260601170237"
   },
   {
-    "title": "オジサンズ8全国ツアー～今年もあなたの街に逢いに行きま・・・",
-    "date": "2026-09-14",
-    "date_text": "2026/09/14(月)",
-    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/54740/45188",
-    "prices": [
-      "全席指定／前売：￥4,000"
-    ],
-    "open_start_time": "開場 19:00 / 開演 19:30",
-    "is_new": false,
-    "added_id": "20260531125854"
-  },
-  {
     "title": "よしもとお笑い森ノ宮劇場",
     "date": "2026-08-05",
     "date_text": "2026/08/05(水)",
@@ -358,36 +343,6 @@
     "added_id": "20260528145159"
   },
   {
-    "title": "やすともの黒白歌合戦2026",
-    "date": "2026-08-13",
-    "date_text": "2026/08/13(木)",
-    "venue": "Zepp Namba（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/50852/42988",
-    "prices": [
-      "1階スタンディング／前売：￥7,000",
-      "2階指定席／前売：￥7,000"
-    ],
-    "open_start_time": "開場 17:00 / 開演 18:00",
-    "is_new": false,
-    "added_id": "20260525142140"
-  },
-  {
-    "title": "やすともの黒白歌合戦2026",
-    "date": "2026-08-12",
-    "date_text": "2026/08/12(水)",
-    "venue": "Zepp Namba（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/50852/42987",
-    "prices": [
-      "1階スタンディング／前売：￥7,000",
-      "2階指定席／前売：￥7,000"
-    ],
-    "open_start_time": "開場 17:00 / 開演 18:00",
-    "is_new": false,
-    "added_id": "20260525142140"
-  },
-  {
     "title": "19時ライブ～ネタ＆吉本新喜劇～",
     "date": "2026-07-09",
     "date_text": "2026/07/09(木)",
@@ -445,20 +400,6 @@
     "open_start_time": "",
     "is_new": false,
     "added_id": "20260517121212"
-  },
-  {
-    "title": "ザ・ぼんち×金属バットツーマンライブ「ばっとぼんちー2026」",
-    "date": "2026-09-18",
-    "date_text": "2026/09/18(金)",
-    "venue": "COOL JAPAN PARK OSAKA WWホール（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/49429/42507",
-    "prices": [
-      "全席指定／前売：￥4,000"
-    ],
-    "open_start_time": "開場 18:00 / 開演 19:00",
-    "is_new": false,
-    "added_id": "20260516011829"
   },
   {
     "title": "金属バット×例えば炎ツーマンライブ「例えバット」２",
@@ -576,26 +517,11 @@
     "added_id": "20260428131357"
   },
   {
-    "title": "新ネタライブ!!ハイキック寄席!!",
-    "date": "2026-06-10",
-    "date_text": "2026/06/10(水)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/50453/42148",
-    "prices": [
-      "指定席／当日：￥2,300",
-      "立見（整理番号）／当日：￥2,300"
-    ],
-    "open_start_time": "開場 19:00 / 開演 19:15",
-    "is_new": false,
-    "added_id": "20260428131357"
-  },
-  {
     "title": "19時ライブ～ネタ＆吉本新喜劇～",
     "date": "2026-06-10",
     "date_text": "2026/06/10(水)",
     "venue": "なんばグランド花月（大阪府）",
-    "sale_status": "先着発売中",
+    "sale_status": "先着発売終了",
     "detail_link": "https://ticket.fany.lol/reception/48447/41467",
     "prices": [
       "全席指定／当日大人：￥3,500",
