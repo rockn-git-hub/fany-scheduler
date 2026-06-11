@@ -1,5 +1,19 @@
 [
   {
+    "title": "動物チームによる催し「ズーゾン3」 ～もちのろん金属バットも～",
+    "date": "2026-07-28",
+    "date_text": "2026/07/28(火)",
+    "venue": "日本橋Pollux Theater（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/56064/46216",
+    "prices": [
+      "整理番号付自由席／前売：￥1,200"
+    ],
+    "open_start_time": "開場 18:45 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20260611150412"
+  },
+  {
     "title": "ザ・ぼんち×金属バットツーマンライブ「ばっとぼんちー2026」",
     "date": "2026-09-18",
     "date_text": "2026/09/18(金)",
@@ -543,20 +557,6 @@
       "指定席／前売：￥1,800"
     ],
     "open_start_time": "開場 19:10 / 開演 19:30",
-    "is_new": false,
-    "added_id": "20260502120915"
-  },
-  {
-    "title": "大喜利大集合 ～ハゲ・ヒゲ・ロン毛大集合～",
-    "date": "2026-06-11",
-    "date_text": "2026/06/11(木)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/50796/42970",
-    "prices": [
-      "整理番号付自由席／当日：￥2,500"
-    ],
-    "open_start_time": "開場 20:40 / 開演 21:00",
     "is_new": false,
     "added_id": "20260502120915"
   },
