@@ -1,5 +1,33 @@
 [
   {
+    "title": "漫才×漫才×コント×コント×アキナ",
+    "date": "2026-07-26",
+    "date_text": "2026/07/26(日)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/55939/46063",
+    "prices": [
+      "指定席／前売：￥1,800"
+    ],
+    "open_start_time": "開場 20:45 / 開演 21:00",
+    "is_new": true,
+    "added_id": "20260612142055"
+  },
+  {
+    "title": "爆ノ介の道頓堀漢寄席",
+    "date": "2026-07-18",
+    "date_text": "2026/07/18(土)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/55909/46047",
+    "prices": [
+      "整理番号付自由席／前売：￥2,000"
+    ],
+    "open_start_time": "開場 20:45 / 開演 21:00",
+    "is_new": true,
+    "added_id": "20260612142055"
+  },
+  {
     "title": "動物チームによる催し「ズーゾン3」 ～もちのろん金属バットも～",
     "date": "2026-07-28",
     "date_text": "2026/07/28(火)",
@@ -113,34 +141,6 @@
     "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": true,
     "added_id": "20260610143736"
-  },
-  {
-    "title": "漫才×漫才×コント×コント×アキナ",
-    "date": "2026-07-26",
-    "date_text": "2026/07/26(日)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/55933/46063",
-    "prices": [
-      "指定席／前売：￥1,800"
-    ],
-    "open_start_time": "開場 20:45 / 開演 21:00",
-    "is_new": false,
-    "added_id": "20260609012944"
-  },
-  {
-    "title": "爆ノ介の道頓堀漢寄席",
-    "date": "2026-07-18",
-    "date_text": "2026/07/18(土)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/55881/46047",
-    "prices": [
-      "整理番号付自由席／前売：￥2,000"
-    ],
-    "open_start_time": "開場 20:45 / 開演 21:00",
-    "is_new": false,
-    "added_id": "20260609012944"
   },
   {
     "title": "よしもとお笑い中堅芸人レストラン",
