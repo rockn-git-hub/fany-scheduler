@@ -19,7 +19,7 @@
     "date": "2026-07-26",
     "date_text": "2026/07/26(日)",
     "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/55939/46063",
     "prices": [
       "指定席／前売：￥1,800"
@@ -33,7 +33,7 @@
     "date": "2026-07-18",
     "date_text": "2026/07/18(土)",
     "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/55909/46047",
     "prices": [
       "整理番号付自由席／前売：￥2,000"
@@ -53,7 +53,7 @@
       "整理番号付自由席／前売：￥1,200"
     ],
     "open_start_time": "開場 18:45 / 開演 19:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260611150412"
   },
   {
@@ -583,8 +583,8 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/50458/42145",
     "prices": [
-      "指定席／前売：￥2,000",
-      "立見（整理番号）／前売：￥2,000"
+      "指定席／当日：￥2,300",
+      "立見（整理番号）／当日：￥2,300"
     ],
     "open_start_time": "開場 19:00 / 開演 19:15",
     "is_new": false,
