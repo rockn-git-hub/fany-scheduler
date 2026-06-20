@@ -48,6 +48,7 @@ jobs:
           LINE_TOKEN: ${{ secrets.LINE_ACCESS_TOKEN }}
           LINE_TO: ${{ secrets.LINE_USER_ID }}
         run: |
+          echo "[TIME] before line send $(TZ=Asia/Tokyo date '+%Y-%m-%d %H:%M:%S')"
           MESSAGE="✅ 金属バット公演一覧が更新されました！\nhttps://rockn-git-hub.github.io/fany-scheduler/kinzoku_bat_events.html"
           curl -X POST https://api.line.me/v2/bot/message/push \
             -H "Authorization: Bearer $LINE_TOKEN" \
