@@ -140,7 +140,7 @@ def mark_and_sort_new_events(events, prev_data):
 
         if match and "added_id" in match:
             try:
-                added_dt = datetime.datetime.strptime(match["added_id"], "%Y%m%d%H%M%S")
+                added_dt = datetime.datetime.strptime(match["added_id"], "%Y%m%d%H%M%S").replace(tzinfo=JST)
                 is_recent = added_dt >= threshold
             except ValueError:
                 is_recent = False
