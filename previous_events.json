@@ -1,5 +1,19 @@
 [
   {
+    "title": "よしもとSPコメディin茨木フェスティバル",
+    "date": "2026-07-25",
+    "date_text": "2026/07/25(土)",
+    "venue": "おにクルゴウダホール(大ホール)（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/57844/47678",
+    "prices": [
+      "全席指定／前売：￥3,000"
+    ],
+    "open_start_time": "開場 18:00 / 開演 18:30",
+    "is_new": true,
+    "added_id": "20260623074410"
+  },
+  {
     "title": "19時ライブ～ネタコレクション～",
     "date": "2026-07-10",
     "date_text": "2026/07/10(金)",
@@ -11,7 +25,7 @@
       "全席指定／前売小学生以下：￥1,000"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260614131524"
   },
   {
@@ -554,25 +568,11 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/50473/42161",
     "prices": [
-      "指定席／前売：￥1,800",
-      "立見（整理番号）／前売：￥1,800"
+      "指定席／当日：￥2,000",
+      "立見（整理番号）／当日：￥2,000"
     ],
     "open_start_time": "開場 19:00 / 開演 19:15",
     "is_new": false,
     "added_id": "20260513133649"
-  },
-  {
-    "title": "漫才×漫才×コント×コント×三遊間",
-    "date": "2026-06-22",
-    "date_text": "2026/06/22(月)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/50843/42985",
-    "prices": [
-      "指定席／前売：￥1,800"
-    ],
-    "open_start_time": "開場 19:10 / 開演 19:30",
-    "is_new": false,
-    "added_id": "20260502120915"
   }
 ]
