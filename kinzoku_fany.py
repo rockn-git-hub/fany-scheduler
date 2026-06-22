@@ -2,6 +2,7 @@ import time
 import os
 import json
 import datetime
+from zoneinfo import ZoneInfo
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
@@ -12,11 +13,12 @@ KEYWORD = "金属バット"
 URL = f"https://ticket.fany.lol/search/event?keywords={KEYWORD}"
 JSON_PATH = "previous_events.json"
 HTML_PATH = "kinzoku_bat_events.html"
+JST = ZoneInfo("Asia/Tokyo")
 
 
 def log_time(label):
     """Emit timestamps to the GitHub Actions log for delay analysis."""
-    print(f"[TIME] {label}: {datetime.datetime.now().isoformat(timespec='seconds')}")
+    print(f"[TIME] {label}: {datetime.datetime.now(JST).isoformat(timespec='seconds')}")
 
 
 def init_driver():
@@ -122,7 +124,7 @@ def enrich_event_details(driver, events):
 
 
 def mark_and_sort_new_events(events, prev_data):
-    now = datetime.datetime.now()
+    now = datetime.datetime.now(JST)
     now_id = now.strftime("%Y%m%d%H%M%S")
     threshold = now - datetime.timedelta(days=3)
 
