@@ -2,8 +2,8 @@ name: FANYスケジューラ
 
 on:
   schedule:
-    - cron: '30 23 * * *'  # JST 08:30
-    - cron: '30 11 * * *'  # JST 20:30
+    - cron: '0 21 * * *'   # JST 06:00 (08:30狙い、2026-06-22実績 +2時間34分を見込む)
+    - cron: '54 9 * * *'   # JST 18:54 (20:30狙い、直近実績 +1時間36分を見込む)
   workflow_dispatch:
 
 permissions:
