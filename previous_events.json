@@ -1,5 +1,61 @@
 [
   {
+    "title": "新ネタライブ!!ハイキック寄席!!",
+    "date": "2026-08-31",
+    "date_text": "2026/08/31(月)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/58842/47374",
+    "prices": [
+      "指定席／前売：￥2,000"
+    ],
+    "open_start_time": "開場 19:00 / 開演 19:15",
+    "is_new": true,
+    "added_id": "20260625070946"
+  },
+  {
+    "title": "大阪アングラ計画",
+    "date": "2026-08-14",
+    "date_text": "2026/08/14(金)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/58813/47345",
+    "prices": [
+      "指定席／前売：￥1,700"
+    ],
+    "open_start_time": "開場 19:15 / 開演 19:30",
+    "is_new": true,
+    "added_id": "20260625070946"
+  },
+  {
+    "title": "暗黒大喜利会vs小林チーム",
+    "date": "2026-08-05",
+    "date_text": "2026/08/05(水)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/58795/47339",
+    "prices": [
+      "指定席／前売：￥2,000"
+    ],
+    "open_start_time": "開場 18:45 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20260625070946"
+  },
+  {
+    "title": "ネタライブ！YES FUTURE！",
+    "date": "2026-08-05",
+    "date_text": "2026/08/05(水)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/58796/47369",
+    "prices": [
+      "指定席／前売：￥2,000"
+    ],
+    "open_start_time": "開場 20:30 / 開演 20:45",
+    "is_new": true,
+    "added_id": "20260625070946"
+  },
+  {
     "title": "19時ライブ～ネタ＆吉本新喜劇～",
     "date": "2026-09-29",
     "date_text": "2026/09/29(火)",
@@ -557,21 +613,6 @@
       "全席指定／前売：￥5,000"
     ],
     "open_start_time": "開場 15:15 / 開演 16:00",
-    "is_new": false,
-    "added_id": "20260513133649"
-  },
-  {
-    "title": "19時ライブ～ネタ＆吉本新喜劇～",
-    "date": "2026-06-24",
-    "date_text": "2026/06/24(水)",
-    "venue": "なんばグランド花月（大阪府）",
-    "sale_status": "先着発売終了",
-    "detail_link": "https://ticket.fany.lol/reception/48447/41475",
-    "prices": [
-      "全席指定／当日大人：￥3,500",
-      "全席指定／当日小学生以下：￥1,000"
-    ],
-    "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": false,
     "added_id": "20260513133649"
   }
