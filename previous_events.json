@@ -1,11 +1,39 @@
 [
   {
+    "title": "大喜利大集合 ～ハゲ・ヒゲ・ロン毛大集合～",
+    "date": "2026-08-31",
+    "date_text": "2026/08/31(月)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/58635/47803",
+    "prices": [
+      "整理番号付自由席／前売：￥2,000"
+    ],
+    "open_start_time": "開場 20:45 / 開演 21:00",
+    "is_new": true,
+    "added_id": "20260702210035"
+  },
+  {
+    "title": "シゲカズですpresents さらにさらにトンボリ・・・",
+    "date": "2026-08-26",
+    "date_text": "2026/08/26(水)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/58630/47817",
+    "prices": [
+      "整理番号付自由席／前売：￥2,000"
+    ],
+    "open_start_time": "開場 20:45 / 開演 21:00",
+    "is_new": true,
+    "added_id": "20260702210035"
+  },
+  {
     "title": "よしもとお笑いレストラン",
     "date": "2026-08-14",
     "date_text": "2026/08/14(金)",
     "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/59213/47949",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/59215/47949",
     "prices": [
       "整理番号付自由席／前売　バーガー付：￥4,600",
       "整理番号付自由席／前売　ロコモコ付：￥4,400",
@@ -18,49 +46,21 @@
     ],
     "open_start_time": "開場 11:30 / 開演 12:00",
     "is_new": true,
-    "added_id": "20260630210418"
-  },
-  {
-    "title": "大喜利大集合 ～ハゲ・ヒゲ・ロン毛大集合～",
-    "date": "2026-08-31",
-    "date_text": "2026/08/31(月)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/58565/47803",
-    "prices": [
-      "整理番号付自由席／前売：￥2,000"
-    ],
-    "open_start_time": "開場 20:45 / 開演 21:00",
-    "is_new": false,
-    "added_id": "20260629065640"
-  },
-  {
-    "title": "シゲカズですpresents さらにさらにトンボリ・・・",
-    "date": "2026-08-26",
-    "date_text": "2026/08/26(水)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/58560/47817",
-    "prices": [
-      "整理番号付自由席／前売：￥2,000"
-    ],
-    "open_start_time": "開場 20:45 / 開演 21:00",
-    "is_new": false,
-    "added_id": "20260629065640"
+    "added_id": "20260702210035"
   },
   {
     "title": "トークライブ林",
     "date": "2026-08-06",
     "date_text": "2026/08/06(木)",
     "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/58536/47788",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/58606/47788",
     "prices": [
       "整理番号付自由席／前売：￥2,000"
     ],
     "open_start_time": "開場 20:30 / 開演 20:50",
-    "is_new": false,
-    "added_id": "20260629065640"
+    "is_new": true,
+    "added_id": "20260702210035"
   },
   {
     "title": "新ネタライブ!!ハイキック寄席!!",
