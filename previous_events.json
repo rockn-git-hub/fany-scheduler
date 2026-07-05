@@ -1,31 +1,17 @@
 [
   {
-    "title": "THE SECOND ライブツアー2026～今、全盛期の漫才師達～in大阪",
-    "date": "2026-07-05",
-    "date_text": "2026/07/05(日)",
-    "venue": "COOL JAPAN PARK OSAKA WWホール（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/47955/40938",
+    "title": "「金属バットのトークライブ」7",
+    "date": "2026-08-03",
+    "date_text": "2026/08/03(月)",
+    "venue": "YES THEATER（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/59656/48320",
     "prices": [
-      "価格取得エラー: Message: \n"
+      "全席指定／前売：￥2,500"
     ],
-    "open_start_time": "",
+    "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": true,
-    "added_id": "20260705065144"
-  },
-  {
-    "title": "THE SECOND ライブツアー2026～今、全盛期の漫才師達～in大阪",
-    "date": "2026-07-05",
-    "date_text": "2026/07/05(日)",
-    "venue": "COOL JAPAN PARK OSAKA WWホール（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/47955/40939",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20260705065144"
+    "added_id": "20260706065422"
   },
   {
     "title": "【11/8(日)1日券】たくろう万博",
@@ -73,7 +59,7 @@
       "整理番号付自由席／前売：￥2,000"
     ],
     "open_start_time": "開場 20:45 / 開演 21:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260702210035"
   },
   {
@@ -87,7 +73,7 @@
       "整理番号付自由席／前売：￥2,000"
     ],
     "open_start_time": "開場 20:45 / 開演 21:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260702210035"
   },
   {
@@ -108,7 +94,7 @@
       "整理番号付自由席／前売：￥3,500"
     ],
     "open_start_time": "開場 11:30 / 開演 12:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260702210035"
   },
   {
@@ -122,7 +108,7 @@
       "整理番号付自由席／前売：￥2,000"
     ],
     "open_start_time": "開場 20:30 / 開演 20:50",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260702210035"
   },
   {
