@@ -1,5 +1,33 @@
 [
   {
+    "title": "漫才×漫才×コント×コント×大王",
+    "date": "2026-08-16",
+    "date_text": "2026/08/16(日)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/60100/48637",
+    "prices": [
+      "指定席／前売：￥1,800"
+    ],
+    "open_start_time": "開場 19:15 / 開演 19:30",
+    "is_new": true,
+    "added_id": "20260710071600"
+  },
+  {
+    "title": "金属・黒帯のダルガラミ",
+    "date": "2026-08-16",
+    "date_text": "2026/08/16(日)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/60101/48639",
+    "prices": [
+      "指定席／前売：￥2,200"
+    ],
+    "open_start_time": "開場 20:45 / 開演 21:00",
+    "is_new": true,
+    "added_id": "20260710071600"
+  },
+  {
     "title": "「金属バットのトークライブ」7",
     "date": "2026-08-03",
     "date_text": "2026/08/03(月)",
@@ -61,7 +89,7 @@
       "整理番号付自由席／前売：￥3,500"
     ],
     "open_start_time": "開場 11:30 / 開演 12:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260706223715"
   },
   {
@@ -259,8 +287,8 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/52147/43842",
     "prices": [
-      "全席指定／前売大人：￥3,500",
-      "全席指定／前売小学生以下：￥1,000"
+      "全席指定／当日大人：￥3,500",
+      "全席指定／当日小学生以下：￥1,000"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": false,
@@ -587,10 +615,9 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/55080/45294",
     "prices": [
-      "全席指定／前売：￥3,500",
-      "全席指定／前売　学生：￥2,000"
+      "価格取得エラー: Message: \n"
     ],
-    "open_start_time": "開場 10:30 / 開演 11:00",
+    "open_start_time": "",
     "is_new": false,
     "added_id": "20260531013728"
   },
@@ -675,27 +702,12 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/54370/44444",
     "prices": [
-      "指定席／前売：￥2,000",
-      "立見（整理番号）／前売：￥2,000"
+      "指定席／当日：￥2,300",
+      "立見（整理番号）／当日：￥2,300"
     ],
     "open_start_time": "開場 20:30 / 開演 20:45",
     "is_new": false,
     "added_id": "20260528145159"
-  },
-  {
-    "title": "19時ライブ～ネタ＆吉本新喜劇～",
-    "date": "2026-07-09",
-    "date_text": "2026/07/09(木)",
-    "venue": "なんばグランド花月（大阪府）",
-    "sale_status": "先着発売終了",
-    "detail_link": "https://ticket.fany.lol/reception/52147/43841",
-    "prices": [
-      "全席指定／当日大人：￥3,500",
-      "全席指定／当日小学生以下：￥1,000"
-    ],
-    "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": false,
-    "added_id": "20260518013051"
   },
   {
     "title": "【2日通し券】やすともの黒白歌合戦2026",
