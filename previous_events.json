@@ -1,47 +1,5 @@
 [
   {
-    "title": "よしもとお笑いレストラン",
-    "date": "2026-07-11",
-    "date_text": "2026/07/11(土)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/54513/45108",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20260711194941"
-  },
-  {
-    "title": "よしもとゴリラライブ大阪",
-    "date": "2026-07-11",
-    "date_text": "2026/07/11(土)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/54266/44436",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20260711194941"
-  },
-  {
-    "title": "「金属バットのトークライブ」6",
-    "date": "2026-07-11",
-    "date_text": "2026/07/11(土)",
-    "venue": "YES THEATER（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/55805/46019",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20260711065345"
-  },
-  {
     "title": "漫才×漫才×コント×コント×大王",
     "date": "2026-08-16",
     "date_text": "2026/08/16(日)",
