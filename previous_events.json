@@ -1,5 +1,19 @@
 [
   {
+    "title": "terauchi寄席",
+    "date": "2026-07-13",
+    "date_text": "2026/07/13(月)",
+    "venue": "YES THEATER（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/55762/46007",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260713064132"
+  },
+  {
     "title": "漫才×漫才×コント×コント×大王",
     "date": "2026-08-16",
     "date_text": "2026/08/16(日)",
@@ -38,7 +52,7 @@
       "全席指定／前売：￥2,500"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260709212527"
   },
   {
@@ -53,7 +67,7 @@
       "全席指定／小人：￥1,500"
     ],
     "open_start_time": "開場 12:00 / 開演 12:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260709212527"
   },
   {
@@ -68,7 +82,7 @@
       "全席指定／小人：￥1,500"
     ],
     "open_start_time": "開場 15:00 / 開演 15:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260709212527"
   },
   {
@@ -393,20 +407,6 @@
     "open_start_time": "開場 17:00 / 開演 18:00",
     "is_new": false,
     "added_id": "20260611020340"
-  },
-  {
-    "title": "terauchi寄席",
-    "date": "2026-07-13",
-    "date_text": "2026/07/13(月)",
-    "venue": "YES THEATER（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/55764/46007",
-    "prices": [
-      "全席指定／前売：￥3,000"
-    ],
-    "open_start_time": "開場 18:30 / 開演 18:45",
-    "is_new": false,
-    "added_id": "20260610143736"
   },
   {
     "title": "よしもとお笑い中堅芸人レストラン",
