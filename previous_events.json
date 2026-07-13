@@ -1,17 +1,17 @@
 [
   {
-    "title": "terauchi寄席",
-    "date": "2026-07-13",
-    "date_text": "2026/07/13(月)",
-    "venue": "YES THEATER（大阪府）",
+    "title": "金属バット×例えば炎ツーマンライブ「例えバット」２",
+    "date": "2026-07-14",
+    "date_text": "2026/07/14(火)",
+    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
     "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/55762/46007",
+    "detail_link": "https://ticket.fany.lol/reception/49814/42612",
     "prices": [
       "価格取得エラー: Message: \n"
     ],
     "open_start_time": "",
     "is_new": true,
-    "added_id": "20260713064132"
+    "added_id": "20260714064714"
   },
   {
     "title": "漫才×漫才×コント×コント×大王",
@@ -658,19 +658,5 @@
     "open_start_time": "",
     "is_new": false,
     "added_id": "20260517121212"
-  },
-  {
-    "title": "金属バット×例えば炎ツーマンライブ「例えバット」２",
-    "date": "2026-07-14",
-    "date_text": "2026/07/14(火)",
-    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/49816/42612",
-    "prices": [
-      "全席指定／前売：￥3,000"
-    ],
-    "open_start_time": "開場 19:00 / 開演 19:30",
-    "is_new": false,
-    "added_id": "20260513133649"
   }
 ]
