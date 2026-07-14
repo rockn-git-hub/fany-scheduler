@@ -1,19 +1,5 @@
 [
   {
-    "title": "金属バット×例えば炎ツーマンライブ「例えバット」２",
-    "date": "2026-07-14",
-    "date_text": "2026/07/14(火)",
-    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/49814/42612",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20260714064714"
-  },
-  {
     "title": "漫才×漫才×コント×コント×大王",
     "date": "2026-08-16",
     "date_text": "2026/08/16(日)",
@@ -521,7 +507,7 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/54652/45156",
     "prices": [
-      "整理番号付自由席／前売：￥2,000"
+      "整理番号付自由席／当日：￥2,500"
     ],
     "open_start_time": "開場 20:30 / 開演 20:50",
     "is_new": false,
