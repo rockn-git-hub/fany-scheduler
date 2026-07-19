@@ -1,33 +1,5 @@
 [
   {
-    "title": "よしもとお笑いレストラン 吉本新喜劇プラス",
-    "date": "2026-07-19",
-    "date_text": "2026/07/19(日)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/54693/45163",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20260719200229"
-  },
-  {
-    "title": "よしもとお笑いレストラン 吉本新喜劇プラス",
-    "date": "2026-07-19",
-    "date_text": "2026/07/19(日)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/54693/45164",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20260719200229"
-  },
-  {
     "title": "【11/8(日)1日券】たくろう万博",
     "date": "2026-11-08",
     "date_text": "2026/11/08(日)",
@@ -488,34 +460,6 @@
     "open_start_time": "開場 13:30 / 開演 14:00",
     "is_new": false,
     "added_id": "20260531013728"
-  },
-  {
-    "title": "NORAネタ",
-    "date": "2026-07-19",
-    "date_text": "2026/07/19(日)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "先着発売終了",
-    "detail_link": "https://ticket.fany.lol/reception/54881/45231",
-    "prices": [
-      "指定席／当日：￥3,500"
-    ],
-    "open_start_time": "開場 18:45 / 開演 19:00",
-    "is_new": false,
-    "added_id": "20260529013518"
-  },
-  {
-    "title": "NORAコーナー",
-    "date": "2026-07-19",
-    "date_text": "2026/07/19(日)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "先着発売終了",
-    "detail_link": "https://ticket.fany.lol/reception/54881/45232",
-    "prices": [
-      "指定席／当日：￥3,500"
-    ],
-    "open_start_time": "開場 20:25 / 開演 20:40",
-    "is_new": false,
-    "added_id": "20260529013518"
   },
   {
     "title": "しみちゃむ寄席",
