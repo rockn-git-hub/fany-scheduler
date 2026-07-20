@@ -149,9 +149,9 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/58630/47817",
     "prices": [
-      "整理番号付自由席／前売：￥2,000"
+      "価格取得エラー: Message: \n"
     ],
-    "open_start_time": "開場 20:45 / 開演 21:00",
+    "open_start_time": "",
     "is_new": false,
     "added_id": "20260702210035"
   },
