@@ -1,5 +1,19 @@
 [
   {
+    "title": "しみちゃむ寄席",
+    "date": "2026-07-27",
+    "date_text": "2026/07/27(月)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/54291/44475",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260727214746"
+  },
+  {
     "title": "寛平GMプロデュース公演 新喜劇出前ツアー2026 京都公演",
     "date": "2026-10-03",
     "date_text": "2026/10/03(土)",
@@ -250,7 +264,7 @@
       "通し券／前売：￥5,000"
     ],
     "open_start_time": "",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260724202858"
   },
   {
@@ -264,7 +278,7 @@
       "全席指定／前売：￥3,000"
     ],
     "open_start_time": "開場 19:30 / 開演 20:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260724202858"
   },
   {
@@ -724,21 +738,6 @@
     "open_start_time": "開場 13:30 / 開演 14:00",
     "is_new": false,
     "added_id": "20260531013728"
-  },
-  {
-    "title": "しみちゃむ寄席",
-    "date": "2026-07-27",
-    "date_text": "2026/07/27(月)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/54397/44475",
-    "prices": [
-      "指定席／当日：￥2,300",
-      "立見（整理番号）／当日：￥2,300"
-    ],
-    "open_start_time": "開場 19:15 / 開演 19:30",
-    "is_new": false,
-    "added_id": "20260528145159"
   },
   {
     "title": "【2日通し券】やすともの黒白歌合戦2026",
