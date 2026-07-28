@@ -1,5 +1,223 @@
 [
   {
+    "title": "-ZX-の恩返しライブ",
+    "date": "2026-09-30",
+    "date_text": "2026/09/30(水)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/62336/50085",
+    "prices": [
+      "指定席／前売：￥1,500",
+      "立見（整理番号）／前売：￥1,500"
+    ],
+    "open_start_time": "開場 19:00 / 開演 19:15",
+    "is_new": true,
+    "added_id": "20260728204929"
+  },
+  {
+    "title": "新ネタライブ!!ハイキック寄席!!",
+    "date": "2026-09-30",
+    "date_text": "2026/09/30(水)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/62337/50086",
+    "prices": [
+      "指定席／前売：￥2,000",
+      "立見（整理番号）／前売：￥2,000"
+    ],
+    "open_start_time": "開場 20:30 / 開演 20:45",
+    "is_new": true,
+    "added_id": "20260728204929"
+  },
+  {
+    "title": "マンゲキお笑いライブSP",
+    "date": "2026-09-19",
+    "date_text": "2026/09/19(土)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/61593/49950",
+    "prices": [
+      "指定席／前売：￥3,200",
+      "立見（整理番号）／前売：￥3,200"
+    ],
+    "open_start_time": "開場 09:40 / 開演 10:00",
+    "is_new": true,
+    "added_id": "20260728204929"
+  },
+  {
+    "title": "森ノ宮マンゲキお笑いライブSP",
+    "date": "2026-09-19",
+    "date_text": "2026/09/19(土)",
+    "venue": "森ノ宮よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/61448/50106",
+    "prices": [
+      "指定席／前売：￥2,500"
+    ],
+    "open_start_time": "開場 10:45 / 開演 11:00",
+    "is_new": true,
+    "added_id": "20260728204929"
+  },
+  {
+    "title": "マンゲキお笑いライブSP",
+    "date": "2026-09-19",
+    "date_text": "2026/09/19(土)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/61593/49951",
+    "prices": [
+      "指定席／前売：￥3,200",
+      "立見（整理番号）／前売：￥3,200"
+    ],
+    "open_start_time": "開場 12:20 / 開演 12:40",
+    "is_new": true,
+    "added_id": "20260728204929"
+  },
+  {
+    "title": "森ノ宮マンゲキお笑いライブSP",
+    "date": "2026-09-19",
+    "date_text": "2026/09/19(土)",
+    "venue": "森ノ宮よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/61448/50107",
+    "prices": [
+      "指定席／前売：￥2,500"
+    ],
+    "open_start_time": "開場 13:15 / 開演 13:30",
+    "is_new": true,
+    "added_id": "20260728204929"
+  },
+  {
+    "title": "マンゲキお笑いライブSP",
+    "date": "2026-09-19",
+    "date_text": "2026/09/19(土)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/61593/49952",
+    "prices": [
+      "指定席／前売：￥3,200",
+      "立見（整理番号）／前売：￥3,200"
+    ],
+    "open_start_time": "開場 15:00 / 開演 15:20",
+    "is_new": true,
+    "added_id": "20260728204929"
+  },
+  {
+    "title": "森ノ宮マンゲキお笑いライブSP",
+    "date": "2026-09-19",
+    "date_text": "2026/09/19(土)",
+    "venue": "森ノ宮よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/61448/50108",
+    "prices": [
+      "指定席／前売：￥2,500"
+    ],
+    "open_start_time": "開場 15:45 / 開演 16:00",
+    "is_new": true,
+    "added_id": "20260728204929"
+  },
+  {
+    "title": "黒帯軍団 vs ドーナツ・ピーナツ軍団",
+    "date": "2026-09-07",
+    "date_text": "2026/09/07(月)",
+    "venue": "森ノ宮よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/62034/50172",
+    "prices": [
+      "指定席／前売：￥2,000"
+    ],
+    "open_start_time": "開場 18:30 / 開演 18:45",
+    "is_new": true,
+    "added_id": "20260728204929"
+  },
+  {
+    "title": "ネタライブ！YES FUTURE！",
+    "date": "2026-09-07",
+    "date_text": "2026/09/07(月)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/62296/50048",
+    "prices": [
+      "指定席／前売：￥2,000",
+      "立見（整理番号）／前売：￥2,000"
+    ],
+    "open_start_time": "開場 20:30 / 開演 20:45",
+    "is_new": true,
+    "added_id": "20260728204929"
+  },
+  {
+    "title": "森ノ宮マンゲキお笑いライブSP",
+    "date": "2026-09-05",
+    "date_text": "2026/09/05(土)",
+    "venue": "森ノ宮よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/61448/50098",
+    "prices": [
+      "指定席／前売：￥2,500"
+    ],
+    "open_start_time": "開場 10:45 / 開演 11:00",
+    "is_new": true,
+    "added_id": "20260728204929"
+  },
+  {
+    "title": "マンゲキお笑いライブSP",
+    "date": "2026-09-05",
+    "date_text": "2026/09/05(土)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/61593/49940",
+    "prices": [
+      "指定席／前売：￥3,200",
+      "立見（整理番号）／前売：￥3,200"
+    ],
+    "open_start_time": "開場 12:20 / 開演 12:40",
+    "is_new": true,
+    "added_id": "20260728204929"
+  },
+  {
+    "title": "森ノ宮マンゲキお笑いライブSP",
+    "date": "2026-09-05",
+    "date_text": "2026/09/05(土)",
+    "venue": "森ノ宮よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/61448/50099",
+    "prices": [
+      "指定席／前売：￥2,500"
+    ],
+    "open_start_time": "開場 13:15 / 開演 13:30",
+    "is_new": true,
+    "added_id": "20260728204929"
+  },
+  {
+    "title": "森ノ宮マンゲキお笑いライブSP",
+    "date": "2026-09-05",
+    "date_text": "2026/09/05(土)",
+    "venue": "森ノ宮よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/61448/50100",
+    "prices": [
+      "指定席／前売：￥2,500"
+    ],
+    "open_start_time": "開場 15:45 / 開演 16:00",
+    "is_new": true,
+    "added_id": "20260728204929"
+  },
+  {
+    "title": "マンゲキお笑いライブSP",
+    "date": "2026-09-05",
+    "date_text": "2026/09/05(土)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/61593/49971",
+    "prices": [
+      "指定席／前売：￥3,200",
+      "立見（整理番号）／前売：￥3,200"
+    ],
+    "open_start_time": "開場 17:40 / 開演 18:00",
+    "is_new": true,
+    "added_id": "20260728204929"
+  },
+  {
     "title": "寛平GMプロデュース公演 新喜劇出前ツアー2026 京都公演",
     "date": "2026-10-03",
     "date_text": "2026/10/03(土)",
@@ -11,7 +229,7 @@
       "全席指定／前売　小学生以下：￥3,500"
     ],
     "open_start_time": "開場 12:15 / 開演 13:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260725200041"
   },
   {
@@ -26,218 +244,8 @@
       "全席指定／前売　小学生以下：￥3,500"
     ],
     "open_start_time": "開場 16:15 / 開演 17:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260725200041"
-  },
-  {
-    "title": "-ZX-の恩返しライブ",
-    "date": "2026-09-30",
-    "date_text": "2026/09/30(水)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/62228/50085",
-    "prices": [
-      "指定席／前売：￥1,500"
-    ],
-    "open_start_time": "開場 19:00 / 開演 19:15",
-    "is_new": true,
-    "added_id": "20260725065911"
-  },
-  {
-    "title": "新ネタライブ!!ハイキック寄席!!",
-    "date": "2026-09-30",
-    "date_text": "2026/09/30(水)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/62229/50086",
-    "prices": [
-      "指定席／前売：￥2,000"
-    ],
-    "open_start_time": "開場 20:30 / 開演 20:45",
-    "is_new": true,
-    "added_id": "20260725065911"
-  },
-  {
-    "title": "マンゲキお笑いライブSP",
-    "date": "2026-09-19",
-    "date_text": "2026/09/19(土)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/61591/49950",
-    "prices": [
-      "指定席／前売：￥3,200"
-    ],
-    "open_start_time": "開場 09:40 / 開演 10:00",
-    "is_new": true,
-    "added_id": "20260725065911"
-  },
-  {
-    "title": "森ノ宮マンゲキお笑いライブSP",
-    "date": "2026-09-19",
-    "date_text": "2026/09/19(土)",
-    "venue": "森ノ宮よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/61446/50106",
-    "prices": [
-      "指定席／前売：￥2,500"
-    ],
-    "open_start_time": "開場 10:45 / 開演 11:00",
-    "is_new": true,
-    "added_id": "20260725065911"
-  },
-  {
-    "title": "マンゲキお笑いライブSP",
-    "date": "2026-09-19",
-    "date_text": "2026/09/19(土)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/61591/49951",
-    "prices": [
-      "指定席／前売：￥3,200"
-    ],
-    "open_start_time": "開場 12:20 / 開演 12:40",
-    "is_new": true,
-    "added_id": "20260725065911"
-  },
-  {
-    "title": "森ノ宮マンゲキお笑いライブSP",
-    "date": "2026-09-19",
-    "date_text": "2026/09/19(土)",
-    "venue": "森ノ宮よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/61446/50107",
-    "prices": [
-      "指定席／前売：￥2,500"
-    ],
-    "open_start_time": "開場 13:15 / 開演 13:30",
-    "is_new": true,
-    "added_id": "20260725065911"
-  },
-  {
-    "title": "マンゲキお笑いライブSP",
-    "date": "2026-09-19",
-    "date_text": "2026/09/19(土)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/61591/49952",
-    "prices": [
-      "指定席／前売：￥3,200"
-    ],
-    "open_start_time": "開場 15:00 / 開演 15:20",
-    "is_new": true,
-    "added_id": "20260725065911"
-  },
-  {
-    "title": "森ノ宮マンゲキお笑いライブSP",
-    "date": "2026-09-19",
-    "date_text": "2026/09/19(土)",
-    "venue": "森ノ宮よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/61446/50108",
-    "prices": [
-      "指定席／前売：￥2,500"
-    ],
-    "open_start_time": "開場 15:45 / 開演 16:00",
-    "is_new": true,
-    "added_id": "20260725065911"
-  },
-  {
-    "title": "黒帯軍団 vs ドーナツ・ピーナツ軍団",
-    "date": "2026-09-07",
-    "date_text": "2026/09/07(月)",
-    "venue": "森ノ宮よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/61964/50172",
-    "prices": [
-      "指定席／前売：￥2,000"
-    ],
-    "open_start_time": "開場 18:30 / 開演 18:45",
-    "is_new": true,
-    "added_id": "20260725065911"
-  },
-  {
-    "title": "ネタライブ！YES FUTURE！",
-    "date": "2026-09-07",
-    "date_text": "2026/09/07(月)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/62188/50048",
-    "prices": [
-      "指定席／前売：￥2,000"
-    ],
-    "open_start_time": "開場 20:30 / 開演 20:45",
-    "is_new": true,
-    "added_id": "20260725065911"
-  },
-  {
-    "title": "森ノ宮マンゲキお笑いライブSP",
-    "date": "2026-09-05",
-    "date_text": "2026/09/05(土)",
-    "venue": "森ノ宮よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/61446/50098",
-    "prices": [
-      "指定席／前売：￥2,500"
-    ],
-    "open_start_time": "開場 10:45 / 開演 11:00",
-    "is_new": true,
-    "added_id": "20260725065911"
-  },
-  {
-    "title": "マンゲキお笑いライブSP",
-    "date": "2026-09-05",
-    "date_text": "2026/09/05(土)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/61591/49940",
-    "prices": [
-      "指定席／前売：￥3,200"
-    ],
-    "open_start_time": "開場 12:20 / 開演 12:40",
-    "is_new": true,
-    "added_id": "20260725065911"
-  },
-  {
-    "title": "森ノ宮マンゲキお笑いライブSP",
-    "date": "2026-09-05",
-    "date_text": "2026/09/05(土)",
-    "venue": "森ノ宮よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/61446/50099",
-    "prices": [
-      "指定席／前売：￥2,500"
-    ],
-    "open_start_time": "開場 13:15 / 開演 13:30",
-    "is_new": true,
-    "added_id": "20260725065911"
-  },
-  {
-    "title": "森ノ宮マンゲキお笑いライブSP",
-    "date": "2026-09-05",
-    "date_text": "2026/09/05(土)",
-    "venue": "森ノ宮よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/61446/50100",
-    "prices": [
-      "指定席／前売：￥2,500"
-    ],
-    "open_start_time": "開場 15:45 / 開演 16:00",
-    "is_new": true,
-    "added_id": "20260725065911"
-  },
-  {
-    "title": "マンゲキお笑いライブSP",
-    "date": "2026-09-05",
-    "date_text": "2026/09/05(土)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/61591/49971",
-    "prices": [
-      "指定席／前売：￥3,200"
-    ],
-    "open_start_time": "開場 17:40 / 開演 18:00",
-    "is_new": true,
-    "added_id": "20260725065911"
   },
   {
     "title": "【通し券】ギブLabo.企画",
