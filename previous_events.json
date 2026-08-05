@@ -1,10 +1,123 @@
 [
   {
+    "title": "【11/8(日)1日券】たくろう万博",
+    "date": "2026-11-08",
+    "date_text": "2026/11/08(日)",
+    "venue": "万博記念公園もみじ川芝生広場 （大阪府）",
+    "sale_status": "先着発売中",
+    "detail_link": "https://ticket.fany.lol/reception/59452/48125",
+    "prices": [
+      "1日券／一般　前売　大人：￥9,000",
+      "1日券／一般　前売　高校生：￥4,500",
+      "1日券／一般　前売　中学生：￥3,000",
+      "夜間券／一般　前売　大人：￥4,000",
+      "夜間券／一般　前売　高校生：￥2,000",
+      "夜間券／一般　前売　中学生：￥1,000"
+    ],
+    "open_start_time": "開場 09:30 / 開演 11:00",
+    "is_new": true,
+    "added_id": "20260805205109"
+  },
+  {
+    "title": "【通期パス（2日券）・11/7(土)1日券】たくろう万博",
+    "date": "2026-11-07",
+    "date_text": "2026/11/07(土)",
+    "venue": "万博記念公園もみじ川芝生広場 （大阪府）",
+    "sale_status": "先着発売中",
+    "detail_link": "https://ticket.fany.lol/reception/59452/48112",
+    "prices": [
+      "通期パス（2日券）／一般　前売　大人：￥16,000",
+      "通期パス（2日券）／一般　前売　高校生：￥7,500",
+      "通期パス（2日券）／一般　前売　中学生：￥5,000",
+      "1日券／一般　前売　大人：￥9,000",
+      "1日券／一般　前売　高校生：￥4,500",
+      "1日券／一般　前売　中学生：￥3,000",
+      "夜間券／一般　前売　大人：￥4,000",
+      "夜間券／一般　前売　高校生：￥2,000",
+      "夜間券／一般　前売　中学生：￥1,000"
+    ],
+    "open_start_time": "開場 09:30 / 開演 11:00",
+    "is_new": true,
+    "added_id": "20260805205109"
+  },
+  {
+    "title": "よしもとお笑い森ノ宮劇場",
+    "date": "2026-10-25",
+    "date_text": "2026/10/25(日)",
+    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
+    "sale_status": "先着発売中",
+    "detail_link": "https://ticket.fany.lol/reception/62797/50552",
+    "prices": [
+      "全席指定／前売：￥3,500",
+      "全席指定／前売　学生：￥2,000"
+    ],
+    "open_start_time": "開場 10:30 / 開演 11:00",
+    "is_new": true,
+    "added_id": "20260805205109"
+  },
+  {
+    "title": "よしもとお笑い森ノ宮劇場",
+    "date": "2026-10-25",
+    "date_text": "2026/10/25(日)",
+    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
+    "sale_status": "先着発売中",
+    "detail_link": "https://ticket.fany.lol/reception/62797/50553",
+    "prices": [
+      "全席指定／前売：￥3,500",
+      "全席指定／前売　学生：￥2,000"
+    ],
+    "open_start_time": "開場 13:30 / 開演 14:00",
+    "is_new": true,
+    "added_id": "20260805205109"
+  },
+  {
+    "title": "マンゲキLIVE夏休みSP",
+    "date": "2026-08-05",
+    "date_text": "2026/08/05(水)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/59045/47195",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260805205109"
+  },
+  {
+    "title": "暗黒大喜利会vs小林チーム",
+    "date": "2026-08-05",
+    "date_text": "2026/08/05(水)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/58795/47339",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260805205109"
+  },
+  {
+    "title": "ネタライブ！YES FUTURE！",
+    "date": "2026-08-05",
+    "date_text": "2026/08/05(水)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/58796/47369",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260805205109"
+  },
+  {
     "title": "「金属バットのトークライブ」8",
     "date": "2026-09-05",
     "date_text": "2026/09/05(土)",
     "venue": "YES THEATER（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "抽選受付中",
     "detail_link": "https://ticket.fany.lol/reception/63162/50697",
     "prices": [
       "全席指定／前売：￥2,500"
@@ -14,26 +127,11 @@
     "added_id": "20260804070131"
   },
   {
-    "title": "マンゲキLIVE夏休みSP",
-    "date": "2026-08-05",
-    "date_text": "2026/08/05(水)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/59047/47195",
-    "prices": [
-      "指定席／当日：￥2,500",
-      "立見（整理番号）／当日：￥2,500"
-    ],
-    "open_start_time": "開場 13:15 / 開演 13:30",
-    "is_new": true,
-    "added_id": "20260803214925"
-  },
-  {
     "title": "ワルガキ ～タンクと友保とちょいワルおやじ～",
     "date": "2026-09-28",
     "date_text": "2026/09/28(月)",
     "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/62548/50418",
     "prices": [
       "整理番号付自由席／前売：￥2,500"
@@ -47,7 +145,7 @@
     "date": "2026-09-19",
     "date_text": "2026/09/19(土)",
     "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/62614/50446",
     "prices": [
       "整理番号付自由席／前売　バーガー付：￥4,600",
@@ -68,7 +166,7 @@
     "date": "2026-09-19",
     "date_text": "2026/09/19(土)",
     "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/62742/50539",
     "prices": [
       "指定席／前売：￥2,200"
@@ -82,7 +180,7 @@
     "date": "2026-09-10",
     "date_text": "2026/09/10(木)",
     "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/62691/50488",
     "prices": [
       "指定席／前売：￥1,800"
@@ -96,7 +194,7 @@
     "date": "2026-09-10",
     "date_text": "2026/09/10(木)",
     "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/62537/50414",
     "prices": [
       "整理番号付自由席／前売：￥2,000"
@@ -110,7 +208,7 @@
     "date": "2026-09-05",
     "date_text": "2026/09/05(土)",
     "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/62614/50444",
     "prices": [
       "整理番号付自由席／前売　バーガー付：￥4,600",
@@ -356,7 +454,7 @@
     "date": "2026-09-20",
     "date_text": "2026/09/20(日)",
     "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/62630/50469",
     "prices": [
       "整理番号付自由席／前売：￥2,500"
@@ -370,7 +468,7 @@
     "date": "2026-09-20",
     "date_text": "2026/09/20(日)",
     "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/62630/50470",
     "prices": [
       "整理番号付自由席／前売：￥2,500"
@@ -384,7 +482,7 @@
     "date": "2026-09-20",
     "date_text": "2026/09/20(日)",
     "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/62630/50471",
     "prices": [
       "整理番号付自由席／前売：￥2,500"
@@ -398,7 +496,7 @@
     "date": "2026-09-20",
     "date_text": "2026/09/20(日)",
     "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/62630/50472",
     "prices": [
       "整理番号付自由席／前売：￥2,500"
@@ -412,7 +510,7 @@
     "date": "2026-09-20",
     "date_text": "2026/09/20(日)",
     "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/62630/50473",
     "prices": [
       "整理番号付自由席／前売：￥2,500"
@@ -426,7 +524,7 @@
     "date": "2026-09-20",
     "date_text": "2026/09/20(日)",
     "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/62630/50474",
     "prices": [
       "整理番号付自由席／前売：￥2,500"
@@ -440,7 +538,7 @@
     "date": "2026-09-30",
     "date_text": "2026/09/30(水)",
     "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/62336/50085",
     "prices": [
       "指定席／前売：￥1,500",
@@ -455,7 +553,7 @@
     "date": "2026-09-30",
     "date_text": "2026/09/30(水)",
     "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/62337/50086",
     "prices": [
       "指定席／前売：￥2,000",
@@ -470,7 +568,7 @@
     "date": "2026-09-19",
     "date_text": "2026/09/19(土)",
     "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/61593/49950",
     "prices": [
       "指定席／前売：￥3,200",
@@ -485,7 +583,7 @@
     "date": "2026-09-19",
     "date_text": "2026/09/19(土)",
     "venue": "森ノ宮よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/61448/50106",
     "prices": [
       "指定席／前売：￥2,500"
@@ -499,7 +597,7 @@
     "date": "2026-09-19",
     "date_text": "2026/09/19(土)",
     "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/61593/49951",
     "prices": [
       "指定席／前売：￥3,200",
@@ -514,7 +612,7 @@
     "date": "2026-09-19",
     "date_text": "2026/09/19(土)",
     "venue": "森ノ宮よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/61448/50107",
     "prices": [
       "指定席／前売：￥2,500"
@@ -528,7 +626,7 @@
     "date": "2026-09-19",
     "date_text": "2026/09/19(土)",
     "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/61593/49952",
     "prices": [
       "指定席／前売：￥3,200",
@@ -543,7 +641,7 @@
     "date": "2026-09-19",
     "date_text": "2026/09/19(土)",
     "venue": "森ノ宮よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/61448/50108",
     "prices": [
       "指定席／前売：￥2,500"
@@ -557,7 +655,7 @@
     "date": "2026-09-07",
     "date_text": "2026/09/07(月)",
     "venue": "森ノ宮よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/62034/50172",
     "prices": [
       "指定席／前売：￥2,000"
@@ -571,7 +669,7 @@
     "date": "2026-09-07",
     "date_text": "2026/09/07(月)",
     "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/62296/50048",
     "prices": [
       "指定席／前売：￥2,000",
@@ -586,7 +684,7 @@
     "date": "2026-09-05",
     "date_text": "2026/09/05(土)",
     "venue": "森ノ宮よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/61448/50098",
     "prices": [
       "指定席／前売：￥2,500"
@@ -600,7 +698,7 @@
     "date": "2026-09-05",
     "date_text": "2026/09/05(土)",
     "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/61593/49940",
     "prices": [
       "指定席／前売：￥3,200",
@@ -615,7 +713,7 @@
     "date": "2026-09-05",
     "date_text": "2026/09/05(土)",
     "venue": "森ノ宮よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/61448/50099",
     "prices": [
       "指定席／前売：￥2,500"
@@ -629,7 +727,7 @@
     "date": "2026-09-05",
     "date_text": "2026/09/05(土)",
     "venue": "森ノ宮よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/61448/50100",
     "prices": [
       "指定席／前売：￥2,500"
@@ -643,7 +741,7 @@
     "date": "2026-09-05",
     "date_text": "2026/09/05(土)",
     "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/61593/49971",
     "prices": [
       "指定席／前売：￥3,200",
@@ -822,36 +920,6 @@
       "立見（整理番号）／前売：￥1,700"
     ],
     "open_start_time": "開場 19:15 / 開演 19:30",
-    "is_new": false,
-    "added_id": "20260628202918"
-  },
-  {
-    "title": "暗黒大喜利会vs小林チーム",
-    "date": "2026-08-05",
-    "date_text": "2026/08/05(水)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/58895/47339",
-    "prices": [
-      "指定席／当日：￥2,300",
-      "立見（整理番号）／当日：￥2,300"
-    ],
-    "open_start_time": "開場 18:45 / 開演 19:00",
-    "is_new": false,
-    "added_id": "20260628202918"
-  },
-  {
-    "title": "ネタライブ！YES FUTURE！",
-    "date": "2026-08-05",
-    "date_text": "2026/08/05(水)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/58896/47369",
-    "prices": [
-      "指定席／当日：￥2,300",
-      "立見（整理番号）／当日：￥2,300"
-    ],
-    "open_start_time": "開場 20:30 / 開演 20:45",
     "is_new": false,
     "added_id": "20260628202918"
   },
