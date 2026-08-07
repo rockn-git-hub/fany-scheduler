@@ -1,5 +1,19 @@
 [
   {
+    "title": "「金属バットのトークライブ」8",
+    "date": "2026-09-05",
+    "date_text": "2026/09/05(土)",
+    "venue": "YES THEATER（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/63164/50697",
+    "prices": [
+      "全席指定／前売：￥2,500"
+    ],
+    "open_start_time": "開場 18:30 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20260807194043"
+  },
+  {
     "title": "アイラブ地球のとても強いLIVE",
     "date": "2026-08-17",
     "date_text": "2026/08/17(月)",
@@ -84,20 +98,6 @@
     "open_start_time": "開場 13:30 / 開演 14:00",
     "is_new": true,
     "added_id": "20260805205109"
-  },
-  {
-    "title": "「金属バットのトークライブ」8",
-    "date": "2026-09-05",
-    "date_text": "2026/09/05(土)",
-    "venue": "YES THEATER（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/63162/50697",
-    "prices": [
-      "全席指定／前売：￥2,500"
-    ],
-    "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": false,
-    "added_id": "20260804070131"
   },
   {
     "title": "ワルガキ ～タンクと友保とちょいワルおやじ～",
