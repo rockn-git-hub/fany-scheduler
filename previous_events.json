@@ -1,17 +1,17 @@
 [
   {
     "title": "やすともの黒白歌合戦2026",
-    "date": "2026-08-12",
-    "date_text": "2026/08/12(水)",
+    "date": "2026-08-13",
+    "date_text": "2026/08/13(木)",
     "venue": "Zepp Namba（大阪府）",
     "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/50848/42987",
+    "detail_link": "https://ticket.fany.lol/reception/50848/42988",
     "prices": [
       "価格取得エラー: Message: \n"
     ],
     "open_start_time": "",
     "is_new": true,
-    "added_id": "20260812063851"
+    "added_id": "20260813063756"
   },
   {
     "title": "19時ライブ～ネタ＆吉本新喜劇～",
@@ -966,21 +966,6 @@
       "全席指定／前売小学生以下：￥1,000"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": false,
-    "added_id": "20260611020340"
-  },
-  {
-    "title": "やすともの黒白歌合戦2026",
-    "date": "2026-08-13",
-    "date_text": "2026/08/13(木)",
-    "venue": "Zepp Namba（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/50852/42988",
-    "prices": [
-      "1階スタンディング／前売：￥7,000",
-      "2階指定席／前売：￥7,000"
-    ],
-    "open_start_time": "開場 17:00 / 開演 18:00",
     "is_new": false,
     "added_id": "20260611020340"
   },
