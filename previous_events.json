@@ -1,5 +1,75 @@
 [
   {
+    "title": "マンゲキお笑いライブお盆SP",
+    "date": "2026-08-14",
+    "date_text": "2026/08/14(金)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/59040/47275",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260814194727"
+  },
+  {
+    "title": "よしもとお笑いレストラン",
+    "date": "2026-08-14",
+    "date_text": "2026/08/14(金)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/59213/47949",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260814194727"
+  },
+  {
+    "title": "マンゲキお笑いライブお盆SP",
+    "date": "2026-08-14",
+    "date_text": "2026/08/14(金)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/59040/47276",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260814194727"
+  },
+  {
+    "title": "マンゲキお笑いライブお盆SP",
+    "date": "2026-08-14",
+    "date_text": "2026/08/14(金)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/59040/47277",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260814194727"
+  },
+  {
+    "title": "大阪アングラ計画",
+    "date": "2026-08-14",
+    "date_text": "2026/08/14(金)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/58813/47345",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260814194727"
+  },
+  {
     "title": "吉本新喜劇inセカンドシアター",
     "date": "2026-08-14",
     "date_text": "2026/08/14(金)",
@@ -237,51 +307,6 @@
       "整理番号付自由席／前売：￥3,500"
     ],
     "open_start_time": "開場 11:30 / 開演 12:00",
-    "is_new": false,
-    "added_id": "20260801200917"
-  },
-  {
-    "title": "マンゲキお笑いライブお盆SP",
-    "date": "2026-08-14",
-    "date_text": "2026/08/14(金)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/59042/47275",
-    "prices": [
-      "指定席／当日：￥4,000",
-      "立見（整理番号）／当日：￥4,000"
-    ],
-    "open_start_time": "開場 09:40 / 開演 10:00",
-    "is_new": false,
-    "added_id": "20260801200917"
-  },
-  {
-    "title": "マンゲキお笑いライブお盆SP",
-    "date": "2026-08-14",
-    "date_text": "2026/08/14(金)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/59042/47276",
-    "prices": [
-      "指定席／当日：￥4,000",
-      "立見（整理番号）／当日：￥4,000"
-    ],
-    "open_start_time": "開場 12:20 / 開演 12:40",
-    "is_new": false,
-    "added_id": "20260801200917"
-  },
-  {
-    "title": "マンゲキお笑いライブお盆SP",
-    "date": "2026-08-14",
-    "date_text": "2026/08/14(金)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/59042/47277",
-    "prices": [
-      "指定席／当日：￥4,000",
-      "立見（整理番号）／当日：￥4,000"
-    ],
-    "open_start_time": "開場 15:00 / 開演 15:20",
     "is_new": false,
     "added_id": "20260801200917"
   },
@@ -845,27 +870,6 @@
     "added_id": "20260702210035"
   },
   {
-    "title": "よしもとお笑いレストラン",
-    "date": "2026-08-14",
-    "date_text": "2026/08/14(金)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/59215/47949",
-    "prices": [
-      "整理番号付自由席／当日　バーガー付：￥4,600",
-      "整理番号付自由席／当日　ロコモコ付：￥4,400",
-      "整理番号付自由席／当日　唐揚げBOWL付：￥4,400",
-      "整理番号付自由席／当日　唐揚げ串付：￥3,900",
-      "整理番号付自由席／当日　ポテト(L)付：￥3,900",
-      "整理番号付自由席／当日　ワンドリンク付：￥3,800",
-      "整理番号付自由席／当日　チュロス付：￥3,700",
-      "整理番号付自由席／当日：￥3,500"
-    ],
-    "open_start_time": "開場 11:30 / 開演 12:00",
-    "is_new": false,
-    "added_id": "20260702210035"
-  },
-  {
     "title": "新ネタライブ!!ハイキック寄席!!",
     "date": "2026-08-31",
     "date_text": "2026/08/31(月)",
@@ -877,21 +881,6 @@
       "立見（整理番号）／前売：￥2,000"
     ],
     "open_start_time": "開場 19:00 / 開演 19:15",
-    "is_new": false,
-    "added_id": "20260628202918"
-  },
-  {
-    "title": "大阪アングラ計画",
-    "date": "2026-08-14",
-    "date_text": "2026/08/14(金)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/58913/47345",
-    "prices": [
-      "指定席／当日：￥2,000",
-      "立見（整理番号）／当日：￥2,000"
-    ],
-    "open_start_time": "開場 19:15 / 開演 19:30",
     "is_new": false,
     "added_id": "20260628202918"
   },
