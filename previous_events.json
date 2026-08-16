@@ -1,101 +1,31 @@
 [
   {
-    "title": "マンゲキお笑いライブお盆SP",
-    "date": "2026-08-14",
-    "date_text": "2026/08/14(金)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/59040/47275",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20260814194727"
-  },
-  {
-    "title": "よしもとお笑いレストラン",
-    "date": "2026-08-14",
-    "date_text": "2026/08/14(金)",
+    "title": "漫才×漫才×コント×コント×大王",
+    "date": "2026-08-16",
+    "date_text": "2026/08/16(日)",
     "venue": "よしもと道頓堀シアター（大阪府）",
     "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/59213/47949",
+    "detail_link": "https://ticket.fany.lol/reception/60100/48637",
     "prices": [
       "価格取得エラー: Message: \n"
     ],
     "open_start_time": "",
     "is_new": true,
-    "added_id": "20260814194727"
+    "added_id": "20260816190906"
   },
   {
-    "title": "マンゲキお笑いライブお盆SP",
-    "date": "2026-08-14",
-    "date_text": "2026/08/14(金)",
-    "venue": "よしもと漫才劇場（大阪府）",
+    "title": "金属・黒帯のダルガラミ",
+    "date": "2026-08-16",
+    "date_text": "2026/08/16(日)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
     "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/59040/47276",
+    "detail_link": "https://ticket.fany.lol/reception/60101/48639",
     "prices": [
       "価格取得エラー: Message: \n"
     ],
     "open_start_time": "",
     "is_new": true,
-    "added_id": "20260814194727"
-  },
-  {
-    "title": "マンゲキお笑いライブお盆SP",
-    "date": "2026-08-14",
-    "date_text": "2026/08/14(金)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/59040/47277",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20260814194727"
-  },
-  {
-    "title": "大阪アングラ計画",
-    "date": "2026-08-14",
-    "date_text": "2026/08/14(金)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/58813/47345",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20260814194727"
-  },
-  {
-    "title": "吉本新喜劇inセカンドシアター",
-    "date": "2026-08-14",
-    "date_text": "2026/08/14(金)",
-    "venue": "YES THEATER（新喜劇セカンドシアター）（大阪府）",
-    "sale_status": "抽選受付終了 FANYコミュ限定先行",
-    "detail_link": "https://ticket.fany.lol/reception/58229/47736",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20260814063753"
-  },
-  {
-    "title": "吉本新喜劇inセカンドシアター",
-    "date": "2026-08-14",
-    "date_text": "2026/08/14(金)",
-    "venue": "YES THEATER（新喜劇セカンドシアター）（大阪府）",
-    "sale_status": "抽選受付終了 FANYコミュ限定先行",
-    "detail_link": "https://ticket.fany.lol/reception/58229/47737",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20260814063753"
+    "added_id": "20260816190906"
   },
   {
     "title": "19時ライブ～ネタ＆吉本新喜劇～",
@@ -791,34 +721,6 @@
     "open_start_time": "開場 16:15 / 開演 17:00",
     "is_new": false,
     "added_id": "20260725200041"
-  },
-  {
-    "title": "漫才×漫才×コント×コント×大王",
-    "date": "2026-08-16",
-    "date_text": "2026/08/16(日)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/60110/48637",
-    "prices": [
-      "指定席／前売：￥1,800"
-    ],
-    "open_start_time": "開場 19:15 / 開演 19:30",
-    "is_new": false,
-    "added_id": "20260712200751"
-  },
-  {
-    "title": "金属・黒帯のダルガラミ",
-    "date": "2026-08-16",
-    "date_text": "2026/08/16(日)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/60111/48639",
-    "prices": [
-      "指定席／前売：￥2,200"
-    ],
-    "open_start_time": "開場 20:45 / 開演 21:00",
-    "is_new": false,
-    "added_id": "20260712200751"
   },
   {
     "title": "よしもとお笑いレストラン 新喜劇プラス",
