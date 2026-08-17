@@ -1,31 +1,17 @@
 [
   {
-    "title": "漫才×漫才×コント×コント×大王",
-    "date": "2026-08-16",
-    "date_text": "2026/08/16(日)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
+    "title": "アイラブ地球のとても強いLIVE",
+    "date": "2026-08-17",
+    "date_text": "2026/08/17(月)",
+    "venue": "よしもと漫才劇場（大阪府）",
     "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/60100/48637",
+    "detail_link": "https://ticket.fany.lol/reception/58998/47348",
     "prices": [
       "価格取得エラー: Message: \n"
     ],
     "open_start_time": "",
     "is_new": true,
-    "added_id": "20260816190906"
-  },
-  {
-    "title": "金属・黒帯のダルガラミ",
-    "date": "2026-08-16",
-    "date_text": "2026/08/16(日)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/60101/48639",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20260816190906"
+    "added_id": "20260817191849"
   },
   {
     "title": "19時ライブ～ネタ＆吉本新喜劇～",
@@ -55,21 +41,6 @@
     "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": false,
     "added_id": "20260807194043"
-  },
-  {
-    "title": "アイラブ地球のとても強いLIVE",
-    "date": "2026-08-17",
-    "date_text": "2026/08/17(月)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/59014/47348",
-    "prices": [
-      "指定席／前売：￥2,000",
-      "立見（整理番号）／前売：￥2,000"
-    ],
-    "open_start_time": "開場 18:45 / 開演 19:00",
-    "is_new": false,
-    "added_id": "20260806205506"
   },
   {
     "title": "【11/8(日)1日券】たくろう万博",
