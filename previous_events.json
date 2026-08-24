@@ -1,17 +1,33 @@
 [
   {
-    "title": "よしもとお笑いレストラン 新喜劇プラス",
-    "date": "2026-08-23",
-    "date_text": "2026/08/23(日)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/59246/47965",
+    "title": "19時ライブ～ネタ＆吉本新喜劇～",
+    "date": "2026-10-15",
+    "date_text": "2026/10/15(木)",
+    "venue": "なんばグランド花月（大阪府）",
+    "sale_status": "先着発売中",
+    "detail_link": "https://ticket.fany.lol/reception/64441/51952",
     "prices": [
-      "価格取得エラー: Message: \n"
+      "全席指定／前売大人：￥3,500",
+      "全席指定／前売小学生以下：￥1,000"
     ],
-    "open_start_time": "",
+    "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": true,
-    "added_id": "20260823191042"
+    "added_id": "20260824192559"
+  },
+  {
+    "title": "リクエストネタLIVE",
+    "date": "2026-10-06",
+    "date_text": "2026/10/06(火)",
+    "venue": "なんばグランド花月（大阪府）",
+    "sale_status": "先着発売中",
+    "detail_link": "https://ticket.fany.lol/reception/64454/51958",
+    "prices": [
+      "全席指定／前売大人：￥3,500",
+      "全席指定／前売小学生以下：￥1,000"
+    ],
+    "open_start_time": "開場 18:30 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20260824192559"
   },
   {
     "title": "19時ライブ～ネタ＆吉本新喜劇～",
