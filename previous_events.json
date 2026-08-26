@@ -1,5 +1,19 @@
 [
   {
+    "title": "シゲカズですpresents さらにさらにトンボリ・・・",
+    "date": "2026-08-26",
+    "date_text": "2026/08/26(水)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/58560/47817",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260826192257"
+  },
+  {
     "title": "漫才",
     "date": "2026-10-26",
     "date_text": "2026/10/26(月)",
@@ -900,20 +914,6 @@
     "detail_link": "https://ticket.fany.lol/reception/58635/47803",
     "prices": [
       "整理番号付自由席／前売：￥2,000"
-    ],
-    "open_start_time": "開場 20:45 / 開演 21:00",
-    "is_new": false,
-    "added_id": "20260702210035"
-  },
-  {
-    "title": "シゲカズですpresents さらにさらにトンボリ・・・",
-    "date": "2026-08-26",
-    "date_text": "2026/08/26(水)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/58630/47817",
-    "prices": [
-      "整理番号付自由席／当日：￥2,300"
     ],
     "open_start_time": "開場 20:45 / 開演 21:00",
     "is_new": false,
