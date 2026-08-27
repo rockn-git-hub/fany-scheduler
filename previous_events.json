@@ -1,5 +1,35 @@
 [
   {
+    "title": "吉本新喜劇inセカンドシアター",
+    "date": "2026-09-19",
+    "date_text": "2026/09/19(土)",
+    "venue": "YES THEATER（新喜劇セカンドシアター）（大阪府）",
+    "sale_status": "先着発売中",
+    "detail_link": "https://ticket.fany.lol/reception/58232/47742",
+    "prices": [
+      "全席指定／大人：￥3,000",
+      "全席指定／小人：￥1,500"
+    ],
+    "open_start_time": "開場 12:00 / 開演 12:30",
+    "is_new": true,
+    "added_id": "20260828050420"
+  },
+  {
+    "title": "吉本新喜劇inセカンドシアター",
+    "date": "2026-09-19",
+    "date_text": "2026/09/19(土)",
+    "venue": "YES THEATER（新喜劇セカンドシアター）（大阪府）",
+    "sale_status": "先着発売中",
+    "detail_link": "https://ticket.fany.lol/reception/58232/47743",
+    "prices": [
+      "全席指定／大人：￥3,000",
+      "全席指定／小人：￥1,500"
+    ],
+    "open_start_time": "開場 15:00 / 開演 15:30",
+    "is_new": true,
+    "added_id": "20260828050420"
+  },
+  {
     "title": "漫才",
     "date": "2026-10-26",
     "date_text": "2026/10/26(月)",
@@ -193,7 +223,7 @@
       "全席指定／前売小学生以下：￥1,000"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260824192559"
   },
   {
@@ -208,7 +238,7 @@
       "全席指定／前売小学生以下：￥1,000"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260824192559"
   },
   {
