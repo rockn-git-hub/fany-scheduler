@@ -1,5 +1,19 @@
 [
   {
+    "title": "「金属バットのトークライブ」9",
+    "date": "2026-10-12",
+    "date_text": "2026/10/12(月・祝)",
+    "venue": "YES THEATER（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/66951/53411",
+    "prices": [
+      "全席指定／前売：￥2,500"
+    ],
+    "open_start_time": "開場 18:30 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20260908002145"
+  },
+  {
     "title": "大喜利大集合 ～ハゲ・ヒゲ・ロン毛大集合～",
     "date": "2026-10-15",
     "date_text": "2026/10/15(木)",
@@ -815,35 +829,6 @@
       "指定席／前売：￥2,500"
     ],
     "open_start_time": "開場 15:45 / 開演 16:00",
-    "is_new": false,
-    "added_id": "20260728204929"
-  },
-  {
-    "title": "黒帯軍団 vs ドーナツ・ピーナツ軍団",
-    "date": "2026-09-07",
-    "date_text": "2026/09/07(月)",
-    "venue": "森ノ宮よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/62034/50172",
-    "prices": [
-      "指定席／当日：￥2,300"
-    ],
-    "open_start_time": "開場 18:30 / 開演 18:45",
-    "is_new": false,
-    "added_id": "20260728204929"
-  },
-  {
-    "title": "ネタライブ！YES FUTURE！",
-    "date": "2026-09-07",
-    "date_text": "2026/09/07(月)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/62296/50048",
-    "prices": [
-      "指定席／当日：￥2,300",
-      "立見（整理番号）／当日：￥2,300"
-    ],
-    "open_start_time": "開場 20:30 / 開演 20:45",
     "is_new": false,
     "added_id": "20260728204929"
   },
