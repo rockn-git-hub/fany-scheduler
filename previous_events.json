@@ -1,5 +1,19 @@
 [
   {
+    "title": "「金属バットのトークライブ」9",
+    "date": "2026-10-12",
+    "date_text": "2026/10/12(月・祝)",
+    "venue": "YES THEATER（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/66953/53411",
+    "prices": [
+      "全席指定／前売：￥2,500"
+    ],
+    "open_start_time": "開場 18:30 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20260911225503"
+  },
+  {
     "title": "よしもとお笑いレストラン 新喜劇プラス",
     "date": "2026-10-18",
     "date_text": "2026/10/18(日)",
@@ -54,20 +68,6 @@
     "open_start_time": "開場 19:00 / 開演 19:30",
     "is_new": true,
     "added_id": "20260908225720"
-  },
-  {
-    "title": "「金属バットのトークライブ」9",
-    "date": "2026-10-12",
-    "date_text": "2026/10/12(月・祝)",
-    "venue": "YES THEATER（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/66951/53411",
-    "prices": [
-      "全席指定／前売：￥2,500"
-    ],
-    "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": false,
-    "added_id": "20260908002145"
   },
   {
     "title": "大喜利大集合 ～ハゲ・ヒゲ・ロン毛大集合～",
