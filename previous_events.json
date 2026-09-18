@@ -1,5 +1,20 @@
 [
   {
+    "title": "よしもとお笑い寄席 in TTホール",
+    "date": "2026-10-17",
+    "date_text": "2026/10/17(土)",
+    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
+    "sale_status": "先着発売中",
+    "detail_link": "https://ticket.fany.lol/reception/67519/53752",
+    "prices": [
+      "整理番号付自由席／前売：￥2,500",
+      "整理番号付自由席／前売　学生：￥1,500"
+    ],
+    "open_start_time": "開場 17:30 / 開演 18:00",
+    "is_new": true,
+    "added_id": "20260918225639"
+  },
+  {
     "title": "ザ・ぼんち×金属バットツーマンライブ「ばっとぼんちー2026」",
     "date": "2026-09-18",
     "date_text": "2026/09/18(金)",
@@ -18,7 +33,7 @@
     "date": "2026-11-20",
     "date_text": "2026/11/20(金)",
     "venue": "なんばグランド花月（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/66967/53005",
     "prices": [
       "指定席／前売：￥4,500"
