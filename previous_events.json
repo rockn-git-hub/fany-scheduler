@@ -1,115 +1,31 @@
 [
   {
-    "title": "マンゲキお笑いライブSP",
-    "date": "2026-09-19",
-    "date_text": "2026/09/19(土)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/61591/49950",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20260919223420"
-  },
-  {
-    "title": "森ノ宮マンゲキお笑いライブSP",
-    "date": "2026-09-19",
-    "date_text": "2026/09/19(土)",
-    "venue": "森ノ宮よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/61446/50106",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20260919223420"
-  },
-  {
-    "title": "よしもとお笑いレストラン",
-    "date": "2026-09-19",
-    "date_text": "2026/09/19(土)",
+    "title": "トークライブ林",
+    "date": "2026-10-25",
+    "date_text": "2026/10/25(日)",
     "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/62612/50446",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/67721/53864",
     "prices": [
-      "価格取得エラー: Message: \n"
+      "整理番号付自由席／前売：￥2,000"
     ],
-    "open_start_time": "",
+    "open_start_time": "開場 19:15 / 開演 19:30",
     "is_new": true,
-    "added_id": "20260919223420"
-  },
-  {
-    "title": "マンゲキお笑いライブSP",
-    "date": "2026-09-19",
-    "date_text": "2026/09/19(土)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/61591/49951",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20260919223420"
-  },
-  {
-    "title": "森ノ宮マンゲキお笑いライブSP",
-    "date": "2026-09-19",
-    "date_text": "2026/09/19(土)",
-    "venue": "森ノ宮よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/61446/50107",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20260919223420"
-  },
-  {
-    "title": "マンゲキお笑いライブSP",
-    "date": "2026-09-19",
-    "date_text": "2026/09/19(土)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/61591/49952",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20260919223420"
-  },
-  {
-    "title": "森ノ宮マンゲキお笑いライブSP",
-    "date": "2026-09-19",
-    "date_text": "2026/09/19(土)",
-    "venue": "森ノ宮よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/61446/50108",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20260919223420"
+    "added_id": "20260920073616"
   },
   {
     "title": "金属・黒帯のダルガラミ",
-    "date": "2026-09-19",
-    "date_text": "2026/09/19(土)",
+    "date": "2026-10-17",
+    "date_text": "2026/10/17(土)",
     "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/62740/50539",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/67735/53868",
     "prices": [
-      "価格取得エラー: Message: \n"
+      "指定席／前売：￥2,200"
     ],
-    "open_start_time": "",
+    "open_start_time": "開場 20:45 / 開演 21:00",
     "is_new": true,
-    "added_id": "20260919223420"
+    "added_id": "20260920073616"
   },
   {
     "title": "金属バット×ツートライブ　初ツーマンライブ「完売」",
@@ -122,34 +38,6 @@
       "全席指定／前売：￥3,000"
     ],
     "open_start_time": "開場 17:30 / 開演 18:00",
-    "is_new": true,
-    "added_id": "20260919075738"
-  },
-  {
-    "title": "吉本新喜劇inセカンドシアター",
-    "date": "2026-09-19",
-    "date_text": "2026/09/19(土)",
-    "venue": "YES THEATER（新喜劇セカンドシアター）（大阪府）",
-    "sale_status": "抽選受付終了 FANYコミュ限定先行",
-    "detail_link": "https://ticket.fany.lol/reception/58229/47742",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20260919075738"
-  },
-  {
-    "title": "吉本新喜劇inセカンドシアター",
-    "date": "2026-09-19",
-    "date_text": "2026/09/19(土)",
-    "venue": "YES THEATER（新喜劇セカンドシアター）（大阪府）",
-    "sale_status": "抽選受付終了 FANYコミュ限定先行",
-    "detail_link": "https://ticket.fany.lol/reception/58229/47743",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
     "is_new": true,
     "added_id": "20260919075738"
   },
@@ -179,7 +67,7 @@
       "指定席／前売：￥4,500"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260916232553"
   },
   {
@@ -781,7 +669,7 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/62630/50469",
     "prices": [
-      "整理番号付自由席／前売：￥2,500"
+      "整理番号付自由席／当日：￥3,000"
     ],
     "open_start_time": "開場 10:30 / 開演 10:45",
     "is_new": false,
@@ -795,7 +683,7 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/62630/50470",
     "prices": [
-      "整理番号付自由席／前売：￥2,500"
+      "整理番号付自由席／当日：￥3,000"
     ],
     "open_start_time": "開場 12:15 / 開演 12:30",
     "is_new": false,
@@ -809,7 +697,7 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/62630/50471",
     "prices": [
-      "整理番号付自由席／前売：￥2,500"
+      "整理番号付自由席／当日：￥3,000"
     ],
     "open_start_time": "開場 14:00 / 開演 14:15",
     "is_new": false,
@@ -823,7 +711,7 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/62630/50472",
     "prices": [
-      "整理番号付自由席／前売：￥2,500"
+      "整理番号付自由席／当日：￥3,000"
     ],
     "open_start_time": "開場 15:45 / 開演 16:00",
     "is_new": false,
@@ -837,7 +725,7 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/62630/50473",
     "prices": [
-      "整理番号付自由席／前売：￥2,500"
+      "整理番号付自由席／当日：￥3,000"
     ],
     "open_start_time": "開場 17:30 / 開演 17:45",
     "is_new": false,
@@ -851,7 +739,7 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/62630/50474",
     "prices": [
-      "整理番号付自由席／前売：￥2,500"
+      "整理番号付自由席／当日：￥3,000"
     ],
     "open_start_time": "開場 19:15 / 開演 19:30",
     "is_new": false,
