@@ -1,10 +1,24 @@
 [
   {
+    "title": "「金属バットの社会の窓」",
+    "date": "2026-10-31",
+    "date_text": "2026/10/31(土)",
+    "venue": "朝日生命ホール（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/67530/53783",
+    "prices": [
+      "全席指定／前売：￥3,500"
+    ],
+    "open_start_time": "開場 15:30 / 開演 16:00",
+    "is_new": true,
+    "added_id": "20260922010401"
+  },
+  {
     "title": "トークライブ林",
     "date": "2026-10-25",
     "date_text": "2026/10/25(日)",
     "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "抽選受付中",
     "detail_link": "https://ticket.fany.lol/reception/67721/53864",
     "prices": [
       "整理番号付自由席／前売：￥2,000"
@@ -18,7 +32,7 @@
     "date": "2026-10-17",
     "date_text": "2026/10/17(土)",
     "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "抽選受付中",
     "detail_link": "https://ticket.fany.lol/reception/67735/53868",
     "prices": [
       "指定席／前売：￥2,200"
@@ -32,7 +46,7 @@
     "date": "2026-10-16",
     "date_text": "2026/10/16(金)",
     "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/67517/53750",
     "prices": [
       "全席指定／前売：￥3,000"
@@ -53,7 +67,7 @@
       "整理番号付自由席／前売　学生：￥1,500"
     ],
     "open_start_time": "開場 17:30 / 開演 18:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260918225639"
   },
   {
@@ -69,20 +83,6 @@
     "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": false,
     "added_id": "20260916232553"
-  },
-  {
-    "title": "「金属バットの社会の窓」",
-    "date": "2026-10-31",
-    "date_text": "2026/10/31(土)",
-    "venue": "朝日生命ホール（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/67528/53783",
-    "prices": [
-      "全席指定／前売：￥3,500"
-    ],
-    "open_start_time": "開場 15:30 / 開演 16:00",
-    "is_new": false,
-    "added_id": "20260916082130"
   },
   {
     "title": "「金属バットのトークライブ」9",
@@ -630,25 +630,6 @@
     "venue": "インテックス大阪　4号館、5号館（大阪府）",
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/54840/45209",
-    "prices": [
-      "1日券／前売フォートナイト大人：￥15,500",
-      "1日券／前売フォートナイト中学生：￥5,500",
-      "1日券／前売フォートナイトこども：￥3,500",
-      "1日券／前売　大人：￥15,500",
-      "1日券／前売　中学生：￥5,500",
-      "1日券／前売　こども：￥3,500"
-    ],
-    "open_start_time": "開場 09:30 / 開演 10:30",
-    "is_new": false,
-    "added_id": "20260729205310"
-  },
-  {
-    "title": "【3日通し券・前半2日通し券・9/21(月)1日券】KOYABU SONIC 2026",
-    "date": "2026-09-21",
-    "date_text": "2026/09/21(月・祝)",
-    "venue": "インテックス大阪　4号館、5号館（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/54840/45208",
     "prices": [
       "1日券／当日フォートナイト大人：￥16,500",
       "1日券／当日フォートナイト中学生：￥5,500",
