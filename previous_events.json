@@ -1,5 +1,131 @@
 [
   {
+    "title": "大阪アングラ計画",
+    "date": "2026-11-25",
+    "date_text": "2026/11/25(水)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/69354/54496",
+    "prices": [
+      "指定席／前売：￥2,000"
+    ],
+    "open_start_time": "開場 20:45 / 開演 21:00",
+    "is_new": true,
+    "added_id": "20260925084224"
+  },
+  {
+    "title": "森ノ宮マンゲキお笑いライブSP",
+    "date": "2026-11-22",
+    "date_text": "2026/11/22(日)",
+    "venue": "森ノ宮よしもと漫才劇場（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/68683/54600",
+    "prices": [
+      "指定席／前売：￥2,500"
+    ],
+    "open_start_time": "開場 10:45 / 開演 11:00",
+    "is_new": true,
+    "added_id": "20260925084224"
+  },
+  {
+    "title": "森ノ宮マンゲキお笑いライブSP",
+    "date": "2026-11-22",
+    "date_text": "2026/11/22(日)",
+    "venue": "森ノ宮よしもと漫才劇場（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/68683/54601",
+    "prices": [
+      "指定席／前売：￥2,500"
+    ],
+    "open_start_time": "開場 13:15 / 開演 13:30",
+    "is_new": true,
+    "added_id": "20260925084224"
+  },
+  {
+    "title": "森ノ宮マンゲキお笑いライブSP",
+    "date": "2026-11-22",
+    "date_text": "2026/11/22(日)",
+    "venue": "森ノ宮よしもと漫才劇場（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/68683/54602",
+    "prices": [
+      "指定席／前売：￥2,500"
+    ],
+    "open_start_time": "開場 15:45 / 開演 16:00",
+    "is_new": true,
+    "added_id": "20260925084224"
+  },
+  {
+    "title": "新ネタライブ!!ハイキック寄席!!",
+    "date": "2026-11-16",
+    "date_text": "2026/11/16(月)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/69338/54475",
+    "prices": [
+      "指定席／前売：￥2,000"
+    ],
+    "open_start_time": "開場 18:45 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20260925084224"
+  },
+  {
+    "title": "マンゲキお笑いライブSP",
+    "date": "2026-11-15",
+    "date_text": "2026/11/15(日)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/69296/54349",
+    "prices": [
+      "指定席／前売：￥3,200"
+    ],
+    "open_start_time": "開場 09:40 / 開演 10:00",
+    "is_new": true,
+    "added_id": "20260925084224"
+  },
+  {
+    "title": "マンゲキお笑いライブSP",
+    "date": "2026-11-15",
+    "date_text": "2026/11/15(日)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/69296/54350",
+    "prices": [
+      "指定席／前売：￥3,200"
+    ],
+    "open_start_time": "開場 12:20 / 開演 12:40",
+    "is_new": true,
+    "added_id": "20260925084224"
+  },
+  {
+    "title": "マンゲキお笑いライブSP",
+    "date": "2026-11-15",
+    "date_text": "2026/11/15(日)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/69296/54351",
+    "prices": [
+      "指定席／前売：￥3,200"
+    ],
+    "open_start_time": "開場 15:00 / 開演 15:20",
+    "is_new": true,
+    "added_id": "20260925084224"
+  },
+  {
+    "title": "僕を舐めるなよ",
+    "date": "2026-11-09",
+    "date_text": "2026/11/09(月)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/69325/54500",
+    "prices": [
+      "指定席／前売：￥2,000"
+    ],
+    "open_start_time": "開場 19:15 / 開演 19:30",
+    "is_new": true,
+    "added_id": "20260925084224"
+  },
+  {
     "title": "トークライブ林",
     "date": "2026-10-25",
     "date_text": "2026/10/25(日)",
@@ -83,7 +209,7 @@
       "全席指定／前売：￥3,500"
     ],
     "open_start_time": "開場 15:30 / 開演 16:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260922010401"
   },
   {
