@@ -5,6 +5,48 @@
     "date_text": "2026/09/27(日)",
     "venue": "よしもと漫才劇場（大阪府）",
     "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/61591/49969",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260927235309"
+  },
+  {
+    "title": "マンゲキお笑いライブSP",
+    "date": "2026-09-27",
+    "date_text": "2026/09/27(日)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/61591/49970",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260927235309"
+  },
+  {
+    "title": "東大生からの挑戦状～コウノのゲームコーナーFES特別編～",
+    "date": "2026-09-27",
+    "date_text": "2026/09/27(日)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/66094/52688",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20260927235309"
+  },
+  {
+    "title": "マンゲキお笑いライブSP",
+    "date": "2026-09-27",
+    "date_text": "2026/09/27(日)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
     "detail_link": "https://ticket.fany.lol/reception/61591/49968",
     "prices": [
       "価格取得エラー: Message: \n"
@@ -144,13 +186,13 @@
     "date": "2026-10-25",
     "date_text": "2026/10/25(日)",
     "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/67729/53864",
     "prices": [
       "整理番号付自由席／前売：￥2,000"
     ],
     "open_start_time": "開場 19:15 / 開演 19:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260924233000"
   },
   {
@@ -158,44 +200,14 @@
     "date": "2026-10-17",
     "date_text": "2026/10/17(土)",
     "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/67737/53868",
     "prices": [
       "指定席／前売：￥2,200"
     ],
     "open_start_time": "開場 20:45 / 開演 21:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20260924233000"
-  },
-  {
-    "title": "マンゲキお笑いライブSP",
-    "date": "2026-09-27",
-    "date_text": "2026/09/27(日)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/61593/49969",
-    "prices": [
-      "指定席／当日：￥3,500",
-      "立見（整理番号）／当日：￥3,500"
-    ],
-    "open_start_time": "開場 12:20 / 開演 12:40",
-    "is_new": false,
-    "added_id": "20260923232954"
-  },
-  {
-    "title": "マンゲキお笑いライブSP",
-    "date": "2026-09-27",
-    "date_text": "2026/09/27(日)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/61593/49970",
-    "prices": [
-      "指定席／当日：￥3,500",
-      "立見（整理番号）／当日：￥3,500"
-    ],
-    "open_start_time": "開場 15:00 / 開演 15:20",
-    "is_new": false,
-    "added_id": "20260923232954"
   },
   {
     "title": "「金属バットの社会の窓」",
@@ -363,20 +375,6 @@
       "指定席／前売：￥1,800"
     ],
     "open_start_time": "開場 20:45 / 開演 21:00",
-    "is_new": false,
-    "added_id": "20260901232223"
-  },
-  {
-    "title": "東大生からの挑戦状～コウノのゲームコーナーFES特別編～",
-    "date": "2026-09-27",
-    "date_text": "2026/09/27(日)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/66096/52688",
-    "prices": [
-      "整理番号付自由席／当日：￥2,500"
-    ],
-    "open_start_time": "開場 19:10 / 開演 19:30",
     "is_new": false,
     "added_id": "20260901232223"
   },
