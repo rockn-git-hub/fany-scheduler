@@ -1,61 +1,5 @@
 [
   {
-    "title": "マンゲキお笑いライブSP",
-    "date": "2026-09-27",
-    "date_text": "2026/09/27(日)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/61591/49969",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20260927235309"
-  },
-  {
-    "title": "マンゲキお笑いライブSP",
-    "date": "2026-09-27",
-    "date_text": "2026/09/27(日)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/61591/49970",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20260927235309"
-  },
-  {
-    "title": "東大生からの挑戦状～コウノのゲームコーナーFES特別編～",
-    "date": "2026-09-27",
-    "date_text": "2026/09/27(日)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/66094/52688",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20260927235309"
-  },
-  {
-    "title": "マンゲキお笑いライブSP",
-    "date": "2026-09-27",
-    "date_text": "2026/09/27(日)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/61591/49968",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20260927081642"
-  },
-  {
     "title": "大阪アングラ計画",
     "date": "2026-11-25",
     "date_text": "2026/11/25(水)",
@@ -691,7 +635,7 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/62548/50418",
     "prices": [
-      "整理番号付自由席／前売：￥2,500"
+      "整理番号付自由席／当日：￥3,000"
     ],
     "open_start_time": "開場 20:45 / 開演 21:00",
     "is_new": false,
