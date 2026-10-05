@@ -1,5 +1,20 @@
 [
   {
+    "title": "サンパチライブ",
+    "date": "2026-12-10",
+    "date_text": "2026/12/10(木)",
+    "venue": "なんばグランド花月（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/69695/54948",
+    "prices": [
+      "全席指定／前売大人：￥3,800",
+      "全席指定／前売小学生以下：￥1,000"
+    ],
+    "open_start_time": "開場 18:30 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20261006035431"
+  },
+  {
     "title": "19時ライブ～ネタ＆吉本新喜劇～",
     "date": "2026-12-22",
     "date_text": "2026/12/22(火)",
@@ -11,7 +26,7 @@
       "全席指定／前売小学生以下：￥1,000"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20261003010112"
   },
   {
@@ -25,7 +40,7 @@
       "整理番号付自由席／前売：￥2,000"
     ],
     "open_start_time": "開場 20:45 / 開演 21:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20261003010112"
   },
   {
@@ -46,7 +61,7 @@
       "整理番号付自由席／前売：￥3,500"
     ],
     "open_start_time": "開場 11:30 / 開演 12:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20261003010112"
   },
   {
@@ -60,7 +75,7 @@
       "指定席／前売：￥2,200"
     ],
     "open_start_time": "開場 17:15 / 開演 17:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20261003010112"
   },
   {
@@ -74,7 +89,7 @@
       "指定席／前売：￥1,800"
     ],
     "open_start_time": "開場 18:45 / 開演 19:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20261003010112"
   },
   {
@@ -95,7 +110,7 @@
       "整理番号付自由席／前売：￥3,500"
     ],
     "open_start_time": "開場 11:30 / 開演 12:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20261003010112"
   },
   {
@@ -109,30 +124,15 @@
       "整理番号付自由席／前売：￥2,000"
     ],
     "open_start_time": "開場 20:40 / 開演 21:00",
-    "is_new": true,
-    "added_id": "20261003010112"
-  },
-  {
-    "title": "サンパチライブ",
-    "date": "2026-12-10",
-    "date_text": "2026/12/10(木)",
-    "venue": "なんばグランド花月（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/69693/54948",
-    "prices": [
-      "全席指定／前売大人：￥3,800",
-      "全席指定／前売小学生以下：￥1,000"
-    ],
-    "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": false,
-    "added_id": "20261002014435"
+    "added_id": "20261003010112"
   },
   {
     "title": "大阪アングラ計画",
     "date": "2026-11-25",
     "date_text": "2026/11/25(水)",
     "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/69464/54496",
     "prices": [
       "指定席／前売：￥2,000",
@@ -147,7 +147,7 @@
     "date": "2026-11-22",
     "date_text": "2026/11/22(日)",
     "venue": "森ノ宮よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/68685/54600",
     "prices": [
       "指定席／前売：￥2,500"
@@ -161,7 +161,7 @@
     "date": "2026-11-22",
     "date_text": "2026/11/22(日)",
     "venue": "森ノ宮よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/68685/54601",
     "prices": [
       "指定席／前売：￥2,500"
@@ -175,7 +175,7 @@
     "date": "2026-11-22",
     "date_text": "2026/11/22(日)",
     "venue": "森ノ宮よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/68685/54602",
     "prices": [
       "指定席／前売：￥2,500"
@@ -189,7 +189,7 @@
     "date": "2026-11-16",
     "date_text": "2026/11/16(月)",
     "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/69448/54475",
     "prices": [
       "指定席／前売：￥2,000",
@@ -204,7 +204,7 @@
     "date": "2026-11-15",
     "date_text": "2026/11/15(日)",
     "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/69298/54349",
     "prices": [
       "指定席／前売：￥3,200",
@@ -219,7 +219,7 @@
     "date": "2026-11-15",
     "date_text": "2026/11/15(日)",
     "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/69298/54350",
     "prices": [
       "指定席／前売：￥3,200",
@@ -234,7 +234,7 @@
     "date": "2026-11-15",
     "date_text": "2026/11/15(日)",
     "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/69298/54351",
     "prices": [
       "指定席／前売：￥3,200",
@@ -263,7 +263,7 @@
     "date": "2026-11-09",
     "date_text": "2026/11/09(月)",
     "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/69435/54500",
     "prices": [
       "指定席／前売：￥2,000",
@@ -682,8 +682,8 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/64454/51958",
     "prices": [
-      "全席指定／前売大人：￥3,500",
-      "全席指定／前売小学生以下：￥1,000"
+      "全席指定／当日大人：￥3,500",
+      "全席指定／当日小学生以下：￥1,000"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": false,
