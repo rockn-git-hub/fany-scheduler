@@ -1,5 +1,33 @@
 [
   {
+    "title": "NORA寄席",
+    "date": "2026-11-26",
+    "date_text": "2026/11/26(木)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/70607/55483",
+    "prices": [
+      "指定席／前売：￥2,500"
+    ],
+    "open_start_time": "開場 17:10 / 開演 17:30",
+    "is_new": true,
+    "added_id": "20261009020140"
+  },
+  {
+    "title": "NORAハイパーコーナーライブ！",
+    "date": "2026-11-26",
+    "date_text": "2026/11/26(木)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/70607/55484",
+    "prices": [
+      "指定席／前売：￥2,500"
+    ],
+    "open_start_time": "開場 19:15 / 開演 19:30",
+    "is_new": true,
+    "added_id": "20261009020140"
+  },
+  {
     "title": "サンパチライブ",
     "date": "2026-12-10",
     "date_text": "2026/12/10(木)",
