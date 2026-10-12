@@ -1,87 +1,17 @@
 [
   {
-    "title": "よしもとお笑いレストラン",
-    "date": "2026-10-12",
-    "date_text": "2026/10/12(月・祝)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/66236/52726",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20261012174631"
-  },
-  {
-    "title": "マンゲキお笑いライブSP",
-    "date": "2026-10-12",
-    "date_text": "2026/10/12(月・祝)",
+    "title": "Kiwami極LIVE",
+    "date": "2026-10-15",
+    "date_text": "2026/10/15(木)",
     "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/65634/51991",
+    "sale_status": "先着発売中",
+    "detail_link": "https://ticket.fany.lol/reception/65725/51972",
     "prices": [
-      "価格取得エラー: Message: \n"
+      "整理番号付自由席／前売：￥1,500"
     ],
-    "open_start_time": "",
+    "open_start_time": "開場 16:45 / 開演 17:00",
     "is_new": true,
-    "added_id": "20261012174631"
-  },
-  {
-    "title": "マンゲキお笑いライブSP",
-    "date": "2026-10-12",
-    "date_text": "2026/10/12(月・祝)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/65634/51992",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20261012174631"
-  },
-  {
-    "title": "ヘンダーソン単独ライブ2026「HENDERSON IS DEAD」",
-    "date": "2026-10-12",
-    "date_text": "2026/10/12(月・祝)",
-    "venue": "なんばグランド花月（大阪府）",
-    "sale_status": "抽選受付終了 FANYコミュ限定先行プレミアムメンバー",
-    "detail_link": "https://ticket.fany.lol/reception/48296/41439",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20261012174631"
-  },
-  {
-    "title": "マンゲキお笑いライブSP",
-    "date": "2026-10-12",
-    "date_text": "2026/10/12(月・祝)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/65634/51990",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20261012090915"
-  },
-  {
-    "title": "「金属バットのトークライブ」9",
-    "date": "2026-10-12",
-    "date_text": "2026/10/12(月・祝)",
-    "venue": "YES THEATER（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/66951/53411",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20261012010040"
+    "added_id": "20261013082957"
   },
   {
     "title": "NORA寄席",
@@ -670,8 +600,8 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/65871/52110",
     "prices": [
-      "指定席／前売：￥2,000",
-      "立見（整理番号）／前売：￥2,000"
+      "指定席／当日：￥2,500",
+      "立見（整理番号）／当日：￥2,500"
     ],
     "open_start_time": "開場 20:45 / 開演 21:00",
     "is_new": false,
@@ -700,8 +630,8 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/62573/50425",
     "prices": [
-      "全席指定／前売大人：￥3,500",
-      "全席指定／前売小学生以下：￥1,000"
+      "全席指定／当日大人：￥3,500",
+      "全席指定／当日小学生以下：￥1,000"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": false,
