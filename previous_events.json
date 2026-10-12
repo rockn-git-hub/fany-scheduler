@@ -1,5 +1,61 @@
 [
   {
+    "title": "よしもとお笑いレストラン",
+    "date": "2026-10-12",
+    "date_text": "2026/10/12(月・祝)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/66236/52726",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20261012174631"
+  },
+  {
+    "title": "マンゲキお笑いライブSP",
+    "date": "2026-10-12",
+    "date_text": "2026/10/12(月・祝)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/65634/51991",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20261012174631"
+  },
+  {
+    "title": "マンゲキお笑いライブSP",
+    "date": "2026-10-12",
+    "date_text": "2026/10/12(月・祝)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/65634/51992",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20261012174631"
+  },
+  {
+    "title": "ヘンダーソン単独ライブ2026「HENDERSON IS DEAD」",
+    "date": "2026-10-12",
+    "date_text": "2026/10/12(月・祝)",
+    "venue": "なんばグランド花月（大阪府）",
+    "sale_status": "抽選受付終了 FANYコミュ限定先行プレミアムメンバー",
+    "detail_link": "https://ticket.fany.lol/reception/48296/41439",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20261012174631"
+  },
+  {
     "title": "マンゲキお笑いライブSP",
     "date": "2026-10-12",
     "date_text": "2026/10/12(月・祝)",
@@ -436,41 +492,6 @@
     "added_id": "20260910225545"
   },
   {
-    "title": "よしもとお笑いレストラン",
-    "date": "2026-10-12",
-    "date_text": "2026/10/12(月・祝)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/66238/52726",
-    "prices": [
-      "整理番号付自由席／当日　バーガー付：￥4,600",
-      "整理番号付自由席／当日　ロコモコ付：￥4,400",
-      "整理番号付自由席／当日　唐揚げBOWL付：￥4,400",
-      "整理番号付自由席／当日　唐揚げ串付：￥3,900",
-      "整理番号付自由席／当日　ポテト(L)付：￥3,900",
-      "整理番号付自由席／当日　ワンドリンク付：￥3,800",
-      "整理番号付自由席／当日　チュロス付：￥3,700",
-      "整理番号付自由席／当日：￥3,500"
-    ],
-    "open_start_time": "開場 11:30 / 開演 12:00",
-    "is_new": false,
-    "added_id": "20260910225545"
-  },
-  {
-    "title": "ヘンダーソン単独ライブ2026「HENDERSON IS DEAD」",
-    "date": "2026-10-12",
-    "date_text": "2026/10/12(月・祝)",
-    "venue": "なんばグランド花月（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/48300/41439",
-    "prices": [
-      "全席指定／当日：￥4,000"
-    ],
-    "open_start_time": "開場 19:00 / 開演 19:30",
-    "is_new": false,
-    "added_id": "20260908225720"
-  },
-  {
     "title": "大喜利大集合 ～ハゲ・ヒゲ・ロン毛大集合～",
     "date": "2026-10-15",
     "date_text": "2026/10/15(木)",
@@ -653,36 +674,6 @@
       "立見（整理番号）／前売：￥2,000"
     ],
     "open_start_time": "開場 20:45 / 開演 21:00",
-    "is_new": false,
-    "added_id": "20260828140401"
-  },
-  {
-    "title": "マンゲキお笑いライブSP",
-    "date": "2026-10-12",
-    "date_text": "2026/10/12(月・祝)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/65636/51991",
-    "prices": [
-      "指定席／当日：￥3,500",
-      "立見（整理番号）／当日：￥3,500"
-    ],
-    "open_start_time": "開場 12:20 / 開演 12:40",
-    "is_new": false,
-    "added_id": "20260828140401"
-  },
-  {
-    "title": "マンゲキお笑いライブSP",
-    "date": "2026-10-12",
-    "date_text": "2026/10/12(月・祝)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/65636/51992",
-    "prices": [
-      "指定席／当日：￥3,500",
-      "立見（整理番号）／当日：￥3,500"
-    ],
-    "open_start_time": "開場 15:00 / 開演 15:20",
     "is_new": false,
     "added_id": "20260828140401"
   },
