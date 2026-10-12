@@ -1,5 +1,19 @@
 [
   {
+    "title": "マンゲキお笑いライブSP",
+    "date": "2026-10-12",
+    "date_text": "2026/10/12(月・祝)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/65634/51990",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20261012090915"
+  },
+  {
     "title": "「金属バットのトークライブ」9",
     "date": "2026-10-12",
     "date_text": "2026/10/12(月・祝)",
@@ -24,7 +38,7 @@
       "指定席／前売：￥2,500"
     ],
     "open_start_time": "開場 17:10 / 開演 17:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20261009020140"
   },
   {
@@ -38,7 +52,7 @@
       "指定席／前売：￥2,500"
     ],
     "open_start_time": "開場 19:15 / 開演 19:30",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20261009020140"
   },
   {
@@ -639,21 +653,6 @@
       "立見（整理番号）／前売：￥2,000"
     ],
     "open_start_time": "開場 20:45 / 開演 21:00",
-    "is_new": false,
-    "added_id": "20260828140401"
-  },
-  {
-    "title": "マンゲキお笑いライブSP",
-    "date": "2026-10-12",
-    "date_text": "2026/10/12(月・祝)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/65636/51990",
-    "prices": [
-      "指定席／当日：￥3,500",
-      "立見（整理番号）／当日：￥3,500"
-    ],
-    "open_start_time": "開場 09:40 / 開演 10:00",
     "is_new": false,
     "added_id": "20260828140401"
   },
