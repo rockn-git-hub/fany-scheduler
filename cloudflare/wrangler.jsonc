@@ -5,8 +5,7 @@
   "compatibility_date": "2026-10-01",
   "workers_dev": true,
   "preview_urls": false,
-  // 専用トークン登録・手動起動確認後に定期実行を有効化
   // UTC 23:27 / 11:27 = 日本時間 08:27 / 20:27
-  "triggers": { "crons": [] },
+  "triggers": { "crons": ["27 23 * * *", "27 11 * * *"] },
   "observability": { "enabled": true }
 }

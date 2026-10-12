@@ -8,7 +8,7 @@ Cloudflare WorkersからGitHub Actionsの`fany_schedule.yml`を起動する構�
 
 - 起動予定: 毎日、日本時間8:27・20:27
 - LINE送信の目標: 8:30・20:30前後
-- 有効化するUTC cron: `27 23 * * *`、`27 11 * * *`
+- UTC cron: `27 23 * * *`、`27 11 * * *`
 - GitHub側の待ち時間と処理時間による配信時刻の変動あり
 
 ## 初期設定と切り替え
@@ -25,7 +25,7 @@ Cloudflare WorkersからGitHub Actionsの`fany_schedule.yml`を起動する構�
 
 公開例: `wrangler deploy --config cloudflare/wrangler.jsonc`
 テスト: `node --test cloudflare/worker.test.mjs`
-初期公開ではcronを空にし、移行完了までGitHub側の定期実行を維持
+定期起動はCloudflareで管理し、GitHub側は`workflow_dispatch`のみ有効
 Cloudflareのcron設定変更は反映まで最大15分かかる場合あり
 
 ## ログの確認
