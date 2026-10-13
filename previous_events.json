@@ -1,5 +1,19 @@
 [
   {
+    "title": "「金属バットのトークライブ」10",
+    "date": "2026-11-15",
+    "date_text": "2026/11/15(日)",
+    "venue": "YES THEATER（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/71073/55999",
+    "prices": [
+      "全席指定／前売：￥2,500"
+    ],
+    "open_start_time": "開場 18:30 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20261014082935"
+  },
+  {
     "title": "NORA寄席",
     "date": "2026-11-26",
     "date_text": "2026/11/26(木)",
@@ -24,20 +38,6 @@
       "指定席／前売：￥2,500"
     ],
     "open_start_time": "開場 19:15 / 開演 19:30",
-    "is_new": true,
-    "added_id": "20261013202956"
-  },
-  {
-    "title": "大阪アングラ計画",
-    "date": "2026-10-13",
-    "date_text": "2026/10/13(火)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/65749/52110",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
     "is_new": true,
     "added_id": "20261013202956"
   },
@@ -599,8 +599,8 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/65872/52088",
     "prices": [
-      "指定席／前売：￥2,000",
-      "立見（整理番号）／前売：￥2,000"
+      "指定席／当日：￥2,300",
+      "立見（整理番号）／当日：￥2,300"
     ],
     "open_start_time": "開場 19:00 / 開演 19:15",
     "is_new": false,
@@ -620,21 +620,6 @@
     "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": false,
     "added_id": "20260824192559"
-  },
-  {
-    "title": "19時ライブ～ネタ＆吉本新喜劇～",
-    "date": "2026-10-13",
-    "date_text": "2026/10/13(火)",
-    "venue": "なんばグランド花月（大阪府）",
-    "sale_status": "先着発売終了",
-    "detail_link": "https://ticket.fany.lol/reception/62573/50425",
-    "prices": [
-      "全席指定／当日大人：￥3,500",
-      "全席指定／当日小学生以下：￥1,000"
-    ],
-    "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": false,
-    "added_id": "20260809192026"
   },
   {
     "title": "【11/8(日)1日券】たくろう万博",
