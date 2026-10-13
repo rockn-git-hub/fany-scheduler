@@ -1,14 +1,16 @@
-# 公演通知の時刻管理
+# LINE通知の時刻管理
 
-Cloudflare WorkersからGitHub Actionsの`fany_schedule.yml`を起動する構成
-公演取得とLINE送信は既存のGitHub Actionsで実行
-水飲み通知は移行対象外
+Cloudflare WorkersからGitHub Actionsの`fany_schedule.yml`と`water_reminder.yml`を起動する構成
+公演取得、公演通知、水飲み通知のLINE送信は既存のGitHub Actionsで実行
 
 ## 配信時刻
 
 - 起動予定: 毎日、日本時間8:27・20:27
 - LINE送信の目標: 8:30・20:30前後
 - UTC cron: `27 23 * * *`、`27 11 * * *`
+- 水飲み通知: 月〜金の日本時間10:00・11:00・14:00・15:00・16:00・17:00に起動
+- 水飲み通知のUTC cron: `0 1,2,5,6,7,8 * * 1-5`
+- 水飲み通知は起動後の処理が終わり次第送信
 - GitHub側の待ち時間と処理時間による配信時刻の変動あり
 
 ## 初期設定と切り替え
@@ -19,8 +21,9 @@ Cloudflare WorkersからGitHub Actionsの`fany_schedule.yml`を起動する構�
    トークンをソースコードやチャットへ貼り付けない
 3. 手動確認用のランダムな秘密鍵を`TRIGGER_SECRET`として登録
 4. `/dispatch`へAuthorizationヘッダー付きPOSTを1回送り、ActionsとLINE送信を確認
-5. `wrangler.jsonc`の`triggers.crons`を上記2時刻に変更して公開
-6. GitHub側の`fany_schedule.yml`から`on.schedule`を削除し、mainへ反映
+   水飲み通知の手動確認URLは`/dispatch?workflow=water_reminder.yml`
+5. `wrangler.jsonc`の`triggers.crons`に上記の時刻を設定して公開
+6. GitHub側の`fany_schedule.yml`と`water_reminder.yml`から`on.schedule`を削除し、mainへ反映
 7. GitHub側に既に作成された定期実行が残っていないか確認
 
 公開例: `wrangler deploy --config cloudflare/wrangler.jsonc`
