@@ -1,19 +1,5 @@
 [
   {
-    "title": "新ネタライブ!!ハイキック寄席!!",
-    "date": "2026-10-14",
-    "date_text": "2026/10/14(水)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/65750/52088",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20261014202926"
-  },
-  {
     "title": "「金属バットのトークライブ」10",
     "date": "2026-11-15",
     "date_text": "2026/11/15(日)",
@@ -63,7 +49,7 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/65725/51972",
     "prices": [
-      "整理番号付自由席／前売：￥1,500"
+      "整理番号付自由席／当日：￥1,800"
     ],
     "open_start_time": "開場 16:45 / 開演 17:00",
     "is_new": true,
@@ -457,7 +443,7 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/66051/52669",
     "prices": [
-      "整理番号付自由席／前売：￥2,000"
+      "整理番号付自由席／当日：￥2,500"
     ],
     "open_start_time": "開場 20:45 / 開演 21:00",
     "is_new": false,
@@ -613,8 +599,8 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/64441/51952",
     "prices": [
-      "全席指定／前売大人：￥3,500",
-      "全席指定／前売小学生以下：￥1,000"
+      "全席指定／当日大人：￥3,500",
+      "全席指定／当日小学生以下：￥1,000"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": false,
