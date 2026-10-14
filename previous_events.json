@@ -1,5 +1,19 @@
 [
   {
+    "title": "新ネタライブ!!ハイキック寄席!!",
+    "date": "2026-10-14",
+    "date_text": "2026/10/14(水)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/65750/52088",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20261014202926"
+  },
+  {
     "title": "「金属バットのトークライブ」10",
     "date": "2026-11-15",
     "date_text": "2026/11/15(日)",
@@ -588,21 +602,6 @@
       "指定席／前売：￥2,500"
     ],
     "open_start_time": "開場 15:45 / 開演 16:00",
-    "is_new": false,
-    "added_id": "20260828140401"
-  },
-  {
-    "title": "新ネタライブ!!ハイキック寄席!!",
-    "date": "2026-10-14",
-    "date_text": "2026/10/14(水)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/65872/52088",
-    "prices": [
-      "指定席／当日：￥2,300",
-      "立見（整理番号）／当日：￥2,300"
-    ],
-    "open_start_time": "開場 19:00 / 開演 19:15",
     "is_new": false,
     "added_id": "20260828140401"
   },
