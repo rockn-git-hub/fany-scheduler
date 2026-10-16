@@ -1,31 +1,17 @@
 [
   {
-    "title": "Kiwami極LIVE",
-    "date": "2026-10-15",
-    "date_text": "2026/10/15(木)",
-    "venue": "よしもと漫才劇場（大阪府）",
+    "title": "金属バット×ツートライブ　初ツーマンライブ「完売」",
+    "date": "2026-10-16",
+    "date_text": "2026/10/16(金)",
+    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
     "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/65719/51972",
+    "detail_link": "https://ticket.fany.lol/reception/67515/53750",
     "prices": [
       "価格取得エラー: Message: \n"
     ],
     "open_start_time": "",
     "is_new": true,
-    "added_id": "20261015202947"
-  },
-  {
-    "title": "大喜利大集合 ～ハゲ・ヒゲ・ロン毛大集合～",
-    "date": "2026-10-15",
-    "date_text": "2026/10/15(木)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/65997/52669",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20261015202947"
+    "added_id": "20261016202929"
   },
   {
     "title": "「金属バットのトークライブ」10",
@@ -386,20 +372,6 @@
     "added_id": "20260922010401"
   },
   {
-    "title": "金属バット×ツートライブ　初ツーマンライブ「完売」",
-    "date": "2026-10-16",
-    "date_text": "2026/10/16(金)",
-    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/67517/53750",
-    "prices": [
-      "全席指定／前売：￥3,000"
-    ],
-    "open_start_time": "開場 17:30 / 開演 18:00",
-    "is_new": false,
-    "added_id": "20260919075738"
-  },
-  {
     "title": "よしもとお笑い寄席 in TTホール",
     "date": "2026-10-17",
     "date_text": "2026/10/17(土)",
@@ -592,21 +564,6 @@
     "added_id": "20260828140401"
   },
   {
-    "title": "19時ライブ～ネタ＆吉本新喜劇～",
-    "date": "2026-10-15",
-    "date_text": "2026/10/15(木)",
-    "venue": "なんばグランド花月（大阪府）",
-    "sale_status": "先着発売終了",
-    "detail_link": "https://ticket.fany.lol/reception/64441/51952",
-    "prices": [
-      "全席指定／当日大人：￥3,500",
-      "全席指定／当日小学生以下：￥1,000"
-    ],
-    "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": false,
-    "added_id": "20260824192559"
-  },
-  {
     "title": "【11/8(日)1日券】たくろう万博",
     "date": "2026-11-08",
     "date_text": "2026/11/08(日)",
@@ -742,13 +699,12 @@
     "date": "2026-10-16",
     "date_text": "2026/10/16(金)",
     "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
-    "sale_status": "先着発売中",
+    "sale_status": "先着発売終了",
     "detail_link": "https://ticket.fany.lol/reception/62797/50544",
     "prices": [
-      "全席指定／前売：￥3,500",
-      "全席指定／前売　学生：￥2,000"
+      "価格取得エラー: Message: \n"
     ],
-    "open_start_time": "開場 12:30 / 開演 13:00",
+    "open_start_time": "",
     "is_new": false,
     "added_id": "20260801070001"
   }
