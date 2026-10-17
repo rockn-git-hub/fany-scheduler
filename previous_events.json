@@ -14,62 +14,6 @@
     "added_id": "20261017203051"
   },
   {
-    "title": "森ノ宮マンゲキお笑いライブSP",
-    "date": "2026-10-17",
-    "date_text": "2026/10/17(土)",
-    "venue": "森ノ宮よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/64721/52323",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20261017203051"
-  },
-  {
-    "title": "森ノ宮マンゲキお笑いライブSP",
-    "date": "2026-10-17",
-    "date_text": "2026/10/17(土)",
-    "venue": "森ノ宮よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/64721/52324",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20261017203051"
-  },
-  {
-    "title": "森ノ宮マンゲキお笑いライブSP",
-    "date": "2026-10-17",
-    "date_text": "2026/10/17(土)",
-    "venue": "森ノ宮よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/64721/52325",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20261017203051"
-  },
-  {
-    "title": "金属・黒帯のダルガラミ",
-    "date": "2026-10-17",
-    "date_text": "2026/10/17(土)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/67735/53868",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20261017203051"
-  },
-  {
     "title": "NORA寄席",
     "date": "2026-11-26",
     "date_text": "2026/11/26(木)",
@@ -400,20 +344,6 @@
     "added_id": "20260922010401"
   },
   {
-    "title": "よしもとお笑い寄席 in TTホール",
-    "date": "2026-10-17",
-    "date_text": "2026/10/17(土)",
-    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
-    "sale_status": "先着発売終了",
-    "detail_link": "https://ticket.fany.lol/reception/67519/53752",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": false,
-    "added_id": "20260918225639"
-  },
-  {
     "title": "お笑いブーム",
     "date": "2026-11-20",
     "date_text": "2026/11/20(金)",
@@ -435,14 +365,14 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/66255/52742",
     "prices": [
-      "整理番号付自由席／前売　バーガー付：￥4,600",
-      "整理番号付自由席／前売　ロコモコ付：￥4,400",
-      "整理番号付自由席／前売　唐揚げBOWL付：￥4,400",
-      "整理番号付自由席／前売　唐揚げ串付：￥3,900",
-      "整理番号付自由席／前売　ポテト(L)付：￥3,900",
-      "整理番号付自由席／前売　ワンドリンク付：￥3,800",
-      "整理番号付自由席／前売　チュロス付：￥3,700",
-      "整理番号付自由席／前売：￥3,500"
+      "整理番号付自由席／当日　バーガー付：￥4,600",
+      "整理番号付自由席／当日　ロコモコ付：￥4,400",
+      "整理番号付自由席／当日　唐揚げBOWL付：￥4,400",
+      "整理番号付自由席／当日　唐揚げ串付：￥3,900",
+      "整理番号付自由席／当日　ポテト(L)付：￥3,900",
+      "整理番号付自由席／当日　ワンドリンク付：￥3,800",
+      "整理番号付自由席／当日　チュロス付：￥3,700",
+      "整理番号付自由席／当日：￥3,500"
     ],
     "open_start_time": "開場 11:30 / 開演 12:00",
     "is_new": false,
@@ -514,7 +444,7 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/64723/52326",
     "prices": [
-      "指定席／前売：￥2,500"
+      "指定席／当日：￥2,800"
     ],
     "open_start_time": "開場 10:45 / 開演 11:00",
     "is_new": false,
@@ -528,7 +458,7 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/64723/52327",
     "prices": [
-      "指定席／前売：￥2,500"
+      "指定席／当日：￥2,800"
     ],
     "open_start_time": "開場 13:15 / 開演 13:30",
     "is_new": false,
@@ -542,7 +472,7 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/64723/52328",
     "prices": [
-      "指定席／前売：￥2,500"
+      "指定席／当日：￥2,800"
     ],
     "open_start_time": "開場 15:45 / 開演 16:00",
     "is_new": false,
@@ -624,38 +554,8 @@
     "date": "2026-10-18",
     "date_text": "2026/10/18(日)",
     "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/62797/50548",
-    "prices": [
-      "全席指定／前売：￥3,500",
-      "全席指定／前売　学生：￥2,000"
-    ],
-    "open_start_time": "開場 10:30 / 開演 11:00",
-    "is_new": false,
-    "added_id": "20260801070001"
-  },
-  {
-    "title": "よしもとお笑い森ノ宮劇場",
-    "date": "2026-10-18",
-    "date_text": "2026/10/18(日)",
-    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/62797/50549",
-    "prices": [
-      "全席指定／前売：￥3,500",
-      "全席指定／前売　学生：￥2,000"
-    ],
-    "open_start_time": "開場 13:30 / 開演 14:00",
-    "is_new": false,
-    "added_id": "20260801070001"
-  },
-  {
-    "title": "よしもとお笑い森ノ宮劇場",
-    "date": "2026-10-17",
-    "date_text": "2026/10/17(土)",
-    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
     "sale_status": "先着発売終了",
-    "detail_link": "https://ticket.fany.lol/reception/62797/50546",
+    "detail_link": "https://ticket.fany.lol/reception/62797/50548",
     "prices": [
       "価格取得エラー: Message: \n"
     ],
@@ -665,11 +565,11 @@
   },
   {
     "title": "よしもとお笑い森ノ宮劇場",
-    "date": "2026-10-17",
-    "date_text": "2026/10/17(土)",
+    "date": "2026-10-18",
+    "date_text": "2026/10/18(日)",
     "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
     "sale_status": "先着発売終了",
-    "detail_link": "https://ticket.fany.lol/reception/62797/50547",
+    "detail_link": "https://ticket.fany.lol/reception/62797/50549",
     "prices": [
       "価格取得エラー: Message: \n"
     ],
