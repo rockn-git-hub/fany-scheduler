@@ -1,61 +1,5 @@
 [
   {
-    "title": "森ノ宮マンゲキお笑いライブSP",
-    "date": "2026-10-18",
-    "date_text": "2026/10/18(日)",
-    "venue": "森ノ宮よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/64721/52326",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20261018203032"
-  },
-  {
-    "title": "よしもとお笑いレストラン 新喜劇プラス",
-    "date": "2026-10-18",
-    "date_text": "2026/10/18(日)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/66253/52742",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20261018203032"
-  },
-  {
-    "title": "森ノ宮マンゲキお笑いライブSP",
-    "date": "2026-10-18",
-    "date_text": "2026/10/18(日)",
-    "venue": "森ノ宮よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/64721/52327",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20261018203032"
-  },
-  {
-    "title": "森ノ宮マンゲキお笑いライブSP",
-    "date": "2026-10-18",
-    "date_text": "2026/10/18(日)",
-    "venue": "森ノ宮よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/64721/52328",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20261018203032"
-  },
-  {
     "title": "「金属バットのトークライブ」10",
     "date": "2026-11-15",
     "date_text": "2026/11/15(日)",
@@ -464,8 +408,8 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/65885/52054",
     "prices": [
-      "指定席／前売：￥1,500",
-      "立見（整理番号）／前売：￥1,500"
+      "指定席／当日：￥1,800",
+      "立見（整理番号）／当日：￥1,800"
     ],
     "open_start_time": "開場 20:45 / 開演 21:00",
     "is_new": false,
@@ -541,33 +485,5 @@
     "open_start_time": "開場 13:30 / 開演 14:00",
     "is_new": false,
     "added_id": "20260805205109"
-  },
-  {
-    "title": "よしもとお笑い森ノ宮劇場",
-    "date": "2026-10-18",
-    "date_text": "2026/10/18(日)",
-    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
-    "sale_status": "先着発売終了",
-    "detail_link": "https://ticket.fany.lol/reception/62797/50548",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": false,
-    "added_id": "20260801070001"
-  },
-  {
-    "title": "よしもとお笑い森ノ宮劇場",
-    "date": "2026-10-18",
-    "date_text": "2026/10/18(日)",
-    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
-    "sale_status": "先着発売終了",
-    "detail_link": "https://ticket.fany.lol/reception/62797/50549",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": false,
-    "added_id": "20260801070001"
   }
 ]
