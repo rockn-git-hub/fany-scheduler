@@ -1,5 +1,19 @@
 [
   {
+    "title": "-ZX-の社会の窓　ゲスト金属バット編2",
+    "date": "2026-10-19",
+    "date_text": "2026/10/19(月)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/65763/52054",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20261019202936"
+  },
+  {
     "title": "「金属バットのトークライブ」10",
     "date": "2026-11-15",
     "date_text": "2026/11/15(日)",
@@ -397,21 +411,6 @@
       "立見（整理番号）／前売：￥2,000"
     ],
     "open_start_time": "開場 19:15 / 開演 19:30",
-    "is_new": false,
-    "added_id": "20260828140401"
-  },
-  {
-    "title": "-ZX-の社会の窓　ゲスト金属バット編2",
-    "date": "2026-10-19",
-    "date_text": "2026/10/19(月)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/65885/52054",
-    "prices": [
-      "指定席／当日：￥1,800",
-      "立見（整理番号）／当日：￥1,800"
-    ],
-    "open_start_time": "開場 20:45 / 開演 21:00",
     "is_new": false,
     "added_id": "20260828140401"
   },
