@@ -49,7 +49,7 @@ jobs:
 
       - name: WindowsのGit設定 & 最新取得
         if: runner.os == 'Windows'
-        shell: powershell
+        shell: powershell -NoProfile -ExecutionPolicy RemoteSigned -Command ". '{0}'"
         run: |
           git config user.name "github-actions[bot]"
           if ($LASTEXITCODE -ne 0) { throw 'Git name setup failed' }
@@ -64,7 +64,7 @@ jobs:
 
       - name: Windowsでスクリプトを実行
         if: runner.os == 'Windows'
-        shell: powershell
+        shell: powershell -NoProfile -ExecutionPolicy RemoteSigned -Command ". '{0}'"
         run: ./scripts/Invoke-FanyWindows.ps1
 
       - name: 変更をコミット & Push
@@ -78,7 +78,7 @@ jobs:
 
       - name: Windowsで変更をコミット & Push
         if: runner.os == 'Windows'
-        shell: powershell
+        shell: powershell -NoProfile -ExecutionPolicy RemoteSigned -Command ". '{0}'"
         run: |
           git add kinzoku_bat_events.html previous_events.json
           if ($LASTEXITCODE -ne 0) { throw 'Git add failed' }
@@ -113,7 +113,7 @@ jobs:
 
       - name: Windowsから公開確認 & LINE通知
         if: runner.os == 'Windows'
-        shell: powershell
+        shell: powershell -NoProfile -ExecutionPolicy RemoteSigned -Command ". '{0}'"
         env:
           LINE_TOKEN: ${{ secrets.LINE_ACCESS_TOKEN }}
           LINE_TO: ${{ secrets.LINE_USER_ID }}

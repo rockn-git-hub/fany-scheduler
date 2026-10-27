@@ -36,6 +36,7 @@ python --version
 サービスアカウントは`NT AUTHORITY\NETWORK SERVICE`、起動種類は自動
 Pythonの依存ライブラリは最初のジョブで専用の仮想環境へインストール
 ChromeとGitはサービスから利用できる全ユーザー向けインストールを使用
+ワークフローのPowerShellプロセスだけに`RemoteSigned`を指定し、PC全体の実行ポリシーは変更しない構成
 インストール先に既存フォルダーがある場合は停止し、上書きしない構成
 
 ## 動作確認
