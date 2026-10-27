@@ -54,4 +54,3 @@ $serviceName = [IO.File]::ReadAllText((Join-Path $RunnerDirectory '.service')).T
 Set-Service -Name $serviceName -StartupType Automatic
 Start-Service -Name $serviceName
 Get-Service -Name $serviceName | Select-Object Name, Status, StartType
-

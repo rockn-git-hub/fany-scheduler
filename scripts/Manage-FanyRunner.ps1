@@ -32,4 +32,3 @@ switch ($Action) {
     }
 }
 Get-Service -Name $serviceName | Select-Object Name, Status, StartType
-

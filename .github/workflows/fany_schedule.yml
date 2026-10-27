@@ -20,9 +20,6 @@ jobs:
     if: github.ref == 'refs/heads/main'
     runs-on: ${{ (inputs.runner_label != '' || vars.FANY_RUNNER_LABEL != '') && fromJSON(format('["self-hosted","Windows","X64","{0}"]', inputs.runner_label || vars.FANY_RUNNER_LABEL)) || 'ubuntu-latest' }}
     timeout-minutes: 20
-    defaults:
-      run:
-        shell: bash
     env:
       TZ: Asia/Tokyo
 
@@ -44,10 +41,22 @@ jobs:
           pip install -r requirements.txt
 
       - name: Git設定 & 最新取得
+        if: runner.os != 'Windows'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git pull origin main
+
+      - name: WindowsのGit設定 & 最新取得
+        if: runner.os == 'Windows'
+        shell: powershell
+        run: |
+          git config user.name "github-actions[bot]"
+          if ($LASTEXITCODE -ne 0) { throw 'Git name setup failed' }
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if ($LASTEXITCODE -ne 0) { throw 'Git email setup failed' }
+          git pull --ff-only origin main
+          if ($LASTEXITCODE -ne 0) { throw 'Git pull failed' }
 
       - name: スクリプトを実行
         if: runner.os != 'Windows'
@@ -59,6 +68,7 @@ jobs:
         run: ./scripts/Invoke-FanyWindows.ps1
 
       - name: 変更をコミット & Push
+        if: runner.os != 'Windows'
         run: |
           git add kinzoku_bat_events.html previous_events.json
           if ! git diff --cached --quiet; then
@@ -66,7 +76,22 @@ jobs:
           fi
           git push
 
+      - name: Windowsで変更をコミット & Push
+        if: runner.os == 'Windows'
+        shell: powershell
+        run: |
+          git add kinzoku_bat_events.html previous_events.json
+          if ($LASTEXITCODE -ne 0) { throw 'Git add failed' }
+          git diff --cached --quiet
+          if ($LASTEXITCODE -eq 1) {
+            git commit -m "Update FANY event data"
+            if ($LASTEXITCODE -ne 0) { throw 'Git commit failed' }
+          } elseif ($LASTEXITCODE -ne 0) { throw 'Git diff failed' }
+          git push origin HEAD:main
+          if ($LASTEXITCODE -ne 0) { throw 'Git push failed' }
+
       - name: LINEに通知を送信
+        if: runner.os != 'Windows'
         env:
           LINE_TOKEN: ${{ secrets.LINE_ACCESS_TOKEN }}
           LINE_TO: ${{ secrets.LINE_USER_ID }}
@@ -85,3 +110,11 @@ jobs:
                   }
               ]
           }'
+
+      - name: Windowsから公開確認 & LINE通知
+        if: runner.os == 'Windows'
+        shell: powershell
+        env:
+          LINE_TOKEN: ${{ secrets.LINE_ACCESS_TOKEN }}
+          LINE_TO: ${{ secrets.LINE_USER_ID }}
+        run: ./scripts/Send-FanyPage.ps1
