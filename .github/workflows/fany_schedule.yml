@@ -44,7 +44,8 @@ jobs:
           from zoneinfo import ZoneInfo
 
           message = os.environ['TEST_MESSAGE']
-          if not message.startswith('【PC経由の公演取得テスト】') or len(message) > 4500:
+          expected = '✅ 金属バット公演一覧が更新されました！\nhttps://rockn-git-hub.github.io/fany-scheduler/kinzoku_bat_events.html'
+          if message != expected:
               raise ValueError('Unexpected test message')
           payload = json.dumps({
               'to': os.environ['LINE_TO'],
