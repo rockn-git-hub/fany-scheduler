@@ -4,13 +4,16 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write  # リポジトリへの書き込み許可
+  contents: read
 
 jobs:
-  run-script:
+  diagnose:
+    if: github.ref == 'refs/heads/codex/diagnose-fany-20261027'
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     env:
       TZ: Asia/Tokyo
+      PYTHONUNBUFFERED: '1'
 
     steps:
       - name: リポジトリをチェックアウト
@@ -27,37 +30,13 @@ jobs:
         run: |
           pip install -r requirements.txt
 
-      - name: Git設定 & 最新取得
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git pull origin main
+      - name: Diagnose FANY page retrieval
+        run: python diagnostics/fany_probe.py
 
-      - name: スクリプトを実行
-        run: python kinzoku_fany.py
-
-      - name: 変更をコミット & Push
-        run: |
-          git add kinzoku_bat_events.html previous_events.json
-          git commit -m "✅ データ更新（$(TZ=Asia/Tokyo date '+%Y-%m-%d %H:%M')）" || echo "No changes to commit"
-          git push
-
-      - name: LINEに通知を送信
-        env:
-          LINE_TOKEN: ${{ secrets.LINE_ACCESS_TOKEN }}
-          LINE_TO: ${{ secrets.LINE_USER_ID }}
-        run: |
-          echo "[TIME] before line send $(TZ=Asia/Tokyo date '+%Y-%m-%d %H:%M:%S')"
-          MESSAGE="✅ 金属バット公演一覧が更新されました！\nhttps://rockn-git-hub.github.io/fany-scheduler/kinzoku_bat_events.html"
-          curl -X POST https://api.line.me/v2/bot/message/push \
-            -H "Authorization: Bearer $LINE_TOKEN" \
-            -H 'Content-Type: application/json' \
-            -d '{
-              "to": "'"$LINE_TO"'",
-              "messages":[
-                  {
-                      "type":"text",
-                      "text":"'"$MESSAGE"'"
-                  }
-              ]
-          }'
+      - name: Save diagnostic evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: fany-diagnostics
+          path: fany-diagnostics/
+          retention-days: 7
