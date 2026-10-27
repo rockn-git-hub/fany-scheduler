@@ -2,6 +2,7 @@
 
 Cloudflareが定時にGitHub Actionsを起動し、指定したWindows PCで公演情報を取得する構成
 取得後はHTMLと前回データをリポジトリへ保存し、GitHub Pagesで公開、LINEへ一覧URLを送信
+Windows実行では公開ページが生成したHTMLと一致するまで待ち、反映確認後にLINE通知
 水飲み通知はGitHubのクラウド環境で実行
 
 ## 前提
@@ -105,3 +106,24 @@ $script = 'C:\Codex\Git\Private\fany-scheduler\scripts\Manage-FanyRunner.ps1'
 
 - https://docs.github.com/en/actions/how-tos/manage-runners/self-hosted-runners/add-runners
 - https://docs.github.com/en/actions/how-tos/manage-runners/self-hosted-runners/configure-the-application
+
+## このPCでの検証結果
+
+- 検証日: 2026年10月27日、日本時間
+- ランナー名: `fany-pc-test`、ラベル: `fany-windows-test`
+- Windowsサービスの自動起動設定、標準サービスアカウントでの稼働を確認
+- 35公演の取得とHTML生成、GitHubへのpush処理、公開HTMLとの一致確認に成功
+- LINEは23:53:58に一覧URLを1通送信、成功応答を確認
+- [成功したGitHub Actions実行](https://github.com/rockn-git-hub/fany-scheduler/actions/runs/40525301425)
+- サービス再起動後にプロセスIDの変更とGitHub上のオンライン復帰を確認
+- PC自体の再起動は未実施
+- このPCの検証用サービスは検証後に停止・自動起動を無効化し、二重稼働を防止
+- `FANY_RUNNER_LABEL`は未設定で、定期実行先は別PCへの移行後に切り替え
+
+検証用サービスを再利用する場合は、管理者PowerShellで起動種類を戻してから起動
+
+```powershell
+$serviceName = (Get-Content -Raw C:\Codex\Runners\fany-pc-test\.service).Trim()
+Set-Service -Name $serviceName -StartupType Automatic
+Start-Service -Name $serviceName
+```
