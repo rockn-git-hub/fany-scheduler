@@ -2,13 +2,27 @@ name: FANYスケジューラ
 
 on:
   workflow_dispatch:
+    inputs:
+      runner_label:
+        description: Windows runner label for manual testing (empty uses configured default)
+        required: false
+        type: string
+
+concurrency:
+  group: fany-event-update
+  cancel-in-progress: false
 
 permissions:
   contents: write  # リポジトリへの書き込み許可
 
 jobs:
   run-script:
-    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+    runs-on: ${{ (inputs.runner_label != '' || vars.FANY_RUNNER_LABEL != '') && fromJSON(format('["self-hosted","Windows","X64","{0}"]', inputs.runner_label || vars.FANY_RUNNER_LABEL)) || 'ubuntu-latest' }}
+    timeout-minutes: 20
+    defaults:
+      run:
+        shell: bash
     env:
       TZ: Asia/Tokyo
 
@@ -19,11 +33,13 @@ jobs:
           fetch-depth: 0
 
       - name: Pythonをセットアップ
+        if: runner.os != 'Windows'
         uses: actions/setup-python@v4
         with:
           python-version: "3.11"
 
       - name: 必要なライブラリをインストール
+        if: runner.os != 'Windows'
         run: |
           pip install -r requirements.txt
 
@@ -34,12 +50,20 @@ jobs:
           git pull origin main
 
       - name: スクリプトを実行
+        if: runner.os != 'Windows'
         run: python kinzoku_fany.py
+
+      - name: Windowsでスクリプトを実行
+        if: runner.os == 'Windows'
+        shell: powershell
+        run: ./scripts/Invoke-FanyWindows.ps1
 
       - name: 変更をコミット & Push
         run: |
           git add kinzoku_bat_events.html previous_events.json
-          git commit -m "✅ データ更新（$(TZ=Asia/Tokyo date '+%Y-%m-%d %H:%M')）" || echo "No changes to commit"
+          if ! git diff --cached --quiet; then
+            git commit -m "✅ データ更新（$(TZ=Asia/Tokyo date '+%Y-%m-%d %H:%M')）"
+          fi
           git push
 
       - name: LINEに通知を送信
