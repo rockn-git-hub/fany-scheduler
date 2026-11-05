@@ -1,5 +1,20 @@
 [
   {
+    "title": "19時ライブ～ネタ＆吉本新喜劇～",
+    "date": "2027-01-08",
+    "date_text": "2027/01/08(金)",
+    "venue": "なんばグランド花月（大阪府）",
+    "sale_status": "先着発売中",
+    "detail_link": "https://ticket.fany.lol/reception/73301/58260",
+    "prices": [
+      "全席指定／前売大人：￥3,500",
+      "全席指定／前売小学生以下：￥1,000"
+    ],
+    "open_start_time": "開場 18:30 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20261105200155"
+  },
+  {
     "title": "19時ライブ～ネタ・コレクション～",
     "date": "2027-01-27",
     "date_text": "2027/01/27(水)",
@@ -75,7 +90,7 @@
     "date": "2026-12-21",
     "date_text": "2026/12/21(月)",
     "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/72814/56675",
     "prices": [
       "指定席／前売：￥2,000",
@@ -90,7 +105,7 @@
     "date": "2026-12-20",
     "date_text": "2026/12/20(日)",
     "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/72672/56537",
     "prices": [
       "指定席／前売：￥3,700",
@@ -105,7 +120,7 @@
     "date": "2026-12-20",
     "date_text": "2026/12/20(日)",
     "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/72672/56538",
     "prices": [
       "指定席／前売：￥3,700",
@@ -120,7 +135,7 @@
     "date": "2026-12-20",
     "date_text": "2026/12/20(日)",
     "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/72672/56539",
     "prices": [
       "指定席／前売：￥3,700",
@@ -135,7 +150,7 @@
     "date": "2026-12-20",
     "date_text": "2026/12/20(日)",
     "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/72813/56676",
     "prices": [
       "指定席／前売：￥2,000",
@@ -150,7 +165,7 @@
     "date": "2026-12-19",
     "date_text": "2026/12/19(土)",
     "venue": "森ノ宮よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/72274/56893",
     "prices": [
       "指定席／前売：￥3,000"
@@ -185,7 +200,7 @@
     "date": "2026-12-19",
     "date_text": "2026/12/19(土)",
     "venue": "森ノ宮よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/72274/56894",
     "prices": [
       "指定席／前売：￥3,000"
@@ -199,7 +214,7 @@
     "date": "2026-12-19",
     "date_text": "2026/12/19(土)",
     "venue": "森ノ宮よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/72274/56895",
     "prices": [
       "指定席／前売：￥3,000"
@@ -227,7 +242,7 @@
     "date": "2026-12-18",
     "date_text": "2026/12/18(金)",
     "venue": "COOL JAPAN PARK OSAKA SSホール（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "抽選受付中",
     "detail_link": "https://ticket.fany.lol/reception/73673/58454",
     "prices": [
       "全席指定／前売：￥3,500"
@@ -255,7 +270,7 @@
     "date": "2026-12-04",
     "date_text": "2026/12/04(金)",
     "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/72541/56520",
     "prices": [
       "整理番号付自由席／前売：￥1,500"
