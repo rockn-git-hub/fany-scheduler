@@ -1,5 +1,5 @@
-const FANY_CRONS = new Set(["27 23 * * *", "27 11 * * *"]);
-const WATER_CRONS = new Set(["0 1,2,5,6,7,8 * * 1-5"]);
+const FANY_CRONS = new Set(["0 23 * * *", "0 11 * * *"]);
+const WATER_CRONS = new Set(["30 1,2,6 * * 1-5", "0 5,8 * * 1-5"]);
 
 /** 公演通知または水飲み通知ワークフローの起動要求 */
 export async function dispatchWorkflow(env, fetcher = fetch, workflow = "fany_schedule.yml") {

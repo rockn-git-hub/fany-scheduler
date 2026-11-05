@@ -51,7 +51,7 @@ test("scheduled handler dispatches the configured workflow", async (context) => 
     requests += 1;
     return new Response(null, { status: 204 });
   });
-  await worker.scheduled({ cron: "27 23 * * *", scheduledTime: Date.UTC(2026, 9, 7, 23, 27) }, { GITHUB_TOKEN: "test-token" });
+  await worker.scheduled({ cron: "0 23 * * *", scheduledTime: Date.UTC(2026, 9, 7, 23, 0) }, { GITHUB_TOKEN: "test-token" });
   assert.equal(requests, 1);
 });
 
@@ -70,8 +70,8 @@ test("every configured cron dispatches the correct notification", async (context
   const configText = await fs.readFile(new URL("./wrangler.jsonc", import.meta.url), "utf8");
   const config = JSON.parse(configText.replace(/^\s*\/\/.*$/gm, ""));
   const expected = new Map([
-    ["27 23 * * *", "fany_schedule.yml"], ["27 11 * * *", "fany_schedule.yml"],
-    ["0 1,2,5,6,7,8 * * 1-5", "water_reminder.yml"],
+    ["0 23 * * *", "fany_schedule.yml"], ["0 11 * * *", "fany_schedule.yml"],
+    ["30 1,2,6 * * 1-5", "water_reminder.yml"], ["0 5,8 * * 1-5", "water_reminder.yml"],
   ]);
   assert.deepEqual(new Set(config.triggers.crons), new Set(expected.keys()));
   assert.equal(config.triggers.crons.length, expected.size);
