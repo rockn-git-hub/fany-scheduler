@@ -1,129 +1,268 @@
 [
   {
+    "title": "19時ライブ～ネタ・コレクション～",
+    "date": "2027-01-27",
+    "date_text": "2027/01/27(水)",
+    "venue": "なんばグランド花月（大阪府）",
+    "sale_status": "先着発売中",
+    "detail_link": "https://ticket.fany.lol/reception/73301/58267",
+    "prices": [
+      "全席指定／前売大人：￥3,500",
+      "全席指定／前売小学生以下：￥1,000"
+    ],
+    "open_start_time": "開場 18:30 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20261105095901"
+  },
+  {
+    "title": "よしもとお笑いライブin東大阪2027",
+    "date": "2027-01-15",
+    "date_text": "2027/01/15(金)",
+    "venue": "東大阪市文化創造館　Dream House　大ホール（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/73268/58248",
+    "prices": [
+      "全席指定／前売：￥4,500"
+    ],
+    "open_start_time": "開場 18:45 / 開演 19:30",
+    "is_new": true,
+    "added_id": "20261105095901"
+  },
+  {
+    "title": "笑う門には福来る！新春開運ネタライブ2027",
+    "date": "2027-01-11",
+    "date_text": "2027/01/11(月)",
+    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/73127/58176",
+    "prices": [
+      "全席指定／前売：￥3,500"
+    ],
+    "open_start_time": "開場 10:30 / 開演 11:00",
+    "is_new": true,
+    "added_id": "20261105095901"
+  },
+  {
+    "title": "芸人とともに謎を解き明かせ！？～地球侵略計画を阻止せよ！編～",
+    "date": "2027-01-11",
+    "date_text": "2027/01/11(月)",
+    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/73135/58177",
+    "prices": [
+      "全席指定／前売：￥4,000"
+    ],
+    "open_start_time": "開場 17:30 / 開演 18:00",
+    "is_new": true,
+    "added_id": "20261105095901"
+  },
+  {
+    "title": "京極風斗の悪口言ってきた奴全員倒すライブin大阪",
+    "date": "2027-01-09",
+    "date_text": "2027/01/09(土)",
+    "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/73116/58175",
+    "prices": [
+      "全席指定／前売：￥3,500"
+    ],
+    "open_start_time": "開場 19:45 / 開演 20:15",
+    "is_new": true,
+    "added_id": "20261105095901"
+  },
+  {
     "title": "新ネタライブ!!ハイキック寄席!!",
     "date": "2026-12-21",
     "date_text": "2026/12/21(月)",
     "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/72706/56675",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/72814/56675",
     "prices": [
-      "指定席／前売：￥2,000"
+      "指定席／前売：￥2,000",
+      "立見（整理番号）／前売：￥2,000"
     ],
     "open_start_time": "開場 19:00 / 開演 19:15",
     "is_new": true,
-    "added_id": "20261027231847"
+    "added_id": "20261105095901"
   },
   {
     "title": "マンゲキお笑いライブ年末SP",
     "date": "2026-12-20",
     "date_text": "2026/12/20(日)",
     "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/72670/56537",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/72672/56537",
     "prices": [
-      "指定席／前売：￥3,700"
+      "指定席／前売：￥3,700",
+      "立見（整理番号）／前売：￥3,700"
     ],
     "open_start_time": "開場 09:40 / 開演 10:00",
     "is_new": true,
-    "added_id": "20261027231847"
+    "added_id": "20261105095901"
   },
   {
     "title": "マンゲキお笑いライブ年末SP",
     "date": "2026-12-20",
     "date_text": "2026/12/20(日)",
     "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/72670/56538",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/72672/56538",
     "prices": [
-      "指定席／前売：￥3,700"
+      "指定席／前売：￥3,700",
+      "立見（整理番号）／前売：￥3,700"
     ],
     "open_start_time": "開場 12:20 / 開演 12:40",
     "is_new": true,
-    "added_id": "20261027231847"
+    "added_id": "20261105095901"
   },
   {
     "title": "マンゲキお笑いライブ年末SP",
     "date": "2026-12-20",
     "date_text": "2026/12/20(日)",
     "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/72670/56539",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/72672/56539",
     "prices": [
-      "指定席／前売：￥3,700"
+      "指定席／前売：￥3,700",
+      "立見（整理番号）／前売：￥3,700"
     ],
     "open_start_time": "開場 15:00 / 開演 15:20",
     "is_new": true,
-    "added_id": "20261027231847"
+    "added_id": "20261105095901"
   },
   {
     "title": "大阪アングラ計画",
     "date": "2026-12-20",
     "date_text": "2026/12/20(日)",
     "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/72705/56676",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/72813/56676",
     "prices": [
-      "指定席／前売：￥2,000"
+      "指定席／前売：￥2,000",
+      "立見（整理番号）／前売：￥2,000"
     ],
     "open_start_time": "開場 17:45 / 開演 18:00",
     "is_new": true,
-    "added_id": "20261027231847"
+    "added_id": "20261105095901"
   },
   {
     "title": "森ノ宮マンゲキお笑いライブ年末SP",
     "date": "2026-12-19",
     "date_text": "2026/12/19(土)",
     "venue": "森ノ宮よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/72272/56893",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/72274/56893",
     "prices": [
       "指定席／前売：￥3,000"
     ],
     "open_start_time": "開場 10:45 / 開演 11:00",
     "is_new": true,
-    "added_id": "20261027231847"
+    "added_id": "20261105095901"
+  },
+  {
+    "title": "よしもとお笑いレストラン",
+    "date": "2026-12-19",
+    "date_text": "2026/12/19(土)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
+    "sale_status": "先着発売中",
+    "detail_link": "https://ticket.fany.lol/reception/72938/58119",
+    "prices": [
+      "整理番号付自由席／前売　バーガー付：￥4,600",
+      "整理番号付自由席／前売　ロコモコ付：￥4,400",
+      "整理番号付自由席／前売　唐揚げBOWL付：￥4,400",
+      "整理番号付自由席／前売　唐揚げ串付：￥3,900",
+      "整理番号付自由席／前売　ポテト(L)付：￥3,900",
+      "整理番号付自由席／前売　ワンドリンク付：￥3,800",
+      "整理番号付自由席／前売　チュロス付：￥3,700",
+      "整理番号付自由席／前売：￥3,500"
+    ],
+    "open_start_time": "開場 11:30 / 開演 12:00",
+    "is_new": true,
+    "added_id": "20261105095901"
   },
   {
     "title": "森ノ宮マンゲキお笑いライブ年末SP",
     "date": "2026-12-19",
     "date_text": "2026/12/19(土)",
     "venue": "森ノ宮よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/72272/56894",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/72274/56894",
     "prices": [
       "指定席／前売：￥3,000"
     ],
     "open_start_time": "開場 13:15 / 開演 13:30",
     "is_new": true,
-    "added_id": "20261027231847"
+    "added_id": "20261105095901"
   },
   {
     "title": "森ノ宮マンゲキお笑いライブ年末SP",
     "date": "2026-12-19",
     "date_text": "2026/12/19(土)",
     "venue": "森ノ宮よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/72272/56895",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/72274/56895",
     "prices": [
       "指定席／前売：￥3,000"
     ],
     "open_start_time": "開場 15:45 / 開演 16:00",
     "is_new": true,
-    "added_id": "20261027231847"
+    "added_id": "20261105095901"
+  },
+  {
+    "title": "金属・黒帯のダルガラミ",
+    "date": "2026-12-19",
+    "date_text": "2026/12/19(土)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
+    "sale_status": "先着発売中",
+    "detail_link": "https://ticket.fany.lol/reception/72991/58150",
+    "prices": [
+      "指定席／前売：￥2,200"
+    ],
+    "open_start_time": "開場 20:45 / 開演 21:00",
+    "is_new": true,
+    "added_id": "20261105095901"
+  },
+  {
+    "title": "久馬歩責任編集 月刊コント 師走号",
+    "date": "2026-12-18",
+    "date_text": "2026/12/18(金)",
+    "venue": "COOL JAPAN PARK OSAKA SSホール（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/73673/58454",
+    "prices": [
+      "全席指定／前売：￥3,500"
+    ],
+    "open_start_time": "開場 18:45 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20261105095901"
+  },
+  {
+    "title": "ネタライブ！YES FUTURE！",
+    "date": "2026-12-07",
+    "date_text": "2026/12/07(月)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
+    "sale_status": "先着発売中",
+    "detail_link": "https://ticket.fany.lol/reception/73089/58140",
+    "prices": [
+      "整理番号付自由席／前売：￥2,000"
+    ],
+    "open_start_time": "開場 20:30 / 開演 20:45",
+    "is_new": true,
+    "added_id": "20261105095901"
   },
   {
     "title": "Kiwami極LIVEプラス",
     "date": "2026-12-04",
     "date_text": "2026/12/04(金)",
     "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/72539/56520",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/72541/56520",
     "prices": [
       "整理番号付自由席／前売：￥1,500"
     ],
     "open_start_time": "開場 16:45 / 開演 17:00",
     "is_new": true,
-    "added_id": "20261027231847"
+    "added_id": "20261105095901"
   },
   {
     "title": "「金属バットのトークライブ」10",
@@ -282,20 +421,6 @@
     "added_id": "20261003010112"
   },
   {
-    "title": "六畳駄弁り",
-    "date": "2026-11-02",
-    "date_text": "2026/11/02(月)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/69796/54975",
-    "prices": [
-      "整理番号付自由席／前売：￥2,000"
-    ],
-    "open_start_time": "開場 20:40 / 開演 21:00",
-    "is_new": false,
-    "added_id": "20261003010112"
-  },
-  {
     "title": "大阪アングラ計画",
     "date": "2026-11-25",
     "date_text": "2026/11/25(水)",
@@ -440,20 +565,6 @@
     "open_start_time": "開場 19:15 / 開演 19:30",
     "is_new": false,
     "added_id": "20260929025200"
-  },
-  {
-    "title": "「金属バットの社会の窓」",
-    "date": "2026-10-31",
-    "date_text": "2026/10/31(土)",
-    "venue": "朝日生命ホール（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/67530/53783",
-    "prices": [
-      "全席指定／前売：￥3,500"
-    ],
-    "open_start_time": "開場 15:30 / 開演 16:00",
-    "is_new": false,
-    "added_id": "20260922010401"
   },
   {
     "title": "お笑いブーム",
