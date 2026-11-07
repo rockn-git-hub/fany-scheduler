@@ -1,5 +1,19 @@
 [
   {
+    "title": "【11/8(日)1日券】たくろう万博",
+    "date": "2026-11-08",
+    "date_text": "2026/11/08(日)",
+    "venue": "万博記念公園もみじ川芝生広場 （大阪府）",
+    "sale_status": "先着発売終了",
+    "detail_link": "https://ticket.fany.lol/reception/59434/48125",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20261108080215"
+  },
+  {
     "title": "久馬歩責任編集 月刊コント 師走号",
     "date": "2026-12-18",
     "date_text": "2026/12/18(金)",
@@ -12,20 +26,6 @@
     "open_start_time": "開場 18:45 / 開演 19:00",
     "is_new": true,
     "added_id": "20261107200155"
-  },
-  {
-    "title": "【通期パス（2日券）・11/7(土)1日券】たくろう万博",
-    "date": "2026-11-07",
-    "date_text": "2026/11/07(土)",
-    "venue": "万博記念公園もみじ川芝生広場 （大阪府）",
-    "sale_status": "先着発売終了",
-    "detail_link": "https://ticket.fany.lol/reception/59434/48112",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20261107080222"
   },
   {
     "title": "19時ライブ～ネタ＆吉本新喜劇～",
@@ -622,24 +622,5 @@
     "open_start_time": "開場 18:30 / 開演 19:15",
     "is_new": false,
     "added_id": "20260901232223"
-  },
-  {
-    "title": "【11/8(日)1日券】たくろう万博",
-    "date": "2026-11-08",
-    "date_text": "2026/11/08(日)",
-    "venue": "万博記念公園もみじ川芝生広場 （大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/59452/48125",
-    "prices": [
-      "1日券／一般　前売　大人：￥9,000",
-      "1日券／一般　前売　高校生：￥4,500",
-      "1日券／一般　前売　中学生：￥3,000",
-      "夜間券／一般　前売　大人：￥4,000",
-      "夜間券／一般　前売　高校生：￥2,000",
-      "夜間券／一般　前売　中学生：￥1,000"
-    ],
-    "open_start_time": "開場 09:30 / 開演 11:00",
-    "is_new": false,
-    "added_id": "20260805205109"
   }
 ]
