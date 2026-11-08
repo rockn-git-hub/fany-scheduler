@@ -1,17 +1,17 @@
 [
   {
-    "title": "【11/8(日)1日券】たくろう万博",
-    "date": "2026-11-08",
-    "date_text": "2026/11/08(日)",
-    "venue": "万博記念公園もみじ川芝生広場 （大阪府）",
-    "sale_status": "先着発売終了",
-    "detail_link": "https://ticket.fany.lol/reception/59434/48125",
+    "title": "漫才×漫才×コント×コント×たくろう",
+    "date": "2026-12-13",
+    "date_text": "2026/12/13(日)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/74421/58950",
     "prices": [
-      "価格取得エラー: Message: \n"
+      "指定席／前売：￥1,800"
     ],
-    "open_start_time": "",
+    "open_start_time": "開場 19:15 / 開演 19:30",
     "is_new": true,
-    "added_id": "20261108080215"
+    "added_id": "20261109080209"
   },
   {
     "title": "久馬歩責任編集 月刊コント 師走号",
@@ -588,8 +588,8 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/69435/54500",
     "prices": [
-      "指定席／前売：￥2,000",
-      "立見（整理番号）／前売：￥2,000"
+      "指定席／当日：￥2,300",
+      "立見（整理番号）／当日：￥2,300"
     ],
     "open_start_time": "開場 19:15 / 開演 19:30",
     "is_new": false,
