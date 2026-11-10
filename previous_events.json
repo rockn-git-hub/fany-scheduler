@@ -4,7 +4,7 @@
     "date": "2026-12-13",
     "date_text": "2026/12/13(日)",
     "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "不明",
+    "sale_status": "抽選受付中",
     "detail_link": "https://ticket.fany.lol/reception/74421/58950",
     "prices": [
       "指定席／前売：￥1,800"
@@ -18,7 +18,7 @@
     "date": "2026-12-18",
     "date_text": "2026/12/18(金)",
     "venue": "COOL JAPAN PARK OSAKA SSホール（大阪府）",
-    "sale_status": "抽選受付終了",
+    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/73675/58454",
     "prices": [
       "全席指定／前売：￥3,500"
@@ -74,7 +74,7 @@
   {
     "title": "笑う門には福来る！新春開運ネタライブ2027",
     "date": "2027-01-11",
-    "date_text": "2027/01/11(月)",
+    "date_text": "2027/01/11(月・祝)",
     "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/73127/58176",
@@ -88,7 +88,7 @@
   {
     "title": "芸人とともに謎を解き明かせ！？～地球侵略計画を阻止せよ！編～",
     "date": "2027-01-11",
-    "date_text": "2027/01/11(月)",
+    "date_text": "2027/01/11(月・祝)",
     "venue": "COOL JAPAN PARK OSAKA TTホール（大阪府）",
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/73135/58177",
@@ -588,7 +588,8 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/66967/53005",
     "prices": [
-      "指定席／前売：￥4,500"
+      "指定席／前売：￥4,500",
+      "注釈付指定席／前売：￥4,500"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": false,
