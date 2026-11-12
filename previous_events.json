@@ -1,5 +1,49 @@
 [
   {
+    "title": "漫才×漫才×コント×コント×たくろう",
+    "date": "2026-12-13",
+    "date_text": "2026/12/13(日)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/74423/58950",
+    "prices": [
+      "指定席／前売：￥1,800"
+    ],
+    "open_start_time": "開場 19:15 / 開演 19:30",
+    "is_new": true,
+    "added_id": "20261112200156"
+  },
+  {
+    "title": "BSよしもとpresents「吉本新喜劇」",
+    "date": "2026-11-15",
+    "date_text": "2026/11/15(日)",
+    "venue": "YES THEATER（新喜劇セカンドシアター）（大阪府）",
+    "sale_status": "先着発売中",
+    "detail_link": "https://ticket.fany.lol/reception/68437/54429",
+    "prices": [
+      "全席指定／前売大人：￥3,000",
+      "全席指定／前売小人：￥1,500"
+    ],
+    "open_start_time": "開場 12:00 / 開演 12:30",
+    "is_new": true,
+    "added_id": "20261112200156"
+  },
+  {
+    "title": "BSよしもとpresents「吉本新喜劇」",
+    "date": "2026-11-15",
+    "date_text": "2026/11/15(日)",
+    "venue": "YES THEATER（新喜劇セカンドシアター）（大阪府）",
+    "sale_status": "先着発売中",
+    "detail_link": "https://ticket.fany.lol/reception/68437/54430",
+    "prices": [
+      "全席指定／前売大人：￥3,000",
+      "全席指定／前売小人：￥1,500"
+    ],
+    "open_start_time": "開場 15:00 / 開演 15:30",
+    "is_new": true,
+    "added_id": "20261112200156"
+  },
+  {
     "title": "よしもとお笑いレストラン",
     "date": "2026-12-20",
     "date_text": "2026/12/20(日)",
@@ -19,20 +63,6 @@
     "open_start_time": "開場 11:30 / 開演 12:00",
     "is_new": true,
     "added_id": "20261111080228"
-  },
-  {
-    "title": "漫才×漫才×コント×コント×たくろう",
-    "date": "2026-12-13",
-    "date_text": "2026/12/13(日)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/74421/58950",
-    "prices": [
-      "指定席／前売：￥1,800"
-    ],
-    "open_start_time": "開場 19:15 / 開演 19:30",
-    "is_new": false,
-    "added_id": "20261109080209"
   },
   {
     "title": "久馬歩責任編集 月刊コント 師走号",
