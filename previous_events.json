@@ -1,5 +1,61 @@
 [
   {
+    "title": "マンゲキお笑いライブSP",
+    "date": "2026-11-15",
+    "date_text": "2026/11/15(日)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/69296/54349",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20261115080309"
+  },
+  {
+    "title": "BSよしもとpresents「吉本新喜劇」",
+    "date": "2026-11-15",
+    "date_text": "2026/11/15(日)",
+    "venue": "YES THEATER（新喜劇セカンドシアター）（大阪府）",
+    "sale_status": "抽選受付終了 FANYコミュ限定先行",
+    "detail_link": "https://ticket.fany.lol/reception/68434/54429",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20261115080309"
+  },
+  {
+    "title": "BSよしもとpresents「吉本新喜劇」",
+    "date": "2026-11-15",
+    "date_text": "2026/11/15(日)",
+    "venue": "YES THEATER（新喜劇セカンドシアター）（大阪府）",
+    "sale_status": "抽選受付終了 FANYコミュ限定先行",
+    "detail_link": "https://ticket.fany.lol/reception/68434/54430",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20261115080309"
+  },
+  {
+    "title": "「金属バットのトークライブ」10",
+    "date": "2026-11-15",
+    "date_text": "2026/11/15(日)",
+    "venue": "YES THEATER（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/71073/55999",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20261115080309"
+  },
+  {
     "title": "漫才×漫才×コント×コント×たくろう",
     "date": "2026-12-13",
     "date_text": "2026/12/13(日)",
@@ -10,36 +66,6 @@
       "指定席／前売：￥1,800"
     ],
     "open_start_time": "開場 19:15 / 開演 19:30",
-    "is_new": true,
-    "added_id": "20261112200156"
-  },
-  {
-    "title": "BSよしもとpresents「吉本新喜劇」",
-    "date": "2026-11-15",
-    "date_text": "2026/11/15(日)",
-    "venue": "YES THEATER（新喜劇セカンドシアター）（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/68437/54429",
-    "prices": [
-      "全席指定／前売大人：￥3,000",
-      "全席指定／前売小人：￥1,500"
-    ],
-    "open_start_time": "開場 12:00 / 開演 12:30",
-    "is_new": true,
-    "added_id": "20261112200156"
-  },
-  {
-    "title": "BSよしもとpresents「吉本新喜劇」",
-    "date": "2026-11-15",
-    "date_text": "2026/11/15(日)",
-    "venue": "YES THEATER（新喜劇セカンドシアター）（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/68437/54430",
-    "prices": [
-      "全席指定／前売大人：￥3,000",
-      "全席指定／前売小人：￥1,500"
-    ],
-    "open_start_time": "開場 15:00 / 開演 15:30",
     "is_new": true,
     "added_id": "20261112200156"
   },
@@ -345,20 +371,6 @@
     "added_id": "20261105095901"
   },
   {
-    "title": "「金属バットのトークライブ」10",
-    "date": "2026-11-15",
-    "date_text": "2026/11/15(日)",
-    "venue": "YES THEATER（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/71075/55999",
-    "prices": [
-      "全席指定／前売：￥2,500"
-    ],
-    "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": false,
-    "added_id": "20261017203051"
-  },
-  {
     "title": "NORA寄席",
     "date": "2026-11-26",
     "date_text": "2026/11/26(木)",
@@ -487,14 +499,14 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/69309/54805",
     "prices": [
-      "整理番号付自由席／前売　バーガー付：￥4,600",
-      "整理番号付自由席／前売　ロコモコ付：￥4,400",
-      "整理番号付自由席／前売　唐揚げBOWL付：￥4,400",
-      "整理番号付自由席／前売　唐揚げ串付：￥3,900",
-      "整理番号付自由席／前売　ポテト(L)付：￥3,900",
-      "整理番号付自由席／前売　ワンドリンク付：￥3,800",
-      "整理番号付自由席／前売　チュロス付：￥3,700",
-      "整理番号付自由席／前売：￥3,500"
+      "整理番号付自由席／当日　バーガー付：￥4,600",
+      "整理番号付自由席／当日　ロコモコ付：￥4,400",
+      "整理番号付自由席／当日　唐揚げBOWL付：￥4,400",
+      "整理番号付自由席／当日　唐揚げ串付：￥3,900",
+      "整理番号付自由席／当日　ポテト(L)付：￥3,900",
+      "整理番号付自由席／当日　ワンドリンク付：￥3,800",
+      "整理番号付自由席／当日　チュロス付：￥3,700",
+      "整理番号付自由席／当日：￥3,500"
     ],
     "open_start_time": "開場 11:30 / 開演 12:00",
     "is_new": false,
@@ -578,25 +590,10 @@
     "date_text": "2026/11/15(日)",
     "venue": "よしもと漫才劇場（大阪府）",
     "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/69298/54349",
-    "prices": [
-      "指定席／前売：￥3,200",
-      "立見（整理番号）／前売：￥3,200"
-    ],
-    "open_start_time": "開場 09:40 / 開演 10:00",
-    "is_new": false,
-    "added_id": "20260929025200"
-  },
-  {
-    "title": "マンゲキお笑いライブSP",
-    "date": "2026-11-15",
-    "date_text": "2026/11/15(日)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/69298/54350",
     "prices": [
-      "指定席／前売：￥3,200",
-      "立見（整理番号）／前売：￥3,200"
+      "指定席／当日：￥3,500",
+      "立見（整理番号）／当日：￥3,500"
     ],
     "open_start_time": "開場 12:20 / 開演 12:40",
     "is_new": false,
@@ -610,8 +607,8 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/69298/54351",
     "prices": [
-      "指定席／前売：￥3,200",
-      "立見（整理番号）／前売：￥3,200"
+      "指定席／当日：￥3,500",
+      "立見（整理番号）／当日：￥3,500"
     ],
     "open_start_time": "開場 15:00 / 開演 15:20",
     "is_new": false,
