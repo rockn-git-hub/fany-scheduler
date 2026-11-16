@@ -1,101 +1,17 @@
 [
   {
-    "title": "よしもとお笑いレストラン 新喜劇プラス",
-    "date": "2026-11-15",
-    "date_text": "2026/11/15(日)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/69307/54805",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20261115200300"
-  },
-  {
-    "title": "マンゲキお笑いライブSP",
-    "date": "2026-11-15",
-    "date_text": "2026/11/15(日)",
+    "title": "新ネタライブ!!ハイキック寄席!!",
+    "date": "2026-11-16",
+    "date_text": "2026/11/16(月)",
     "venue": "よしもと漫才劇場（大阪府）",
     "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/69296/54350",
+    "detail_link": "https://ticket.fany.lol/reception/69338/54475",
     "prices": [
       "価格取得エラー: Message: \n"
     ],
     "open_start_time": "",
     "is_new": true,
-    "added_id": "20261115200300"
-  },
-  {
-    "title": "マンゲキお笑いライブSP",
-    "date": "2026-11-15",
-    "date_text": "2026/11/15(日)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/69296/54351",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20261115200300"
-  },
-  {
-    "title": "マンゲキお笑いライブSP",
-    "date": "2026-11-15",
-    "date_text": "2026/11/15(日)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/69296/54349",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20261115080309"
-  },
-  {
-    "title": "BSよしもとpresents「吉本新喜劇」",
-    "date": "2026-11-15",
-    "date_text": "2026/11/15(日)",
-    "venue": "YES THEATER（新喜劇セカンドシアター）（大阪府）",
-    "sale_status": "抽選受付終了 FANYコミュ限定先行",
-    "detail_link": "https://ticket.fany.lol/reception/68434/54429",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20261115080309"
-  },
-  {
-    "title": "BSよしもとpresents「吉本新喜劇」",
-    "date": "2026-11-15",
-    "date_text": "2026/11/15(日)",
-    "venue": "YES THEATER（新喜劇セカンドシアター）（大阪府）",
-    "sale_status": "抽選受付終了 FANYコミュ限定先行",
-    "detail_link": "https://ticket.fany.lol/reception/68434/54430",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20261115080309"
-  },
-  {
-    "title": "「金属バットのトークライブ」10",
-    "date": "2026-11-15",
-    "date_text": "2026/11/15(日)",
-    "venue": "YES THEATER（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/71073/55999",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20261115080309"
+    "added_id": "20261116200152"
   },
   {
     "title": "漫才×漫才×コント×コント×たくろう",
@@ -587,21 +503,6 @@
       "指定席／前売：￥2,500"
     ],
     "open_start_time": "開場 15:45 / 開演 16:00",
-    "is_new": false,
-    "added_id": "20260929025200"
-  },
-  {
-    "title": "新ネタライブ!!ハイキック寄席!!",
-    "date": "2026-11-16",
-    "date_text": "2026/11/16(月)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/69448/54475",
-    "prices": [
-      "指定席／前売：￥2,000",
-      "立見（整理番号）／前売：￥2,000"
-    ],
-    "open_start_time": "開場 18:45 / 開演 19:00",
     "is_new": false,
     "added_id": "20260929025200"
   },
