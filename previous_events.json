@@ -1,17 +1,31 @@
 [
   {
-    "title": "新ネタライブ!!ハイキック寄席!!",
-    "date": "2026-11-16",
-    "date_text": "2026/11/16(月)",
-    "venue": "よしもと漫才劇場（大阪府）",
+    "title": "金属・黒帯のダルガラミ",
+    "date": "2026-11-17",
+    "date_text": "2026/11/17(火)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
     "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/69338/54475",
+    "detail_link": "https://ticket.fany.lol/reception/69873/55008",
     "prices": [
       "価格取得エラー: Message: \n"
     ],
     "open_start_time": "",
     "is_new": true,
-    "added_id": "20261116200152"
+    "added_id": "20261117200200"
+  },
+  {
+    "title": "漫才×漫才×コント×コント×ロングコートダディ",
+    "date": "2026-11-17",
+    "date_text": "2026/11/17(火)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/69901/55010",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20261117200200"
   },
   {
     "title": "漫才×漫才×コント×コント×たくろう",
@@ -418,34 +432,6 @@
       "整理番号付自由席／前売：￥3,500"
     ],
     "open_start_time": "開場 11:30 / 開演 12:00",
-    "is_new": false,
-    "added_id": "20261003010112"
-  },
-  {
-    "title": "金属・黒帯のダルガラミ",
-    "date": "2026-11-17",
-    "date_text": "2026/11/17(火)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/69879/55008",
-    "prices": [
-      "指定席／前売：￥2,200"
-    ],
-    "open_start_time": "開場 17:15 / 開演 17:30",
-    "is_new": false,
-    "added_id": "20261003010112"
-  },
-  {
-    "title": "漫才×漫才×コント×コント×ロングコートダディ",
-    "date": "2026-11-17",
-    "date_text": "2026/11/17(火)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/69905/55010",
-    "prices": [
-      "指定席／前売：￥1,800"
-    ],
-    "open_start_time": "開場 18:45 / 開演 19:00",
     "is_new": false,
     "added_id": "20261003010112"
   },
