@@ -4,14 +4,28 @@
     "date": "2026-12-13",
     "date_text": "2026/12/13(日)",
     "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "抽選受付中",
-    "detail_link": "https://ticket.fany.lol/reception/74872/59462",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/74874/59462",
     "prices": [
       "整理番号付自由席／前売：￥2,000"
     ],
     "open_start_time": "開場 20:45 / 開演 21:00",
     "is_new": true,
-    "added_id": "20261118080156"
+    "added_id": "20261120200143"
+  },
+  {
+    "title": "お笑いブーム",
+    "date": "2026-11-20",
+    "date_text": "2026/11/20(金)",
+    "venue": "なんばグランド花月（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/66965/53005",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20261120200143"
   },
   {
     "title": "漫才×漫才×コント×コント×たくろう",
@@ -477,21 +491,6 @@
     "open_start_time": "開場 15:45 / 開演 16:00",
     "is_new": false,
     "added_id": "20260929025200"
-  },
-  {
-    "title": "お笑いブーム",
-    "date": "2026-11-20",
-    "date_text": "2026/11/20(金)",
-    "venue": "なんばグランド花月（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/66967/53005",
-    "prices": [
-      "指定席／当日：￥5,000",
-      "注釈付指定席／当日：￥5,000"
-    ],
-    "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": false,
-    "added_id": "20260916232553"
   },
   {
     "title": "アブナイ ヨセ全国ツアー2026「アブナイ ヨセin大阪」",
