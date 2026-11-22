@@ -1,5 +1,76 @@
 [
   {
+    "title": "19時ライブ～ネタ＆吉本新喜劇～",
+    "date": "2026-11-25",
+    "date_text": "2026/11/25(水)",
+    "venue": "なんばグランド花月（大阪府）",
+    "sale_status": "先着発売中",
+    "detail_link": "https://ticket.fany.lol/reception/66373/52828",
+    "prices": [
+      "全席指定／前売大人：￥3,500",
+      "全席指定／前売小学生以下：￥1,000"
+    ],
+    "open_start_time": "開場 18:30 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20261122200211"
+  },
+  {
+    "title": "森ノ宮マンゲキお笑いライブSP",
+    "date": "2026-11-22",
+    "date_text": "2026/11/22(日)",
+    "venue": "森ノ宮よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/68683/54600",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20261122200211"
+  },
+  {
+    "title": "よしもとお笑いレストラン",
+    "date": "2026-11-22",
+    "date_text": "2026/11/22(日)",
+    "venue": "よしもと道頓堀シアター（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/69307/54807",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20261122200211"
+  },
+  {
+    "title": "森ノ宮マンゲキお笑いライブSP",
+    "date": "2026-11-22",
+    "date_text": "2026/11/22(日)",
+    "venue": "森ノ宮よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/68683/54601",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20261122200211"
+  },
+  {
+    "title": "森ノ宮マンゲキお笑いライブSP",
+    "date": "2026-11-22",
+    "date_text": "2026/11/22(日)",
+    "venue": "森ノ宮よしもと漫才劇場（大阪府）",
+    "sale_status": "抽選受付終了",
+    "detail_link": "https://ticket.fany.lol/reception/68683/54602",
+    "prices": [
+      "価格取得エラー: Message: \n"
+    ],
+    "open_start_time": "",
+    "is_new": true,
+    "added_id": "20261122200211"
+  },
+  {
     "title": "「金属バットのトークライブ」11",
     "date": "2026-12-28",
     "date_text": "2026/12/28(月)",
@@ -429,27 +500,6 @@
     "added_id": "20261003010112"
   },
   {
-    "title": "よしもとお笑いレストラン",
-    "date": "2026-11-22",
-    "date_text": "2026/11/22(日)",
-    "venue": "よしもと道頓堀シアター（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/69309/54807",
-    "prices": [
-      "整理番号付自由席／当日　バーガー付：￥4,600",
-      "整理番号付自由席／当日　ロコモコ付：￥4,400",
-      "整理番号付自由席／当日　唐揚げBOWL付：￥4,400",
-      "整理番号付自由席／当日　唐揚げ串付：￥3,900",
-      "整理番号付自由席／当日　ポテト(L)付：￥3,900",
-      "整理番号付自由席／当日　ワンドリンク付：￥3,800",
-      "整理番号付自由席／当日　チュロス付：￥3,700",
-      "整理番号付自由席／当日：￥3,500"
-    ],
-    "open_start_time": "開場 11:30 / 開演 12:00",
-    "is_new": false,
-    "added_id": "20261003010112"
-  },
-  {
     "title": "大阪アングラ計画",
     "date": "2026-11-25",
     "date_text": "2026/11/25(水)",
@@ -461,48 +511,6 @@
       "立見（整理番号）／前売：￥2,000"
     ],
     "open_start_time": "開場 20:45 / 開演 21:00",
-    "is_new": false,
-    "added_id": "20260929025200"
-  },
-  {
-    "title": "森ノ宮マンゲキお笑いライブSP",
-    "date": "2026-11-22",
-    "date_text": "2026/11/22(日)",
-    "venue": "森ノ宮よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/68685/54600",
-    "prices": [
-      "指定席／当日：￥2,800"
-    ],
-    "open_start_time": "開場 10:45 / 開演 11:00",
-    "is_new": false,
-    "added_id": "20260929025200"
-  },
-  {
-    "title": "森ノ宮マンゲキお笑いライブSP",
-    "date": "2026-11-22",
-    "date_text": "2026/11/22(日)",
-    "venue": "森ノ宮よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/68685/54601",
-    "prices": [
-      "指定席／当日：￥2,800"
-    ],
-    "open_start_time": "開場 13:15 / 開演 13:30",
-    "is_new": false,
-    "added_id": "20260929025200"
-  },
-  {
-    "title": "森ノ宮マンゲキお笑いライブSP",
-    "date": "2026-11-22",
-    "date_text": "2026/11/22(日)",
-    "venue": "森ノ宮よしもと漫才劇場（大阪府）",
-    "sale_status": "先着発売中",
-    "detail_link": "https://ticket.fany.lol/reception/68685/54602",
-    "prices": [
-      "指定席／当日：￥2,800"
-    ],
-    "open_start_time": "開場 15:45 / 開演 16:00",
     "is_new": false,
     "added_id": "20260929025200"
   }
