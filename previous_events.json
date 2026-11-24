@@ -1,5 +1,229 @@
 [
   {
+    "title": "大阪アングラ計画",
+    "date": "2027-01-25",
+    "date_text": "2027/01/25(月)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/76548/60121",
+    "prices": [
+      "指定席／前売：￥1,800"
+    ],
+    "open_start_time": "開場 20:30 / 開演 20:45",
+    "is_new": true,
+    "added_id": "20261125080219"
+  },
+  {
+    "title": "スタイル",
+    "date": "2027-01-24",
+    "date_text": "2027/01/24(日)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/76546/60087",
+    "prices": [
+      "指定席／前売：￥1,800"
+    ],
+    "open_start_time": "開場 20:45 / 開演 21:00",
+    "is_new": true,
+    "added_id": "20261125080219"
+  },
+  {
+    "title": "マンゲキお笑いライブSP",
+    "date": "2027-01-17",
+    "date_text": "2027/01/17(日)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/76265/60064",
+    "prices": [
+      "指定席／前売：￥3,200"
+    ],
+    "open_start_time": "開場 09:40 / 開演 10:00",
+    "is_new": true,
+    "added_id": "20261125080219"
+  },
+  {
+    "title": "森ノ宮マンゲキお笑いライブSP",
+    "date": "2027-01-17",
+    "date_text": "2027/01/17(日)",
+    "venue": "森ノ宮よしもと漫才劇場（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/75931/60199",
+    "prices": [
+      "指定席／前売：￥2,500"
+    ],
+    "open_start_time": "開場 10:45 / 開演 11:00",
+    "is_new": true,
+    "added_id": "20261125080219"
+  },
+  {
+    "title": "マンゲキお笑いライブSP",
+    "date": "2027-01-17",
+    "date_text": "2027/01/17(日)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/76265/60065",
+    "prices": [
+      "指定席／前売：￥3,200"
+    ],
+    "open_start_time": "開場 12:20 / 開演 12:40",
+    "is_new": true,
+    "added_id": "20261125080219"
+  },
+  {
+    "title": "森ノ宮マンゲキお笑いライブSP",
+    "date": "2027-01-17",
+    "date_text": "2027/01/17(日)",
+    "venue": "森ノ宮よしもと漫才劇場（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/75931/60200",
+    "prices": [
+      "指定席／前売：￥2,500"
+    ],
+    "open_start_time": "開場 13:15 / 開演 13:30",
+    "is_new": true,
+    "added_id": "20261125080219"
+  },
+  {
+    "title": "マンゲキお笑いライブSP",
+    "date": "2027-01-17",
+    "date_text": "2027/01/17(日)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/76265/60066",
+    "prices": [
+      "指定席／前売：￥3,200"
+    ],
+    "open_start_time": "開場 15:00 / 開演 15:20",
+    "is_new": true,
+    "added_id": "20261125080219"
+  },
+  {
+    "title": "森ノ宮マンゲキお笑いライブSP",
+    "date": "2027-01-17",
+    "date_text": "2027/01/17(日)",
+    "venue": "森ノ宮よしもと漫才劇場（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/75931/60201",
+    "prices": [
+      "指定席／前売：￥2,500"
+    ],
+    "open_start_time": "開場 15:45 / 開演 16:00",
+    "is_new": true,
+    "added_id": "20261125080219"
+  },
+  {
+    "title": "森ノ宮マンゲキお笑いライブSP",
+    "date": "2027-01-09",
+    "date_text": "2027/01/09(土)",
+    "venue": "森ノ宮よしもと漫才劇場（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/75931/60187",
+    "prices": [
+      "指定席／前売：￥2,500"
+    ],
+    "open_start_time": "開場 10:45 / 開演 11:00",
+    "is_new": true,
+    "added_id": "20261125080219"
+  },
+  {
+    "title": "マンゲキお笑いライブSP",
+    "date": "2027-01-09",
+    "date_text": "2027/01/09(土)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/76265/60745",
+    "prices": [
+      "指定席／前売：￥3,200"
+    ],
+    "open_start_time": "開場 12:20 / 開演 12:40",
+    "is_new": true,
+    "added_id": "20261125080219"
+  },
+  {
+    "title": "森ノ宮マンゲキお笑いライブSP",
+    "date": "2027-01-09",
+    "date_text": "2027/01/09(土)",
+    "venue": "森ノ宮よしもと漫才劇場（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/75931/60188",
+    "prices": [
+      "指定席／前売：￥2,500"
+    ],
+    "open_start_time": "開場 13:15 / 開演 13:30",
+    "is_new": true,
+    "added_id": "20261125080219"
+  },
+  {
+    "title": "マンゲキお笑いライブSP",
+    "date": "2027-01-09",
+    "date_text": "2027/01/09(土)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/76265/60746",
+    "prices": [
+      "指定席／前売：￥3,200"
+    ],
+    "open_start_time": "開場 15:00 / 開演 15:20",
+    "is_new": true,
+    "added_id": "20261125080219"
+  },
+  {
+    "title": "森ノ宮マンゲキお笑いライブSP",
+    "date": "2027-01-09",
+    "date_text": "2027/01/09(土)",
+    "venue": "森ノ宮よしもと漫才劇場（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/75931/60189",
+    "prices": [
+      "指定席／前売：￥2,500"
+    ],
+    "open_start_time": "開場 15:45 / 開演 16:00",
+    "is_new": true,
+    "added_id": "20261125080219"
+  },
+  {
+    "title": "漫才",
+    "date": "2027-01-08",
+    "date_text": "2027/01/08(金)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/76517/60081",
+    "prices": [
+      "指定席／前売：￥2,000"
+    ],
+    "open_start_time": "開場 19:00 / 開演 19:15",
+    "is_new": true,
+    "added_id": "20261125080219"
+  },
+  {
+    "title": "新ネタライブ!!ハイキック寄席!!",
+    "date": "2027-01-08",
+    "date_text": "2027/01/08(金)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/76518/60083",
+    "prices": [
+      "指定席／前売：￥2,000"
+    ],
+    "open_start_time": "開場 20:30 / 開演 20:45",
+    "is_new": true,
+    "added_id": "20261125080219"
+  },
+  {
+    "title": "よしもとゴリラライブ大阪",
+    "date": "2027-01-07",
+    "date_text": "2027/01/07(木)",
+    "venue": "よしもと漫才劇場（大阪府）",
+    "sale_status": "不明",
+    "detail_link": "https://ticket.fany.lol/reception/76515/60086",
+    "prices": [
+      "指定席／前売：￥1,800"
+    ],
+    "open_start_time": "開場 18:45 / 開演 19:00",
+    "is_new": true,
+    "added_id": "20261125080219"
+  },
+  {
     "title": "金属バット×例えば炎ツーマンライブ「例えバット」３",
     "date": "2027-01-13",
     "date_text": "2027/01/13(水)",
@@ -21,8 +245,8 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/66373/52828",
     "prices": [
-      "全席指定／前売大人：￥3,500",
-      "全席指定／前売小学生以下：￥1,000"
+      "全席指定／当日大人：￥3,500",
+      "全席指定／当日小学生以下：￥1,000"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
     "is_new": true,
@@ -39,7 +263,7 @@
       "全席指定／前売：￥2,500"
     ],
     "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": true,
+    "is_new": false,
     "added_id": "20261122080154"
   },
   {
@@ -451,8 +675,8 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/69464/54496",
     "prices": [
-      "指定席／前売：￥2,000",
-      "立見（整理番号）／前売：￥2,000"
+      "指定席／当日：￥2,300",
+      "立見（整理番号）／当日：￥2,300"
     ],
     "open_start_time": "開場 20:45 / 開演 21:00",
     "is_new": false,
