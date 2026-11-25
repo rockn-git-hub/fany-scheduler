@@ -15,20 +15,6 @@
   },
   {
     "title": "大阪アングラ計画",
-    "date": "2026-11-25",
-    "date_text": "2026/11/25(水)",
-    "venue": "よしもと漫才劇場（大阪府）",
-    "sale_status": "抽選受付終了",
-    "detail_link": "https://ticket.fany.lol/reception/69354/54496",
-    "prices": [
-      "価格取得エラー: Message: \n"
-    ],
-    "open_start_time": "",
-    "is_new": true,
-    "added_id": "20261125200238"
-  },
-  {
-    "title": "大阪アングラ計画",
     "date": "2027-01-25",
     "date_text": "2027/01/25(月)",
     "venue": "よしもと漫才劇場（大阪府）",
@@ -264,21 +250,6 @@
     "open_start_time": "開場 19:00 / 開演 19:30",
     "is_new": true,
     "added_id": "20261124200147"
-  },
-  {
-    "title": "19時ライブ～ネタ＆吉本新喜劇～",
-    "date": "2026-11-25",
-    "date_text": "2026/11/25(水)",
-    "venue": "なんばグランド花月（大阪府）",
-    "sale_status": "先着発売終了",
-    "detail_link": "https://ticket.fany.lol/reception/66373/52828",
-    "prices": [
-      "全席指定／当日大人：￥3,500",
-      "全席指定／当日小学生以下：￥1,000"
-    ],
-    "open_start_time": "開場 18:30 / 開演 19:00",
-    "is_new": false,
-    "added_id": "20261122200211"
   },
   {
     "title": "大喜利大集合 ～ハゲ・ヒゲ・ロン毛大集合～",
@@ -617,7 +588,7 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/70609/55483",
     "prices": [
-      "指定席／前売：￥2,500"
+      "指定席／当日：￥3,000"
     ],
     "open_start_time": "開場 17:10 / 開演 17:30",
     "is_new": false,
@@ -631,7 +602,7 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/70609/55484",
     "prices": [
-      "指定席／前売：￥2,500"
+      "指定席／当日：￥3,000"
     ],
     "open_start_time": "開場 19:15 / 開演 19:30",
     "is_new": false,
@@ -675,7 +646,7 @@
     "sale_status": "先着発売中",
     "detail_link": "https://ticket.fany.lol/reception/69821/54967",
     "prices": [
-      "整理番号付自由席／前売：￥2,000"
+      "整理番号付自由席／当日：￥2,500"
     ],
     "open_start_time": "開場 20:45 / 開演 21:00",
     "is_new": false,
